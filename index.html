@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>INFO 230: Mini-Project 2</title>
+    <style>
+        body {font-family: Arial, sans-serif; max-width: 800px; margin: 50px auto; padding: 0 20px; }
+    </style>
+</head>
+<body>
+    <h1>INFO 230: Mini-Project 2</h1>
+    <p>Can the structure of a comic book universe reveal sixty years of editorial decisions? This project applies a full network analysis pipeline to the Marvel Universe Social Network (a dataset of 6,439 heroes and 96,104 co-appearances across 12,651 comic issues) to find out.</p>
+
+    <h2>Links</h2>
+    <p><em>Hi Professor Tim! Similar to project 1, the full analysis, code, and write-up live in the notebook below. The interactive community visualizations are linked separately.</em></p>
+    <ul>
+        <li><a href="code/project-workflow.html">View Notebook</a></li>
+        <li><a href="README.html">View README</a></li>
+    </ul>
+
+    <h2>Interactive Network Visualizations</h2>
+    <ul>
+        <li><a href="figures/interactive_community_1.html">X-Men — Top 40 Heroes</a></li>
+        <li><a href="figures/interactive_community_8.html">Avengers — Top 40 Heroes</a></li>
+        <li><a href="figures/interactive_community_13.html">Spider-Man's World — Top 40 Heroes</a></li>
+        <li><a href="figures/interactive_community_0.html">Defenders and Mystic Heroes — Top 40 Heroes</a></li>
+    </ul>
+
+    <h2>Summary</h2>
+    <p> The short answer is yes, and the results are surprisingly clean. Looking at who co-appears with whom across 60 years of comics, Captain America and Spider-Man came out on top as the most connected heroes, which is exactly what you'd expect. The more interesting finding came from community detection. We see here that an algorithm with zero prior Marvel knowledge sorted the heroes into groups that almost perfectly match the actual teams: X-Men together, Avengers together, Fantastic Four together, Defenders together. The one surprise was a different metric called eigenvector centrality, which ended up being dominated by obscure 1940s heroes rather than modern icons, so it turns out that being densely connected in the early days of Marvel can inflate your "prestige score" in ways that don't reflect cultural prominence at all.</p>
+    <footer>
+        <p>By Maddie MacDonald | UC Berkeley Statistics, MA</p>
+    </footer>
+</body>
+</html>
