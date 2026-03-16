@@ -5,155 +5,145 @@
   <key id="d1" for="node" attr.name="degree" attr.type="long" />
   <key id="d0" for="node" attr.name="community" attr.type="long" />
   <graph edgedefault="undirected">
-    <node id="MAKKARI/MIKE KHARY/I">
-      <data key="d0">7</data>
-      <data key="d1">141</data>
-      <data key="d2">0.00565480222181598</data>
-    </node>
-    <node id="HEIMDALL [ASGARDIAN]">
-      <data key="d0">7</data>
-      <data key="d1">116</data>
-      <data key="d2">0.002472167007849775</data>
-    </node>
     <node id="ARES [GREEK GOD]">
       <data key="d0">7</data>
       <data key="d1">55</data>
       <data key="d2">0.0005476585926465274</data>
     </node>
-    <node id="EXECUTIONER II/SKURG">
+    <node id="THENA">
       <data key="d0">7</data>
-      <data key="d1">77</data>
-      <data key="d2">0.00047878701919886434</data>
-    </node>
-    <node id="THUNDERSTRIKE/ERIC K">
-      <data key="d0">7</data>
-      <data key="d1">264</data>
-      <data key="d2">0.0026593370600544435</data>
-    </node>
-    <node id="WRECKER III/DIRK GAR">
-      <data key="d0">7</data>
-      <data key="d1">100</data>
-      <data key="d2">0.0002868661076703629</data>
-    </node>
-    <node id="BETA RAY BILL">
-      <data key="d0">7</data>
-      <data key="d1">87</data>
-      <data key="d2">0.0019045898292852012</data>
-    </node>
-    <node id="FORGOTTEN ONE/GILGAM">
-      <data key="d0">7</data>
-      <data key="d1">74</data>
-      <data key="d2">0.00014772333070690982</data>
-    </node>
-    <node id="ODIN [ASGARDIAN]">
-      <data key="d0">7</data>
-      <data key="d1">214</data>
-      <data key="d2">0.0029503229921403816</data>
-    </node>
-    <node id="LOKI [ASGARDIAN]">
-      <data key="d0">7</data>
-      <data key="d1">202</data>
-      <data key="d2">0.004889045448677859</data>
-    </node>
-    <node id="KRO [DEVIANT]">
-      <data key="d0">7</data>
-      <data key="d1">54</data>
-      <data key="d2">0.0016894328217722525</data>
-    </node>
-    <node id="KARNILLA [ASGARDIAN]">
-      <data key="d0">7</data>
-      <data key="d1">91</data>
-      <data key="d2">0.00036499362315509716</data>
-    </node>
-    <node id="ULIK">
-      <data key="d0">7</data>
-      <data key="d1">67</data>
-      <data key="d2">0.000502559143271442</data>
-    </node>
-    <node id="EGO">
-      <data key="d0">7</data>
-      <data key="d1">64</data>
-      <data key="d2">0.0007021110053749048</data>
-    </node>
-    <node id="BALDER [ASGARDIAN]">
-      <data key="d0">7</data>
-      <data key="d1">196</data>
-      <data key="d2">0.004018767461865181</data>
-    </node>
-    <node id="SIF">
-      <data key="d0">7</data>
-      <data key="d1">187</data>
-      <data key="d2">0.004132349957236808</data>
-    </node>
-    <node id="HIGH EVOLUTIONARY/HE">
-      <data key="d0">7</data>
-      <data key="d1">138</data>
-      <data key="d2">0.002816008768790212</data>
-    </node>
-    <node id="THOR/DR. DONALD BLAK">
-      <data key="d0">7</data>
-      <data key="d1">662</data>
-      <data key="d2">0.023400045748152482</data>
-    </node>
-    <node id="VIZIER">
-      <data key="d0">7</data>
-      <data key="d1">85</data>
-      <data key="d2">0.0007806915078600701</data>
-    </node>
-    <node id="THUNDERBALL/DR. ELIO">
-      <data key="d0">7</data>
-      <data key="d1">107</data>
-      <data key="d2">0.0006587874301273343</data>
-    </node>
-    <node id="FANDRAL [ASGARDIAN]">
-      <data key="d0">7</data>
-      <data key="d1">187</data>
-      <data key="d2">0.0020167645026278646</data>
-    </node>
-    <node id="KINCAID, DR. KEITH">
-      <data key="d0">7</data>
-      <data key="d1">59</data>
-      <data key="d2">0.0004586255827982307</data>
-    </node>
-    <node id="MEPHISTO">
-      <data key="d0">7</data>
-      <data key="d1">173</data>
-      <data key="d2">0.003914275734731241</data>
-    </node>
-    <node id="KINCAID, DR. JANE FO">
-      <data key="d0">7</data>
-      <data key="d1">124</data>
-      <data key="d2">0.002239988808393755</data>
+      <data key="d1">99</data>
+      <data key="d2">0.0007121341218243696</data>
     </node>
     <node id="ABSORBING MAN/CARL C">
       <data key="d0">7</data>
       <data key="d1">100</data>
       <data key="d2">0.001328937527804117</data>
     </node>
-    <node id="AUSTIN, SUSAN">
+    <node id="BALDER [ASGARDIAN]">
       <data key="d0">7</data>
-      <data key="d1">63</data>
-      <data key="d2">0.00031147742000462266</data>
+      <data key="d1">196</data>
+      <data key="d2">0.004018767461865181</data>
     </node>
-    <node id="BULLDOZER/HENRY CAMP">
+    <node id="TITANIA II/MARY SKEE">
       <data key="d0">7</data>
-      <data key="d1">92</data>
-      <data key="d2">0.0002815544108079415</data>
+      <data key="d1">100</data>
+      <data key="d2">0.000904279051931516</data>
+    </node>
+    <node id="PILEDRIVER II/BRIAN ">
+      <data key="d0">7</data>
+      <data key="d1">91</data>
+      <data key="d2">0.0002416460955464411</data>
+    </node>
+    <node id="MAKKARI/MIKE KHARY/I">
+      <data key="d0">7</data>
+      <data key="d1">141</data>
+      <data key="d2">0.00565480222181598</data>
     </node>
     <node id="HOGUN [ASGARDIAN]">
       <data key="d0">7</data>
       <data key="d1">189</data>
       <data key="d2">0.0033554581246520968</data>
     </node>
-    <node id="GHAUR [DEVIANT]">
+    <node id="ENCHANTRESS/AMORA/HE">
       <data key="d0">7</data>
-      <data key="d1">65</data>
-      <data key="d2">0.001922012438376587</data>
+      <data key="d1">157</data>
+      <data key="d2">0.0012207650272495385</data>
+    </node>
+    <node id="BULLDOZER/HENRY CAMP">
+      <data key="d0">7</data>
+      <data key="d1">92</data>
+      <data key="d2">0.0002815544108079415</data>
     </node>
     <node id="IKARIS/IKE HARRIS [E">
       <data key="d0">7</data>
       <data key="d1">87</data>
       <data key="d2">0.0027027068681283067</data>
+    </node>
+    <node id="EXECUTIONER II/SKURG">
+      <data key="d0">7</data>
+      <data key="d1">77</data>
+      <data key="d2">0.00047878701919886434</data>
+    </node>
+    <node id="THOR/DR. DONALD BLAK">
+      <data key="d0">7</data>
+      <data key="d1">662</data>
+      <data key="d2">0.023400045748152482</data>
+    </node>
+    <node id="WRECKER III/DIRK GAR">
+      <data key="d0">7</data>
+      <data key="d1">100</data>
+      <data key="d2">0.0002868661076703629</data>
+    </node>
+    <node id="GHAUR [DEVIANT]">
+      <data key="d0">7</data>
+      <data key="d1">65</data>
+      <data key="d2">0.001922012438376587</data>
+    </node>
+    <node id="ULIK">
+      <data key="d0">7</data>
+      <data key="d1">67</data>
+      <data key="d2">0.000502559143271442</data>
+    </node>
+    <node id="LOKI [ASGARDIAN]">
+      <data key="d0">7</data>
+      <data key="d1">202</data>
+      <data key="d2">0.004889045448677859</data>
+    </node>
+    <node id="ZEUS">
+      <data key="d0">7</data>
+      <data key="d1">71</data>
+      <data key="d2">0.0007697107989839108</data>
+    </node>
+    <node id="STONE, LT. MARCUS">
+      <data key="d0">7</data>
+      <data key="d1">58</data>
+      <data key="d2">0.002410510821919842</data>
+    </node>
+    <node id="KRO [DEVIANT]">
+      <data key="d0">7</data>
+      <data key="d1">54</data>
+      <data key="d2">0.0016894328217722525</data>
+    </node>
+    <node id="HELA [ASGARDIAN]">
+      <data key="d0">7</data>
+      <data key="d1">99</data>
+      <data key="d2">0.001234641905207149</data>
+    </node>
+    <node id="EGO">
+      <data key="d0">7</data>
+      <data key="d1">64</data>
+      <data key="d2">0.0007021110053749048</data>
+    </node>
+    <node id="VIZIER">
+      <data key="d0">7</data>
+      <data key="d1">85</data>
+      <data key="d2">0.0007806915078600701</data>
+    </node>
+    <node id="FORGOTTEN ONE/GILGAM">
+      <data key="d0">7</data>
+      <data key="d1">74</data>
+      <data key="d2">0.00014772333070690982</data>
+    </node>
+    <node id="THUNDERBALL/DR. ELIO">
+      <data key="d0">7</data>
+      <data key="d1">107</data>
+      <data key="d2">0.0006587874301273343</data>
+    </node>
+    <node id="SIF">
+      <data key="d0">7</data>
+      <data key="d1">187</data>
+      <data key="d2">0.004132349957236808</data>
+    </node>
+    <node id="KINCAID, DR. JANE FO">
+      <data key="d0">7</data>
+      <data key="d1">124</data>
+      <data key="d2">0.002239988808393755</data>
+    </node>
+    <node id="AUSTIN, SUSAN">
+      <data key="d0">7</data>
+      <data key="d1">63</data>
+      <data key="d2">0.00031147742000462266</data>
     </node>
     <node id="MASTERSON, KEVIN">
       <data key="d0">7</data>
@@ -165,181 +155,56 @@
       <data key="d1">193</data>
       <data key="d2">0.005149367552945833</data>
     </node>
+    <node id="ODIN [ASGARDIAN]">
+      <data key="d0">7</data>
+      <data key="d1">214</data>
+      <data key="d2">0.0029503229921403816</data>
+    </node>
+    <node id="MEPHISTO">
+      <data key="d0">7</data>
+      <data key="d1">173</data>
+      <data key="d2">0.003914275734731241</data>
+    </node>
+    <node id="FANDRAL [ASGARDIAN]">
+      <data key="d0">7</data>
+      <data key="d1">187</data>
+      <data key="d2">0.0020167645026278646</data>
+    </node>
+    <node id="BETA RAY BILL">
+      <data key="d0">7</data>
+      <data key="d1">87</data>
+      <data key="d2">0.0019045898292852012</data>
+    </node>
+    <node id="HEIMDALL [ASGARDIAN]">
+      <data key="d0">7</data>
+      <data key="d1">116</data>
+      <data key="d2">0.002472167007849775</data>
+    </node>
+    <node id="THUNDERSTRIKE/ERIC K">
+      <data key="d0">7</data>
+      <data key="d1">264</data>
+      <data key="d2">0.0026593370600544435</data>
+    </node>
     <node id="LORELEI II/MELODI [A">
       <data key="d0">7</data>
       <data key="d1">56</data>
       <data key="d2">0.0006258330580547679</data>
     </node>
-    <node id="THENA">
+    <node id="HIGH EVOLUTIONARY/HE">
       <data key="d0">7</data>
-      <data key="d1">99</data>
-      <data key="d2">0.0007121341218243696</data>
+      <data key="d1">138</data>
+      <data key="d2">0.002816008768790212</data>
     </node>
-    <node id="TITANIA II/MARY SKEE">
-      <data key="d0">7</data>
-      <data key="d1">100</data>
-      <data key="d2">0.000904279051931516</data>
-    </node>
-    <node id="ZEUS">
-      <data key="d0">7</data>
-      <data key="d1">71</data>
-      <data key="d2">0.0007697107989839108</data>
-    </node>
-    <node id="ENCHANTRESS/AMORA/HE">
-      <data key="d0">7</data>
-      <data key="d1">157</data>
-      <data key="d2">0.0012207650272495385</data>
-    </node>
-    <node id="HELA [ASGARDIAN]">
-      <data key="d0">7</data>
-      <data key="d1">99</data>
-      <data key="d2">0.001234641905207149</data>
-    </node>
-    <node id="PILEDRIVER II/BRIAN ">
+    <node id="KARNILLA [ASGARDIAN]">
       <data key="d0">7</data>
       <data key="d1">91</data>
-      <data key="d2">0.0002416460955464411</data>
+      <data key="d2">0.00036499362315509716</data>
     </node>
-    <node id="STONE, LT. MARCUS">
+    <node id="KINCAID, DR. KEITH">
       <data key="d0">7</data>
-      <data key="d1">58</data>
-      <data key="d2">0.002410510821919842</data>
+      <data key="d1">59</data>
+      <data key="d2">0.0004586255827982307</data>
     </node>
-    <edge source="MAKKARI/MIKE KHARY/I" target="FANDRAL [ASGARDIAN]">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MAKKARI/MIKE KHARY/I" target="FORGOTTEN ONE/GILGAM">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="MAKKARI/MIKE KHARY/I" target="GHAUR [DEVIANT]">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="MAKKARI/MIKE KHARY/I" target="HEIMDALL [ASGARDIAN]">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MAKKARI/MIKE KHARY/I" target="HOGUN [ASGARDIAN]">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="MAKKARI/MIKE KHARY/I" target="IKARIS/IKE HARRIS [E">
-      <data key="d3">24</data>
-    </edge>
-    <edge source="MAKKARI/MIKE KHARY/I" target="KARNILLA [ASGARDIAN]">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="MAKKARI/MIKE KHARY/I" target="KRO [DEVIANT]">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="MAKKARI/MIKE KHARY/I" target="ARES [GREEK GOD]">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="MAKKARI/MIKE KHARY/I" target="BALDER [ASGARDIAN]">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MAKKARI/MIKE KHARY/I" target="ODIN [ASGARDIAN]">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="MAKKARI/MIKE KHARY/I" target="SIF">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MAKKARI/MIKE KHARY/I" target="THENA">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="MAKKARI/MIKE KHARY/I" target="THOR/DR. DONALD BLAK">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="MAKKARI/MIKE KHARY/I" target="THUNDERSTRIKE/ERIC K">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MAKKARI/MIKE KHARY/I" target="VOLSTAGG">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="MAKKARI/MIKE KHARY/I" target="ZEUS">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="HEIMDALL [ASGARDIAN]" target="ABSORBING MAN/CARL C">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="HEIMDALL [ASGARDIAN]" target="AUSTIN, SUSAN">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="HEIMDALL [ASGARDIAN]" target="BALDER [ASGARDIAN]">
-      <data key="d3">40</data>
-    </edge>
-    <edge source="HEIMDALL [ASGARDIAN]" target="BETA RAY BILL">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="HEIMDALL [ASGARDIAN]" target="EGO">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="HEIMDALL [ASGARDIAN]" target="ENCHANTRESS/AMORA/HE">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="HEIMDALL [ASGARDIAN]" target="EXECUTIONER II/SKURG">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="HEIMDALL [ASGARDIAN]" target="FANDRAL [ASGARDIAN]">
-      <data key="d3">46</data>
-    </edge>
-    <edge source="HEIMDALL [ASGARDIAN]" target="HELA [ASGARDIAN]">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="HEIMDALL [ASGARDIAN]" target="HIGH EVOLUTIONARY/HE">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="HEIMDALL [ASGARDIAN]" target="HOGUN [ASGARDIAN]">
-      <data key="d3">47</data>
-    </edge>
-    <edge source="HEIMDALL [ASGARDIAN]" target="KARNILLA [ASGARDIAN]">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="HEIMDALL [ASGARDIAN]" target="KINCAID, DR. JANE FO">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="HEIMDALL [ASGARDIAN]" target="LOKI [ASGARDIAN]">
-      <data key="d3">39</data>
-    </edge>
-    <edge source="HEIMDALL [ASGARDIAN]" target="LORELEI II/MELODI [A">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="HEIMDALL [ASGARDIAN]" target="MASTERSON, KEVIN">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="HEIMDALL [ASGARDIAN]" target="MEPHISTO">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="HEIMDALL [ASGARDIAN]" target="ODIN [ASGARDIAN]">
-      <data key="d3">58</data>
-    </edge>
-    <edge source="HEIMDALL [ASGARDIAN]" target="SIF">
-      <data key="d3">48</data>
-    </edge>
-    <edge source="HEIMDALL [ASGARDIAN]" target="STONE, LT. MARCUS">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="HEIMDALL [ASGARDIAN]" target="THOR/DR. DONALD BLAK">
-      <data key="d3">61</data>
-    </edge>
-    <edge source="HEIMDALL [ASGARDIAN]" target="THUNDERSTRIKE/ERIC K">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="HEIMDALL [ASGARDIAN]" target="ULIK">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="HEIMDALL [ASGARDIAN]" target="VIZIER">
-      <data key="d3">26</data>
-    </edge>
-    <edge source="HEIMDALL [ASGARDIAN]" target="VOLSTAGG">
-      <data key="d3">50</data>
-    </edge>
-    <edge source="HEIMDALL [ASGARDIAN]" target="ZEUS">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="HEIMDALL [ASGARDIAN]" target="KINCAID, DR. KEITH">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="HEIMDALL [ASGARDIAN]" target="TITANIA II/MARY SKEE">
-      <data key="d3">2</data>
-    </edge>
     <edge source="ARES [GREEK GOD]" target="ENCHANTRESS/AMORA/HE">
       <data key="d3">2</data>
     </edge>
@@ -367,26 +232,608 @@
     <edge source="ARES [GREEK GOD]" target="HIGH EVOLUTIONARY/HE">
       <data key="d3">2</data>
     </edge>
+    <edge source="ARES [GREEK GOD]" target="MAKKARI/MIKE KHARY/I">
+      <data key="d3">3</data>
+    </edge>
     <edge source="ARES [GREEK GOD]" target="ODIN [ASGARDIAN]">
       <data key="d3">6</data>
     </edge>
-    <edge source="EXECUTIONER II/SKURG" target="BALDER [ASGARDIAN]">
+    <edge source="THENA" target="FANDRAL [ASGARDIAN]">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="THENA" target="FORGOTTEN ONE/GILGAM">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="THENA" target="GHAUR [DEVIANT]">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="THENA" target="HIGH EVOLUTIONARY/HE">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="THENA" target="HOGUN [ASGARDIAN]">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="THENA" target="IKARIS/IKE HARRIS [E">
+      <data key="d3">20</data>
+    </edge>
+    <edge source="THENA" target="KINCAID, DR. JANE FO">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="THENA" target="KRO [DEVIANT]">
+      <data key="d3">9</data>
+    </edge>
+    <edge source="THENA" target="MAKKARI/MIKE KHARY/I">
+      <data key="d3">15</data>
+    </edge>
+    <edge source="THENA" target="ODIN [ASGARDIAN]">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="THENA" target="SIF">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="THENA" target="BALDER [ASGARDIAN]">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="THENA" target="KARNILLA [ASGARDIAN]">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="THENA" target="LOKI [ASGARDIAN]">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="THENA" target="THOR/DR. DONALD BLAK">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="THENA" target="VOLSTAGG">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="THENA" target="ZEUS">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="ABSORBING MAN/CARL C" target="BALDER [ASGARDIAN]">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="ABSORBING MAN/CARL C" target="BULLDOZER/HENRY CAMP">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="ABSORBING MAN/CARL C" target="ENCHANTRESS/AMORA/HE">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="ABSORBING MAN/CARL C" target="FANDRAL [ASGARDIAN]">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="ABSORBING MAN/CARL C" target="HEIMDALL [ASGARDIAN]">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="ABSORBING MAN/CARL C" target="HOGUN [ASGARDIAN]">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="ABSORBING MAN/CARL C" target="KINCAID, DR. JANE FO">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="ABSORBING MAN/CARL C" target="LOKI [ASGARDIAN]">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="ABSORBING MAN/CARL C" target="ODIN [ASGARDIAN]">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="ABSORBING MAN/CARL C" target="PILEDRIVER II/BRIAN ">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="ABSORBING MAN/CARL C" target="SIF">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="ABSORBING MAN/CARL C" target="THOR/DR. DONALD BLAK">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="ABSORBING MAN/CARL C" target="THUNDERBALL/DR. ELIO">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="ABSORBING MAN/CARL C" target="THUNDERSTRIKE/ERIC K">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="ABSORBING MAN/CARL C" target="TITANIA II/MARY SKEE">
+      <data key="d3">13</data>
+    </edge>
+    <edge source="ABSORBING MAN/CARL C" target="VOLSTAGG">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="ABSORBING MAN/CARL C" target="WRECKER III/DIRK GAR">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="ABSORBING MAN/CARL C" target="KARNILLA [ASGARDIAN]">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="ABSORBING MAN/CARL C" target="STONE, LT. MARCUS">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="ABSORBING MAN/CARL C" target="ULIK">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="ABSORBING MAN/CARL C" target="VIZIER">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="BALDER [ASGARDIAN]" target="AUSTIN, SUSAN">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="BALDER [ASGARDIAN]" target="BETA RAY BILL">
+      <data key="d3">13</data>
+    </edge>
+    <edge source="BALDER [ASGARDIAN]" target="BULLDOZER/HENRY CAMP">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="BALDER [ASGARDIAN]" target="EGO">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="BALDER [ASGARDIAN]" target="ENCHANTRESS/AMORA/HE">
+      <data key="d3">24</data>
+    </edge>
+    <edge source="BALDER [ASGARDIAN]" target="EXECUTIONER II/SKURG">
       <data key="d3">12</data>
+    </edge>
+    <edge source="BALDER [ASGARDIAN]" target="FANDRAL [ASGARDIAN]">
+      <data key="d3">75</data>
+    </edge>
+    <edge source="BALDER [ASGARDIAN]" target="FORGOTTEN ONE/GILGAM">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="BALDER [ASGARDIAN]" target="HEIMDALL [ASGARDIAN]">
+      <data key="d3">40</data>
+    </edge>
+    <edge source="BALDER [ASGARDIAN]" target="HELA [ASGARDIAN]">
+      <data key="d3">19</data>
+    </edge>
+    <edge source="BALDER [ASGARDIAN]" target="HIGH EVOLUTIONARY/HE">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="BALDER [ASGARDIAN]" target="HOGUN [ASGARDIAN]">
+      <data key="d3">86</data>
+    </edge>
+    <edge source="BALDER [ASGARDIAN]" target="KARNILLA [ASGARDIAN]">
+      <data key="d3">38</data>
+    </edge>
+    <edge source="BALDER [ASGARDIAN]" target="KINCAID, DR. JANE FO">
+      <data key="d3">28</data>
+    </edge>
+    <edge source="BALDER [ASGARDIAN]" target="KINCAID, DR. KEITH">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="BALDER [ASGARDIAN]" target="LOKI [ASGARDIAN]">
+      <data key="d3">54</data>
+    </edge>
+    <edge source="BALDER [ASGARDIAN]" target="LORELEI II/MELODI [A">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="BALDER [ASGARDIAN]" target="MASTERSON, KEVIN">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="BALDER [ASGARDIAN]" target="MEPHISTO">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="BALDER [ASGARDIAN]" target="ODIN [ASGARDIAN]">
+      <data key="d3">74</data>
+    </edge>
+    <edge source="BALDER [ASGARDIAN]" target="PILEDRIVER II/BRIAN ">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="BALDER [ASGARDIAN]" target="SIF">
+      <data key="d3">77</data>
+    </edge>
+    <edge source="BALDER [ASGARDIAN]" target="STONE, LT. MARCUS">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="BALDER [ASGARDIAN]" target="THOR/DR. DONALD BLAK">
+      <data key="d3">106</data>
+    </edge>
+    <edge source="BALDER [ASGARDIAN]" target="THUNDERSTRIKE/ERIC K">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="BALDER [ASGARDIAN]" target="ULIK">
+      <data key="d3">9</data>
+    </edge>
+    <edge source="BALDER [ASGARDIAN]" target="VIZIER">
+      <data key="d3">26</data>
+    </edge>
+    <edge source="BALDER [ASGARDIAN]" target="VOLSTAGG">
+      <data key="d3">74</data>
+    </edge>
+    <edge source="BALDER [ASGARDIAN]" target="WRECKER III/DIRK GAR">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="BALDER [ASGARDIAN]" target="ZEUS">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="BALDER [ASGARDIAN]" target="IKARIS/IKE HARRIS [E">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="BALDER [ASGARDIAN]" target="MAKKARI/MIKE KHARY/I">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="BALDER [ASGARDIAN]" target="THUNDERBALL/DR. ELIO">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="BALDER [ASGARDIAN]" target="TITANIA II/MARY SKEE">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="TITANIA II/MARY SKEE" target="BULLDOZER/HENRY CAMP">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="TITANIA II/MARY SKEE" target="ENCHANTRESS/AMORA/HE">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="TITANIA II/MARY SKEE" target="LOKI [ASGARDIAN]">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="TITANIA II/MARY SKEE" target="PILEDRIVER II/BRIAN ">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="TITANIA II/MARY SKEE" target="STONE, LT. MARCUS">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="TITANIA II/MARY SKEE" target="THOR/DR. DONALD BLAK">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="TITANIA II/MARY SKEE" target="THUNDERBALL/DR. ELIO">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="TITANIA II/MARY SKEE" target="THUNDERSTRIKE/ERIC K">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="TITANIA II/MARY SKEE" target="HEIMDALL [ASGARDIAN]">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="TITANIA II/MARY SKEE" target="KINCAID, DR. JANE FO">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="TITANIA II/MARY SKEE" target="ODIN [ASGARDIAN]">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="TITANIA II/MARY SKEE" target="ULIK">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="TITANIA II/MARY SKEE" target="WRECKER III/DIRK GAR">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="PILEDRIVER II/BRIAN " target="AUSTIN, SUSAN">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="PILEDRIVER II/BRIAN " target="BULLDOZER/HENRY CAMP">
+      <data key="d3">17</data>
+    </edge>
+    <edge source="PILEDRIVER II/BRIAN " target="ENCHANTRESS/AMORA/HE">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="PILEDRIVER II/BRIAN " target="FANDRAL [ASGARDIAN]">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="PILEDRIVER II/BRIAN " target="HOGUN [ASGARDIAN]">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="PILEDRIVER II/BRIAN " target="LOKI [ASGARDIAN]">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="PILEDRIVER II/BRIAN " target="MASTERSON, KEVIN">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="PILEDRIVER II/BRIAN " target="MEPHISTO">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="PILEDRIVER II/BRIAN " target="ODIN [ASGARDIAN]">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="PILEDRIVER II/BRIAN " target="SIF">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="PILEDRIVER II/BRIAN " target="STONE, LT. MARCUS">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="PILEDRIVER II/BRIAN " target="THOR/DR. DONALD BLAK">
+      <data key="d3">17</data>
+    </edge>
+    <edge source="PILEDRIVER II/BRIAN " target="THUNDERBALL/DR. ELIO">
+      <data key="d3">19</data>
+    </edge>
+    <edge source="PILEDRIVER II/BRIAN " target="THUNDERSTRIKE/ERIC K">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="PILEDRIVER II/BRIAN " target="ULIK">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="PILEDRIVER II/BRIAN " target="VOLSTAGG">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="PILEDRIVER II/BRIAN " target="WRECKER III/DIRK GAR">
+      <data key="d3">21</data>
+    </edge>
+    <edge source="MAKKARI/MIKE KHARY/I" target="FANDRAL [ASGARDIAN]">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="MAKKARI/MIKE KHARY/I" target="FORGOTTEN ONE/GILGAM">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="MAKKARI/MIKE KHARY/I" target="GHAUR [DEVIANT]">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="MAKKARI/MIKE KHARY/I" target="HEIMDALL [ASGARDIAN]">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="MAKKARI/MIKE KHARY/I" target="HOGUN [ASGARDIAN]">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="MAKKARI/MIKE KHARY/I" target="IKARIS/IKE HARRIS [E">
+      <data key="d3">24</data>
+    </edge>
+    <edge source="MAKKARI/MIKE KHARY/I" target="KARNILLA [ASGARDIAN]">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="MAKKARI/MIKE KHARY/I" target="KRO [DEVIANT]">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="MAKKARI/MIKE KHARY/I" target="ODIN [ASGARDIAN]">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="MAKKARI/MIKE KHARY/I" target="SIF">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="MAKKARI/MIKE KHARY/I" target="THOR/DR. DONALD BLAK">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="MAKKARI/MIKE KHARY/I" target="THUNDERSTRIKE/ERIC K">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="MAKKARI/MIKE KHARY/I" target="VOLSTAGG">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="MAKKARI/MIKE KHARY/I" target="ZEUS">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="HOGUN [ASGARDIAN]" target="BETA RAY BILL">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="HOGUN [ASGARDIAN]" target="ENCHANTRESS/AMORA/HE">
+      <data key="d3">18</data>
+    </edge>
+    <edge source="HOGUN [ASGARDIAN]" target="EXECUTIONER II/SKURG">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="HOGUN [ASGARDIAN]" target="FANDRAL [ASGARDIAN]">
+      <data key="d3">123</data>
+    </edge>
+    <edge source="HOGUN [ASGARDIAN]" target="FORGOTTEN ONE/GILGAM">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="HOGUN [ASGARDIAN]" target="HEIMDALL [ASGARDIAN]">
+      <data key="d3">47</data>
+    </edge>
+    <edge source="HOGUN [ASGARDIAN]" target="HELA [ASGARDIAN]">
+      <data key="d3">22</data>
+    </edge>
+    <edge source="HOGUN [ASGARDIAN]" target="HIGH EVOLUTIONARY/HE">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="HOGUN [ASGARDIAN]" target="AUSTIN, SUSAN">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="HOGUN [ASGARDIAN]" target="BULLDOZER/HENRY CAMP">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="HOGUN [ASGARDIAN]" target="EGO">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="HOGUN [ASGARDIAN]" target="IKARIS/IKE HARRIS [E">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="HOGUN [ASGARDIAN]" target="KARNILLA [ASGARDIAN]">
+      <data key="d3">24</data>
+    </edge>
+    <edge source="HOGUN [ASGARDIAN]" target="KINCAID, DR. JANE FO">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="HOGUN [ASGARDIAN]" target="LOKI [ASGARDIAN]">
+      <data key="d3">45</data>
+    </edge>
+    <edge source="HOGUN [ASGARDIAN]" target="LORELEI II/MELODI [A">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="HOGUN [ASGARDIAN]" target="MASTERSON, KEVIN">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="HOGUN [ASGARDIAN]" target="MEPHISTO">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="HOGUN [ASGARDIAN]" target="ODIN [ASGARDIAN]">
+      <data key="d3">65</data>
+    </edge>
+    <edge source="HOGUN [ASGARDIAN]" target="SIF">
+      <data key="d3">63</data>
+    </edge>
+    <edge source="HOGUN [ASGARDIAN]" target="STONE, LT. MARCUS">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="HOGUN [ASGARDIAN]" target="THOR/DR. DONALD BLAK">
+      <data key="d3">90</data>
+    </edge>
+    <edge source="HOGUN [ASGARDIAN]" target="THUNDERBALL/DR. ELIO">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="HOGUN [ASGARDIAN]" target="THUNDERSTRIKE/ERIC K">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="HOGUN [ASGARDIAN]" target="ULIK">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="HOGUN [ASGARDIAN]" target="VIZIER">
+      <data key="d3">32</data>
+    </edge>
+    <edge source="HOGUN [ASGARDIAN]" target="VOLSTAGG">
+      <data key="d3">102</data>
+    </edge>
+    <edge source="HOGUN [ASGARDIAN]" target="WRECKER III/DIRK GAR">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="HOGUN [ASGARDIAN]" target="ZEUS">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="HOGUN [ASGARDIAN]" target="KINCAID, DR. KEITH">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="ENCHANTRESS/AMORA/HE" target="AUSTIN, SUSAN">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="ENCHANTRESS/AMORA/HE" target="BETA RAY BILL">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="ENCHANTRESS/AMORA/HE" target="BULLDOZER/HENRY CAMP">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="ENCHANTRESS/AMORA/HE" target="EXECUTIONER II/SKURG">
+      <data key="d3">16</data>
+    </edge>
+    <edge source="ENCHANTRESS/AMORA/HE" target="FANDRAL [ASGARDIAN]">
+      <data key="d3">15</data>
+    </edge>
+    <edge source="ENCHANTRESS/AMORA/HE" target="HEIMDALL [ASGARDIAN]">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="ENCHANTRESS/AMORA/HE" target="HELA [ASGARDIAN]">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="ENCHANTRESS/AMORA/HE" target="KARNILLA [ASGARDIAN]">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="ENCHANTRESS/AMORA/HE" target="KINCAID, DR. JANE FO">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="ENCHANTRESS/AMORA/HE" target="KINCAID, DR. KEITH">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="ENCHANTRESS/AMORA/HE" target="LOKI [ASGARDIAN]">
+      <data key="d3">19</data>
+    </edge>
+    <edge source="ENCHANTRESS/AMORA/HE" target="LORELEI II/MELODI [A">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="ENCHANTRESS/AMORA/HE" target="MASTERSON, KEVIN">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="ENCHANTRESS/AMORA/HE" target="MEPHISTO">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="ENCHANTRESS/AMORA/HE" target="ODIN [ASGARDIAN]">
+      <data key="d3">22</data>
+    </edge>
+    <edge source="ENCHANTRESS/AMORA/HE" target="SIF">
+      <data key="d3">16</data>
+    </edge>
+    <edge source="ENCHANTRESS/AMORA/HE" target="STONE, LT. MARCUS">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="ENCHANTRESS/AMORA/HE" target="THOR/DR. DONALD BLAK">
+      <data key="d3">41</data>
+    </edge>
+    <edge source="ENCHANTRESS/AMORA/HE" target="THUNDERBALL/DR. ELIO">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="ENCHANTRESS/AMORA/HE" target="THUNDERSTRIKE/ERIC K">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="ENCHANTRESS/AMORA/HE" target="ULIK">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="ENCHANTRESS/AMORA/HE" target="VIZIER">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="ENCHANTRESS/AMORA/HE" target="VOLSTAGG">
+      <data key="d3">19</data>
+    </edge>
+    <edge source="ENCHANTRESS/AMORA/HE" target="WRECKER III/DIRK GAR">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="ENCHANTRESS/AMORA/HE" target="ZEUS">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="BULLDOZER/HENRY CAMP" target="AUSTIN, SUSAN">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="BULLDOZER/HENRY CAMP" target="FANDRAL [ASGARDIAN]">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="BULLDOZER/HENRY CAMP" target="LOKI [ASGARDIAN]">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="BULLDOZER/HENRY CAMP" target="MASTERSON, KEVIN">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="BULLDOZER/HENRY CAMP" target="SIF">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="BULLDOZER/HENRY CAMP" target="STONE, LT. MARCUS">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="BULLDOZER/HENRY CAMP" target="THOR/DR. DONALD BLAK">
+      <data key="d3">9</data>
+    </edge>
+    <edge source="BULLDOZER/HENRY CAMP" target="THUNDERBALL/DR. ELIO">
+      <data key="d3">15</data>
+    </edge>
+    <edge source="BULLDOZER/HENRY CAMP" target="THUNDERSTRIKE/ERIC K">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="BULLDOZER/HENRY CAMP" target="ULIK">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="BULLDOZER/HENRY CAMP" target="VOLSTAGG">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="BULLDOZER/HENRY CAMP" target="WRECKER III/DIRK GAR">
+      <data key="d3">15</data>
+    </edge>
+    <edge source="BULLDOZER/HENRY CAMP" target="ODIN [ASGARDIAN]">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="IKARIS/IKE HARRIS [E" target="FANDRAL [ASGARDIAN]">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="IKARIS/IKE HARRIS [E" target="FORGOTTEN ONE/GILGAM">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="IKARIS/IKE HARRIS [E" target="GHAUR [DEVIANT]">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="IKARIS/IKE HARRIS [E" target="KRO [DEVIANT]">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="IKARIS/IKE HARRIS [E" target="LOKI [ASGARDIAN]">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="IKARIS/IKE HARRIS [E" target="SIF">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="IKARIS/IKE HARRIS [E" target="THOR/DR. DONALD BLAK">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="IKARIS/IKE HARRIS [E" target="VOLSTAGG">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="IKARIS/IKE HARRIS [E" target="ZEUS">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="IKARIS/IKE HARRIS [E" target="KARNILLA [ASGARDIAN]">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="IKARIS/IKE HARRIS [E" target="ODIN [ASGARDIAN]">
+      <data key="d3">7</data>
     </edge>
     <edge source="EXECUTIONER II/SKURG" target="BETA RAY BILL">
       <data key="d3">5</data>
     </edge>
-    <edge source="EXECUTIONER II/SKURG" target="ENCHANTRESS/AMORA/HE">
-      <data key="d3">16</data>
-    </edge>
     <edge source="EXECUTIONER II/SKURG" target="FANDRAL [ASGARDIAN]">
       <data key="d3">3</data>
     </edge>
+    <edge source="EXECUTIONER II/SKURG" target="HEIMDALL [ASGARDIAN]">
+      <data key="d3">9</data>
+    </edge>
     <edge source="EXECUTIONER II/SKURG" target="HELA [ASGARDIAN]">
       <data key="d3">2</data>
-    </edge>
-    <edge source="EXECUTIONER II/SKURG" target="HOGUN [ASGARDIAN]">
-      <data key="d3">5</data>
     </edge>
     <edge source="EXECUTIONER II/SKURG" target="KARNILLA [ASGARDIAN]">
       <data key="d3">4</data>
@@ -421,103 +868,91 @@
     <edge source="EXECUTIONER II/SKURG" target="THUNDERSTRIKE/ERIC K">
       <data key="d3">3</data>
     </edge>
-    <edge source="THUNDERSTRIKE/ERIC K" target="ABSORBING MAN/CARL C">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="THUNDERSTRIKE/ERIC K" target="AUSTIN, SUSAN">
-      <data key="d3">20</data>
-    </edge>
-    <edge source="THUNDERSTRIKE/ERIC K" target="BALDER [ASGARDIAN]">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="THUNDERSTRIKE/ERIC K" target="BULLDOZER/HENRY CAMP">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="THUNDERSTRIKE/ERIC K" target="ENCHANTRESS/AMORA/HE">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="THUNDERSTRIKE/ERIC K" target="FANDRAL [ASGARDIAN]">
+    <edge source="THOR/DR. DONALD BLAK" target="AUSTIN, SUSAN">
       <data key="d3">10</data>
     </edge>
-    <edge source="THUNDERSTRIKE/ERIC K" target="HOGUN [ASGARDIAN]">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="THUNDERSTRIKE/ERIC K" target="KARNILLA [ASGARDIAN]">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="THUNDERSTRIKE/ERIC K" target="LOKI [ASGARDIAN]">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="THUNDERSTRIKE/ERIC K" target="MASTERSON, KEVIN">
+    <edge source="THOR/DR. DONALD BLAK" target="BETA RAY BILL">
       <data key="d3">20</data>
     </edge>
-    <edge source="THUNDERSTRIKE/ERIC K" target="MEPHISTO">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="THUNDERSTRIKE/ERIC K" target="ODIN [ASGARDIAN]">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="THUNDERSTRIKE/ERIC K" target="PILEDRIVER II/BRIAN ">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="THUNDERSTRIKE/ERIC K" target="SIF">
+    <edge source="THOR/DR. DONALD BLAK" target="EGO">
       <data key="d3">7</data>
     </edge>
-    <edge source="THUNDERSTRIKE/ERIC K" target="STONE, LT. MARCUS">
-      <data key="d3">9</data>
+    <edge source="THOR/DR. DONALD BLAK" target="FANDRAL [ASGARDIAN]">
+      <data key="d3">90</data>
     </edge>
-    <edge source="THUNDERSTRIKE/ERIC K" target="THOR/DR. DONALD BLAK">
-      <data key="d3">21</data>
+    <edge source="THOR/DR. DONALD BLAK" target="FORGOTTEN ONE/GILGAM">
+      <data key="d3">10</data>
     </edge>
-    <edge source="THUNDERSTRIKE/ERIC K" target="THUNDERBALL/DR. ELIO">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="THUNDERSTRIKE/ERIC K" target="BETA RAY BILL">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="THUNDERSTRIKE/ERIC K" target="FORGOTTEN ONE/GILGAM">
+    <edge source="THOR/DR. DONALD BLAK" target="GHAUR [DEVIANT]">
       <data key="d3">4</data>
     </edge>
-    <edge source="THUNDERSTRIKE/ERIC K" target="HELA [ASGARDIAN]">
+    <edge source="THOR/DR. DONALD BLAK" target="HEIMDALL [ASGARDIAN]">
+      <data key="d3">61</data>
+    </edge>
+    <edge source="THOR/DR. DONALD BLAK" target="HELA [ASGARDIAN]">
+      <data key="d3">25</data>
+    </edge>
+    <edge source="THOR/DR. DONALD BLAK" target="HIGH EVOLUTIONARY/HE">
+      <data key="d3">16</data>
+    </edge>
+    <edge source="THOR/DR. DONALD BLAK" target="KARNILLA [ASGARDIAN]">
+      <data key="d3">33</data>
+    </edge>
+    <edge source="THOR/DR. DONALD BLAK" target="KINCAID, DR. JANE FO">
+      <data key="d3">59</data>
+    </edge>
+    <edge source="THOR/DR. DONALD BLAK" target="KINCAID, DR. KEITH">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="THOR/DR. DONALD BLAK" target="KRO [DEVIANT]">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="THOR/DR. DONALD BLAK" target="LOKI [ASGARDIAN]">
+      <data key="d3">89</data>
+    </edge>
+    <edge source="THOR/DR. DONALD BLAK" target="LORELEI II/MELODI [A">
+      <data key="d3">18</data>
+    </edge>
+    <edge source="THOR/DR. DONALD BLAK" target="MASTERSON, KEVIN">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="THOR/DR. DONALD BLAK" target="MEPHISTO">
       <data key="d3">3</data>
     </edge>
-    <edge source="THUNDERSTRIKE/ERIC K" target="HIGH EVOLUTIONARY/HE">
-      <data key="d3">7</data>
+    <edge source="THOR/DR. DONALD BLAK" target="ODIN [ASGARDIAN]">
+      <data key="d3">129</data>
     </edge>
-    <edge source="THUNDERSTRIKE/ERIC K" target="TITANIA II/MARY SKEE">
+    <edge source="THOR/DR. DONALD BLAK" target="SIF">
+      <data key="d3">93</data>
+    </edge>
+    <edge source="THOR/DR. DONALD BLAK" target="STONE, LT. MARCUS">
       <data key="d3">3</data>
     </edge>
-    <edge source="THUNDERSTRIKE/ERIC K" target="ULIK">
-      <data key="d3">3</data>
+    <edge source="THOR/DR. DONALD BLAK" target="THUNDERBALL/DR. ELIO">
+      <data key="d3">13</data>
     </edge>
-    <edge source="THUNDERSTRIKE/ERIC K" target="VIZIER">
-      <data key="d3">12</data>
+    <edge source="THOR/DR. DONALD BLAK" target="THUNDERSTRIKE/ERIC K">
+      <data key="d3">21</data>
     </edge>
-    <edge source="THUNDERSTRIKE/ERIC K" target="VOLSTAGG">
-      <data key="d3">7</data>
+    <edge source="THOR/DR. DONALD BLAK" target="ULIK">
+      <data key="d3">11</data>
     </edge>
-    <edge source="THUNDERSTRIKE/ERIC K" target="WRECKER III/DIRK GAR">
-      <data key="d3">3</data>
+    <edge source="THOR/DR. DONALD BLAK" target="VIZIER">
+      <data key="d3">43</data>
     </edge>
-    <edge source="WRECKER III/DIRK GAR" target="ABSORBING MAN/CARL C">
-      <data key="d3">10</data>
+    <edge source="THOR/DR. DONALD BLAK" target="VOLSTAGG">
+      <data key="d3">84</data>
+    </edge>
+    <edge source="THOR/DR. DONALD BLAK" target="WRECKER III/DIRK GAR">
+      <data key="d3">21</data>
+    </edge>
+    <edge source="THOR/DR. DONALD BLAK" target="ZEUS">
+      <data key="d3">13</data>
     </edge>
     <edge source="WRECKER III/DIRK GAR" target="AUSTIN, SUSAN">
       <data key="d3">2</data>
     </edge>
-    <edge source="WRECKER III/DIRK GAR" target="BALDER [ASGARDIAN]">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="WRECKER III/DIRK GAR" target="BULLDOZER/HENRY CAMP">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="WRECKER III/DIRK GAR" target="ENCHANTRESS/AMORA/HE">
-      <data key="d3">10</data>
-    </edge>
     <edge source="WRECKER III/DIRK GAR" target="FANDRAL [ASGARDIAN]">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="WRECKER III/DIRK GAR" target="HOGUN [ASGARDIAN]">
       <data key="d3">3</data>
     </edge>
     <edge source="WRECKER III/DIRK GAR" target="LOKI [ASGARDIAN]">
@@ -529,23 +964,17 @@
     <edge source="WRECKER III/DIRK GAR" target="ODIN [ASGARDIAN]">
       <data key="d3">2</data>
     </edge>
-    <edge source="WRECKER III/DIRK GAR" target="PILEDRIVER II/BRIAN ">
-      <data key="d3">21</data>
-    </edge>
     <edge source="WRECKER III/DIRK GAR" target="SIF">
       <data key="d3">3</data>
     </edge>
     <edge source="WRECKER III/DIRK GAR" target="STONE, LT. MARCUS">
       <data key="d3">2</data>
     </edge>
-    <edge source="WRECKER III/DIRK GAR" target="THOR/DR. DONALD BLAK">
-      <data key="d3">21</data>
-    </edge>
     <edge source="WRECKER III/DIRK GAR" target="THUNDERBALL/DR. ELIO">
       <data key="d3">23</data>
     </edge>
-    <edge source="WRECKER III/DIRK GAR" target="TITANIA II/MARY SKEE">
-      <data key="d3">8</data>
+    <edge source="WRECKER III/DIRK GAR" target="THUNDERSTRIKE/ERIC K">
+      <data key="d3">3</data>
     </edge>
     <edge source="WRECKER III/DIRK GAR" target="ULIK">
       <data key="d3">3</data>
@@ -565,205 +994,76 @@
     <edge source="WRECKER III/DIRK GAR" target="MEPHISTO">
       <data key="d3">2</data>
     </edge>
-    <edge source="BETA RAY BILL" target="BALDER [ASGARDIAN]">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="BETA RAY BILL" target="EGO">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="BETA RAY BILL" target="ENCHANTRESS/AMORA/HE">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="BETA RAY BILL" target="FANDRAL [ASGARDIAN]">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="BETA RAY BILL" target="HELA [ASGARDIAN]">
+    <edge source="GHAUR [DEVIANT]" target="FORGOTTEN ONE/GILGAM">
       <data key="d3">3</data>
     </edge>
-    <edge source="BETA RAY BILL" target="HIGH EVOLUTIONARY/HE">
-      <data key="d3">3</data>
+    <edge source="GHAUR [DEVIANT]" target="KRO [DEVIANT]">
+      <data key="d3">9</data>
     </edge>
-    <edge source="BETA RAY BILL" target="HOGUN [ASGARDIAN]">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="BETA RAY BILL" target="KINCAID, DR. JANE FO">
+    <edge source="ULIK" target="AUSTIN, SUSAN">
       <data key="d3">5</data>
     </edge>
-    <edge source="BETA RAY BILL" target="LOKI [ASGARDIAN]">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="BETA RAY BILL" target="LORELEI II/MELODI [A">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="BETA RAY BILL" target="ODIN [ASGARDIAN]">
-      <data key="d3">17</data>
-    </edge>
-    <edge source="BETA RAY BILL" target="SIF">
-      <data key="d3">18</data>
-    </edge>
-    <edge source="BETA RAY BILL" target="THOR/DR. DONALD BLAK">
-      <data key="d3">20</data>
-    </edge>
-    <edge source="BETA RAY BILL" target="VOLSTAGG">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="BETA RAY BILL" target="KARNILLA [ASGARDIAN]">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="BETA RAY BILL" target="MASTERSON, KEVIN">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="FORGOTTEN ONE/GILGAM" target="BALDER [ASGARDIAN]">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="FORGOTTEN ONE/GILGAM" target="FANDRAL [ASGARDIAN]">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="FORGOTTEN ONE/GILGAM" target="GHAUR [DEVIANT]">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="FORGOTTEN ONE/GILGAM" target="HOGUN [ASGARDIAN]">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="FORGOTTEN ONE/GILGAM" target="IKARIS/IKE HARRIS [E">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="FORGOTTEN ONE/GILGAM" target="KRO [DEVIANT]">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="FORGOTTEN ONE/GILGAM" target="SIF">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="FORGOTTEN ONE/GILGAM" target="THENA">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="FORGOTTEN ONE/GILGAM" target="THOR/DR. DONALD BLAK">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="FORGOTTEN ONE/GILGAM" target="VOLSTAGG">
+    <edge source="ULIK" target="FANDRAL [ASGARDIAN]">
       <data key="d3">4</data>
     </edge>
-    <edge source="FORGOTTEN ONE/GILGAM" target="KARNILLA [ASGARDIAN]">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="FORGOTTEN ONE/GILGAM" target="ODIN [ASGARDIAN]">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="ODIN [ASGARDIAN]" target="ABSORBING MAN/CARL C">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="ODIN [ASGARDIAN]" target="AUSTIN, SUSAN">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="ODIN [ASGARDIAN]" target="BALDER [ASGARDIAN]">
-      <data key="d3">74</data>
-    </edge>
-    <edge source="ODIN [ASGARDIAN]" target="EGO">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="ODIN [ASGARDIAN]" target="ENCHANTRESS/AMORA/HE">
-      <data key="d3">22</data>
-    </edge>
-    <edge source="ODIN [ASGARDIAN]" target="FANDRAL [ASGARDIAN]">
-      <data key="d3">75</data>
-    </edge>
-    <edge source="ODIN [ASGARDIAN]" target="HELA [ASGARDIAN]">
-      <data key="d3">23</data>
-    </edge>
-    <edge source="ODIN [ASGARDIAN]" target="HIGH EVOLUTIONARY/HE">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="ODIN [ASGARDIAN]" target="HOGUN [ASGARDIAN]">
-      <data key="d3">65</data>
-    </edge>
-    <edge source="ODIN [ASGARDIAN]" target="KARNILLA [ASGARDIAN]">
-      <data key="d3">28</data>
-    </edge>
-    <edge source="ODIN [ASGARDIAN]" target="KINCAID, DR. JANE FO">
-      <data key="d3">30</data>
-    </edge>
-    <edge source="ODIN [ASGARDIAN]" target="KINCAID, DR. KEITH">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="ODIN [ASGARDIAN]" target="LOKI [ASGARDIAN]">
-      <data key="d3">72</data>
-    </edge>
-    <edge source="ODIN [ASGARDIAN]" target="LORELEI II/MELODI [A">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="ODIN [ASGARDIAN]" target="MASTERSON, KEVIN">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="ODIN [ASGARDIAN]" target="MEPHISTO">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="ODIN [ASGARDIAN]" target="BULLDOZER/HENRY CAMP">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="ODIN [ASGARDIAN]" target="IKARIS/IKE HARRIS [E">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="ODIN [ASGARDIAN]" target="PILEDRIVER II/BRIAN ">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="ODIN [ASGARDIAN]" target="SIF">
-      <data key="d3">75</data>
-    </edge>
-    <edge source="ODIN [ASGARDIAN]" target="STONE, LT. MARCUS">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="ODIN [ASGARDIAN]" target="THENA">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="ODIN [ASGARDIAN]" target="THOR/DR. DONALD BLAK">
-      <data key="d3">129</data>
-    </edge>
-    <edge source="ODIN [ASGARDIAN]" target="THUNDERBALL/DR. ELIO">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="ODIN [ASGARDIAN]" target="ULIK">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="ODIN [ASGARDIAN]" target="VIZIER">
-      <data key="d3">40</data>
-    </edge>
-    <edge source="ODIN [ASGARDIAN]" target="VOLSTAGG">
-      <data key="d3">59</data>
-    </edge>
-    <edge source="ODIN [ASGARDIAN]" target="ZEUS">
+    <edge source="ULIK" target="HEIMDALL [ASGARDIAN]">
       <data key="d3">8</data>
     </edge>
-    <edge source="ODIN [ASGARDIAN]" target="TITANIA II/MARY SKEE">
+    <edge source="ULIK" target="KARNILLA [ASGARDIAN]">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="ULIK" target="KINCAID, DR. JANE FO">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="ULIK" target="LOKI [ASGARDIAN]">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="ULIK" target="MASTERSON, KEVIN">
       <data key="d3">2</data>
     </edge>
-    <edge source="LOKI [ASGARDIAN]" target="ABSORBING MAN/CARL C">
+    <edge source="ULIK" target="MEPHISTO">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="ULIK" target="ODIN [ASGARDIAN]">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="ULIK" target="SIF">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="ULIK" target="THUNDERBALL/DR. ELIO">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="ULIK" target="THUNDERSTRIKE/ERIC K">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="ULIK" target="LORELEI II/MELODI [A">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="ULIK" target="STONE, LT. MARCUS">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="ULIK" target="VIZIER">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="ULIK" target="VOLSTAGG">
       <data key="d3">5</data>
     </edge>
     <edge source="LOKI [ASGARDIAN]" target="AUSTIN, SUSAN">
       <data key="d3">9</data>
     </edge>
-    <edge source="LOKI [ASGARDIAN]" target="BALDER [ASGARDIAN]">
-      <data key="d3">54</data>
-    </edge>
-    <edge source="LOKI [ASGARDIAN]" target="BULLDOZER/HENRY CAMP">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="LOKI [ASGARDIAN]" target="ENCHANTRESS/AMORA/HE">
-      <data key="d3">19</data>
+    <edge source="LOKI [ASGARDIAN]" target="BETA RAY BILL">
+      <data key="d3">7</data>
     </edge>
     <edge source="LOKI [ASGARDIAN]" target="FANDRAL [ASGARDIAN]">
       <data key="d3">43</data>
+    </edge>
+    <edge source="LOKI [ASGARDIAN]" target="HEIMDALL [ASGARDIAN]">
+      <data key="d3">39</data>
     </edge>
     <edge source="LOKI [ASGARDIAN]" target="HELA [ASGARDIAN]">
       <data key="d3">8</data>
     </edge>
     <edge source="LOKI [ASGARDIAN]" target="HIGH EVOLUTIONARY/HE">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="LOKI [ASGARDIAN]" target="HOGUN [ASGARDIAN]">
-      <data key="d3">45</data>
-    </edge>
-    <edge source="LOKI [ASGARDIAN]" target="IKARIS/IKE HARRIS [E">
       <data key="d3">2</data>
     </edge>
     <edge source="LOKI [ASGARDIAN]" target="KARNILLA [ASGARDIAN]">
@@ -784,8 +1084,8 @@
     <edge source="LOKI [ASGARDIAN]" target="MEPHISTO">
       <data key="d3">7</data>
     </edge>
-    <edge source="LOKI [ASGARDIAN]" target="PILEDRIVER II/BRIAN ">
-      <data key="d3">2</data>
+    <edge source="LOKI [ASGARDIAN]" target="ODIN [ASGARDIAN]">
+      <data key="d3">72</data>
     </edge>
     <edge source="LOKI [ASGARDIAN]" target="SIF">
       <data key="d3">52</data>
@@ -793,14 +1093,8 @@
     <edge source="LOKI [ASGARDIAN]" target="STONE, LT. MARCUS">
       <data key="d3">5</data>
     </edge>
-    <edge source="LOKI [ASGARDIAN]" target="THOR/DR. DONALD BLAK">
-      <data key="d3">89</data>
-    </edge>
-    <edge source="LOKI [ASGARDIAN]" target="TITANIA II/MARY SKEE">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="LOKI [ASGARDIAN]" target="ULIK">
-      <data key="d3">11</data>
+    <edge source="LOKI [ASGARDIAN]" target="THUNDERSTRIKE/ERIC K">
+      <data key="d3">14</data>
     </edge>
     <edge source="LOKI [ASGARDIAN]" target="VIZIER">
       <data key="d3">21</data>
@@ -808,266 +1102,248 @@
     <edge source="LOKI [ASGARDIAN]" target="VOLSTAGG">
       <data key="d3">47</data>
     </edge>
-    <edge source="LOKI [ASGARDIAN]" target="THENA">
-      <data key="d3">2</data>
-    </edge>
     <edge source="LOKI [ASGARDIAN]" target="THUNDERBALL/DR. ELIO">
       <data key="d3">4</data>
     </edge>
     <edge source="LOKI [ASGARDIAN]" target="ZEUS">
       <data key="d3">3</data>
     </edge>
-    <edge source="KRO [DEVIANT]" target="GHAUR [DEVIANT]">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="KRO [DEVIANT]" target="IKARIS/IKE HARRIS [E">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="KRO [DEVIANT]" target="THENA">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="KRO [DEVIANT]" target="THOR/DR. DONALD BLAK">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="KARNILLA [ASGARDIAN]" target="AUSTIN, SUSAN">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="KARNILLA [ASGARDIAN]" target="BALDER [ASGARDIAN]">
-      <data key="d3">38</data>
-    </edge>
-    <edge source="KARNILLA [ASGARDIAN]" target="EGO">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="KARNILLA [ASGARDIAN]" target="ENCHANTRESS/AMORA/HE">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="KARNILLA [ASGARDIAN]" target="FANDRAL [ASGARDIAN]">
-      <data key="d3">29</data>
-    </edge>
-    <edge source="KARNILLA [ASGARDIAN]" target="HELA [ASGARDIAN]">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="KARNILLA [ASGARDIAN]" target="HOGUN [ASGARDIAN]">
-      <data key="d3">24</data>
-    </edge>
-    <edge source="KARNILLA [ASGARDIAN]" target="ABSORBING MAN/CARL C">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="KARNILLA [ASGARDIAN]" target="IKARIS/IKE HARRIS [E">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="KARNILLA [ASGARDIAN]" target="KINCAID, DR. JANE FO">
+    <edge source="ZEUS" target="FANDRAL [ASGARDIAN]">
       <data key="d3">3</data>
     </edge>
-    <edge source="KARNILLA [ASGARDIAN]" target="LORELEI II/MELODI [A">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="KARNILLA [ASGARDIAN]" target="MEPHISTO">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="KARNILLA [ASGARDIAN]" target="SIF">
-      <data key="d3">34</data>
-    </edge>
-    <edge source="KARNILLA [ASGARDIAN]" target="STONE, LT. MARCUS">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="KARNILLA [ASGARDIAN]" target="THOR/DR. DONALD BLAK">
-      <data key="d3">33</data>
-    </edge>
-    <edge source="KARNILLA [ASGARDIAN]" target="ULIK">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="KARNILLA [ASGARDIAN]" target="VIZIER">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="KARNILLA [ASGARDIAN]" target="VOLSTAGG">
-      <data key="d3">25</data>
-    </edge>
-    <edge source="KARNILLA [ASGARDIAN]" target="KINCAID, DR. KEITH">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="KARNILLA [ASGARDIAN]" target="THENA">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="KARNILLA [ASGARDIAN]" target="ZEUS">
+    <edge source="ZEUS" target="HEIMDALL [ASGARDIAN]">
       <data key="d3">3</data>
     </edge>
-    <edge source="ULIK" target="AUSTIN, SUSAN">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="ULIK" target="BALDER [ASGARDIAN]">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="ULIK" target="BULLDOZER/HENRY CAMP">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="ULIK" target="ENCHANTRESS/AMORA/HE">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="ULIK" target="FANDRAL [ASGARDIAN]">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="ULIK" target="HOGUN [ASGARDIAN]">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="ULIK" target="KINCAID, DR. JANE FO">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="ULIK" target="MASTERSON, KEVIN">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="ULIK" target="MEPHISTO">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="ULIK" target="PILEDRIVER II/BRIAN ">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="ULIK" target="SIF">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="ULIK" target="THOR/DR. DONALD BLAK">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="ULIK" target="THUNDERBALL/DR. ELIO">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="ULIK" target="TITANIA II/MARY SKEE">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="ULIK" target="ABSORBING MAN/CARL C">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="ULIK" target="LORELEI II/MELODI [A">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="ULIK" target="STONE, LT. MARCUS">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="ULIK" target="VIZIER">
+    <edge source="ZEUS" target="ODIN [ASGARDIAN]">
       <data key="d3">8</data>
     </edge>
-    <edge source="ULIK" target="VOLSTAGG">
+    <edge source="ZEUS" target="SIF">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="ZEUS" target="KARNILLA [ASGARDIAN]">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="ZEUS" target="KINCAID, DR. JANE FO">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="ZEUS" target="LORELEI II/MELODI [A">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="ZEUS" target="VIZIER">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="ZEUS" target="VOLSTAGG">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="STONE, LT. MARCUS" target="AUSTIN, SUSAN">
       <data key="d3">5</data>
     </edge>
-    <edge source="EGO" target="BALDER [ASGARDIAN]">
+    <edge source="STONE, LT. MARCUS" target="FANDRAL [ASGARDIAN]">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="STONE, LT. MARCUS" target="HEIMDALL [ASGARDIAN]">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="STONE, LT. MARCUS" target="KARNILLA [ASGARDIAN]">
       <data key="d3">2</data>
     </edge>
-    <edge source="EGO" target="HELA [ASGARDIAN]">
+    <edge source="STONE, LT. MARCUS" target="MASTERSON, KEVIN">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="STONE, LT. MARCUS" target="ODIN [ASGARDIAN]">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="STONE, LT. MARCUS" target="SIF">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="STONE, LT. MARCUS" target="MEPHISTO">
       <data key="d3">2</data>
     </edge>
-    <edge source="EGO" target="SIF">
+    <edge source="STONE, LT. MARCUS" target="THUNDERSTRIKE/ERIC K">
+      <data key="d3">9</data>
+    </edge>
+    <edge source="STONE, LT. MARCUS" target="VOLSTAGG">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="STONE, LT. MARCUS" target="THUNDERBALL/DR. ELIO">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="STONE, LT. MARCUS" target="VIZIER">
       <data key="d3">7</data>
     </edge>
-    <edge source="EGO" target="THOR/DR. DONALD BLAK">
+    <edge source="KRO [DEVIANT]" target="FORGOTTEN ONE/GILGAM">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="HELA [ASGARDIAN]" target="BETA RAY BILL">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="HELA [ASGARDIAN]" target="EGO">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="HELA [ASGARDIAN]" target="FANDRAL [ASGARDIAN]">
+      <data key="d3">18</data>
+    </edge>
+    <edge source="HELA [ASGARDIAN]" target="HEIMDALL [ASGARDIAN]">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="HELA [ASGARDIAN]" target="HIGH EVOLUTIONARY/HE">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="HELA [ASGARDIAN]" target="KARNILLA [ASGARDIAN]">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="HELA [ASGARDIAN]" target="KINCAID, DR. JANE FO">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="HELA [ASGARDIAN]" target="LORELEI II/MELODI [A">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="HELA [ASGARDIAN]" target="MEPHISTO">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="HELA [ASGARDIAN]" target="ODIN [ASGARDIAN]">
+      <data key="d3">23</data>
+    </edge>
+    <edge source="HELA [ASGARDIAN]" target="SIF">
+      <data key="d3">18</data>
+    </edge>
+    <edge source="HELA [ASGARDIAN]" target="VIZIER">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="HELA [ASGARDIAN]" target="VOLSTAGG">
+      <data key="d3">20</data>
+    </edge>
+    <edge source="HELA [ASGARDIAN]" target="KINCAID, DR. KEITH">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="HELA [ASGARDIAN]" target="MASTERSON, KEVIN">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="HELA [ASGARDIAN]" target="THUNDERSTRIKE/ERIC K">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="EGO" target="BETA RAY BILL">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="EGO" target="HEIMDALL [ASGARDIAN]">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="EGO" target="KARNILLA [ASGARDIAN]">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="EGO" target="ODIN [ASGARDIAN]">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="EGO" target="SIF">
       <data key="d3">7</data>
     </edge>
     <edge source="EGO" target="FANDRAL [ASGARDIAN]">
       <data key="d3">2</data>
     </edge>
-    <edge source="EGO" target="HOGUN [ASGARDIAN]">
-      <data key="d3">3</data>
-    </edge>
     <edge source="EGO" target="VOLSTAGG">
       <data key="d3">2</data>
     </edge>
-    <edge source="BALDER [ASGARDIAN]" target="ABSORBING MAN/CARL C">
-      <data key="d3">6</data>
+    <edge source="VIZIER" target="FANDRAL [ASGARDIAN]">
+      <data key="d3">38</data>
     </edge>
-    <edge source="BALDER [ASGARDIAN]" target="AUSTIN, SUSAN">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="BALDER [ASGARDIAN]" target="BULLDOZER/HENRY CAMP">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="BALDER [ASGARDIAN]" target="ENCHANTRESS/AMORA/HE">
-      <data key="d3">24</data>
-    </edge>
-    <edge source="BALDER [ASGARDIAN]" target="FANDRAL [ASGARDIAN]">
-      <data key="d3">75</data>
-    </edge>
-    <edge source="BALDER [ASGARDIAN]" target="HELA [ASGARDIAN]">
-      <data key="d3">19</data>
-    </edge>
-    <edge source="BALDER [ASGARDIAN]" target="HIGH EVOLUTIONARY/HE">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="BALDER [ASGARDIAN]" target="HOGUN [ASGARDIAN]">
-      <data key="d3">86</data>
-    </edge>
-    <edge source="BALDER [ASGARDIAN]" target="KINCAID, DR. JANE FO">
-      <data key="d3">28</data>
-    </edge>
-    <edge source="BALDER [ASGARDIAN]" target="KINCAID, DR. KEITH">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="BALDER [ASGARDIAN]" target="LORELEI II/MELODI [A">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="BALDER [ASGARDIAN]" target="MASTERSON, KEVIN">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="BALDER [ASGARDIAN]" target="MEPHISTO">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="BALDER [ASGARDIAN]" target="PILEDRIVER II/BRIAN ">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="BALDER [ASGARDIAN]" target="SIF">
-      <data key="d3">77</data>
-    </edge>
-    <edge source="BALDER [ASGARDIAN]" target="STONE, LT. MARCUS">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="BALDER [ASGARDIAN]" target="THOR/DR. DONALD BLAK">
-      <data key="d3">106</data>
-    </edge>
-    <edge source="BALDER [ASGARDIAN]" target="VIZIER">
+    <edge source="VIZIER" target="HEIMDALL [ASGARDIAN]">
       <data key="d3">26</data>
     </edge>
-    <edge source="BALDER [ASGARDIAN]" target="VOLSTAGG">
-      <data key="d3">74</data>
+    <edge source="VIZIER" target="KARNILLA [ASGARDIAN]">
+      <data key="d3">9</data>
     </edge>
-    <edge source="BALDER [ASGARDIAN]" target="ZEUS">
+    <edge source="VIZIER" target="KINCAID, DR. JANE FO">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="VIZIER" target="MASTERSON, KEVIN">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="VIZIER" target="MEPHISTO">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="VIZIER" target="ODIN [ASGARDIAN]">
+      <data key="d3">40</data>
+    </edge>
+    <edge source="VIZIER" target="SIF">
+      <data key="d3">30</data>
+    </edge>
+    <edge source="VIZIER" target="THUNDERBALL/DR. ELIO">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="VIZIER" target="THUNDERSTRIKE/ERIC K">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="VIZIER" target="AUSTIN, SUSAN">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="VIZIER" target="HIGH EVOLUTIONARY/HE">
       <data key="d3">5</data>
     </edge>
-    <edge source="BALDER [ASGARDIAN]" target="IKARIS/IKE HARRIS [E">
+    <edge source="VIZIER" target="LORELEI II/MELODI [A">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="VIZIER" target="VOLSTAGG">
+      <data key="d3">28</data>
+    </edge>
+    <edge source="FORGOTTEN ONE/GILGAM" target="FANDRAL [ASGARDIAN]">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="FORGOTTEN ONE/GILGAM" target="SIF">
       <data key="d3">2</data>
     </edge>
-    <edge source="BALDER [ASGARDIAN]" target="THENA">
-      <data key="d3">3</data>
+    <edge source="FORGOTTEN ONE/GILGAM" target="VOLSTAGG">
+      <data key="d3">4</data>
     </edge>
-    <edge source="BALDER [ASGARDIAN]" target="THUNDERBALL/DR. ELIO">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="BALDER [ASGARDIAN]" target="TITANIA II/MARY SKEE">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="SIF" target="ABSORBING MAN/CARL C">
+    <edge source="FORGOTTEN ONE/GILGAM" target="KARNILLA [ASGARDIAN]">
       <data key="d3">2</data>
+    </edge>
+    <edge source="FORGOTTEN ONE/GILGAM" target="ODIN [ASGARDIAN]">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="FORGOTTEN ONE/GILGAM" target="THUNDERSTRIKE/ERIC K">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="THUNDERBALL/DR. ELIO" target="AUSTIN, SUSAN">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="THUNDERBALL/DR. ELIO" target="MASTERSON, KEVIN">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="THUNDERBALL/DR. ELIO" target="MEPHISTO">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="THUNDERBALL/DR. ELIO" target="ODIN [ASGARDIAN]">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="THUNDERBALL/DR. ELIO" target="FANDRAL [ASGARDIAN]">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="THUNDERBALL/DR. ELIO" target="SIF">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="THUNDERBALL/DR. ELIO" target="THUNDERSTRIKE/ERIC K">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="THUNDERBALL/DR. ELIO" target="VOLSTAGG">
+      <data key="d3">4</data>
     </edge>
     <edge source="SIF" target="AUSTIN, SUSAN">
       <data key="d3">4</data>
     </edge>
-    <edge source="SIF" target="BULLDOZER/HENRY CAMP">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="SIF" target="ENCHANTRESS/AMORA/HE">
-      <data key="d3">16</data>
+    <edge source="SIF" target="BETA RAY BILL">
+      <data key="d3">18</data>
     </edge>
     <edge source="SIF" target="FANDRAL [ASGARDIAN]">
       <data key="d3">62</data>
     </edge>
-    <edge source="SIF" target="HELA [ASGARDIAN]">
-      <data key="d3">18</data>
+    <edge source="SIF" target="HEIMDALL [ASGARDIAN]">
+      <data key="d3">48</data>
     </edge>
     <edge source="SIF" target="HIGH EVOLUTIONARY/HE">
       <data key="d3">8</data>
     </edge>
-    <edge source="SIF" target="HOGUN [ASGARDIAN]">
-      <data key="d3">63</data>
-    </edge>
-    <edge source="SIF" target="IKARIS/IKE HARRIS [E">
-      <data key="d3">4</data>
+    <edge source="SIF" target="KARNILLA [ASGARDIAN]">
+      <data key="d3">34</data>
     </edge>
     <edge source="SIF" target="KINCAID, DR. JANE FO">
       <data key="d3">21</data>
@@ -1084,230 +1360,173 @@
     <edge source="SIF" target="MEPHISTO">
       <data key="d3">7</data>
     </edge>
-    <edge source="SIF" target="PILEDRIVER II/BRIAN ">
-      <data key="d3">3</data>
+    <edge source="SIF" target="ODIN [ASGARDIAN]">
+      <data key="d3">75</data>
     </edge>
-    <edge source="SIF" target="STONE, LT. MARCUS">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="SIF" target="THENA">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="SIF" target="THOR/DR. DONALD BLAK">
-      <data key="d3">93</data>
-    </edge>
-    <edge source="SIF" target="VIZIER">
-      <data key="d3">30</data>
+    <edge source="SIF" target="THUNDERSTRIKE/ERIC K">
+      <data key="d3">7</data>
     </edge>
     <edge source="SIF" target="VOLSTAGG">
       <data key="d3">65</data>
     </edge>
-    <edge source="SIF" target="ZEUS">
-      <data key="d3">8</data>
+    <edge source="KINCAID, DR. JANE FO" target="BETA RAY BILL">
+      <data key="d3">5</data>
     </edge>
-    <edge source="SIF" target="THUNDERBALL/DR. ELIO">
-      <data key="d3">4</data>
+    <edge source="KINCAID, DR. JANE FO" target="FANDRAL [ASGARDIAN]">
+      <data key="d3">15</data>
     </edge>
-    <edge source="HIGH EVOLUTIONARY/HE" target="AUSTIN, SUSAN">
-      <data key="d3">2</data>
+    <edge source="KINCAID, DR. JANE FO" target="HEIMDALL [ASGARDIAN]">
+      <data key="d3">15</data>
     </edge>
-    <edge source="HIGH EVOLUTIONARY/HE" target="FANDRAL [ASGARDIAN]">
-      <data key="d3">2</data>
+    <edge source="KINCAID, DR. JANE FO" target="HIGH EVOLUTIONARY/HE">
+      <data key="d3">5</data>
     </edge>
-    <edge source="HIGH EVOLUTIONARY/HE" target="HELA [ASGARDIAN]">
+    <edge source="KINCAID, DR. JANE FO" target="KARNILLA [ASGARDIAN]">
       <data key="d3">3</data>
     </edge>
-    <edge source="HIGH EVOLUTIONARY/HE" target="HOGUN [ASGARDIAN]">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="HIGH EVOLUTIONARY/HE" target="KINCAID, DR. JANE FO">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="HIGH EVOLUTIONARY/HE" target="LORELEI II/MELODI [A">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="HIGH EVOLUTIONARY/HE" target="MASTERSON, KEVIN">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="HIGH EVOLUTIONARY/HE" target="THENA">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="HIGH EVOLUTIONARY/HE" target="THOR/DR. DONALD BLAK">
-      <data key="d3">16</data>
-    </edge>
-    <edge source="HIGH EVOLUTIONARY/HE" target="VOLSTAGG">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="HIGH EVOLUTIONARY/HE" target="VIZIER">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="THOR/DR. DONALD BLAK" target="ABSORBING MAN/CARL C">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="THOR/DR. DONALD BLAK" target="AUSTIN, SUSAN">
+    <edge source="KINCAID, DR. JANE FO" target="KINCAID, DR. KEITH">
       <data key="d3">10</data>
     </edge>
-    <edge source="THOR/DR. DONALD BLAK" target="BULLDOZER/HENRY CAMP">
-      <data key="d3">9</data>
+    <edge source="KINCAID, DR. JANE FO" target="LORELEI II/MELODI [A">
+      <data key="d3">2</data>
     </edge>
-    <edge source="THOR/DR. DONALD BLAK" target="ENCHANTRESS/AMORA/HE">
-      <data key="d3">41</data>
+    <edge source="KINCAID, DR. JANE FO" target="ODIN [ASGARDIAN]">
+      <data key="d3">30</data>
     </edge>
-    <edge source="THOR/DR. DONALD BLAK" target="FANDRAL [ASGARDIAN]">
-      <data key="d3">90</data>
+    <edge source="KINCAID, DR. JANE FO" target="VOLSTAGG">
+      <data key="d3">15</data>
     </edge>
-    <edge source="THOR/DR. DONALD BLAK" target="GHAUR [DEVIANT]">
+    <edge source="AUSTIN, SUSAN" target="FANDRAL [ASGARDIAN]">
       <data key="d3">4</data>
     </edge>
-    <edge source="THOR/DR. DONALD BLAK" target="HELA [ASGARDIAN]">
+    <edge source="AUSTIN, SUSAN" target="HEIMDALL [ASGARDIAN]">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="AUSTIN, SUSAN" target="HIGH EVOLUTIONARY/HE">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="AUSTIN, SUSAN" target="KARNILLA [ASGARDIAN]">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="AUSTIN, SUSAN" target="MASTERSON, KEVIN">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="AUSTIN, SUSAN" target="MEPHISTO">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="AUSTIN, SUSAN" target="ODIN [ASGARDIAN]">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="AUSTIN, SUSAN" target="THUNDERSTRIKE/ERIC K">
+      <data key="d3">20</data>
+    </edge>
+    <edge source="AUSTIN, SUSAN" target="VOLSTAGG">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="MASTERSON, KEVIN" target="FANDRAL [ASGARDIAN]">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="MASTERSON, KEVIN" target="HEIMDALL [ASGARDIAN]">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="MASTERSON, KEVIN" target="HIGH EVOLUTIONARY/HE">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="MASTERSON, KEVIN" target="BETA RAY BILL">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="MASTERSON, KEVIN" target="MEPHISTO">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="MASTERSON, KEVIN" target="ODIN [ASGARDIAN]">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="MASTERSON, KEVIN" target="THUNDERSTRIKE/ERIC K">
+      <data key="d3">20</data>
+    </edge>
+    <edge source="MASTERSON, KEVIN" target="VOLSTAGG">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="VOLSTAGG" target="BETA RAY BILL">
+      <data key="d3">15</data>
+    </edge>
+    <edge source="VOLSTAGG" target="FANDRAL [ASGARDIAN]">
+      <data key="d3">114</data>
+    </edge>
+    <edge source="VOLSTAGG" target="HEIMDALL [ASGARDIAN]">
+      <data key="d3">50</data>
+    </edge>
+    <edge source="VOLSTAGG" target="HIGH EVOLUTIONARY/HE">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="VOLSTAGG" target="KARNILLA [ASGARDIAN]">
       <data key="d3">25</data>
     </edge>
-    <edge source="THOR/DR. DONALD BLAK" target="HOGUN [ASGARDIAN]">
-      <data key="d3">90</data>
+    <edge source="VOLSTAGG" target="KINCAID, DR. KEITH">
+      <data key="d3">2</data>
     </edge>
-    <edge source="THOR/DR. DONALD BLAK" target="IKARIS/IKE HARRIS [E">
-      <data key="d3">8</data>
+    <edge source="VOLSTAGG" target="LORELEI II/MELODI [A">
+      <data key="d3">13</data>
     </edge>
-    <edge source="THOR/DR. DONALD BLAK" target="KINCAID, DR. JANE FO">
+    <edge source="VOLSTAGG" target="MEPHISTO">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="VOLSTAGG" target="ODIN [ASGARDIAN]">
       <data key="d3">59</data>
     </edge>
-    <edge source="THOR/DR. DONALD BLAK" target="KINCAID, DR. KEITH">
-      <data key="d3">5</data>
+    <edge source="VOLSTAGG" target="THUNDERSTRIKE/ERIC K">
+      <data key="d3">7</data>
     </edge>
-    <edge source="THOR/DR. DONALD BLAK" target="LORELEI II/MELODI [A">
-      <data key="d3">18</data>
-    </edge>
-    <edge source="THOR/DR. DONALD BLAK" target="MASTERSON, KEVIN">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="THOR/DR. DONALD BLAK" target="MEPHISTO">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="THOR/DR. DONALD BLAK" target="PILEDRIVER II/BRIAN ">
+    <edge source="ODIN [ASGARDIAN]" target="BETA RAY BILL">
       <data key="d3">17</data>
     </edge>
-    <edge source="THOR/DR. DONALD BLAK" target="STONE, LT. MARCUS">
-      <data key="d3">3</data>
+    <edge source="ODIN [ASGARDIAN]" target="FANDRAL [ASGARDIAN]">
+      <data key="d3">75</data>
     </edge>
-    <edge source="THOR/DR. DONALD BLAK" target="THENA">
-      <data key="d3">8</data>
+    <edge source="ODIN [ASGARDIAN]" target="HEIMDALL [ASGARDIAN]">
+      <data key="d3">58</data>
     </edge>
-    <edge source="THOR/DR. DONALD BLAK" target="THUNDERBALL/DR. ELIO">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="THOR/DR. DONALD BLAK" target="TITANIA II/MARY SKEE">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="THOR/DR. DONALD BLAK" target="VIZIER">
-      <data key="d3">43</data>
-    </edge>
-    <edge source="THOR/DR. DONALD BLAK" target="VOLSTAGG">
-      <data key="d3">84</data>
-    </edge>
-    <edge source="THOR/DR. DONALD BLAK" target="ZEUS">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="VIZIER" target="ENCHANTRESS/AMORA/HE">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="VIZIER" target="FANDRAL [ASGARDIAN]">
-      <data key="d3">38</data>
-    </edge>
-    <edge source="VIZIER" target="HELA [ASGARDIAN]">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="VIZIER" target="HOGUN [ASGARDIAN]">
-      <data key="d3">32</data>
-    </edge>
-    <edge source="VIZIER" target="KINCAID, DR. JANE FO">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="VIZIER" target="MASTERSON, KEVIN">
+    <edge source="ODIN [ASGARDIAN]" target="HIGH EVOLUTIONARY/HE">
       <data key="d3">6</data>
     </edge>
-    <edge source="VIZIER" target="MEPHISTO">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="VIZIER" target="THUNDERBALL/DR. ELIO">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="VIZIER" target="ABSORBING MAN/CARL C">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="VIZIER" target="AUSTIN, SUSAN">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="VIZIER" target="LORELEI II/MELODI [A">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="VIZIER" target="STONE, LT. MARCUS">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="VIZIER" target="VOLSTAGG">
+    <edge source="ODIN [ASGARDIAN]" target="KARNILLA [ASGARDIAN]">
       <data key="d3">28</data>
     </edge>
-    <edge source="VIZIER" target="ZEUS">
+    <edge source="ODIN [ASGARDIAN]" target="KINCAID, DR. KEITH">
       <data key="d3">2</data>
     </edge>
-    <edge source="THUNDERBALL/DR. ELIO" target="ABSORBING MAN/CARL C">
-      <data key="d3">6</data>
+    <edge source="ODIN [ASGARDIAN]" target="LORELEI II/MELODI [A">
+      <data key="d3">11</data>
     </edge>
-    <edge source="THUNDERBALL/DR. ELIO" target="AUSTIN, SUSAN">
-      <data key="d3">3</data>
+    <edge source="ODIN [ASGARDIAN]" target="MEPHISTO">
+      <data key="d3">7</data>
     </edge>
-    <edge source="THUNDERBALL/DR. ELIO" target="BULLDOZER/HENRY CAMP">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="THUNDERBALL/DR. ELIO" target="ENCHANTRESS/AMORA/HE">
+    <edge source="ODIN [ASGARDIAN]" target="THUNDERSTRIKE/ERIC K">
       <data key="d3">10</data>
     </edge>
-    <edge source="THUNDERBALL/DR. ELIO" target="HOGUN [ASGARDIAN]">
-      <data key="d3">2</data>
+    <edge source="MEPHISTO" target="FANDRAL [ASGARDIAN]">
+      <data key="d3">9</data>
     </edge>
-    <edge source="THUNDERBALL/DR. ELIO" target="MASTERSON, KEVIN">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="THUNDERBALL/DR. ELIO" target="MEPHISTO">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="THUNDERBALL/DR. ELIO" target="PILEDRIVER II/BRIAN ">
-      <data key="d3">19</data>
-    </edge>
-    <edge source="THUNDERBALL/DR. ELIO" target="FANDRAL [ASGARDIAN]">
+    <edge source="MEPHISTO" target="HEIMDALL [ASGARDIAN]">
       <data key="d3">3</data>
     </edge>
-    <edge source="THUNDERBALL/DR. ELIO" target="STONE, LT. MARCUS">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="THUNDERBALL/DR. ELIO" target="TITANIA II/MARY SKEE">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="THUNDERBALL/DR. ELIO" target="VOLSTAGG">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="FANDRAL [ASGARDIAN]" target="ABSORBING MAN/CARL C">
+    <edge source="MEPHISTO" target="KARNILLA [ASGARDIAN]">
       <data key="d3">2</data>
     </edge>
-    <edge source="FANDRAL [ASGARDIAN]" target="AUSTIN, SUSAN">
-      <data key="d3">4</data>
+    <edge source="MEPHISTO" target="THUNDERSTRIKE/ERIC K">
+      <data key="d3">11</data>
     </edge>
-    <edge source="FANDRAL [ASGARDIAN]" target="BULLDOZER/HENRY CAMP">
-      <data key="d3">3</data>
+    <edge source="FANDRAL [ASGARDIAN]" target="BETA RAY BILL">
+      <data key="d3">13</data>
     </edge>
-    <edge source="FANDRAL [ASGARDIAN]" target="ENCHANTRESS/AMORA/HE">
-      <data key="d3">15</data>
+    <edge source="FANDRAL [ASGARDIAN]" target="HEIMDALL [ASGARDIAN]">
+      <data key="d3">46</data>
     </edge>
-    <edge source="FANDRAL [ASGARDIAN]" target="HELA [ASGARDIAN]">
-      <data key="d3">18</data>
+    <edge source="FANDRAL [ASGARDIAN]" target="HIGH EVOLUTIONARY/HE">
+      <data key="d3">2</data>
     </edge>
-    <edge source="FANDRAL [ASGARDIAN]" target="HOGUN [ASGARDIAN]">
-      <data key="d3">123</data>
-    </edge>
-    <edge source="FANDRAL [ASGARDIAN]" target="IKARIS/IKE HARRIS [E">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="FANDRAL [ASGARDIAN]" target="KINCAID, DR. JANE FO">
-      <data key="d3">15</data>
+    <edge source="FANDRAL [ASGARDIAN]" target="KARNILLA [ASGARDIAN]">
+      <data key="d3">29</data>
     </edge>
     <edge source="FANDRAL [ASGARDIAN]" target="KINCAID, DR. KEITH">
       <data key="d3">5</data>
@@ -1315,271 +1534,52 @@
     <edge source="FANDRAL [ASGARDIAN]" target="LORELEI II/MELODI [A">
       <data key="d3">5</data>
     </edge>
-    <edge source="FANDRAL [ASGARDIAN]" target="MASTERSON, KEVIN">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="FANDRAL [ASGARDIAN]" target="MEPHISTO">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="FANDRAL [ASGARDIAN]" target="PILEDRIVER II/BRIAN ">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="FANDRAL [ASGARDIAN]" target="STONE, LT. MARCUS">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="FANDRAL [ASGARDIAN]" target="THENA">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="FANDRAL [ASGARDIAN]" target="VOLSTAGG">
-      <data key="d3">114</data>
-    </edge>
-    <edge source="FANDRAL [ASGARDIAN]" target="ZEUS">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="KINCAID, DR. KEITH" target="ENCHANTRESS/AMORA/HE">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="KINCAID, DR. KEITH" target="KINCAID, DR. JANE FO">
+    <edge source="FANDRAL [ASGARDIAN]" target="THUNDERSTRIKE/ERIC K">
       <data key="d3">10</data>
     </edge>
-    <edge source="KINCAID, DR. KEITH" target="HELA [ASGARDIAN]">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="KINCAID, DR. KEITH" target="HOGUN [ASGARDIAN]">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="KINCAID, DR. KEITH" target="VOLSTAGG">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MEPHISTO" target="AUSTIN, SUSAN">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="MEPHISTO" target="ENCHANTRESS/AMORA/HE">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="MEPHISTO" target="HELA [ASGARDIAN]">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="MEPHISTO" target="HOGUN [ASGARDIAN]">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="MEPHISTO" target="MASTERSON, KEVIN">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MEPHISTO" target="PILEDRIVER II/BRIAN ">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MEPHISTO" target="VOLSTAGG">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="MEPHISTO" target="STONE, LT. MARCUS">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="KINCAID, DR. JANE FO" target="ABSORBING MAN/CARL C">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="KINCAID, DR. JANE FO" target="ENCHANTRESS/AMORA/HE">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="KINCAID, DR. JANE FO" target="HELA [ASGARDIAN]">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="KINCAID, DR. JANE FO" target="HOGUN [ASGARDIAN]">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="KINCAID, DR. JANE FO" target="LORELEI II/MELODI [A">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="KINCAID, DR. JANE FO" target="THENA">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="KINCAID, DR. JANE FO" target="VOLSTAGG">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="KINCAID, DR. JANE FO" target="TITANIA II/MARY SKEE">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="KINCAID, DR. JANE FO" target="ZEUS">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="ABSORBING MAN/CARL C" target="BULLDOZER/HENRY CAMP">
+    <edge source="BETA RAY BILL" target="HEIMDALL [ASGARDIAN]">
       <data key="d3">8</data>
     </edge>
-    <edge source="ABSORBING MAN/CARL C" target="ENCHANTRESS/AMORA/HE">
+    <edge source="BETA RAY BILL" target="HIGH EVOLUTIONARY/HE">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="BETA RAY BILL" target="LORELEI II/MELODI [A">
       <data key="d3">6</data>
     </edge>
-    <edge source="ABSORBING MAN/CARL C" target="HOGUN [ASGARDIAN]">
-      <data key="d3">4</data>
+    <edge source="BETA RAY BILL" target="KARNILLA [ASGARDIAN]">
+      <data key="d3">2</data>
     </edge>
-    <edge source="ABSORBING MAN/CARL C" target="PILEDRIVER II/BRIAN ">
-      <data key="d3">7</data>
+    <edge source="BETA RAY BILL" target="THUNDERSTRIKE/ERIC K">
+      <data key="d3">3</data>
     </edge>
-    <edge source="ABSORBING MAN/CARL C" target="TITANIA II/MARY SKEE">
+    <edge source="HEIMDALL [ASGARDIAN]" target="HIGH EVOLUTIONARY/HE">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="HEIMDALL [ASGARDIAN]" target="KARNILLA [ASGARDIAN]">
       <data key="d3">13</data>
     </edge>
-    <edge source="ABSORBING MAN/CARL C" target="VOLSTAGG">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="ABSORBING MAN/CARL C" target="STONE, LT. MARCUS">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="AUSTIN, SUSAN" target="BULLDOZER/HENRY CAMP">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="AUSTIN, SUSAN" target="ENCHANTRESS/AMORA/HE">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="AUSTIN, SUSAN" target="MASTERSON, KEVIN">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="AUSTIN, SUSAN" target="PILEDRIVER II/BRIAN ">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="AUSTIN, SUSAN" target="STONE, LT. MARCUS">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="AUSTIN, SUSAN" target="VOLSTAGG">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="AUSTIN, SUSAN" target="HOGUN [ASGARDIAN]">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="BULLDOZER/HENRY CAMP" target="ENCHANTRESS/AMORA/HE">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="BULLDOZER/HENRY CAMP" target="MASTERSON, KEVIN">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="BULLDOZER/HENRY CAMP" target="PILEDRIVER II/BRIAN ">
-      <data key="d3">17</data>
-    </edge>
-    <edge source="BULLDOZER/HENRY CAMP" target="STONE, LT. MARCUS">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="BULLDOZER/HENRY CAMP" target="TITANIA II/MARY SKEE">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="BULLDOZER/HENRY CAMP" target="VOLSTAGG">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="BULLDOZER/HENRY CAMP" target="HOGUN [ASGARDIAN]">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="HOGUN [ASGARDIAN]" target="ENCHANTRESS/AMORA/HE">
-      <data key="d3">18</data>
-    </edge>
-    <edge source="HOGUN [ASGARDIAN]" target="HELA [ASGARDIAN]">
-      <data key="d3">22</data>
-    </edge>
-    <edge source="HOGUN [ASGARDIAN]" target="IKARIS/IKE HARRIS [E">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="HOGUN [ASGARDIAN]" target="LORELEI II/MELODI [A">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="HOGUN [ASGARDIAN]" target="MASTERSON, KEVIN">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="HOGUN [ASGARDIAN]" target="PILEDRIVER II/BRIAN ">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="HOGUN [ASGARDIAN]" target="STONE, LT. MARCUS">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="HOGUN [ASGARDIAN]" target="THENA">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="HOGUN [ASGARDIAN]" target="VOLSTAGG">
-      <data key="d3">102</data>
-    </edge>
-    <edge source="HOGUN [ASGARDIAN]" target="ZEUS">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="GHAUR [DEVIANT]" target="IKARIS/IKE HARRIS [E">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="GHAUR [DEVIANT]" target="THENA">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="IKARIS/IKE HARRIS [E" target="THENA">
-      <data key="d3">20</data>
-    </edge>
-    <edge source="IKARIS/IKE HARRIS [E" target="VOLSTAGG">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="IKARIS/IKE HARRIS [E" target="ZEUS">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MASTERSON, KEVIN" target="ENCHANTRESS/AMORA/HE">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="MASTERSON, KEVIN" target="HELA [ASGARDIAN]">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MASTERSON, KEVIN" target="PILEDRIVER II/BRIAN ">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MASTERSON, KEVIN" target="STONE, LT. MARCUS">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="MASTERSON, KEVIN" target="VOLSTAGG">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="VOLSTAGG" target="ENCHANTRESS/AMORA/HE">
-      <data key="d3">19</data>
-    </edge>
-    <edge source="VOLSTAGG" target="HELA [ASGARDIAN]">
-      <data key="d3">20</data>
-    </edge>
-    <edge source="VOLSTAGG" target="LORELEI II/MELODI [A">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="VOLSTAGG" target="PILEDRIVER II/BRIAN ">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="VOLSTAGG" target="STONE, LT. MARCUS">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="VOLSTAGG" target="THENA">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="VOLSTAGG" target="ZEUS">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="LORELEI II/MELODI [A" target="ENCHANTRESS/AMORA/HE">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="LORELEI II/MELODI [A" target="HELA [ASGARDIAN]">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="LORELEI II/MELODI [A" target="ZEUS">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="THENA" target="ZEUS">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="TITANIA II/MARY SKEE" target="ENCHANTRESS/AMORA/HE">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="TITANIA II/MARY SKEE" target="PILEDRIVER II/BRIAN ">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="TITANIA II/MARY SKEE" target="STONE, LT. MARCUS">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="ZEUS" target="ENCHANTRESS/AMORA/HE">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="ENCHANTRESS/AMORA/HE" target="HELA [ASGARDIAN]">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="ENCHANTRESS/AMORA/HE" target="PILEDRIVER II/BRIAN ">
+    <edge source="HEIMDALL [ASGARDIAN]" target="LORELEI II/MELODI [A">
       <data key="d3">10</data>
     </edge>
-    <edge source="ENCHANTRESS/AMORA/HE" target="STONE, LT. MARCUS">
+    <edge source="HEIMDALL [ASGARDIAN]" target="THUNDERSTRIKE/ERIC K">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="HEIMDALL [ASGARDIAN]" target="KINCAID, DR. KEITH">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="THUNDERSTRIKE/ERIC K" target="KARNILLA [ASGARDIAN]">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="THUNDERSTRIKE/ERIC K" target="HIGH EVOLUTIONARY/HE">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="LORELEI II/MELODI [A" target="HIGH EVOLUTIONARY/HE">
       <data key="d3">2</data>
     </edge>
-    <edge source="PILEDRIVER II/BRIAN " target="STONE, LT. MARCUS">
+    <edge source="LORELEI II/MELODI [A" target="KARNILLA [ASGARDIAN]">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="KARNILLA [ASGARDIAN]" target="KINCAID, DR. KEITH">
       <data key="d3">2</data>
     </edge>
   </graph>

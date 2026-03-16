@@ -5,75 +5,65 @@
   <key id="d1" for="node" attr.name="degree" attr.type="long" />
   <key id="d0" for="node" attr.name="community" attr.type="long" />
   <graph edgedefault="undirected">
-    <node id="DR. STRANGE/STEPHEN ">
-      <data key="d0">0</data>
-      <data key="d1">474</data>
-      <data key="d2">0.02308188141754537</data>
-    </node>
-    <node id="HYPERION">
-      <data key="d0">0</data>
-      <data key="d1">69</data>
-      <data key="d2">0.00033600368736298855</data>
-    </node>
-    <node id="DEVIL-SLAYER/ERIC SI">
-      <data key="d0">0</data>
-      <data key="d1">57</data>
-      <data key="d2">0.001690157126903781</data>
-    </node>
-    <node id="ANDROMEDA/ANDROMEDA ">
-      <data key="d0">0</data>
-      <data key="d1">49</data>
-      <data key="d2">0.0006439586236432123</data>
-    </node>
-    <node id="DRACULA/VLAD TEPES">
-      <data key="d0">0</data>
-      <data key="d1">48</data>
-      <data key="d2">0.004427629306345758</data>
-    </node>
     <node id="NIGHTMARE/EDVARD HAB">
       <data key="d0">0</data>
       <data key="d1">56</data>
       <data key="d2">0.0009789962217685473</data>
-    </node>
-    <node id="GHOST RIDER III/DAN ">
-      <data key="d0">0</data>
-      <data key="d1">114</data>
-      <data key="d2">0.005070560055305176</data>
     </node>
     <node id="NIGHTHAWK II/KYLE RI">
       <data key="d0">0</data>
       <data key="d1">134</data>
       <data key="d2">0.0011862376190611768</data>
     </node>
-    <node id="GHOST RIDER II/JOHNN">
+    <node id="DR. SPECTRUM/JOSEPH ">
       <data key="d0">0</data>
-      <data key="d1">133</data>
-      <data key="d2">0.0103123070586636</data>
+      <data key="d1">76</data>
+      <data key="d2">0.0010232976474014554</data>
     </node>
-    <node id="TANAKA, KENJIRO">
+    <node id="MAN-THING/THEODORE T">
       <data key="d0">0</data>
-      <data key="d1">47</data>
-      <data key="d2">9.639463880023729e-05</data>
+      <data key="d1">56</data>
+      <data key="d2">0.003930087241390254</data>
     </node>
-    <node id="WHIZZER II/STANLEY S">
+    <node id="DOC SAMSON/DR. LEONA">
       <data key="d0">0</data>
-      <data key="d1">74</data>
-      <data key="d2">0.00016307016714201594</data>
+      <data key="d1">142</data>
+      <data key="d2">0.0039725756428323706</data>
     </node>
-    <node id="JONES, MARLO CHANDLE">
+    <node id="DORMAMMU">
       <data key="d0">0</data>
-      <data key="d1">67</data>
-      <data key="d2">0.0018530186712346621</data>
+      <data key="d1">54</data>
+      <data key="d2">0.0009130269736256783</data>
     </node>
-    <node id="NORRISS, SISTER BARB">
+    <node id="WEREWOLF BY NIGHT/JA">
       <data key="d0">0</data>
-      <data key="d1">214</data>
-      <data key="d2">0.002975677210984442</data>
+      <data key="d1">57</data>
+      <data key="d2">0.0015602153411911949</data>
     </node>
-    <node id="CAPTAIN MARVEL III/G">
+    <node id="JONES, RICHARD MILHO">
+      <data key="d0">0</data>
+      <data key="d1">233</data>
+      <data key="d2">0.0040414141963777215</data>
+    </node>
+    <node id="QUARTERMAIN, CLAY">
+      <data key="d0">0</data>
+      <data key="d1">63</data>
+      <data key="d2">0.0008683479233695512</data>
+    </node>
+    <node id="POWER PRINCESS/ZARDA">
       <data key="d0">0</data>
       <data key="d1">55</data>
-      <data key="d2">0.0018154557702420515</data>
+      <data key="d2">0.0004552652085940254</data>
+    </node>
+    <node id="CLEA">
+      <data key="d0">0</data>
+      <data key="d1">99</data>
+      <data key="d2">0.0028671547908033597</data>
+    </node>
+    <node id="RINTRAH">
+      <data key="d0">0</data>
+      <data key="d1">67</data>
+      <data key="d2">0.0010640140704793498</data>
     </node>
     <node id="ROSS, GEN. THADDEUS ">
       <data key="d0">0</data>
@@ -85,332 +75,144 @@
       <data key="d1">61</data>
       <data key="d2">0.00038228924822564404</data>
     </node>
-    <node id="ARCANNA/ARCANNA JONE">
+    <node id="DEVIL-SLAYER/ERIC SI">
       <data key="d0">0</data>
-      <data key="d1">64</data>
-      <data key="d2">0.0011440122808107599</data>
+      <data key="d1">57</data>
+      <data key="d2">0.001690157126903781</data>
     </node>
-    <node id="DORMAMMU">
+    <node id="DR. STRANGE/STEPHEN ">
       <data key="d0">0</data>
-      <data key="d1">54</data>
-      <data key="d2">0.0009130269736256783</data>
+      <data key="d1">474</data>
+      <data key="d2">0.02308188141754537</data>
     </node>
-    <node id="QUARTERMAIN, CLAY">
+    <node id="TANAKA, KENJIRO">
       <data key="d0">0</data>
-      <data key="d1">63</data>
-      <data key="d2">0.0008683479233695512</data>
-    </node>
-    <node id="BALLANTINE, KAYLA">
-      <data key="d0">0</data>
-      <data key="d1">79</data>
-      <data key="d2">0.0036251606709472328</data>
-    </node>
-    <node id="BEREET">
-      <data key="d0">0</data>
-      <data key="d1">50</data>
-      <data key="d2">0.0002115645676120679</data>
-    </node>
-    <node id="HULK/DR. ROBERT BRUC">
-      <data key="d0">0</data>
-      <data key="d1">532</data>
-      <data key="d2">0.014771977340183113</data>
-    </node>
-    <node id="HELLSTORM/DAIMON HEL">
-      <data key="d0">0</data>
-      <data key="d1">106</data>
-      <data key="d2">0.0029160083982362733</data>
-    </node>
-    <node id="LEADER/SAM STERNS">
-      <data key="d0">0</data>
-      <data key="d1">74</data>
-      <data key="d2">0.0003977317959458378</data>
-    </node>
-    <node id="GARGOYLE II/ISAAC CH">
-      <data key="d0">0</data>
-      <data key="d1">131</data>
-      <data key="d2">0.0012587927455562416</data>
-    </node>
-    <node id="MAN-THING/THEODORE T">
-      <data key="d0">0</data>
-      <data key="d1">56</data>
-      <data key="d2">0.003930087241390254</data>
-    </node>
-    <node id="WONG">
-      <data key="d0">0</data>
-      <data key="d1">126</data>
-      <data key="d2">0.0027746914915893132</data>
-    </node>
-    <node id="TALBOT, GLENN">
-      <data key="d0">0</data>
-      <data key="d1">60</data>
-      <data key="d2">0.0005299269921655948</data>
-    </node>
-    <node id="HELLCAT/PATSY WALKER">
-      <data key="d0">0</data>
-      <data key="d1">182</data>
-      <data key="d2">0.002578152589157331</data>
-    </node>
-    <node id="RINTRAH">
-      <data key="d0">0</data>
-      <data key="d1">67</data>
-      <data key="d2">0.0010640140704793498</data>
-    </node>
-    <node id="VAPOR">
-      <data key="d0">0</data>
-      <data key="d1">50</data>
-      <data key="d2">0.0004074270235376108</data>
+      <data key="d1">47</data>
+      <data key="d2">9.639463880023729e-05</data>
     </node>
     <node id="IRONCLAD">
       <data key="d0">0</data>
       <data key="d1">48</data>
       <data key="d2">0.0002860002786132069</data>
     </node>
-    <node id="LADY LARK/LINDA LEWI">
-      <data key="d0">0</data>
-      <data key="d1">53</data>
-      <data key="d2">0.0003392958761507373</data>
-    </node>
-    <node id="DOC SAMSON/DR. LEONA">
-      <data key="d0">0</data>
-      <data key="d1">142</data>
-      <data key="d2">0.0039725756428323706</data>
-    </node>
-    <node id="JONES, RICHARD MILHO">
-      <data key="d0">0</data>
-      <data key="d1">233</data>
-      <data key="d2">0.0040414141963777215</data>
-    </node>
-    <node id="CLEA">
-      <data key="d0">0</data>
-      <data key="d1">99</data>
-      <data key="d2">0.0028671547908033597</data>
-    </node>
-    <node id="POWER PRINCESS/ZARDA">
+    <node id="CAPTAIN MARVEL III/G">
       <data key="d0">0</data>
       <data key="d1">55</data>
-      <data key="d2">0.0004552652085940254</data>
-    </node>
-    <node id="WEREWOLF BY NIGHT/JA">
-      <data key="d0">0</data>
-      <data key="d1">57</data>
-      <data key="d2">0.0015602153411911949</data>
+      <data key="d2">0.0018154557702420515</data>
     </node>
     <node id="BANNER, BETTY ROSS T">
       <data key="d0">0</data>
       <data key="d1">174</data>
       <data key="d2">0.004908745230984453</data>
     </node>
-    <node id="DR. SPECTRUM/JOSEPH ">
+    <node id="NORRISS, SISTER BARB">
       <data key="d0">0</data>
-      <data key="d1">76</data>
-      <data key="d2">0.0010232976474014554</data>
+      <data key="d1">214</data>
+      <data key="d2">0.002975677210984442</data>
     </node>
-    <edge source="DR. STRANGE/STEPHEN " target="ANDROMEDA/ANDROMEDA ">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="DR. STRANGE/STEPHEN " target="ARCANNA/ARCANNA JONE">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="DR. STRANGE/STEPHEN " target="BALLANTINE, KAYLA">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="DR. STRANGE/STEPHEN " target="BANNER, BETTY ROSS T">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="DR. STRANGE/STEPHEN " target="CLEA">
-      <data key="d3">97</data>
-    </edge>
-    <edge source="DR. STRANGE/STEPHEN " target="DEVIL-SLAYER/ERIC SI">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="DR. STRANGE/STEPHEN " target="DOC SAMSON/DR. LEONA">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="DR. STRANGE/STEPHEN " target="DORMAMMU">
-      <data key="d3">24</data>
-    </edge>
-    <edge source="DR. STRANGE/STEPHEN " target="DR. SPECTRUM/JOSEPH ">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="DR. STRANGE/STEPHEN " target="BEREET">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="DR. STRANGE/STEPHEN " target="DRACULA/VLAD TEPES">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="DR. STRANGE/STEPHEN " target="GARGOYLE II/ISAAC CH">
-      <data key="d3">20</data>
-    </edge>
-    <edge source="DR. STRANGE/STEPHEN " target="GHOST RIDER II/JOHNN">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="DR. STRANGE/STEPHEN " target="GHOST RIDER III/DAN ">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="DR. STRANGE/STEPHEN " target="HELLCAT/PATSY WALKER">
-      <data key="d3">27</data>
-    </edge>
-    <edge source="DR. STRANGE/STEPHEN " target="HELLSTORM/DAIMON HEL">
-      <data key="d3">22</data>
-    </edge>
-    <edge source="DR. STRANGE/STEPHEN " target="HULK/DR. ROBERT BRUC">
-      <data key="d3">79</data>
-    </edge>
-    <edge source="DR. STRANGE/STEPHEN " target="HYPERION">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="DR. STRANGE/STEPHEN " target="JONES, RICHARD MILHO">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="DR. STRANGE/STEPHEN " target="LEADER/SAM STERNS">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="DR. STRANGE/STEPHEN " target="MAN-THING/THEODORE T">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="DR. STRANGE/STEPHEN " target="NIGHTHAWK II/KYLE RI">
-      <data key="d3">44</data>
-    </edge>
-    <edge source="DR. STRANGE/STEPHEN " target="NIGHTMARE/EDVARD HAB">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="DR. STRANGE/STEPHEN " target="NORRISS, SISTER BARB">
-      <data key="d3">59</data>
-    </edge>
-    <edge source="DR. STRANGE/STEPHEN " target="QUARTERMAIN, CLAY">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="DR. STRANGE/STEPHEN " target="RED GUARDIAN III/DR.">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="DR. STRANGE/STEPHEN " target="RINTRAH">
-      <data key="d3">29</data>
-    </edge>
-    <edge source="DR. STRANGE/STEPHEN " target="ROSS, GEN. THADDEUS ">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="DR. STRANGE/STEPHEN " target="TALBOT, GLENN">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="DR. STRANGE/STEPHEN " target="WHIZZER II/STANLEY S">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="DR. STRANGE/STEPHEN " target="WONG">
-      <data key="d3">104</data>
-    </edge>
-    <edge source="DR. STRANGE/STEPHEN " target="IRONCLAD">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="DR. STRANGE/STEPHEN " target="JONES, MARLO CHANDLE">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="DR. STRANGE/STEPHEN " target="LADY LARK/LINDA LEWI">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="DR. STRANGE/STEPHEN " target="POWER PRINCESS/ZARDA">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="DR. STRANGE/STEPHEN " target="TANAKA, KENJIRO">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="DR. STRANGE/STEPHEN " target="VAPOR">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="DR. STRANGE/STEPHEN " target="WEREWOLF BY NIGHT/JA">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="HYPERION" target="ARCANNA/ARCANNA JONE">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="HYPERION" target="BALLANTINE, KAYLA">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="HYPERION" target="DR. SPECTRUM/JOSEPH ">
-      <data key="d3">20</data>
-    </edge>
-    <edge source="HYPERION" target="GARGOYLE II/ISAAC CH">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="HYPERION" target="HELLCAT/PATSY WALKER">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="HYPERION" target="HULK/DR. ROBERT BRUC">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="HYPERION" target="HELLSTORM/DAIMON HEL">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="HYPERION" target="LADY LARK/LINDA LEWI">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="HYPERION" target="NIGHTHAWK II/KYLE RI">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="HYPERION" target="NORRISS, SISTER BARB">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="HYPERION" target="POWER PRINCESS/ZARDA">
-      <data key="d3">16</data>
-    </edge>
-    <edge source="HYPERION" target="TANAKA, KENJIRO">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="HYPERION" target="WHIZZER II/STANLEY S">
-      <data key="d3">16</data>
-    </edge>
-    <edge source="DEVIL-SLAYER/ERIC SI" target="CLEA">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="DEVIL-SLAYER/ERIC SI" target="GARGOYLE II/ISAAC CH">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="DEVIL-SLAYER/ERIC SI" target="HELLCAT/PATSY WALKER">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="DEVIL-SLAYER/ERIC SI" target="HELLSTORM/DAIMON HEL">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="DEVIL-SLAYER/ERIC SI" target="HULK/DR. ROBERT BRUC">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="DEVIL-SLAYER/ERIC SI" target="MAN-THING/THEODORE T">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="DEVIL-SLAYER/ERIC SI" target="NIGHTHAWK II/KYLE RI">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="DEVIL-SLAYER/ERIC SI" target="NORRISS, SISTER BARB">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="DEVIL-SLAYER/ERIC SI" target="WONG">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="ANDROMEDA/ANDROMEDA " target="GARGOYLE II/ISAAC CH">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="ANDROMEDA/ANDROMEDA " target="NORRISS, SISTER BARB">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="ANDROMEDA/ANDROMEDA " target="RINTRAH">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="DRACULA/VLAD TEPES" target="HELLSTORM/DAIMON HEL">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="DRACULA/VLAD TEPES" target="NIGHTHAWK II/KYLE RI">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="DRACULA/VLAD TEPES" target="WONG">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="DRACULA/VLAD TEPES" target="NORRISS, SISTER BARB">
-      <data key="d3">2</data>
-    </edge>
+    <node id="LEADER/SAM STERNS">
+      <data key="d0">0</data>
+      <data key="d1">74</data>
+      <data key="d2">0.0003977317959458378</data>
+    </node>
+    <node id="BEREET">
+      <data key="d0">0</data>
+      <data key="d1">50</data>
+      <data key="d2">0.0002115645676120679</data>
+    </node>
+    <node id="WONG">
+      <data key="d0">0</data>
+      <data key="d1">126</data>
+      <data key="d2">0.0027746914915893132</data>
+    </node>
+    <node id="VAPOR">
+      <data key="d0">0</data>
+      <data key="d1">50</data>
+      <data key="d2">0.0004074270235376108</data>
+    </node>
+    <node id="ARCANNA/ARCANNA JONE">
+      <data key="d0">0</data>
+      <data key="d1">64</data>
+      <data key="d2">0.0011440122808107599</data>
+    </node>
+    <node id="JONES, MARLO CHANDLE">
+      <data key="d0">0</data>
+      <data key="d1">67</data>
+      <data key="d2">0.0018530186712346621</data>
+    </node>
+    <node id="ANDROMEDA/ANDROMEDA ">
+      <data key="d0">0</data>
+      <data key="d1">49</data>
+      <data key="d2">0.0006439586236432123</data>
+    </node>
+    <node id="WHIZZER II/STANLEY S">
+      <data key="d0">0</data>
+      <data key="d1">74</data>
+      <data key="d2">0.00016307016714201594</data>
+    </node>
+    <node id="BALLANTINE, KAYLA">
+      <data key="d0">0</data>
+      <data key="d1">79</data>
+      <data key="d2">0.0036251606709472328</data>
+    </node>
+    <node id="HELLSTORM/DAIMON HEL">
+      <data key="d0">0</data>
+      <data key="d1">106</data>
+      <data key="d2">0.0029160083982362733</data>
+    </node>
+    <node id="LADY LARK/LINDA LEWI">
+      <data key="d0">0</data>
+      <data key="d1">53</data>
+      <data key="d2">0.0003392958761507373</data>
+    </node>
+    <node id="HULK/DR. ROBERT BRUC">
+      <data key="d0">0</data>
+      <data key="d1">532</data>
+      <data key="d2">0.014771977340183113</data>
+    </node>
+    <node id="GARGOYLE II/ISAAC CH">
+      <data key="d0">0</data>
+      <data key="d1">131</data>
+      <data key="d2">0.0012587927455562416</data>
+    </node>
+    <node id="HELLCAT/PATSY WALKER">
+      <data key="d0">0</data>
+      <data key="d1">182</data>
+      <data key="d2">0.002578152589157331</data>
+    </node>
+    <node id="HYPERION">
+      <data key="d0">0</data>
+      <data key="d1">69</data>
+      <data key="d2">0.00033600368736298855</data>
+    </node>
+    <node id="TALBOT, GLENN">
+      <data key="d0">0</data>
+      <data key="d1">60</data>
+      <data key="d2">0.0005299269921655948</data>
+    </node>
+    <node id="GHOST RIDER III/DAN ">
+      <data key="d0">0</data>
+      <data key="d1">114</data>
+      <data key="d2">0.005070560055305176</data>
+    </node>
+    <node id="DRACULA/VLAD TEPES">
+      <data key="d0">0</data>
+      <data key="d1">48</data>
+      <data key="d2">0.004427629306345758</data>
+    </node>
+    <node id="GHOST RIDER II/JOHNN">
+      <data key="d0">0</data>
+      <data key="d1">133</data>
+      <data key="d2">0.0103123070586636</data>
+    </node>
     <edge source="NIGHTMARE/EDVARD HAB" target="CLEA">
       <data key="d3">7</data>
     </edge>
     <edge source="NIGHTMARE/EDVARD HAB" target="DORMAMMU">
       <data key="d3">2</data>
+    </edge>
+    <edge source="NIGHTMARE/EDVARD HAB" target="DR. STRANGE/STEPHEN ">
+      <data key="d3">11</data>
     </edge>
     <edge source="NIGHTMARE/EDVARD HAB" target="GHOST RIDER II/JOHNN">
       <data key="d3">2</data>
@@ -430,25 +232,19 @@
     <edge source="NIGHTMARE/EDVARD HAB" target="NORRISS, SISTER BARB">
       <data key="d3">2</data>
     </edge>
-    <edge source="GHOST RIDER III/DAN " target="GHOST RIDER II/JOHNN">
-      <data key="d3">16</data>
-    </edge>
-    <edge source="GHOST RIDER III/DAN " target="BALLANTINE, KAYLA">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="GHOST RIDER III/DAN " target="HULK/DR. ROBERT BRUC">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="GHOST RIDER III/DAN " target="TANAKA, KENJIRO">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="GHOST RIDER III/DAN " target="WEREWOLF BY NIGHT/JA">
-      <data key="d3">2</data>
-    </edge>
     <edge source="NIGHTHAWK II/KYLE RI" target="CLEA">
       <data key="d3">13</data>
     </edge>
+    <edge source="NIGHTHAWK II/KYLE RI" target="DEVIL-SLAYER/ERIC SI">
+      <data key="d3">4</data>
+    </edge>
     <edge source="NIGHTHAWK II/KYLE RI" target="DOC SAMSON/DR. LEONA">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="NIGHTHAWK II/KYLE RI" target="DR. STRANGE/STEPHEN ">
+      <data key="d3">44</data>
+    </edge>
+    <edge source="NIGHTHAWK II/KYLE RI" target="DRACULA/VLAD TEPES">
       <data key="d3">2</data>
     </edge>
     <edge source="NIGHTHAWK II/KYLE RI" target="GARGOYLE II/ISAAC CH">
@@ -465,6 +261,9 @@
     </edge>
     <edge source="NIGHTHAWK II/KYLE RI" target="HULK/DR. ROBERT BRUC">
       <data key="d3">46</data>
+    </edge>
+    <edge source="NIGHTHAWK II/KYLE RI" target="HYPERION">
+      <data key="d3">2</data>
     </edge>
     <edge source="NIGHTHAWK II/KYLE RI" target="LADY LARK/LINDA LEWI">
       <data key="d3">2</data>
@@ -493,179 +292,302 @@
     <edge source="NIGHTHAWK II/KYLE RI" target="WONG">
       <data key="d3">13</data>
     </edge>
-    <edge source="GHOST RIDER II/JOHNN" target="CLEA">
+    <edge source="DR. SPECTRUM/JOSEPH " target="ARCANNA/ARCANNA JONE">
+      <data key="d3">16</data>
+    </edge>
+    <edge source="DR. SPECTRUM/JOSEPH " target="BALLANTINE, KAYLA">
       <data key="d3">2</data>
     </edge>
-    <edge source="GHOST RIDER II/JOHNN" target="GARGOYLE II/ISAAC CH">
-      <data key="d3">4</data>
+    <edge source="DR. SPECTRUM/JOSEPH " target="DR. STRANGE/STEPHEN ">
+      <data key="d3">2</data>
     </edge>
-    <edge source="GHOST RIDER II/JOHNN" target="DORMAMMU">
+    <edge source="DR. SPECTRUM/JOSEPH " target="HELLCAT/PATSY WALKER">
       <data key="d3">3</data>
     </edge>
-    <edge source="GHOST RIDER II/JOHNN" target="HELLCAT/PATSY WALKER">
+    <edge source="DR. SPECTRUM/JOSEPH " target="HULK/DR. ROBERT BRUC">
       <data key="d3">2</data>
     </edge>
-    <edge source="GHOST RIDER II/JOHNN" target="HULK/DR. ROBERT BRUC">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="GHOST RIDER II/JOHNN" target="MAN-THING/THEODORE T">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="GHOST RIDER II/JOHNN" target="NORRISS, SISTER BARB">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="GHOST RIDER II/JOHNN" target="WEREWOLF BY NIGHT/JA">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="GHOST RIDER II/JOHNN" target="HELLSTORM/DAIMON HEL">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="GHOST RIDER II/JOHNN" target="WONG">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="TANAKA, KENJIRO" target="ARCANNA/ARCANNA JONE">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="TANAKA, KENJIRO" target="BALLANTINE, KAYLA">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="TANAKA, KENJIRO" target="DR. SPECTRUM/JOSEPH ">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="TANAKA, KENJIRO" target="GARGOYLE II/ISAAC CH">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="TANAKA, KENJIRO" target="LADY LARK/LINDA LEWI">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="TANAKA, KENJIRO" target="POWER PRINCESS/ZARDA">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="TANAKA, KENJIRO" target="RED GUARDIAN III/DR.">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="TANAKA, KENJIRO" target="WHIZZER II/STANLEY S">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="WHIZZER II/STANLEY S" target="ARCANNA/ARCANNA JONE">
-      <data key="d3">17</data>
-    </edge>
-    <edge source="WHIZZER II/STANLEY S" target="BALLANTINE, KAYLA">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="WHIZZER II/STANLEY S" target="DR. SPECTRUM/JOSEPH ">
-      <data key="d3">18</data>
-    </edge>
-    <edge source="WHIZZER II/STANLEY S" target="GARGOYLE II/ISAAC CH">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="WHIZZER II/STANLEY S" target="HELLCAT/PATSY WALKER">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="WHIZZER II/STANLEY S" target="HELLSTORM/DAIMON HEL">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="WHIZZER II/STANLEY S" target="HULK/DR. ROBERT BRUC">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="WHIZZER II/STANLEY S" target="LADY LARK/LINDA LEWI">
-      <data key="d3">17</data>
-    </edge>
-    <edge source="WHIZZER II/STANLEY S" target="NORRISS, SISTER BARB">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="WHIZZER II/STANLEY S" target="POWER PRINCESS/ZARDA">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="WHIZZER II/STANLEY S" target="RED GUARDIAN III/DR.">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="JONES, MARLO CHANDLE" target="BANNER, BETTY ROSS T">
+    <edge source="DR. SPECTRUM/JOSEPH " target="HYPERION">
       <data key="d3">20</data>
     </edge>
-    <edge source="JONES, MARLO CHANDLE" target="CAPTAIN MARVEL III/G">
-      <data key="d3">5</data>
+    <edge source="DR. SPECTRUM/JOSEPH " target="LADY LARK/LINDA LEWI">
+      <data key="d3">17</data>
     </edge>
-    <edge source="JONES, MARLO CHANDLE" target="DOC SAMSON/DR. LEONA">
-      <data key="d3">7</data>
+    <edge source="DR. SPECTRUM/JOSEPH " target="POWER PRINCESS/ZARDA">
+      <data key="d3">13</data>
     </edge>
-    <edge source="JONES, MARLO CHANDLE" target="HULK/DR. ROBERT BRUC">
-      <data key="d3">29</data>
-    </edge>
-    <edge source="JONES, MARLO CHANDLE" target="IRONCLAD">
+    <edge source="DR. SPECTRUM/JOSEPH " target="TANAKA, KENJIRO">
       <data key="d3">3</data>
     </edge>
-    <edge source="JONES, MARLO CHANDLE" target="JONES, RICHARD MILHO">
+    <edge source="DR. SPECTRUM/JOSEPH " target="WHIZZER II/STANLEY S">
+      <data key="d3">18</data>
+    </edge>
+    <edge source="DR. SPECTRUM/JOSEPH " target="GARGOYLE II/ISAAC CH">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="DR. SPECTRUM/JOSEPH " target="HELLSTORM/DAIMON HEL">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="DR. SPECTRUM/JOSEPH " target="NORRISS, SISTER BARB">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="DR. SPECTRUM/JOSEPH " target="RED GUARDIAN III/DR.">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="MAN-THING/THEODORE T" target="BANNER, BETTY ROSS T">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="MAN-THING/THEODORE T" target="DEVIL-SLAYER/ERIC SI">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="MAN-THING/THEODORE T" target="DR. STRANGE/STEPHEN ">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="MAN-THING/THEODORE T" target="GHOST RIDER II/JOHNN">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="MAN-THING/THEODORE T" target="HULK/DR. ROBERT BRUC">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="MAN-THING/THEODORE T" target="JONES, RICHARD MILHO">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="MAN-THING/THEODORE T" target="QUARTERMAIN, CLAY">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="MAN-THING/THEODORE T" target="WONG">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="DOC SAMSON/DR. LEONA" target="BANNER, BETTY ROSS T">
       <data key="d3">33</data>
     </edge>
-    <edge source="JONES, MARLO CHANDLE" target="LEADER/SAM STERNS">
+    <edge source="DOC SAMSON/DR. LEONA" target="BEREET">
       <data key="d3">2</data>
     </edge>
-    <edge source="JONES, MARLO CHANDLE" target="ROSS, GEN. THADDEUS ">
-      <data key="d3">8</data>
+    <edge source="DOC SAMSON/DR. LEONA" target="DR. STRANGE/STEPHEN ">
+      <data key="d3">5</data>
     </edge>
-    <edge source="JONES, MARLO CHANDLE" target="WONG">
+    <edge source="DOC SAMSON/DR. LEONA" target="GARGOYLE II/ISAAC CH">
       <data key="d3">2</data>
     </edge>
-    <edge source="NORRISS, SISTER BARB" target="BANNER, BETTY ROSS T">
+    <edge source="DOC SAMSON/DR. LEONA" target="HELLCAT/PATSY WALKER">
       <data key="d3">2</data>
     </edge>
-    <edge source="NORRISS, SISTER BARB" target="CLEA">
-      <data key="d3">14</data>
+    <edge source="DOC SAMSON/DR. LEONA" target="HULK/DR. ROBERT BRUC">
+      <data key="d3">54</data>
     </edge>
-    <edge source="NORRISS, SISTER BARB" target="DOC SAMSON/DR. LEONA">
-      <data key="d3">2</data>
+    <edge source="DOC SAMSON/DR. LEONA" target="JONES, MARLO CHANDLE">
+      <data key="d3">7</data>
     </edge>
-    <edge source="NORRISS, SISTER BARB" target="DORMAMMU">
-      <data key="d3">2</data>
+    <edge source="DOC SAMSON/DR. LEONA" target="JONES, RICHARD MILHO">
+      <data key="d3">17</data>
     </edge>
-    <edge source="NORRISS, SISTER BARB" target="GARGOYLE II/ISAAC CH">
-      <data key="d3">28</data>
-    </edge>
-    <edge source="NORRISS, SISTER BARB" target="HELLCAT/PATSY WALKER">
-      <data key="d3">44</data>
-    </edge>
-    <edge source="NORRISS, SISTER BARB" target="HELLSTORM/DAIMON HEL">
+    <edge source="DOC SAMSON/DR. LEONA" target="LEADER/SAM STERNS">
       <data key="d3">12</data>
     </edge>
-    <edge source="NORRISS, SISTER BARB" target="HULK/DR. ROBERT BRUC">
-      <data key="d3">48</data>
-    </edge>
-    <edge source="NORRISS, SISTER BARB" target="JONES, RICHARD MILHO">
+    <edge source="DOC SAMSON/DR. LEONA" target="NORRISS, SISTER BARB">
       <data key="d3">2</data>
     </edge>
-    <edge source="NORRISS, SISTER BARB" target="LADY LARK/LINDA LEWI">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="NORRISS, SISTER BARB" target="ARCANNA/ARCANNA JONE">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="NORRISS, SISTER BARB" target="DR. SPECTRUM/JOSEPH ">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="NORRISS, SISTER BARB" target="POWER PRINCESS/ZARDA">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="NORRISS, SISTER BARB" target="RED GUARDIAN III/DR.">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="NORRISS, SISTER BARB" target="RINTRAH">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="NORRISS, SISTER BARB" target="ROSS, GEN. THADDEUS ">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="NORRISS, SISTER BARB" target="WONG">
+    <edge source="DOC SAMSON/DR. LEONA" target="QUARTERMAIN, CLAY">
       <data key="d3">19</data>
     </edge>
-    <edge source="NORRISS, SISTER BARB" target="TALBOT, GLENN">
-      <data key="d3">3</data>
+    <edge source="DOC SAMSON/DR. LEONA" target="ROSS, GEN. THADDEUS ">
+      <data key="d3">34</data>
     </edge>
-    <edge source="CAPTAIN MARVEL III/G" target="HULK/DR. ROBERT BRUC">
+    <edge source="DOC SAMSON/DR. LEONA" target="TALBOT, GLENN">
+      <data key="d3">18</data>
+    </edge>
+    <edge source="DOC SAMSON/DR. LEONA" target="RED GUARDIAN III/DR.">
       <data key="d3">2</data>
     </edge>
-    <edge source="CAPTAIN MARVEL III/G" target="JONES, RICHARD MILHO">
+    <edge source="DORMAMMU" target="CLEA">
+      <data key="d3">21</data>
+    </edge>
+    <edge source="DORMAMMU" target="DR. STRANGE/STEPHEN ">
+      <data key="d3">24</data>
+    </edge>
+    <edge source="DORMAMMU" target="HULK/DR. ROBERT BRUC">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="DORMAMMU" target="NORRISS, SISTER BARB">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="DORMAMMU" target="RINTRAH">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="DORMAMMU" target="WONG">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="DORMAMMU" target="GHOST RIDER II/JOHNN">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="DORMAMMU" target="HELLCAT/PATSY WALKER">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="DORMAMMU" target="HELLSTORM/DAIMON HEL">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="WEREWOLF BY NIGHT/JA" target="GHOST RIDER II/JOHNN">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="WEREWOLF BY NIGHT/JA" target="GHOST RIDER III/DAN ">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="WEREWOLF BY NIGHT/JA" target="DR. STRANGE/STEPHEN ">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="WEREWOLF BY NIGHT/JA" target="RINTRAH">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="JONES, RICHARD MILHO" target="BANNER, BETTY ROSS T">
+      <data key="d3">58</data>
+    </edge>
+    <edge source="JONES, RICHARD MILHO" target="BEREET">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="JONES, RICHARD MILHO" target="CAPTAIN MARVEL III/G">
       <data key="d3">13</data>
+    </edge>
+    <edge source="JONES, RICHARD MILHO" target="DR. STRANGE/STEPHEN ">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="JONES, RICHARD MILHO" target="GARGOYLE II/ISAAC CH">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="JONES, RICHARD MILHO" target="HELLCAT/PATSY WALKER">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="JONES, RICHARD MILHO" target="HULK/DR. ROBERT BRUC">
+      <data key="d3">83</data>
+    </edge>
+    <edge source="JONES, RICHARD MILHO" target="IRONCLAD">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="JONES, RICHARD MILHO" target="JONES, MARLO CHANDLE">
+      <data key="d3">33</data>
+    </edge>
+    <edge source="JONES, RICHARD MILHO" target="LEADER/SAM STERNS">
+      <data key="d3">18</data>
+    </edge>
+    <edge source="JONES, RICHARD MILHO" target="NORRISS, SISTER BARB">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="JONES, RICHARD MILHO" target="QUARTERMAIN, CLAY">
+      <data key="d3">13</data>
+    </edge>
+    <edge source="JONES, RICHARD MILHO" target="ROSS, GEN. THADDEUS ">
+      <data key="d3">37</data>
+    </edge>
+    <edge source="JONES, RICHARD MILHO" target="TALBOT, GLENN">
+      <data key="d3">19</data>
+    </edge>
+    <edge source="JONES, RICHARD MILHO" target="VAPOR">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="JONES, RICHARD MILHO" target="WONG">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="QUARTERMAIN, CLAY" target="BANNER, BETTY ROSS T">
+      <data key="d3">17</data>
+    </edge>
+    <edge source="QUARTERMAIN, CLAY" target="DR. STRANGE/STEPHEN ">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="QUARTERMAIN, CLAY" target="HULK/DR. ROBERT BRUC">
+      <data key="d3">25</data>
+    </edge>
+    <edge source="QUARTERMAIN, CLAY" target="LEADER/SAM STERNS">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="QUARTERMAIN, CLAY" target="ROSS, GEN. THADDEUS ">
+      <data key="d3">15</data>
+    </edge>
+    <edge source="QUARTERMAIN, CLAY" target="TALBOT, GLENN">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="POWER PRINCESS/ZARDA" target="ARCANNA/ARCANNA JONE">
+      <data key="d3">15</data>
+    </edge>
+    <edge source="POWER PRINCESS/ZARDA" target="BALLANTINE, KAYLA">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="POWER PRINCESS/ZARDA" target="GARGOYLE II/ISAAC CH">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="POWER PRINCESS/ZARDA" target="HULK/DR. ROBERT BRUC">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="POWER PRINCESS/ZARDA" target="HYPERION">
+      <data key="d3">16</data>
+    </edge>
+    <edge source="POWER PRINCESS/ZARDA" target="LADY LARK/LINDA LEWI">
+      <data key="d3">9</data>
+    </edge>
+    <edge source="POWER PRINCESS/ZARDA" target="NORRISS, SISTER BARB">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="POWER PRINCESS/ZARDA" target="DR. STRANGE/STEPHEN ">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="POWER PRINCESS/ZARDA" target="HELLSTORM/DAIMON HEL">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="POWER PRINCESS/ZARDA" target="RED GUARDIAN III/DR.">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="POWER PRINCESS/ZARDA" target="TANAKA, KENJIRO">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="POWER PRINCESS/ZARDA" target="WHIZZER II/STANLEY S">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="CLEA" target="DEVIL-SLAYER/ERIC SI">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="CLEA" target="DR. STRANGE/STEPHEN ">
+      <data key="d3">97</data>
+    </edge>
+    <edge source="CLEA" target="GARGOYLE II/ISAAC CH">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="CLEA" target="GHOST RIDER II/JOHNN">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="CLEA" target="HELLCAT/PATSY WALKER">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="CLEA" target="HELLSTORM/DAIMON HEL">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="CLEA" target="HULK/DR. ROBERT BRUC">
+      <data key="d3">21</data>
+    </edge>
+    <edge source="CLEA" target="NORRISS, SISTER BARB">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="CLEA" target="RED GUARDIAN III/DR.">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="CLEA" target="RINTRAH">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="CLEA" target="WONG">
+      <data key="d3">53</data>
+    </edge>
+    <edge source="RINTRAH" target="ANDROMEDA/ANDROMEDA ">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="RINTRAH" target="DR. STRANGE/STEPHEN ">
+      <data key="d3">29</data>
+    </edge>
+    <edge source="RINTRAH" target="NORRISS, SISTER BARB">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="RINTRAH" target="HULK/DR. ROBERT BRUC">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="RINTRAH" target="WONG">
+      <data key="d3">14</data>
     </edge>
     <edge source="ROSS, GEN. THADDEUS " target="BANNER, BETTY ROSS T">
       <data key="d3">70</data>
@@ -673,20 +595,20 @@
     <edge source="ROSS, GEN. THADDEUS " target="BEREET">
       <data key="d3">3</data>
     </edge>
-    <edge source="ROSS, GEN. THADDEUS " target="DOC SAMSON/DR. LEONA">
-      <data key="d3">34</data>
+    <edge source="ROSS, GEN. THADDEUS " target="DR. STRANGE/STEPHEN ">
+      <data key="d3">5</data>
     </edge>
     <edge source="ROSS, GEN. THADDEUS " target="HULK/DR. ROBERT BRUC">
       <data key="d3">105</data>
     </edge>
-    <edge source="ROSS, GEN. THADDEUS " target="JONES, RICHARD MILHO">
-      <data key="d3">37</data>
+    <edge source="ROSS, GEN. THADDEUS " target="JONES, MARLO CHANDLE">
+      <data key="d3">8</data>
     </edge>
     <edge source="ROSS, GEN. THADDEUS " target="LEADER/SAM STERNS">
       <data key="d3">13</data>
     </edge>
-    <edge source="ROSS, GEN. THADDEUS " target="QUARTERMAIN, CLAY">
-      <data key="d3">15</data>
+    <edge source="ROSS, GEN. THADDEUS " target="NORRISS, SISTER BARB">
+      <data key="d3">3</data>
     </edge>
     <edge source="ROSS, GEN. THADDEUS " target="HELLCAT/PATSY WALKER">
       <data key="d3">2</data>
@@ -700,8 +622,8 @@
     <edge source="RED GUARDIAN III/DR." target="ARCANNA/ARCANNA JONE">
       <data key="d3">2</data>
     </edge>
-    <edge source="RED GUARDIAN III/DR." target="CLEA">
-      <data key="d3">3</data>
+    <edge source="RED GUARDIAN III/DR." target="DR. STRANGE/STEPHEN ">
+      <data key="d3">8</data>
     </edge>
     <edge source="RED GUARDIAN III/DR." target="GARGOYLE II/ISAAC CH">
       <data key="d3">2</data>
@@ -712,206 +634,236 @@
     <edge source="RED GUARDIAN III/DR." target="HULK/DR. ROBERT BRUC">
       <data key="d3">14</data>
     </edge>
-    <edge source="RED GUARDIAN III/DR." target="POWER PRINCESS/ZARDA">
-      <data key="d3">2</data>
+    <edge source="RED GUARDIAN III/DR." target="NORRISS, SISTER BARB">
+      <data key="d3">15</data>
     </edge>
     <edge source="RED GUARDIAN III/DR." target="BALLANTINE, KAYLA">
       <data key="d3">3</data>
     </edge>
-    <edge source="RED GUARDIAN III/DR." target="DOC SAMSON/DR. LEONA">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="RED GUARDIAN III/DR." target="DR. SPECTRUM/JOSEPH ">
-      <data key="d3">2</data>
-    </edge>
     <edge source="RED GUARDIAN III/DR." target="TALBOT, GLENN">
       <data key="d3">3</data>
+    </edge>
+    <edge source="RED GUARDIAN III/DR." target="TANAKA, KENJIRO">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="RED GUARDIAN III/DR." target="WHIZZER II/STANLEY S">
+      <data key="d3">2</data>
     </edge>
     <edge source="RED GUARDIAN III/DR." target="WONG">
       <data key="d3">5</data>
     </edge>
-    <edge source="ARCANNA/ARCANNA JONE" target="BALLANTINE, KAYLA">
-      <data key="d3">3</data>
+    <edge source="DEVIL-SLAYER/ERIC SI" target="DR. STRANGE/STEPHEN ">
+      <data key="d3">9</data>
     </edge>
-    <edge source="ARCANNA/ARCANNA JONE" target="DR. SPECTRUM/JOSEPH ">
-      <data key="d3">16</data>
-    </edge>
-    <edge source="ARCANNA/ARCANNA JONE" target="LADY LARK/LINDA LEWI">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="ARCANNA/ARCANNA JONE" target="POWER PRINCESS/ZARDA">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="ARCANNA/ARCANNA JONE" target="GARGOYLE II/ISAAC CH">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="ARCANNA/ARCANNA JONE" target="HELLSTORM/DAIMON HEL">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="ARCANNA/ARCANNA JONE" target="HULK/DR. ROBERT BRUC">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="DORMAMMU" target="CLEA">
-      <data key="d3">21</data>
-    </edge>
-    <edge source="DORMAMMU" target="HULK/DR. ROBERT BRUC">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="DORMAMMU" target="RINTRAH">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="DORMAMMU" target="WONG">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="DORMAMMU" target="HELLCAT/PATSY WALKER">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="DORMAMMU" target="HELLSTORM/DAIMON HEL">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="QUARTERMAIN, CLAY" target="BANNER, BETTY ROSS T">
-      <data key="d3">17</data>
-    </edge>
-    <edge source="QUARTERMAIN, CLAY" target="DOC SAMSON/DR. LEONA">
-      <data key="d3">19</data>
-    </edge>
-    <edge source="QUARTERMAIN, CLAY" target="HULK/DR. ROBERT BRUC">
-      <data key="d3">25</data>
-    </edge>
-    <edge source="QUARTERMAIN, CLAY" target="JONES, RICHARD MILHO">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="QUARTERMAIN, CLAY" target="LEADER/SAM STERNS">
+    <edge source="DEVIL-SLAYER/ERIC SI" target="GARGOYLE II/ISAAC CH">
       <data key="d3">4</data>
     </edge>
-    <edge source="QUARTERMAIN, CLAY" target="MAN-THING/THEODORE T">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="QUARTERMAIN, CLAY" target="TALBOT, GLENN">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="BALLANTINE, KAYLA" target="DR. SPECTRUM/JOSEPH ">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="BALLANTINE, KAYLA" target="LADY LARK/LINDA LEWI">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="BALLANTINE, KAYLA" target="POWER PRINCESS/ZARDA">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="BALLANTINE, KAYLA" target="GARGOYLE II/ISAAC CH">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="BEREET" target="BANNER, BETTY ROSS T">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="BEREET" target="HULK/DR. ROBERT BRUC">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="BEREET" target="IRONCLAD">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="BEREET" target="JONES, RICHARD MILHO">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="BEREET" target="LEADER/SAM STERNS">
+    <edge source="DEVIL-SLAYER/ERIC SI" target="HELLCAT/PATSY WALKER">
       <data key="d3">4</data>
     </edge>
-    <edge source="BEREET" target="DOC SAMSON/DR. LEONA">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="BEREET" target="GARGOYLE II/ISAAC CH">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="BEREET" target="HELLCAT/PATSY WALKER">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="BEREET" target="VAPOR">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="HULK/DR. ROBERT BRUC" target="BANNER, BETTY ROSS T">
-      <data key="d3">120</data>
-    </edge>
-    <edge source="HULK/DR. ROBERT BRUC" target="CLEA">
-      <data key="d3">21</data>
-    </edge>
-    <edge source="HULK/DR. ROBERT BRUC" target="DOC SAMSON/DR. LEONA">
-      <data key="d3">54</data>
-    </edge>
-    <edge source="HULK/DR. ROBERT BRUC" target="DR. SPECTRUM/JOSEPH ">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="HULK/DR. ROBERT BRUC" target="GARGOYLE II/ISAAC CH">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="HULK/DR. ROBERT BRUC" target="HELLCAT/PATSY WALKER">
-      <data key="d3">43</data>
-    </edge>
-    <edge source="HULK/DR. ROBERT BRUC" target="HELLSTORM/DAIMON HEL">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="HULK/DR. ROBERT BRUC" target="IRONCLAD">
+    <edge source="DEVIL-SLAYER/ERIC SI" target="HELLSTORM/DAIMON HEL">
       <data key="d3">4</data>
     </edge>
-    <edge source="HULK/DR. ROBERT BRUC" target="JONES, RICHARD MILHO">
-      <data key="d3">83</data>
+    <edge source="DEVIL-SLAYER/ERIC SI" target="HULK/DR. ROBERT BRUC">
+      <data key="d3">9</data>
     </edge>
-    <edge source="HULK/DR. ROBERT BRUC" target="LADY LARK/LINDA LEWI">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="HULK/DR. ROBERT BRUC" target="LEADER/SAM STERNS">
-      <data key="d3">36</data>
-    </edge>
-    <edge source="HULK/DR. ROBERT BRUC" target="MAN-THING/THEODORE T">
+    <edge source="DEVIL-SLAYER/ERIC SI" target="NORRISS, SISTER BARB">
       <data key="d3">6</data>
     </edge>
-    <edge source="HULK/DR. ROBERT BRUC" target="POWER PRINCESS/ZARDA">
-      <data key="d3">2</data>
+    <edge source="DEVIL-SLAYER/ERIC SI" target="WONG">
+      <data key="d3">4</data>
     </edge>
-    <edge source="HULK/DR. ROBERT BRUC" target="TALBOT, GLENN">
-      <data key="d3">63</data>
-    </edge>
-    <edge source="HULK/DR. ROBERT BRUC" target="VAPOR">
+    <edge source="DR. STRANGE/STEPHEN " target="ANDROMEDA/ANDROMEDA ">
       <data key="d3">3</data>
     </edge>
-    <edge source="HULK/DR. ROBERT BRUC" target="WONG">
-      <data key="d3">18</data>
-    </edge>
-    <edge source="HULK/DR. ROBERT BRUC" target="RINTRAH">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="HELLSTORM/DAIMON HEL" target="CLEA">
+    <edge source="DR. STRANGE/STEPHEN " target="ARCANNA/ARCANNA JONE">
       <data key="d3">4</data>
     </edge>
-    <edge source="HELLSTORM/DAIMON HEL" target="GARGOYLE II/ISAAC CH">
-      <data key="d3">17</data>
-    </edge>
-    <edge source="HELLSTORM/DAIMON HEL" target="HELLCAT/PATSY WALKER">
-      <data key="d3">24</data>
-    </edge>
-    <edge source="HELLSTORM/DAIMON HEL" target="DR. SPECTRUM/JOSEPH ">
+    <edge source="DR. STRANGE/STEPHEN " target="BALLANTINE, KAYLA">
       <data key="d3">2</data>
     </edge>
-    <edge source="HELLSTORM/DAIMON HEL" target="WONG">
-      <data key="d3">4</data>
+    <edge source="DR. STRANGE/STEPHEN " target="BANNER, BETTY ROSS T">
+      <data key="d3">6</data>
     </edge>
-    <edge source="HELLSTORM/DAIMON HEL" target="LADY LARK/LINDA LEWI">
+    <edge source="DR. STRANGE/STEPHEN " target="BEREET">
       <data key="d3">2</data>
     </edge>
-    <edge source="HELLSTORM/DAIMON HEL" target="POWER PRINCESS/ZARDA">
-      <data key="d3">2</data>
+    <edge source="DR. STRANGE/STEPHEN " target="DRACULA/VLAD TEPES">
+      <data key="d3">6</data>
     </edge>
-    <edge source="LEADER/SAM STERNS" target="BANNER, BETTY ROSS T">
-      <data key="d3">27</data>
+    <edge source="DR. STRANGE/STEPHEN " target="GARGOYLE II/ISAAC CH">
+      <data key="d3">20</data>
     </edge>
-    <edge source="LEADER/SAM STERNS" target="DOC SAMSON/DR. LEONA">
+    <edge source="DR. STRANGE/STEPHEN " target="GHOST RIDER II/JOHNN">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="DR. STRANGE/STEPHEN " target="GHOST RIDER III/DAN ">
       <data key="d3">12</data>
     </edge>
-    <edge source="LEADER/SAM STERNS" target="IRONCLAD">
+    <edge source="DR. STRANGE/STEPHEN " target="HELLCAT/PATSY WALKER">
+      <data key="d3">27</data>
+    </edge>
+    <edge source="DR. STRANGE/STEPHEN " target="HELLSTORM/DAIMON HEL">
+      <data key="d3">22</data>
+    </edge>
+    <edge source="DR. STRANGE/STEPHEN " target="HULK/DR. ROBERT BRUC">
+      <data key="d3">79</data>
+    </edge>
+    <edge source="DR. STRANGE/STEPHEN " target="HYPERION">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="DR. STRANGE/STEPHEN " target="LEADER/SAM STERNS">
       <data key="d3">3</data>
     </edge>
-    <edge source="LEADER/SAM STERNS" target="JONES, RICHARD MILHO">
-      <data key="d3">18</data>
+    <edge source="DR. STRANGE/STEPHEN " target="NORRISS, SISTER BARB">
+      <data key="d3">59</data>
+    </edge>
+    <edge source="DR. STRANGE/STEPHEN " target="TALBOT, GLENN">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="DR. STRANGE/STEPHEN " target="WHIZZER II/STANLEY S">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="DR. STRANGE/STEPHEN " target="WONG">
+      <data key="d3">104</data>
+    </edge>
+    <edge source="DR. STRANGE/STEPHEN " target="IRONCLAD">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="DR. STRANGE/STEPHEN " target="JONES, MARLO CHANDLE">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="DR. STRANGE/STEPHEN " target="LADY LARK/LINDA LEWI">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="DR. STRANGE/STEPHEN " target="TANAKA, KENJIRO">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="DR. STRANGE/STEPHEN " target="VAPOR">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="TANAKA, KENJIRO" target="ARCANNA/ARCANNA JONE">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="TANAKA, KENJIRO" target="BALLANTINE, KAYLA">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="TANAKA, KENJIRO" target="GARGOYLE II/ISAAC CH">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="TANAKA, KENJIRO" target="GHOST RIDER III/DAN ">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="TANAKA, KENJIRO" target="HYPERION">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="TANAKA, KENJIRO" target="LADY LARK/LINDA LEWI">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="TANAKA, KENJIRO" target="WHIZZER II/STANLEY S">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="IRONCLAD" target="BANNER, BETTY ROSS T">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="IRONCLAD" target="BEREET">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="IRONCLAD" target="HELLCAT/PATSY WALKER">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="IRONCLAD" target="HULK/DR. ROBERT BRUC">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="IRONCLAD" target="LEADER/SAM STERNS">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="IRONCLAD" target="VAPOR">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="IRONCLAD" target="JONES, MARLO CHANDLE">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="CAPTAIN MARVEL III/G" target="HULK/DR. ROBERT BRUC">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="CAPTAIN MARVEL III/G" target="JONES, MARLO CHANDLE">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="BANNER, BETTY ROSS T" target="BEREET">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="BANNER, BETTY ROSS T" target="HELLCAT/PATSY WALKER">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="BANNER, BETTY ROSS T" target="HULK/DR. ROBERT BRUC">
+      <data key="d3">120</data>
+    </edge>
+    <edge source="BANNER, BETTY ROSS T" target="JONES, MARLO CHANDLE">
+      <data key="d3">20</data>
+    </edge>
+    <edge source="BANNER, BETTY ROSS T" target="LEADER/SAM STERNS">
+      <data key="d3">27</data>
+    </edge>
+    <edge source="BANNER, BETTY ROSS T" target="NORRISS, SISTER BARB">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="BANNER, BETTY ROSS T" target="TALBOT, GLENN">
+      <data key="d3">52</data>
+    </edge>
+    <edge source="BANNER, BETTY ROSS T" target="VAPOR">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="BANNER, BETTY ROSS T" target="WONG">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="NORRISS, SISTER BARB" target="ANDROMEDA/ANDROMEDA ">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="NORRISS, SISTER BARB" target="GARGOYLE II/ISAAC CH">
+      <data key="d3">28</data>
+    </edge>
+    <edge source="NORRISS, SISTER BARB" target="GHOST RIDER II/JOHNN">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="NORRISS, SISTER BARB" target="HELLCAT/PATSY WALKER">
+      <data key="d3">44</data>
+    </edge>
+    <edge source="NORRISS, SISTER BARB" target="HELLSTORM/DAIMON HEL">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="NORRISS, SISTER BARB" target="HULK/DR. ROBERT BRUC">
+      <data key="d3">48</data>
+    </edge>
+    <edge source="NORRISS, SISTER BARB" target="HYPERION">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="NORRISS, SISTER BARB" target="LADY LARK/LINDA LEWI">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="NORRISS, SISTER BARB" target="ARCANNA/ARCANNA JONE">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="NORRISS, SISTER BARB" target="DRACULA/VLAD TEPES">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="NORRISS, SISTER BARB" target="WHIZZER II/STANLEY S">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="NORRISS, SISTER BARB" target="WONG">
+      <data key="d3">19</data>
+    </edge>
+    <edge source="NORRISS, SISTER BARB" target="TALBOT, GLENN">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="LEADER/SAM STERNS" target="BEREET">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="LEADER/SAM STERNS" target="HULK/DR. ROBERT BRUC">
+      <data key="d3">36</data>
+    </edge>
+    <edge source="LEADER/SAM STERNS" target="JONES, MARLO CHANDLE">
+      <data key="d3">2</data>
     </edge>
     <edge source="LEADER/SAM STERNS" target="HELLCAT/PATSY WALKER">
       <data key="d3">2</data>
@@ -922,122 +874,170 @@
     <edge source="LEADER/SAM STERNS" target="VAPOR">
       <data key="d3">2</data>
     </edge>
-    <edge source="GARGOYLE II/ISAAC CH" target="CLEA">
-      <data key="d3">7</data>
+    <edge source="BEREET" target="HULK/DR. ROBERT BRUC">
+      <data key="d3">11</data>
     </edge>
-    <edge source="GARGOYLE II/ISAAC CH" target="DOC SAMSON/DR. LEONA">
+    <edge source="BEREET" target="GARGOYLE II/ISAAC CH">
       <data key="d3">2</data>
     </edge>
-    <edge source="GARGOYLE II/ISAAC CH" target="DR. SPECTRUM/JOSEPH ">
+    <edge source="BEREET" target="HELLCAT/PATSY WALKER">
       <data key="d3">3</data>
     </edge>
-    <edge source="GARGOYLE II/ISAAC CH" target="HELLCAT/PATSY WALKER">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="GARGOYLE II/ISAAC CH" target="JONES, RICHARD MILHO">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="GARGOYLE II/ISAAC CH" target="POWER PRINCESS/ZARDA">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="GARGOYLE II/ISAAC CH" target="WONG">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="GARGOYLE II/ISAAC CH" target="LADY LARK/LINDA LEWI">
+    <edge source="BEREET" target="VAPOR">
       <data key="d3">3</data>
     </edge>
-    <edge source="MAN-THING/THEODORE T" target="BANNER, BETTY ROSS T">
+    <edge source="WONG" target="DRACULA/VLAD TEPES">
       <data key="d3">2</data>
     </edge>
-    <edge source="MAN-THING/THEODORE T" target="JONES, RICHARD MILHO">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MAN-THING/THEODORE T" target="WONG">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="WONG" target="BANNER, BETTY ROSS T">
+    <edge source="WONG" target="GARGOYLE II/ISAAC CH">
       <data key="d3">4</data>
-    </edge>
-    <edge source="WONG" target="CLEA">
-      <data key="d3">53</data>
     </edge>
     <edge source="WONG" target="HELLCAT/PATSY WALKER">
       <data key="d3">12</data>
     </edge>
-    <edge source="WONG" target="JONES, RICHARD MILHO">
-      <data key="d3">3</data>
+    <edge source="WONG" target="HELLSTORM/DAIMON HEL">
+      <data key="d3">4</data>
     </edge>
-    <edge source="WONG" target="RINTRAH">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="TALBOT, GLENN" target="BANNER, BETTY ROSS T">
-      <data key="d3">52</data>
-    </edge>
-    <edge source="TALBOT, GLENN" target="DOC SAMSON/DR. LEONA">
+    <edge source="WONG" target="HULK/DR. ROBERT BRUC">
       <data key="d3">18</data>
     </edge>
-    <edge source="TALBOT, GLENN" target="JONES, RICHARD MILHO">
-      <data key="d3">19</data>
-    </edge>
-    <edge source="HELLCAT/PATSY WALKER" target="BANNER, BETTY ROSS T">
+    <edge source="WONG" target="JONES, MARLO CHANDLE">
       <data key="d3">2</data>
     </edge>
-    <edge source="HELLCAT/PATSY WALKER" target="CLEA">
+    <edge source="WONG" target="GHOST RIDER II/JOHNN">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="VAPOR" target="HULK/DR. ROBERT BRUC">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="ARCANNA/ARCANNA JONE" target="BALLANTINE, KAYLA">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="ARCANNA/ARCANNA JONE" target="HYPERION">
+      <data key="d3">15</data>
+    </edge>
+    <edge source="ARCANNA/ARCANNA JONE" target="LADY LARK/LINDA LEWI">
+      <data key="d3">15</data>
+    </edge>
+    <edge source="ARCANNA/ARCANNA JONE" target="WHIZZER II/STANLEY S">
+      <data key="d3">17</data>
+    </edge>
+    <edge source="ARCANNA/ARCANNA JONE" target="GARGOYLE II/ISAAC CH">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="ARCANNA/ARCANNA JONE" target="HELLSTORM/DAIMON HEL">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="ARCANNA/ARCANNA JONE" target="HULK/DR. ROBERT BRUC">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="JONES, MARLO CHANDLE" target="HULK/DR. ROBERT BRUC">
+      <data key="d3">29</data>
+    </edge>
+    <edge source="ANDROMEDA/ANDROMEDA " target="GARGOYLE II/ISAAC CH">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="WHIZZER II/STANLEY S" target="BALLANTINE, KAYLA">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="WHIZZER II/STANLEY S" target="GARGOYLE II/ISAAC CH">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="WHIZZER II/STANLEY S" target="HELLCAT/PATSY WALKER">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="WHIZZER II/STANLEY S" target="HELLSTORM/DAIMON HEL">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="WHIZZER II/STANLEY S" target="HULK/DR. ROBERT BRUC">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="WHIZZER II/STANLEY S" target="HYPERION">
+      <data key="d3">16</data>
+    </edge>
+    <edge source="WHIZZER II/STANLEY S" target="LADY LARK/LINDA LEWI">
+      <data key="d3">17</data>
+    </edge>
+    <edge source="BALLANTINE, KAYLA" target="HYPERION">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="BALLANTINE, KAYLA" target="LADY LARK/LINDA LEWI">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="BALLANTINE, KAYLA" target="GARGOYLE II/ISAAC CH">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="BALLANTINE, KAYLA" target="GHOST RIDER III/DAN ">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="HELLSTORM/DAIMON HEL" target="DRACULA/VLAD TEPES">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="HELLSTORM/DAIMON HEL" target="GARGOYLE II/ISAAC CH">
+      <data key="d3">17</data>
+    </edge>
+    <edge source="HELLSTORM/DAIMON HEL" target="HELLCAT/PATSY WALKER">
+      <data key="d3">24</data>
+    </edge>
+    <edge source="HELLSTORM/DAIMON HEL" target="GHOST RIDER II/JOHNN">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="HELLSTORM/DAIMON HEL" target="HULK/DR. ROBERT BRUC">
       <data key="d3">11</data>
     </edge>
-    <edge source="HELLCAT/PATSY WALKER" target="DOC SAMSON/DR. LEONA">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="HELLCAT/PATSY WALKER" target="DR. SPECTRUM/JOSEPH ">
+    <edge source="HELLSTORM/DAIMON HEL" target="HYPERION">
       <data key="d3">3</data>
     </edge>
-    <edge source="HELLCAT/PATSY WALKER" target="IRONCLAD">
+    <edge source="HELLSTORM/DAIMON HEL" target="LADY LARK/LINDA LEWI">
       <data key="d3">2</data>
     </edge>
-    <edge source="HELLCAT/PATSY WALKER" target="JONES, RICHARD MILHO">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="HELLCAT/PATSY WALKER" target="LADY LARK/LINDA LEWI">
+    <edge source="LADY LARK/LINDA LEWI" target="HELLCAT/PATSY WALKER">
       <data key="d3">3</data>
     </edge>
-    <edge source="RINTRAH" target="CLEA">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="RINTRAH" target="WEREWOLF BY NIGHT/JA">
+    <edge source="LADY LARK/LINDA LEWI" target="HULK/DR. ROBERT BRUC">
       <data key="d3">2</data>
     </edge>
-    <edge source="VAPOR" target="BANNER, BETTY ROSS T">
+    <edge source="LADY LARK/LINDA LEWI" target="HYPERION">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="LADY LARK/LINDA LEWI" target="GARGOYLE II/ISAAC CH">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="HULK/DR. ROBERT BRUC" target="GARGOYLE II/ISAAC CH">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="HULK/DR. ROBERT BRUC" target="GHOST RIDER II/JOHNN">
       <data key="d3">2</data>
     </edge>
-    <edge source="VAPOR" target="IRONCLAD">
-      <data key="d3">8</data>
+    <edge source="HULK/DR. ROBERT BRUC" target="GHOST RIDER III/DAN ">
+      <data key="d3">3</data>
     </edge>
-    <edge source="VAPOR" target="JONES, RICHARD MILHO">
+    <edge source="HULK/DR. ROBERT BRUC" target="HELLCAT/PATSY WALKER">
+      <data key="d3">43</data>
+    </edge>
+    <edge source="HULK/DR. ROBERT BRUC" target="HYPERION">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="HULK/DR. ROBERT BRUC" target="TALBOT, GLENN">
+      <data key="d3">63</data>
+    </edge>
+    <edge source="GARGOYLE II/ISAAC CH" target="GHOST RIDER II/JOHNN">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="GARGOYLE II/ISAAC CH" target="HELLCAT/PATSY WALKER">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="GARGOYLE II/ISAAC CH" target="HYPERION">
       <data key="d3">2</data>
     </edge>
-    <edge source="IRONCLAD" target="BANNER, BETTY ROSS T">
+    <edge source="HELLCAT/PATSY WALKER" target="GHOST RIDER II/JOHNN">
       <data key="d3">2</data>
     </edge>
-    <edge source="IRONCLAD" target="JONES, RICHARD MILHO">
-      <data key="d3">6</data>
+    <edge source="HELLCAT/PATSY WALKER" target="HYPERION">
+      <data key="d3">2</data>
     </edge>
-    <edge source="LADY LARK/LINDA LEWI" target="DR. SPECTRUM/JOSEPH ">
-      <data key="d3">17</data>
-    </edge>
-    <edge source="LADY LARK/LINDA LEWI" target="POWER PRINCESS/ZARDA">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="DOC SAMSON/DR. LEONA" target="BANNER, BETTY ROSS T">
-      <data key="d3">33</data>
-    </edge>
-    <edge source="DOC SAMSON/DR. LEONA" target="JONES, RICHARD MILHO">
-      <data key="d3">17</data>
-    </edge>
-    <edge source="JONES, RICHARD MILHO" target="BANNER, BETTY ROSS T">
-      <data key="d3">58</data>
-    </edge>
-    <edge source="POWER PRINCESS/ZARDA" target="DR. SPECTRUM/JOSEPH ">
-      <data key="d3">13</data>
+    <edge source="GHOST RIDER III/DAN " target="GHOST RIDER II/JOHNN">
+      <data key="d3">16</data>
     </edge>
   </graph>
 </graphml>

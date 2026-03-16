@@ -5,517 +5,613 @@
   <key id="d1" for="node" attr.name="degree" attr.type="long" />
   <key id="d0" for="node" attr.name="community" attr.type="long" />
   <graph edgedefault="undirected">
-    <node id="IRON MAN IV/JAMES R.">
+    <node id="IRON MAN/TONY STARK ">
       <data key="d0">8</data>
-      <data key="d1">186</data>
-      <data key="d2">0.005221352811641183</data>
-    </node>
-    <node id="STARFOX/EROS">
-      <data key="d0">8</data>
-      <data key="d1">195</data>
-      <data key="d2">0.001437216410067903</data>
-    </node>
-    <node id="CAPTAIN AMERICA">
-      <data key="d0">8</data>
-      <data key="d1">1008</data>
-      <data key="d2">0.0608664370649544</data>
-    </node>
-    <node id="LIVING LIGHTNING/MIG">
-      <data key="d0">8</data>
-      <data key="d1">192</data>
-      <data key="d2">0.0010585794152418123</data>
-    </node>
-    <node id="BLACK WIDOW/NATASHA ">
-      <data key="d0">8</data>
-      <data key="d1">396</data>
-      <data key="d2">0.011778561648960033</data>
-    </node>
-    <node id="MOCKINGBIRD/DR. BARB">
-      <data key="d0">8</data>
-      <data key="d1">212</data>
-      <data key="d2">0.005581966732041762</data>
-    </node>
-    <node id="WONDER MAN/SIMON WIL">
-      <data key="d0">8</data>
-      <data key="d1">476</data>
-      <data key="d2">0.00755216745974955</data>
-    </node>
-    <node id="HAWK">
-      <data key="d0">8</data>
-      <data key="d1">594</data>
-      <data key="d2">0.03438619178155439</data>
-    </node>
-    <node id="SERSI/SYLVIA">
-      <data key="d0">8</data>
-      <data key="d1">241</data>
-      <data key="d2">0.00718831968665226</data>
-    </node>
-    <node id="VISION ">
-      <data key="d0">8</data>
-      <data key="d1">593</data>
-      <data key="d2">0.011200631191170438</data>
-    </node>
-    <node id="DARKSTAR/LAYNIA SERG">
-      <data key="d0">8</data>
-      <data key="d1">129</data>
-      <data key="d2">0.0016381866994408568</data>
-    </node>
-    <node id="PHARAOH RAMA-TUT">
-      <data key="d0">8</data>
-      <data key="d1">171</data>
-      <data key="d2">0.0015607949877867902</data>
-    </node>
-    <node id="MOONDRAGON/HEATHER D">
-      <data key="d0">8</data>
-      <data key="d1">256</data>
-      <data key="d2">0.003334780407384115</data>
-    </node>
-    <node id="SCARLET WITCH/WANDA ">
-      <data key="d0">8</data>
-      <data key="d1">651</data>
-      <data key="d2">0.019366025728656592</data>
-    </node>
-    <node id="VANGUARD/NICOLAI KRY">
-      <data key="d0">8</data>
-      <data key="d1">114</data>
-      <data key="d2">0.0007985614041409392</data>
+      <data key="d1">760</data>
+      <data key="d2">0.027778376992241123</data>
     </node>
     <node id="BINARY/CAROL DANVERS">
       <data key="d0">8</data>
       <data key="d1">252</data>
       <data key="d2">0.005568489647127195</data>
     </node>
-    <node id="QUASAR III/WENDELL V">
-      <data key="d0">8</data>
-      <data key="d1">354</data>
-      <data key="d2">0.006380361196682608</data>
-    </node>
-    <node id="FALCON/SAM WILSON">
-      <data key="d0">8</data>
-      <data key="d1">260</data>
-      <data key="d2">0.004075239850799571</data>
-    </node>
-    <node id="USAGENT/CAPTAIN JOHN">
-      <data key="d0">8</data>
-      <data key="d1">300</data>
-      <data key="d2">0.007883843380319222</data>
-    </node>
-    <node id="JACK OF HEARTS/JACK ">
-      <data key="d0">8</data>
-      <data key="d1">132</data>
-      <data key="d2">0.007226406303353321</data>
-    </node>
-    <node id="BLACK KNIGHT V/DANE ">
-      <data key="d0">8</data>
-      <data key="d1">352</data>
-      <data key="d2">0.004625775075918354</data>
-    </node>
-    <node id="HERCULES [GREEK GOD]">
-      <data key="d0">8</data>
-      <data key="d1">463</data>
-      <data key="d2">0.007939961562453518</data>
-    </node>
-    <node id="ANT-MAN/DR. HENRY J.">
-      <data key="d0">8</data>
-      <data key="d1">471</data>
-      <data key="d2">0.0128545069720317</data>
-    </node>
-    <node id="RED SKULL/JOHANN SCH">
-      <data key="d0">8</data>
-      <data key="d1">118</data>
-      <data key="d2">0.0044262612385014425</data>
-    </node>
-    <node id="TIGRA/GREER NELSON">
-      <data key="d0">8</data>
-      <data key="d1">229</data>
-      <data key="d2">0.003147158161960069</data>
-    </node>
-    <node id="FURY, COL. NICHOLAS ">
-      <data key="d0">8</data>
-      <data key="d1">393</data>
-      <data key="d2">0.02718643964252145</data>
-    </node>
-    <node id="CRYSTAL [INHUMAN]">
-      <data key="d0">8</data>
-      <data key="d1">295</data>
-      <data key="d2">0.005415772792513591</data>
-    </node>
-    <node id="STINGRAY/DR. WALTER ">
-      <data key="d0">8</data>
-      <data key="d1">127</data>
-      <data key="d2">0.0011754956589259517</data>
-    </node>
-    <node id="JARVIS, EDWIN ">
-      <data key="d0">8</data>
-      <data key="d1">382</data>
-      <data key="d2">0.009307152978294738</data>
-    </node>
-    <node id="BLACK PANTHER/T'CHAL">
-      <data key="d0">8</data>
-      <data key="d1">302</data>
-      <data key="d2">0.009745165179928933</data>
-    </node>
-    <node id="SHE-HULK/JENNIFER WA">
-      <data key="d0">8</data>
-      <data key="d1">490</data>
-      <data key="d2">0.019594398635746066</data>
-    </node>
-    <node id="GYRICH, HENRY PETER">
-      <data key="d0">8</data>
-      <data key="d1">144</data>
-      <data key="d2">0.0014970126521303081</data>
-    </node>
     <node id="SPIDER-WOMAN II/JULI">
       <data key="d0">8</data>
       <data key="d1">207</data>
       <data key="d2">0.0034663461498842655</data>
     </node>
-    <node id="DR. DRUID/ANTHONY LU">
+    <node id="SERSI/SYLVIA">
       <data key="d0">8</data>
-      <data key="d1">184</data>
-      <data key="d2">0.003288134285180417</data>
+      <data key="d1">241</data>
+      <data key="d2">0.00718831968665226</data>
     </node>
-    <node id="DUGAN, TIMOTHY ALOYI">
+    <node id="LIVING LIGHTNING/MIG">
       <data key="d0">8</data>
-      <data key="d1">186</data>
-      <data key="d2">0.0046614127088511845</data>
+      <data key="d1">192</data>
+      <data key="d2">0.0010585794152418123</data>
     </node>
-    <node id="WASP/JANET VAN DYNE ">
+    <node id="VISION ">
       <data key="d0">8</data>
-      <data key="d1">520</data>
-      <data key="d2">0.007369494176125269</data>
-    </node>
-    <node id="QUICKSILVER/PIETRO M">
-      <data key="d0">8</data>
-      <data key="d1">436</data>
-      <data key="d2">0.0070161997271416055</data>
-    </node>
-    <node id="IRON MAN/TONY STARK ">
-      <data key="d0">8</data>
-      <data key="d1">760</data>
-      <data key="d2">0.027778376992241123</data>
-    </node>
-    <node id="MACHINE MAN/X-51">
-      <data key="d0">8</data>
-      <data key="d1">121</data>
-      <data key="d2">0.0009143378189045749</data>
+      <data key="d1">593</data>
+      <data key="d2">0.011200631191170438</data>
     </node>
     <node id="CAPTAIN MARVEL II/MO">
       <data key="d0">8</data>
       <data key="d1">235</data>
       <data key="d2">0.00281737748202985</data>
     </node>
-    <edge source="IRON MAN IV/JAMES R." target="ANT-MAN/DR. HENRY J.">
-      <data key="d3">5</data>
+    <node id="JACK OF HEARTS/JACK ">
+      <data key="d0">8</data>
+      <data key="d1">132</data>
+      <data key="d2">0.007226406303353321</data>
+    </node>
+    <node id="CAPTAIN AMERICA">
+      <data key="d0">8</data>
+      <data key="d1">1008</data>
+      <data key="d2">0.0608664370649544</data>
+    </node>
+    <node id="ANT-MAN/DR. HENRY J.">
+      <data key="d0">8</data>
+      <data key="d1">471</data>
+      <data key="d2">0.0128545069720317</data>
+    </node>
+    <node id="CRYSTAL [INHUMAN]">
+      <data key="d0">8</data>
+      <data key="d1">295</data>
+      <data key="d2">0.005415772792513591</data>
+    </node>
+    <node id="GYRICH, HENRY PETER">
+      <data key="d0">8</data>
+      <data key="d1">144</data>
+      <data key="d2">0.0014970126521303081</data>
+    </node>
+    <node id="FALCON/SAM WILSON">
+      <data key="d0">8</data>
+      <data key="d1">260</data>
+      <data key="d2">0.004075239850799571</data>
+    </node>
+    <node id="BLACK PANTHER/T'CHAL">
+      <data key="d0">8</data>
+      <data key="d1">302</data>
+      <data key="d2">0.009745165179928933</data>
+    </node>
+    <node id="HAWK">
+      <data key="d0">8</data>
+      <data key="d1">594</data>
+      <data key="d2">0.03438619178155439</data>
+    </node>
+    <node id="DUGAN, TIMOTHY ALOYI">
+      <data key="d0">8</data>
+      <data key="d1">186</data>
+      <data key="d2">0.0046614127088511845</data>
+    </node>
+    <node id="WONDER MAN/SIMON WIL">
+      <data key="d0">8</data>
+      <data key="d1">476</data>
+      <data key="d2">0.00755216745974955</data>
+    </node>
+    <node id="TIGRA/GREER NELSON">
+      <data key="d0">8</data>
+      <data key="d1">229</data>
+      <data key="d2">0.003147158161960069</data>
+    </node>
+    <node id="IRON MAN IV/JAMES R.">
+      <data key="d0">8</data>
+      <data key="d1">186</data>
+      <data key="d2">0.005221352811641183</data>
+    </node>
+    <node id="VANGUARD/NICOLAI KRY">
+      <data key="d0">8</data>
+      <data key="d1">114</data>
+      <data key="d2">0.0007985614041409392</data>
+    </node>
+    <node id="DARKSTAR/LAYNIA SERG">
+      <data key="d0">8</data>
+      <data key="d1">129</data>
+      <data key="d2">0.0016381866994408568</data>
+    </node>
+    <node id="MOCKINGBIRD/DR. BARB">
+      <data key="d0">8</data>
+      <data key="d1">212</data>
+      <data key="d2">0.005581966732041762</data>
+    </node>
+    <node id="HERCULES [GREEK GOD]">
+      <data key="d0">8</data>
+      <data key="d1">463</data>
+      <data key="d2">0.007939961562453518</data>
+    </node>
+    <node id="BLACK KNIGHT V/DANE ">
+      <data key="d0">8</data>
+      <data key="d1">352</data>
+      <data key="d2">0.004625775075918354</data>
+    </node>
+    <node id="DR. DRUID/ANTHONY LU">
+      <data key="d0">8</data>
+      <data key="d1">184</data>
+      <data key="d2">0.003288134285180417</data>
+    </node>
+    <node id="SCARLET WITCH/WANDA ">
+      <data key="d0">8</data>
+      <data key="d1">651</data>
+      <data key="d2">0.019366025728656592</data>
+    </node>
+    <node id="USAGENT/CAPTAIN JOHN">
+      <data key="d0">8</data>
+      <data key="d1">300</data>
+      <data key="d2">0.007883843380319222</data>
+    </node>
+    <node id="QUASAR III/WENDELL V">
+      <data key="d0">8</data>
+      <data key="d1">354</data>
+      <data key="d2">0.006380361196682608</data>
+    </node>
+    <node id="SHE-HULK/JENNIFER WA">
+      <data key="d0">8</data>
+      <data key="d1">490</data>
+      <data key="d2">0.019594398635746066</data>
+    </node>
+    <node id="MOONDRAGON/HEATHER D">
+      <data key="d0">8</data>
+      <data key="d1">256</data>
+      <data key="d2">0.003334780407384115</data>
+    </node>
+    <node id="STARFOX/EROS">
+      <data key="d0">8</data>
+      <data key="d1">195</data>
+      <data key="d2">0.001437216410067903</data>
+    </node>
+    <node id="WASP/JANET VAN DYNE ">
+      <data key="d0">8</data>
+      <data key="d1">520</data>
+      <data key="d2">0.007369494176125269</data>
+    </node>
+    <node id="RED SKULL/JOHANN SCH">
+      <data key="d0">8</data>
+      <data key="d1">118</data>
+      <data key="d2">0.0044262612385014425</data>
+    </node>
+    <node id="JARVIS, EDWIN ">
+      <data key="d0">8</data>
+      <data key="d1">382</data>
+      <data key="d2">0.009307152978294738</data>
+    </node>
+    <node id="FURY, COL. NICHOLAS ">
+      <data key="d0">8</data>
+      <data key="d1">393</data>
+      <data key="d2">0.02718643964252145</data>
+    </node>
+    <node id="MACHINE MAN/X-51">
+      <data key="d0">8</data>
+      <data key="d1">121</data>
+      <data key="d2">0.0009143378189045749</data>
+    </node>
+    <node id="STINGRAY/DR. WALTER ">
+      <data key="d0">8</data>
+      <data key="d1">127</data>
+      <data key="d2">0.0011754956589259517</data>
+    </node>
+    <node id="BLACK WIDOW/NATASHA ">
+      <data key="d0">8</data>
+      <data key="d1">396</data>
+      <data key="d2">0.011778561648960033</data>
+    </node>
+    <node id="PHARAOH RAMA-TUT">
+      <data key="d0">8</data>
+      <data key="d1">171</data>
+      <data key="d2">0.0015607949877867902</data>
+    </node>
+    <node id="QUICKSILVER/PIETRO M">
+      <data key="d0">8</data>
+      <data key="d1">436</data>
+      <data key="d2">0.0070161997271416055</data>
+    </node>
+    <edge source="IRON MAN/TONY STARK " target="ANT-MAN/DR. HENRY J.">
+      <data key="d3">135</data>
     </edge>
-    <edge source="IRON MAN IV/JAMES R." target="BLACK PANTHER/T'CHAL">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="IRON MAN IV/JAMES R." target="BLACK WIDOW/NATASHA ">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="IRON MAN IV/JAMES R." target="CAPTAIN AMERICA">
-      <data key="d3">21</data>
-    </edge>
-    <edge source="IRON MAN IV/JAMES R." target="CAPTAIN MARVEL II/MO">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="IRON MAN IV/JAMES R." target="CRYSTAL [INHUMAN]">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="IRON MAN IV/JAMES R." target="FURY, COL. NICHOLAS ">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="IRON MAN IV/JAMES R." target="GYRICH, HENRY PETER">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="IRON MAN IV/JAMES R." target="HAWK">
-      <data key="d3">25</data>
-    </edge>
-    <edge source="IRON MAN IV/JAMES R." target="HERCULES [GREEK GOD]">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="IRON MAN IV/JAMES R." target="BINARY/CAROL DANVERS">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="IRON MAN IV/JAMES R." target="FALCON/SAM WILSON">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="IRON MAN IV/JAMES R." target="IRON MAN/TONY STARK ">
-      <data key="d3">97</data>
-    </edge>
-    <edge source="IRON MAN IV/JAMES R." target="JARVIS, EDWIN ">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="IRON MAN IV/JAMES R." target="LIVING LIGHTNING/MIG">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="IRON MAN IV/JAMES R." target="MOCKINGBIRD/DR. BARB">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="IRON MAN IV/JAMES R." target="PHARAOH RAMA-TUT">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="IRON MAN IV/JAMES R." target="QUICKSILVER/PIETRO M">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="IRON MAN IV/JAMES R." target="SCARLET WITCH/WANDA ">
-      <data key="d3">19</data>
-    </edge>
-    <edge source="IRON MAN IV/JAMES R." target="SHE-HULK/JENNIFER WA">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="IRON MAN IV/JAMES R." target="SPIDER-WOMAN II/JULI">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="IRON MAN IV/JAMES R." target="STARFOX/EROS">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="IRON MAN IV/JAMES R." target="TIGRA/GREER NELSON">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="IRON MAN IV/JAMES R." target="USAGENT/CAPTAIN JOHN">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="IRON MAN IV/JAMES R." target="VISION ">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="IRON MAN IV/JAMES R." target="WASP/JANET VAN DYNE ">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="IRON MAN IV/JAMES R." target="WONDER MAN/SIMON WIL">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="IRON MAN IV/JAMES R." target="MOONDRAGON/HEATHER D">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="STARFOX/EROS" target="ANT-MAN/DR. HENRY J.">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="STARFOX/EROS" target="BINARY/CAROL DANVERS">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="STARFOX/EROS" target="BLACK KNIGHT V/DANE ">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="STARFOX/EROS" target="BLACK PANTHER/T'CHAL">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="STARFOX/EROS" target="BLACK WIDOW/NATASHA ">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="STARFOX/EROS" target="CAPTAIN AMERICA">
-      <data key="d3">33</data>
-    </edge>
-    <edge source="STARFOX/EROS" target="CAPTAIN MARVEL II/MO">
-      <data key="d3">34</data>
-    </edge>
-    <edge source="STARFOX/EROS" target="CRYSTAL [INHUMAN]">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="STARFOX/EROS" target="FALCON/SAM WILSON">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="STARFOX/EROS" target="FURY, COL. NICHOLAS ">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="STARFOX/EROS" target="GYRICH, HENRY PETER">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="STARFOX/EROS" target="HAWK">
-      <data key="d3">20</data>
-    </edge>
-    <edge source="STARFOX/EROS" target="HERCULES [GREEK GOD]">
-      <data key="d3">16</data>
-    </edge>
-    <edge source="STARFOX/EROS" target="IRON MAN/TONY STARK ">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="STARFOX/EROS" target="JACK OF HEARTS/JACK ">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="STARFOX/EROS" target="JARVIS, EDWIN ">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="STARFOX/EROS" target="LIVING LIGHTNING/MIG">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="STARFOX/EROS" target="MACHINE MAN/X-51">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="STARFOX/EROS" target="MOCKINGBIRD/DR. BARB">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="STARFOX/EROS" target="MOONDRAGON/HEATHER D">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="STARFOX/EROS" target="PHARAOH RAMA-TUT">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="STARFOX/EROS" target="QUASAR III/WENDELL V">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="STARFOX/EROS" target="QUICKSILVER/PIETRO M">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="STARFOX/EROS" target="SCARLET WITCH/WANDA ">
-      <data key="d3">29</data>
-    </edge>
-    <edge source="STARFOX/EROS" target="SERSI/SYLVIA">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="STARFOX/EROS" target="SHE-HULK/JENNIFER WA">
-      <data key="d3">21</data>
-    </edge>
-    <edge source="STARFOX/EROS" target="SPIDER-WOMAN II/JULI">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="STARFOX/EROS" target="RED SKULL/JOHANN SCH">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="STARFOX/EROS" target="STINGRAY/DR. WALTER ">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="STARFOX/EROS" target="TIGRA/GREER NELSON">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="STARFOX/EROS" target="USAGENT/CAPTAIN JOHN">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="STARFOX/EROS" target="VISION ">
+    <edge source="IRON MAN/TONY STARK " target="BINARY/CAROL DANVERS">
       <data key="d3">36</data>
     </edge>
-    <edge source="STARFOX/EROS" target="WASP/JANET VAN DYNE ">
-      <data key="d3">29</data>
+    <edge source="IRON MAN/TONY STARK " target="BLACK KNIGHT V/DANE ">
+      <data key="d3">26</data>
     </edge>
-    <edge source="STARFOX/EROS" target="WONDER MAN/SIMON WIL">
-      <data key="d3">8</data>
+    <edge source="IRON MAN/TONY STARK " target="BLACK PANTHER/T'CHAL">
+      <data key="d3">61</data>
     </edge>
-    <edge source="CAPTAIN AMERICA" target="ANT-MAN/DR. HENRY J.">
-      <data key="d3">141</data>
+    <edge source="IRON MAN/TONY STARK " target="BLACK WIDOW/NATASHA ">
+      <data key="d3">41</data>
     </edge>
-    <edge source="CAPTAIN AMERICA" target="BINARY/CAROL DANVERS">
-      <data key="d3">32</data>
-    </edge>
-    <edge source="CAPTAIN AMERICA" target="BLACK KNIGHT V/DANE ">
-      <data key="d3">54</data>
-    </edge>
-    <edge source="CAPTAIN AMERICA" target="BLACK PANTHER/T'CHAL">
-      <data key="d3">69</data>
-    </edge>
-    <edge source="CAPTAIN AMERICA" target="BLACK WIDOW/NATASHA ">
-      <data key="d3">55</data>
-    </edge>
-    <edge source="CAPTAIN AMERICA" target="CAPTAIN AMERICA">
-      <data key="d3">120</data>
-    </edge>
-    <edge source="CAPTAIN AMERICA" target="CAPTAIN MARVEL II/MO">
-      <data key="d3">50</data>
-    </edge>
-    <edge source="CAPTAIN AMERICA" target="CRYSTAL [INHUMAN]">
-      <data key="d3">42</data>
-    </edge>
-    <edge source="CAPTAIN AMERICA" target="DARKSTAR/LAYNIA SERG">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="CAPTAIN AMERICA" target="DR. DRUID/ANTHONY LU">
-      <data key="d3">19</data>
-    </edge>
-    <edge source="CAPTAIN AMERICA" target="DUGAN, TIMOTHY ALOYI">
-      <data key="d3">38</data>
-    </edge>
-    <edge source="CAPTAIN AMERICA" target="FALCON/SAM WILSON">
-      <data key="d3">113</data>
-    </edge>
-    <edge source="CAPTAIN AMERICA" target="FURY, COL. NICHOLAS ">
-      <data key="d3">74</data>
-    </edge>
-    <edge source="CAPTAIN AMERICA" target="GYRICH, HENRY PETER">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="CAPTAIN AMERICA" target="HAWK">
-      <data key="d3">182</data>
-    </edge>
-    <edge source="CAPTAIN AMERICA" target="HERCULES [GREEK GOD]">
-      <data key="d3">90</data>
-    </edge>
-    <edge source="CAPTAIN AMERICA" target="IRON MAN/TONY STARK ">
+    <edge source="IRON MAN/TONY STARK " target="CAPTAIN AMERICA">
       <data key="d3">226</data>
     </edge>
-    <edge source="CAPTAIN AMERICA" target="JACK OF HEARTS/JACK ">
-      <data key="d3">3</data>
+    <edge source="IRON MAN/TONY STARK " target="CAPTAIN MARVEL II/MO">
+      <data key="d3">18</data>
     </edge>
-    <edge source="CAPTAIN AMERICA" target="JARVIS, EDWIN ">
-      <data key="d3">133</data>
+    <edge source="IRON MAN/TONY STARK " target="CRYSTAL [INHUMAN]">
+      <data key="d3">19</data>
     </edge>
-    <edge source="CAPTAIN AMERICA" target="LIVING LIGHTNING/MIG">
-      <data key="d3">17</data>
+    <edge source="IRON MAN/TONY STARK " target="DARKSTAR/LAYNIA SERG">
+      <data key="d3">9</data>
     </edge>
-    <edge source="CAPTAIN AMERICA" target="MACHINE MAN/X-51">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="CAPTAIN AMERICA" target="MOCKINGBIRD/DR. BARB">
-      <data key="d3">25</data>
-    </edge>
-    <edge source="CAPTAIN AMERICA" target="MOONDRAGON/HEATHER D">
-      <data key="d3">38</data>
-    </edge>
-    <edge source="CAPTAIN AMERICA" target="PHARAOH RAMA-TUT">
-      <data key="d3">25</data>
-    </edge>
-    <edge source="CAPTAIN AMERICA" target="QUASAR III/WENDELL V">
-      <data key="d3">54</data>
-    </edge>
-    <edge source="CAPTAIN AMERICA" target="QUICKSILVER/PIETRO M">
-      <data key="d3">90</data>
-    </edge>
-    <edge source="CAPTAIN AMERICA" target="RED SKULL/JOHANN SCH">
-      <data key="d3">62</data>
-    </edge>
-    <edge source="CAPTAIN AMERICA" target="SCARLET WITCH/WANDA ">
-      <data key="d3">188</data>
-    </edge>
-    <edge source="CAPTAIN AMERICA" target="SERSI/SYLVIA">
-      <data key="d3">45</data>
-    </edge>
-    <edge source="CAPTAIN AMERICA" target="SHE-HULK/JENNIFER WA">
-      <data key="d3">79</data>
-    </edge>
-    <edge source="CAPTAIN AMERICA" target="SPIDER-WOMAN II/JULI">
-      <data key="d3">17</data>
-    </edge>
-    <edge source="CAPTAIN AMERICA" target="STINGRAY/DR. WALTER ">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="CAPTAIN AMERICA" target="TIGRA/GREER NELSON">
-      <data key="d3">35</data>
-    </edge>
-    <edge source="CAPTAIN AMERICA" target="USAGENT/CAPTAIN JOHN">
-      <data key="d3">31</data>
-    </edge>
-    <edge source="CAPTAIN AMERICA" target="VANGUARD/NICOLAI KRY">
+    <edge source="IRON MAN/TONY STARK " target="DR. DRUID/ANTHONY LU">
       <data key="d3">6</data>
     </edge>
-    <edge source="CAPTAIN AMERICA" target="VISION ">
-      <data key="d3">205</data>
+    <edge source="IRON MAN/TONY STARK " target="DUGAN, TIMOTHY ALOYI">
+      <data key="d3">20</data>
     </edge>
-    <edge source="CAPTAIN AMERICA" target="WASP/JANET VAN DYNE ">
-      <data key="d3">193</data>
+    <edge source="IRON MAN/TONY STARK " target="FALCON/SAM WILSON">
+      <data key="d3">18</data>
     </edge>
-    <edge source="CAPTAIN AMERICA" target="WONDER MAN/SIMON WIL">
-      <data key="d3">110</data>
+    <edge source="IRON MAN/TONY STARK " target="FURY, COL. NICHOLAS ">
+      <data key="d3">38</data>
+    </edge>
+    <edge source="IRON MAN/TONY STARK " target="GYRICH, HENRY PETER">
+      <data key="d3">15</data>
+    </edge>
+    <edge source="IRON MAN/TONY STARK " target="HAWK">
+      <data key="d3">130</data>
+    </edge>
+    <edge source="IRON MAN/TONY STARK " target="HERCULES [GREEK GOD]">
+      <data key="d3">44</data>
+    </edge>
+    <edge source="IRON MAN/TONY STARK " target="IRON MAN IV/JAMES R.">
+      <data key="d3">97</data>
+    </edge>
+    <edge source="IRON MAN/TONY STARK " target="JACK OF HEARTS/JACK ">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="IRON MAN/TONY STARK " target="JARVIS, EDWIN ">
+      <data key="d3">97</data>
+    </edge>
+    <edge source="IRON MAN/TONY STARK " target="LIVING LIGHTNING/MIG">
+      <data key="d3">19</data>
+    </edge>
+    <edge source="IRON MAN/TONY STARK " target="MACHINE MAN/X-51">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="IRON MAN/TONY STARK " target="MOCKINGBIRD/DR. BARB">
+      <data key="d3">40</data>
+    </edge>
+    <edge source="IRON MAN/TONY STARK " target="MOONDRAGON/HEATHER D">
+      <data key="d3">31</data>
+    </edge>
+    <edge source="IRON MAN/TONY STARK " target="PHARAOH RAMA-TUT">
+      <data key="d3">22</data>
+    </edge>
+    <edge source="IRON MAN/TONY STARK " target="QUASAR III/WENDELL V">
+      <data key="d3">26</data>
+    </edge>
+    <edge source="IRON MAN/TONY STARK " target="QUICKSILVER/PIETRO M">
+      <data key="d3">57</data>
+    </edge>
+    <edge source="IRON MAN/TONY STARK " target="RED SKULL/JOHANN SCH">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="IRON MAN/TONY STARK " target="SCARLET WITCH/WANDA ">
+      <data key="d3">185</data>
+    </edge>
+    <edge source="IRON MAN/TONY STARK " target="SERSI/SYLVIA">
+      <data key="d3">20</data>
+    </edge>
+    <edge source="IRON MAN/TONY STARK " target="SHE-HULK/JENNIFER WA">
+      <data key="d3">41</data>
+    </edge>
+    <edge source="IRON MAN/TONY STARK " target="SPIDER-WOMAN II/JULI">
+      <data key="d3">33</data>
+    </edge>
+    <edge source="IRON MAN/TONY STARK " target="STARFOX/EROS">
+      <data key="d3">15</data>
+    </edge>
+    <edge source="IRON MAN/TONY STARK " target="STINGRAY/DR. WALTER ">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="IRON MAN/TONY STARK " target="TIGRA/GREER NELSON">
+      <data key="d3">48</data>
+    </edge>
+    <edge source="IRON MAN/TONY STARK " target="USAGENT/CAPTAIN JOHN">
+      <data key="d3">48</data>
+    </edge>
+    <edge source="IRON MAN/TONY STARK " target="VANGUARD/NICOLAI KRY">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="IRON MAN/TONY STARK " target="VISION ">
+      <data key="d3">166</data>
+    </edge>
+    <edge source="IRON MAN/TONY STARK " target="WASP/JANET VAN DYNE ">
+      <data key="d3">152</data>
+    </edge>
+    <edge source="IRON MAN/TONY STARK " target="WONDER MAN/SIMON WIL">
+      <data key="d3">117</data>
+    </edge>
+    <edge source="BINARY/CAROL DANVERS" target="ANT-MAN/DR. HENRY J.">
+      <data key="d3">20</data>
+    </edge>
+    <edge source="BINARY/CAROL DANVERS" target="BLACK KNIGHT V/DANE ">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="BINARY/CAROL DANVERS" target="BLACK PANTHER/T'CHAL">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="BINARY/CAROL DANVERS" target="BLACK WIDOW/NATASHA ">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="BINARY/CAROL DANVERS" target="CAPTAIN AMERICA">
+      <data key="d3">32</data>
+    </edge>
+    <edge source="BINARY/CAROL DANVERS" target="CAPTAIN MARVEL II/MO">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="BINARY/CAROL DANVERS" target="CRYSTAL [INHUMAN]">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="BINARY/CAROL DANVERS" target="DARKSTAR/LAYNIA SERG">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="BINARY/CAROL DANVERS" target="FALCON/SAM WILSON">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="BINARY/CAROL DANVERS" target="FURY, COL. NICHOLAS ">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="BINARY/CAROL DANVERS" target="GYRICH, HENRY PETER">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="BINARY/CAROL DANVERS" target="HAWK">
+      <data key="d3">15</data>
+    </edge>
+    <edge source="BINARY/CAROL DANVERS" target="HERCULES [GREEK GOD]">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="BINARY/CAROL DANVERS" target="JACK OF HEARTS/JACK ">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="BINARY/CAROL DANVERS" target="JARVIS, EDWIN ">
+      <data key="d3">17</data>
+    </edge>
+    <edge source="BINARY/CAROL DANVERS" target="LIVING LIGHTNING/MIG">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="BINARY/CAROL DANVERS" target="MACHINE MAN/X-51">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="BINARY/CAROL DANVERS" target="MOONDRAGON/HEATHER D">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="BINARY/CAROL DANVERS" target="PHARAOH RAMA-TUT">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="BINARY/CAROL DANVERS" target="QUASAR III/WENDELL V">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="BINARY/CAROL DANVERS" target="QUICKSILVER/PIETRO M">
+      <data key="d3">19</data>
+    </edge>
+    <edge source="BINARY/CAROL DANVERS" target="SCARLET WITCH/WANDA ">
+      <data key="d3">35</data>
+    </edge>
+    <edge source="BINARY/CAROL DANVERS" target="SERSI/SYLVIA">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="BINARY/CAROL DANVERS" target="SHE-HULK/JENNIFER WA">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="BINARY/CAROL DANVERS" target="SPIDER-WOMAN II/JULI">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="BINARY/CAROL DANVERS" target="STARFOX/EROS">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="BINARY/CAROL DANVERS" target="STINGRAY/DR. WALTER ">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="BINARY/CAROL DANVERS" target="TIGRA/GREER NELSON">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="BINARY/CAROL DANVERS" target="USAGENT/CAPTAIN JOHN">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="BINARY/CAROL DANVERS" target="VANGUARD/NICOLAI KRY">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="BINARY/CAROL DANVERS" target="VISION ">
+      <data key="d3">40</data>
+    </edge>
+    <edge source="BINARY/CAROL DANVERS" target="WASP/JANET VAN DYNE ">
+      <data key="d3">33</data>
+    </edge>
+    <edge source="BINARY/CAROL DANVERS" target="WONDER MAN/SIMON WIL">
+      <data key="d3">23</data>
+    </edge>
+    <edge source="BINARY/CAROL DANVERS" target="IRON MAN IV/JAMES R.">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="SPIDER-WOMAN II/JULI" target="ANT-MAN/DR. HENRY J.">
+      <data key="d3">13</data>
+    </edge>
+    <edge source="SPIDER-WOMAN II/JULI" target="BLACK KNIGHT V/DANE ">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="SPIDER-WOMAN II/JULI" target="BLACK WIDOW/NATASHA ">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="SPIDER-WOMAN II/JULI" target="CAPTAIN AMERICA">
+      <data key="d3">17</data>
+    </edge>
+    <edge source="SPIDER-WOMAN II/JULI" target="CAPTAIN MARVEL II/MO">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="SPIDER-WOMAN II/JULI" target="CRYSTAL [INHUMAN]">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="SPIDER-WOMAN II/JULI" target="FALCON/SAM WILSON">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="SPIDER-WOMAN II/JULI" target="FURY, COL. NICHOLAS ">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="SPIDER-WOMAN II/JULI" target="HAWK">
+      <data key="d3">26</data>
+    </edge>
+    <edge source="SPIDER-WOMAN II/JULI" target="HERCULES [GREEK GOD]">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="SPIDER-WOMAN II/JULI" target="IRON MAN IV/JAMES R.">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="SPIDER-WOMAN II/JULI" target="LIVING LIGHTNING/MIG">
+      <data key="d3">17</data>
+    </edge>
+    <edge source="SPIDER-WOMAN II/JULI" target="MACHINE MAN/X-51">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="SPIDER-WOMAN II/JULI" target="MOCKINGBIRD/DR. BARB">
+      <data key="d3">9</data>
+    </edge>
+    <edge source="SPIDER-WOMAN II/JULI" target="MOONDRAGON/HEATHER D">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="SPIDER-WOMAN II/JULI" target="QUASAR III/WENDELL V">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="SPIDER-WOMAN II/JULI" target="QUICKSILVER/PIETRO M">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="SPIDER-WOMAN II/JULI" target="SCARLET WITCH/WANDA ">
+      <data key="d3">35</data>
+    </edge>
+    <edge source="SPIDER-WOMAN II/JULI" target="SERSI/SYLVIA">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="SPIDER-WOMAN II/JULI" target="SHE-HULK/JENNIFER WA">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="SPIDER-WOMAN II/JULI" target="BLACK PANTHER/T'CHAL">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="SPIDER-WOMAN II/JULI" target="JARVIS, EDWIN ">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="SPIDER-WOMAN II/JULI" target="PHARAOH RAMA-TUT">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="SPIDER-WOMAN II/JULI" target="STARFOX/EROS">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="SPIDER-WOMAN II/JULI" target="TIGRA/GREER NELSON">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="SPIDER-WOMAN II/JULI" target="USAGENT/CAPTAIN JOHN">
+      <data key="d3">36</data>
+    </edge>
+    <edge source="SPIDER-WOMAN II/JULI" target="VISION ">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="SPIDER-WOMAN II/JULI" target="WASP/JANET VAN DYNE ">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="SPIDER-WOMAN II/JULI" target="WONDER MAN/SIMON WIL">
+      <data key="d3">15</data>
+    </edge>
+    <edge source="SPIDER-WOMAN II/JULI" target="STINGRAY/DR. WALTER ">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="SERSI/SYLVIA" target="ANT-MAN/DR. HENRY J.">
+      <data key="d3">16</data>
+    </edge>
+    <edge source="SERSI/SYLVIA" target="BLACK KNIGHT V/DANE ">
+      <data key="d3">26</data>
+    </edge>
+    <edge source="SERSI/SYLVIA" target="BLACK PANTHER/T'CHAL">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="SERSI/SYLVIA" target="BLACK WIDOW/NATASHA ">
+      <data key="d3">22</data>
+    </edge>
+    <edge source="SERSI/SYLVIA" target="CAPTAIN AMERICA">
+      <data key="d3">45</data>
+    </edge>
+    <edge source="SERSI/SYLVIA" target="CAPTAIN MARVEL II/MO">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="SERSI/SYLVIA" target="CRYSTAL [INHUMAN]">
+      <data key="d3">18</data>
+    </edge>
+    <edge source="SERSI/SYLVIA" target="DR. DRUID/ANTHONY LU">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="SERSI/SYLVIA" target="FALCON/SAM WILSON">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="SERSI/SYLVIA" target="FURY, COL. NICHOLAS ">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="SERSI/SYLVIA" target="HAWK">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="SERSI/SYLVIA" target="HERCULES [GREEK GOD]">
+      <data key="d3">26</data>
+    </edge>
+    <edge source="SERSI/SYLVIA" target="JARVIS, EDWIN ">
+      <data key="d3">16</data>
+    </edge>
+    <edge source="SERSI/SYLVIA" target="LIVING LIGHTNING/MIG">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="SERSI/SYLVIA" target="MACHINE MAN/X-51">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="SERSI/SYLVIA" target="MOCKINGBIRD/DR. BARB">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="SERSI/SYLVIA" target="MOONDRAGON/HEATHER D">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="SERSI/SYLVIA" target="PHARAOH RAMA-TUT">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="SERSI/SYLVIA" target="QUASAR III/WENDELL V">
+      <data key="d3">30</data>
+    </edge>
+    <edge source="SERSI/SYLVIA" target="QUICKSILVER/PIETRO M">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="SERSI/SYLVIA" target="SCARLET WITCH/WANDA ">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="SERSI/SYLVIA" target="SHE-HULK/JENNIFER WA">
+      <data key="d3">20</data>
+    </edge>
+    <edge source="SERSI/SYLVIA" target="STARFOX/EROS">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="SERSI/SYLVIA" target="STINGRAY/DR. WALTER ">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="SERSI/SYLVIA" target="TIGRA/GREER NELSON">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="SERSI/SYLVIA" target="USAGENT/CAPTAIN JOHN">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="SERSI/SYLVIA" target="VISION ">
+      <data key="d3">29</data>
+    </edge>
+    <edge source="SERSI/SYLVIA" target="WASP/JANET VAN DYNE ">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="SERSI/SYLVIA" target="WONDER MAN/SIMON WIL">
+      <data key="d3">10</data>
     </edge>
     <edge source="LIVING LIGHTNING/MIG" target="ANT-MAN/DR. HENRY J.">
       <data key="d3">13</data>
-    </edge>
-    <edge source="LIVING LIGHTNING/MIG" target="BINARY/CAROL DANVERS">
-      <data key="d3">3</data>
     </edge>
     <edge source="LIVING LIGHTNING/MIG" target="BLACK KNIGHT V/DANE ">
       <data key="d3">10</data>
     </edge>
     <edge source="LIVING LIGHTNING/MIG" target="BLACK WIDOW/NATASHA ">
       <data key="d3">6</data>
+    </edge>
+    <edge source="LIVING LIGHTNING/MIG" target="CAPTAIN AMERICA">
+      <data key="d3">17</data>
     </edge>
     <edge source="LIVING LIGHTNING/MIG" target="CAPTAIN MARVEL II/MO">
       <data key="d3">7</data>
@@ -535,8 +631,8 @@
     <edge source="LIVING LIGHTNING/MIG" target="HERCULES [GREEK GOD]">
       <data key="d3">14</data>
     </edge>
-    <edge source="LIVING LIGHTNING/MIG" target="IRON MAN/TONY STARK ">
-      <data key="d3">19</data>
+    <edge source="LIVING LIGHTNING/MIG" target="IRON MAN IV/JAMES R.">
+      <data key="d3">2</data>
     </edge>
     <edge source="LIVING LIGHTNING/MIG" target="BLACK PANTHER/T'CHAL">
       <data key="d3">3</data>
@@ -565,14 +661,11 @@
     <edge source="LIVING LIGHTNING/MIG" target="SCARLET WITCH/WANDA ">
       <data key="d3">34</data>
     </edge>
-    <edge source="LIVING LIGHTNING/MIG" target="SERSI/SYLVIA">
-      <data key="d3">6</data>
-    </edge>
     <edge source="LIVING LIGHTNING/MIG" target="SHE-HULK/JENNIFER WA">
       <data key="d3">6</data>
     </edge>
-    <edge source="LIVING LIGHTNING/MIG" target="SPIDER-WOMAN II/JULI">
-      <data key="d3">17</data>
+    <edge source="LIVING LIGHTNING/MIG" target="STARFOX/EROS">
+      <data key="d3">6</data>
     </edge>
     <edge source="LIVING LIGHTNING/MIG" target="STINGRAY/DR. WALTER ">
       <data key="d3">2</data>
@@ -592,479 +685,20 @@
     <edge source="LIVING LIGHTNING/MIG" target="WONDER MAN/SIMON WIL">
       <data key="d3">26</data>
     </edge>
-    <edge source="BLACK WIDOW/NATASHA " target="ANT-MAN/DR. HENRY J.">
-      <data key="d3">70</data>
-    </edge>
-    <edge source="BLACK WIDOW/NATASHA " target="BINARY/CAROL DANVERS">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="BLACK WIDOW/NATASHA " target="BLACK KNIGHT V/DANE ">
-      <data key="d3">29</data>
-    </edge>
-    <edge source="BLACK WIDOW/NATASHA " target="BLACK PANTHER/T'CHAL">
-      <data key="d3">30</data>
-    </edge>
-    <edge source="BLACK WIDOW/NATASHA " target="CAPTAIN MARVEL II/MO">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="BLACK WIDOW/NATASHA " target="CRYSTAL [INHUMAN]">
-      <data key="d3">39</data>
-    </edge>
-    <edge source="BLACK WIDOW/NATASHA " target="DARKSTAR/LAYNIA SERG">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="BLACK WIDOW/NATASHA " target="DR. DRUID/ANTHONY LU">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="BLACK WIDOW/NATASHA " target="DUGAN, TIMOTHY ALOYI">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="BLACK WIDOW/NATASHA " target="FALCON/SAM WILSON">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="BLACK WIDOW/NATASHA " target="FURY, COL. NICHOLAS ">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="BLACK WIDOW/NATASHA " target="GYRICH, HENRY PETER">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="BLACK WIDOW/NATASHA " target="HAWK">
-      <data key="d3">50</data>
-    </edge>
-    <edge source="BLACK WIDOW/NATASHA " target="HERCULES [GREEK GOD]">
-      <data key="d3">52</data>
-    </edge>
-    <edge source="BLACK WIDOW/NATASHA " target="IRON MAN/TONY STARK ">
-      <data key="d3">41</data>
-    </edge>
-    <edge source="BLACK WIDOW/NATASHA " target="JARVIS, EDWIN ">
-      <data key="d3">26</data>
-    </edge>
-    <edge source="BLACK WIDOW/NATASHA " target="MACHINE MAN/X-51">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="BLACK WIDOW/NATASHA " target="MOCKINGBIRD/DR. BARB">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="BLACK WIDOW/NATASHA " target="MOONDRAGON/HEATHER D">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="BLACK WIDOW/NATASHA " target="PHARAOH RAMA-TUT">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="BLACK WIDOW/NATASHA " target="QUASAR III/WENDELL V">
-      <data key="d3">17</data>
-    </edge>
-    <edge source="BLACK WIDOW/NATASHA " target="QUICKSILVER/PIETRO M">
-      <data key="d3">38</data>
-    </edge>
-    <edge source="BLACK WIDOW/NATASHA " target="RED SKULL/JOHANN SCH">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="BLACK WIDOW/NATASHA " target="SCARLET WITCH/WANDA ">
-      <data key="d3">49</data>
-    </edge>
-    <edge source="BLACK WIDOW/NATASHA " target="SERSI/SYLVIA">
-      <data key="d3">22</data>
-    </edge>
-    <edge source="BLACK WIDOW/NATASHA " target="SHE-HULK/JENNIFER WA">
-      <data key="d3">20</data>
-    </edge>
-    <edge source="BLACK WIDOW/NATASHA " target="SPIDER-WOMAN II/JULI">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="BLACK WIDOW/NATASHA " target="STINGRAY/DR. WALTER ">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="BLACK WIDOW/NATASHA " target="TIGRA/GREER NELSON">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="BLACK WIDOW/NATASHA " target="USAGENT/CAPTAIN JOHN">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="BLACK WIDOW/NATASHA " target="VANGUARD/NICOLAI KRY">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="BLACK WIDOW/NATASHA " target="VISION ">
-      <data key="d3">56</data>
-    </edge>
-    <edge source="BLACK WIDOW/NATASHA " target="WASP/JANET VAN DYNE ">
-      <data key="d3">47</data>
-    </edge>
-    <edge source="BLACK WIDOW/NATASHA " target="WONDER MAN/SIMON WIL">
-      <data key="d3">18</data>
-    </edge>
-    <edge source="MOCKINGBIRD/DR. BARB" target="ANT-MAN/DR. HENRY J.">
-      <data key="d3">38</data>
-    </edge>
-    <edge source="MOCKINGBIRD/DR. BARB" target="BLACK KNIGHT V/DANE ">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="MOCKINGBIRD/DR. BARB" target="BLACK PANTHER/T'CHAL">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="MOCKINGBIRD/DR. BARB" target="CAPTAIN MARVEL II/MO">
-      <data key="d3">17</data>
-    </edge>
-    <edge source="MOCKINGBIRD/DR. BARB" target="CRYSTAL [INHUMAN]">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="MOCKINGBIRD/DR. BARB" target="DR. DRUID/ANTHONY LU">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MOCKINGBIRD/DR. BARB" target="FALCON/SAM WILSON">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="MOCKINGBIRD/DR. BARB" target="FURY, COL. NICHOLAS ">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="MOCKINGBIRD/DR. BARB" target="GYRICH, HENRY PETER">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="MOCKINGBIRD/DR. BARB" target="HAWK">
-      <data key="d3">71</data>
-    </edge>
-    <edge source="MOCKINGBIRD/DR. BARB" target="HERCULES [GREEK GOD]">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="MOCKINGBIRD/DR. BARB" target="IRON MAN/TONY STARK ">
-      <data key="d3">40</data>
-    </edge>
-    <edge source="MOCKINGBIRD/DR. BARB" target="JARVIS, EDWIN ">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="MOCKINGBIRD/DR. BARB" target="MACHINE MAN/X-51">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MOCKINGBIRD/DR. BARB" target="MOONDRAGON/HEATHER D">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="MOCKINGBIRD/DR. BARB" target="QUASAR III/WENDELL V">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="MOCKINGBIRD/DR. BARB" target="QUICKSILVER/PIETRO M">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="MOCKINGBIRD/DR. BARB" target="SCARLET WITCH/WANDA ">
-      <data key="d3">37</data>
-    </edge>
-    <edge source="MOCKINGBIRD/DR. BARB" target="SERSI/SYLVIA">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="MOCKINGBIRD/DR. BARB" target="SHE-HULK/JENNIFER WA">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="MOCKINGBIRD/DR. BARB" target="SPIDER-WOMAN II/JULI">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="MOCKINGBIRD/DR. BARB" target="TIGRA/GREER NELSON">
-      <data key="d3">46</data>
-    </edge>
-    <edge source="MOCKINGBIRD/DR. BARB" target="USAGENT/CAPTAIN JOHN">
-      <data key="d3">18</data>
-    </edge>
-    <edge source="MOCKINGBIRD/DR. BARB" target="VISION ">
-      <data key="d3">28</data>
-    </edge>
-    <edge source="MOCKINGBIRD/DR. BARB" target="WASP/JANET VAN DYNE ">
-      <data key="d3">32</data>
-    </edge>
-    <edge source="MOCKINGBIRD/DR. BARB" target="WONDER MAN/SIMON WIL">
-      <data key="d3">63</data>
-    </edge>
-    <edge source="MOCKINGBIRD/DR. BARB" target="PHARAOH RAMA-TUT">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="MOCKINGBIRD/DR. BARB" target="RED SKULL/JOHANN SCH">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MOCKINGBIRD/DR. BARB" target="STINGRAY/DR. WALTER ">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MOCKINGBIRD/DR. BARB" target="VANGUARD/NICOLAI KRY">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="WONDER MAN/SIMON WIL" target="ANT-MAN/DR. HENRY J.">
-      <data key="d3">97</data>
-    </edge>
-    <edge source="WONDER MAN/SIMON WIL" target="BINARY/CAROL DANVERS">
-      <data key="d3">23</data>
-    </edge>
-    <edge source="WONDER MAN/SIMON WIL" target="BLACK KNIGHT V/DANE ">
-      <data key="d3">21</data>
-    </edge>
-    <edge source="WONDER MAN/SIMON WIL" target="BLACK PANTHER/T'CHAL">
-      <data key="d3">31</data>
-    </edge>
-    <edge source="WONDER MAN/SIMON WIL" target="CAPTAIN MARVEL II/MO">
-      <data key="d3">21</data>
-    </edge>
-    <edge source="WONDER MAN/SIMON WIL" target="CRYSTAL [INHUMAN]">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="WONDER MAN/SIMON WIL" target="DARKSTAR/LAYNIA SERG">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="WONDER MAN/SIMON WIL" target="DR. DRUID/ANTHONY LU">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="WONDER MAN/SIMON WIL" target="DUGAN, TIMOTHY ALOYI">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="WONDER MAN/SIMON WIL" target="FALCON/SAM WILSON">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="WONDER MAN/SIMON WIL" target="FURY, COL. NICHOLAS ">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="WONDER MAN/SIMON WIL" target="GYRICH, HENRY PETER">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="WONDER MAN/SIMON WIL" target="HAWK">
-      <data key="d3">101</data>
-    </edge>
-    <edge source="WONDER MAN/SIMON WIL" target="HERCULES [GREEK GOD]">
-      <data key="d3">32</data>
-    </edge>
-    <edge source="WONDER MAN/SIMON WIL" target="IRON MAN/TONY STARK ">
-      <data key="d3">117</data>
-    </edge>
-    <edge source="WONDER MAN/SIMON WIL" target="JACK OF HEARTS/JACK ">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="WONDER MAN/SIMON WIL" target="JARVIS, EDWIN ">
-      <data key="d3">37</data>
-    </edge>
-    <edge source="WONDER MAN/SIMON WIL" target="MACHINE MAN/X-51">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="WONDER MAN/SIMON WIL" target="MOONDRAGON/HEATHER D">
-      <data key="d3">17</data>
-    </edge>
-    <edge source="WONDER MAN/SIMON WIL" target="PHARAOH RAMA-TUT">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="WONDER MAN/SIMON WIL" target="QUASAR III/WENDELL V">
-      <data key="d3">21</data>
-    </edge>
-    <edge source="WONDER MAN/SIMON WIL" target="QUICKSILVER/PIETRO M">
-      <data key="d3">28</data>
-    </edge>
-    <edge source="WONDER MAN/SIMON WIL" target="RED SKULL/JOHANN SCH">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="WONDER MAN/SIMON WIL" target="SCARLET WITCH/WANDA ">
-      <data key="d3">118</data>
-    </edge>
-    <edge source="WONDER MAN/SIMON WIL" target="SERSI/SYLVIA">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="WONDER MAN/SIMON WIL" target="SHE-HULK/JENNIFER WA">
-      <data key="d3">37</data>
-    </edge>
-    <edge source="WONDER MAN/SIMON WIL" target="SPIDER-WOMAN II/JULI">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="WONDER MAN/SIMON WIL" target="STINGRAY/DR. WALTER ">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="WONDER MAN/SIMON WIL" target="TIGRA/GREER NELSON">
-      <data key="d3">56</data>
-    </edge>
-    <edge source="WONDER MAN/SIMON WIL" target="USAGENT/CAPTAIN JOHN">
-      <data key="d3">32</data>
-    </edge>
-    <edge source="WONDER MAN/SIMON WIL" target="VANGUARD/NICOLAI KRY">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="WONDER MAN/SIMON WIL" target="VISION ">
-      <data key="d3">104</data>
-    </edge>
-    <edge source="WONDER MAN/SIMON WIL" target="WASP/JANET VAN DYNE ">
-      <data key="d3">88</data>
-    </edge>
-    <edge source="HAWK" target="ANT-MAN/DR. HENRY J.">
-      <data key="d3">127</data>
-    </edge>
-    <edge source="HAWK" target="BINARY/CAROL DANVERS">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="HAWK" target="BLACK KNIGHT V/DANE ">
-      <data key="d3">28</data>
-    </edge>
-    <edge source="HAWK" target="BLACK PANTHER/T'CHAL">
-      <data key="d3">45</data>
-    </edge>
-    <edge source="HAWK" target="CAPTAIN MARVEL II/MO">
-      <data key="d3">35</data>
-    </edge>
-    <edge source="HAWK" target="CRYSTAL [INHUMAN]">
-      <data key="d3">30</data>
-    </edge>
-    <edge source="HAWK" target="DR. DRUID/ANTHONY LU">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="HAWK" target="DUGAN, TIMOTHY ALOYI">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="HAWK" target="FALCON/SAM WILSON">
-      <data key="d3">18</data>
-    </edge>
-    <edge source="HAWK" target="FURY, COL. NICHOLAS ">
-      <data key="d3">21</data>
-    </edge>
-    <edge source="HAWK" target="GYRICH, HENRY PETER">
-      <data key="d3">17</data>
-    </edge>
-    <edge source="HAWK" target="DARKSTAR/LAYNIA SERG">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="HAWK" target="HERCULES [GREEK GOD]">
-      <data key="d3">36</data>
-    </edge>
-    <edge source="HAWK" target="IRON MAN/TONY STARK ">
-      <data key="d3">130</data>
-    </edge>
-    <edge source="HAWK" target="JACK OF HEARTS/JACK ">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="HAWK" target="JARVIS, EDWIN ">
-      <data key="d3">49</data>
-    </edge>
-    <edge source="HAWK" target="MACHINE MAN/X-51">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="HAWK" target="MOONDRAGON/HEATHER D">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="HAWK" target="PHARAOH RAMA-TUT">
-      <data key="d3">19</data>
-    </edge>
-    <edge source="HAWK" target="QUASAR III/WENDELL V">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="HAWK" target="QUICKSILVER/PIETRO M">
-      <data key="d3">75</data>
-    </edge>
-    <edge source="HAWK" target="RED SKULL/JOHANN SCH">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="HAWK" target="SCARLET WITCH/WANDA ">
-      <data key="d3">143</data>
-    </edge>
-    <edge source="HAWK" target="SERSI/SYLVIA">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="HAWK" target="SHE-HULK/JENNIFER WA">
-      <data key="d3">34</data>
-    </edge>
-    <edge source="HAWK" target="SPIDER-WOMAN II/JULI">
-      <data key="d3">26</data>
-    </edge>
-    <edge source="HAWK" target="STINGRAY/DR. WALTER ">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="HAWK" target="TIGRA/GREER NELSON">
-      <data key="d3">56</data>
-    </edge>
-    <edge source="HAWK" target="USAGENT/CAPTAIN JOHN">
-      <data key="d3">42</data>
-    </edge>
-    <edge source="HAWK" target="VISION ">
-      <data key="d3">118</data>
-    </edge>
-    <edge source="HAWK" target="WASP/JANET VAN DYNE ">
-      <data key="d3">133</data>
-    </edge>
-    <edge source="HAWK" target="VANGUARD/NICOLAI KRY">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="SERSI/SYLVIA" target="ANT-MAN/DR. HENRY J.">
-      <data key="d3">16</data>
-    </edge>
-    <edge source="SERSI/SYLVIA" target="BINARY/CAROL DANVERS">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="SERSI/SYLVIA" target="BLACK KNIGHT V/DANE ">
-      <data key="d3">26</data>
-    </edge>
-    <edge source="SERSI/SYLVIA" target="BLACK PANTHER/T'CHAL">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="SERSI/SYLVIA" target="CAPTAIN MARVEL II/MO">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="SERSI/SYLVIA" target="CRYSTAL [INHUMAN]">
-      <data key="d3">18</data>
-    </edge>
-    <edge source="SERSI/SYLVIA" target="DR. DRUID/ANTHONY LU">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="SERSI/SYLVIA" target="FALCON/SAM WILSON">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="SERSI/SYLVIA" target="FURY, COL. NICHOLAS ">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="SERSI/SYLVIA" target="HERCULES [GREEK GOD]">
-      <data key="d3">26</data>
-    </edge>
-    <edge source="SERSI/SYLVIA" target="IRON MAN/TONY STARK ">
-      <data key="d3">20</data>
-    </edge>
-    <edge source="SERSI/SYLVIA" target="JARVIS, EDWIN ">
-      <data key="d3">16</data>
-    </edge>
-    <edge source="SERSI/SYLVIA" target="MACHINE MAN/X-51">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="SERSI/SYLVIA" target="MOONDRAGON/HEATHER D">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="SERSI/SYLVIA" target="PHARAOH RAMA-TUT">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="SERSI/SYLVIA" target="QUASAR III/WENDELL V">
-      <data key="d3">30</data>
-    </edge>
-    <edge source="SERSI/SYLVIA" target="QUICKSILVER/PIETRO M">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="SERSI/SYLVIA" target="SCARLET WITCH/WANDA ">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="SERSI/SYLVIA" target="SHE-HULK/JENNIFER WA">
-      <data key="d3">20</data>
-    </edge>
-    <edge source="SERSI/SYLVIA" target="SPIDER-WOMAN II/JULI">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="SERSI/SYLVIA" target="STINGRAY/DR. WALTER ">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="SERSI/SYLVIA" target="TIGRA/GREER NELSON">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="SERSI/SYLVIA" target="USAGENT/CAPTAIN JOHN">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="SERSI/SYLVIA" target="VISION ">
-      <data key="d3">29</data>
-    </edge>
-    <edge source="SERSI/SYLVIA" target="WASP/JANET VAN DYNE ">
-      <data key="d3">10</data>
-    </edge>
     <edge source="VISION " target="ANT-MAN/DR. HENRY J.">
       <data key="d3">125</data>
-    </edge>
-    <edge source="VISION " target="BINARY/CAROL DANVERS">
-      <data key="d3">40</data>
     </edge>
     <edge source="VISION " target="BLACK KNIGHT V/DANE ">
       <data key="d3">42</data>
     </edge>
     <edge source="VISION " target="BLACK PANTHER/T'CHAL">
       <data key="d3">64</data>
+    </edge>
+    <edge source="VISION " target="BLACK WIDOW/NATASHA ">
+      <data key="d3">56</data>
+    </edge>
+    <edge source="VISION " target="CAPTAIN AMERICA">
+      <data key="d3">205</data>
     </edge>
     <edge source="VISION " target="CAPTAIN MARVEL II/MO">
       <data key="d3">35</data>
@@ -1090,11 +724,14 @@
     <edge source="VISION " target="GYRICH, HENRY PETER">
       <data key="d3">17</data>
     </edge>
+    <edge source="VISION " target="HAWK">
+      <data key="d3">118</data>
+    </edge>
     <edge source="VISION " target="HERCULES [GREEK GOD]">
       <data key="d3">73</data>
     </edge>
-    <edge source="VISION " target="IRON MAN/TONY STARK ">
-      <data key="d3">166</data>
+    <edge source="VISION " target="IRON MAN IV/JAMES R.">
+      <data key="d3">10</data>
     </edge>
     <edge source="VISION " target="JACK OF HEARTS/JACK ">
       <data key="d3">7</data>
@@ -1104,6 +741,9 @@
     </edge>
     <edge source="VISION " target="MACHINE MAN/X-51">
       <data key="d3">7</data>
+    </edge>
+    <edge source="VISION " target="MOCKINGBIRD/DR. BARB">
+      <data key="d3">28</data>
     </edge>
     <edge source="VISION " target="MOONDRAGON/HEATHER D">
       <data key="d3">32</data>
@@ -1126,8 +766,8 @@
     <edge source="VISION " target="SHE-HULK/JENNIFER WA">
       <data key="d3">63</data>
     </edge>
-    <edge source="VISION " target="SPIDER-WOMAN II/JULI">
-      <data key="d3">10</data>
+    <edge source="VISION " target="STARFOX/EROS">
+      <data key="d3">36</data>
     </edge>
     <edge source="VISION " target="STINGRAY/DR. WALTER ">
       <data key="d3">6</data>
@@ -1144,38 +784,995 @@
     <edge source="VISION " target="WASP/JANET VAN DYNE ">
       <data key="d3">131</data>
     </edge>
-    <edge source="DARKSTAR/LAYNIA SERG" target="ANT-MAN/DR. HENRY J.">
+    <edge source="VISION " target="WONDER MAN/SIMON WIL">
+      <data key="d3">104</data>
+    </edge>
+    <edge source="CAPTAIN MARVEL II/MO" target="ANT-MAN/DR. HENRY J.">
+      <data key="d3">19</data>
+    </edge>
+    <edge source="CAPTAIN MARVEL II/MO" target="BLACK KNIGHT V/DANE ">
+      <data key="d3">33</data>
+    </edge>
+    <edge source="CAPTAIN MARVEL II/MO" target="BLACK PANTHER/T'CHAL">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="CAPTAIN MARVEL II/MO" target="BLACK WIDOW/NATASHA ">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="CAPTAIN MARVEL II/MO" target="CAPTAIN AMERICA">
+      <data key="d3">50</data>
+    </edge>
+    <edge source="CAPTAIN MARVEL II/MO" target="CRYSTAL [INHUMAN]">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="CAPTAIN MARVEL II/MO" target="DR. DRUID/ANTHONY LU">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="CAPTAIN MARVEL II/MO" target="FALCON/SAM WILSON">
+      <data key="d3">9</data>
+    </edge>
+    <edge source="CAPTAIN MARVEL II/MO" target="FURY, COL. NICHOLAS ">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="CAPTAIN MARVEL II/MO" target="GYRICH, HENRY PETER">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="CAPTAIN MARVEL II/MO" target="HAWK">
+      <data key="d3">35</data>
+    </edge>
+    <edge source="CAPTAIN MARVEL II/MO" target="HERCULES [GREEK GOD]">
+      <data key="d3">40</data>
+    </edge>
+    <edge source="CAPTAIN MARVEL II/MO" target="IRON MAN IV/JAMES R.">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="CAPTAIN MARVEL II/MO" target="JACK OF HEARTS/JACK ">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="CAPTAIN MARVEL II/MO" target="JARVIS, EDWIN ">
+      <data key="d3">34</data>
+    </edge>
+    <edge source="CAPTAIN MARVEL II/MO" target="MACHINE MAN/X-51">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="CAPTAIN MARVEL II/MO" target="MOCKINGBIRD/DR. BARB">
+      <data key="d3">17</data>
+    </edge>
+    <edge source="CAPTAIN MARVEL II/MO" target="MOONDRAGON/HEATHER D">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="CAPTAIN MARVEL II/MO" target="PHARAOH RAMA-TUT">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="CAPTAIN MARVEL II/MO" target="QUASAR III/WENDELL V">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="CAPTAIN MARVEL II/MO" target="QUICKSILVER/PIETRO M">
+      <data key="d3">9</data>
+    </edge>
+    <edge source="CAPTAIN MARVEL II/MO" target="SCARLET WITCH/WANDA ">
+      <data key="d3">36</data>
+    </edge>
+    <edge source="CAPTAIN MARVEL II/MO" target="SHE-HULK/JENNIFER WA">
+      <data key="d3">38</data>
+    </edge>
+    <edge source="CAPTAIN MARVEL II/MO" target="STARFOX/EROS">
+      <data key="d3">34</data>
+    </edge>
+    <edge source="CAPTAIN MARVEL II/MO" target="STINGRAY/DR. WALTER ">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="CAPTAIN MARVEL II/MO" target="TIGRA/GREER NELSON">
+      <data key="d3">13</data>
+    </edge>
+    <edge source="CAPTAIN MARVEL II/MO" target="USAGENT/CAPTAIN JOHN">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="CAPTAIN MARVEL II/MO" target="WASP/JANET VAN DYNE ">
+      <data key="d3">65</data>
+    </edge>
+    <edge source="CAPTAIN MARVEL II/MO" target="WONDER MAN/SIMON WIL">
+      <data key="d3">21</data>
+    </edge>
+    <edge source="CAPTAIN MARVEL II/MO" target="RED SKULL/JOHANN SCH">
       <data key="d3">2</data>
     </edge>
-    <edge source="DARKSTAR/LAYNIA SERG" target="BINARY/CAROL DANVERS">
+    <edge source="JACK OF HEARTS/JACK " target="ANT-MAN/DR. HENRY J.">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="JACK OF HEARTS/JACK " target="BLACK KNIGHT V/DANE ">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="JACK OF HEARTS/JACK " target="BLACK PANTHER/T'CHAL">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="JACK OF HEARTS/JACK " target="CAPTAIN AMERICA">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="JACK OF HEARTS/JACK " target="DARKSTAR/LAYNIA SERG">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="JACK OF HEARTS/JACK " target="FALCON/SAM WILSON">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="JACK OF HEARTS/JACK " target="FURY, COL. NICHOLAS ">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="JACK OF HEARTS/JACK " target="HAWK">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="JACK OF HEARTS/JACK " target="HERCULES [GREEK GOD]">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="JACK OF HEARTS/JACK " target="CRYSTAL [INHUMAN]">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="JACK OF HEARTS/JACK " target="DUGAN, TIMOTHY ALOYI">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="JACK OF HEARTS/JACK " target="JARVIS, EDWIN ">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="JACK OF HEARTS/JACK " target="MOONDRAGON/HEATHER D">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="JACK OF HEARTS/JACK " target="QUASAR III/WENDELL V">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="JACK OF HEARTS/JACK " target="QUICKSILVER/PIETRO M">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="JACK OF HEARTS/JACK " target="SCARLET WITCH/WANDA ">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="JACK OF HEARTS/JACK " target="SHE-HULK/JENNIFER WA">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="JACK OF HEARTS/JACK " target="STARFOX/EROS">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="JACK OF HEARTS/JACK " target="TIGRA/GREER NELSON">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="JACK OF HEARTS/JACK " target="VANGUARD/NICOLAI KRY">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="JACK OF HEARTS/JACK " target="WASP/JANET VAN DYNE ">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="JACK OF HEARTS/JACK " target="WONDER MAN/SIMON WIL">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="JACK OF HEARTS/JACK " target="MACHINE MAN/X-51">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="JACK OF HEARTS/JACK " target="STINGRAY/DR. WALTER ">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="JACK OF HEARTS/JACK " target="USAGENT/CAPTAIN JOHN">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="CAPTAIN AMERICA" target="ANT-MAN/DR. HENRY J.">
+      <data key="d3">141</data>
+    </edge>
+    <edge source="CAPTAIN AMERICA" target="BLACK KNIGHT V/DANE ">
+      <data key="d3">54</data>
+    </edge>
+    <edge source="CAPTAIN AMERICA" target="BLACK PANTHER/T'CHAL">
+      <data key="d3">69</data>
+    </edge>
+    <edge source="CAPTAIN AMERICA" target="BLACK WIDOW/NATASHA ">
+      <data key="d3">55</data>
+    </edge>
+    <edge source="CAPTAIN AMERICA" target="CAPTAIN AMERICA">
+      <data key="d3">120</data>
+    </edge>
+    <edge source="CAPTAIN AMERICA" target="CRYSTAL [INHUMAN]">
+      <data key="d3">42</data>
+    </edge>
+    <edge source="CAPTAIN AMERICA" target="DARKSTAR/LAYNIA SERG">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="CAPTAIN AMERICA" target="DR. DRUID/ANTHONY LU">
+      <data key="d3">19</data>
+    </edge>
+    <edge source="CAPTAIN AMERICA" target="DUGAN, TIMOTHY ALOYI">
+      <data key="d3">38</data>
+    </edge>
+    <edge source="CAPTAIN AMERICA" target="FALCON/SAM WILSON">
+      <data key="d3">113</data>
+    </edge>
+    <edge source="CAPTAIN AMERICA" target="FURY, COL. NICHOLAS ">
+      <data key="d3">74</data>
+    </edge>
+    <edge source="CAPTAIN AMERICA" target="GYRICH, HENRY PETER">
+      <data key="d3">13</data>
+    </edge>
+    <edge source="CAPTAIN AMERICA" target="HAWK">
+      <data key="d3">182</data>
+    </edge>
+    <edge source="CAPTAIN AMERICA" target="HERCULES [GREEK GOD]">
+      <data key="d3">90</data>
+    </edge>
+    <edge source="CAPTAIN AMERICA" target="IRON MAN IV/JAMES R.">
+      <data key="d3">21</data>
+    </edge>
+    <edge source="CAPTAIN AMERICA" target="JARVIS, EDWIN ">
+      <data key="d3">133</data>
+    </edge>
+    <edge source="CAPTAIN AMERICA" target="MACHINE MAN/X-51">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="CAPTAIN AMERICA" target="MOCKINGBIRD/DR. BARB">
+      <data key="d3">25</data>
+    </edge>
+    <edge source="CAPTAIN AMERICA" target="MOONDRAGON/HEATHER D">
+      <data key="d3">38</data>
+    </edge>
+    <edge source="CAPTAIN AMERICA" target="PHARAOH RAMA-TUT">
+      <data key="d3">25</data>
+    </edge>
+    <edge source="CAPTAIN AMERICA" target="QUASAR III/WENDELL V">
+      <data key="d3">54</data>
+    </edge>
+    <edge source="CAPTAIN AMERICA" target="QUICKSILVER/PIETRO M">
+      <data key="d3">90</data>
+    </edge>
+    <edge source="CAPTAIN AMERICA" target="RED SKULL/JOHANN SCH">
+      <data key="d3">62</data>
+    </edge>
+    <edge source="CAPTAIN AMERICA" target="SCARLET WITCH/WANDA ">
+      <data key="d3">188</data>
+    </edge>
+    <edge source="CAPTAIN AMERICA" target="SHE-HULK/JENNIFER WA">
+      <data key="d3">79</data>
+    </edge>
+    <edge source="CAPTAIN AMERICA" target="STARFOX/EROS">
+      <data key="d3">33</data>
+    </edge>
+    <edge source="CAPTAIN AMERICA" target="STINGRAY/DR. WALTER ">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="CAPTAIN AMERICA" target="TIGRA/GREER NELSON">
+      <data key="d3">35</data>
+    </edge>
+    <edge source="CAPTAIN AMERICA" target="USAGENT/CAPTAIN JOHN">
+      <data key="d3">31</data>
+    </edge>
+    <edge source="CAPTAIN AMERICA" target="VANGUARD/NICOLAI KRY">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="CAPTAIN AMERICA" target="WASP/JANET VAN DYNE ">
+      <data key="d3">193</data>
+    </edge>
+    <edge source="CAPTAIN AMERICA" target="WONDER MAN/SIMON WIL">
+      <data key="d3">110</data>
+    </edge>
+    <edge source="ANT-MAN/DR. HENRY J." target="BLACK KNIGHT V/DANE ">
+      <data key="d3">20</data>
+    </edge>
+    <edge source="ANT-MAN/DR. HENRY J." target="BLACK PANTHER/T'CHAL">
+      <data key="d3">32</data>
+    </edge>
+    <edge source="ANT-MAN/DR. HENRY J." target="BLACK WIDOW/NATASHA ">
+      <data key="d3">70</data>
+    </edge>
+    <edge source="ANT-MAN/DR. HENRY J." target="CRYSTAL [INHUMAN]">
+      <data key="d3">32</data>
+    </edge>
+    <edge source="ANT-MAN/DR. HENRY J." target="DARKSTAR/LAYNIA SERG">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="ANT-MAN/DR. HENRY J." target="DR. DRUID/ANTHONY LU">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="ANT-MAN/DR. HENRY J." target="DUGAN, TIMOTHY ALOYI">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="ANT-MAN/DR. HENRY J." target="FALCON/SAM WILSON">
+      <data key="d3">19</data>
+    </edge>
+    <edge source="ANT-MAN/DR. HENRY J." target="FURY, COL. NICHOLAS ">
+      <data key="d3">13</data>
+    </edge>
+    <edge source="ANT-MAN/DR. HENRY J." target="GYRICH, HENRY PETER">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="ANT-MAN/DR. HENRY J." target="HAWK">
+      <data key="d3">127</data>
+    </edge>
+    <edge source="ANT-MAN/DR. HENRY J." target="HERCULES [GREEK GOD]">
+      <data key="d3">46</data>
+    </edge>
+    <edge source="ANT-MAN/DR. HENRY J." target="IRON MAN IV/JAMES R.">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="ANT-MAN/DR. HENRY J." target="JARVIS, EDWIN ">
+      <data key="d3">64</data>
+    </edge>
+    <edge source="ANT-MAN/DR. HENRY J." target="MACHINE MAN/X-51">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="ANT-MAN/DR. HENRY J." target="MOCKINGBIRD/DR. BARB">
+      <data key="d3">38</data>
+    </edge>
+    <edge source="ANT-MAN/DR. HENRY J." target="MOONDRAGON/HEATHER D">
+      <data key="d3">17</data>
+    </edge>
+    <edge source="ANT-MAN/DR. HENRY J." target="PHARAOH RAMA-TUT">
+      <data key="d3">17</data>
+    </edge>
+    <edge source="ANT-MAN/DR. HENRY J." target="QUASAR III/WENDELL V">
+      <data key="d3">16</data>
+    </edge>
+    <edge source="ANT-MAN/DR. HENRY J." target="QUICKSILVER/PIETRO M">
+      <data key="d3">55</data>
+    </edge>
+    <edge source="ANT-MAN/DR. HENRY J." target="RED SKULL/JOHANN SCH">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="ANT-MAN/DR. HENRY J." target="SCARLET WITCH/WANDA ">
+      <data key="d3">117</data>
+    </edge>
+    <edge source="ANT-MAN/DR. HENRY J." target="SHE-HULK/JENNIFER WA">
+      <data key="d3">27</data>
+    </edge>
+    <edge source="ANT-MAN/DR. HENRY J." target="STARFOX/EROS">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="ANT-MAN/DR. HENRY J." target="TIGRA/GREER NELSON">
+      <data key="d3">37</data>
+    </edge>
+    <edge source="ANT-MAN/DR. HENRY J." target="USAGENT/CAPTAIN JOHN">
+      <data key="d3">34</data>
+    </edge>
+    <edge source="ANT-MAN/DR. HENRY J." target="WASP/JANET VAN DYNE ">
+      <data key="d3">211</data>
+    </edge>
+    <edge source="ANT-MAN/DR. HENRY J." target="WONDER MAN/SIMON WIL">
+      <data key="d3">97</data>
+    </edge>
+    <edge source="ANT-MAN/DR. HENRY J." target="STINGRAY/DR. WALTER ">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="CRYSTAL [INHUMAN]" target="BLACK KNIGHT V/DANE ">
+      <data key="d3">29</data>
+    </edge>
+    <edge source="CRYSTAL [INHUMAN]" target="BLACK PANTHER/T'CHAL">
+      <data key="d3">15</data>
+    </edge>
+    <edge source="CRYSTAL [INHUMAN]" target="BLACK WIDOW/NATASHA ">
+      <data key="d3">39</data>
+    </edge>
+    <edge source="CRYSTAL [INHUMAN]" target="DARKSTAR/LAYNIA SERG">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="CRYSTAL [INHUMAN]" target="DR. DRUID/ANTHONY LU">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="CRYSTAL [INHUMAN]" target="DUGAN, TIMOTHY ALOYI">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="CRYSTAL [INHUMAN]" target="FALCON/SAM WILSON">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="CRYSTAL [INHUMAN]" target="FURY, COL. NICHOLAS ">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="CRYSTAL [INHUMAN]" target="GYRICH, HENRY PETER">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="CRYSTAL [INHUMAN]" target="HAWK">
+      <data key="d3">30</data>
+    </edge>
+    <edge source="CRYSTAL [INHUMAN]" target="HERCULES [GREEK GOD]">
+      <data key="d3">32</data>
+    </edge>
+    <edge source="CRYSTAL [INHUMAN]" target="IRON MAN IV/JAMES R.">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="CRYSTAL [INHUMAN]" target="JARVIS, EDWIN ">
+      <data key="d3">22</data>
+    </edge>
+    <edge source="CRYSTAL [INHUMAN]" target="MACHINE MAN/X-51">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="CRYSTAL [INHUMAN]" target="MOCKINGBIRD/DR. BARB">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="CRYSTAL [INHUMAN]" target="MOONDRAGON/HEATHER D">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="CRYSTAL [INHUMAN]" target="PHARAOH RAMA-TUT">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="CRYSTAL [INHUMAN]" target="QUASAR III/WENDELL V">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="CRYSTAL [INHUMAN]" target="QUICKSILVER/PIETRO M">
+      <data key="d3">51</data>
+    </edge>
+    <edge source="CRYSTAL [INHUMAN]" target="RED SKULL/JOHANN SCH">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="CRYSTAL [INHUMAN]" target="SCARLET WITCH/WANDA ">
+      <data key="d3">32</data>
+    </edge>
+    <edge source="CRYSTAL [INHUMAN]" target="SHE-HULK/JENNIFER WA">
+      <data key="d3">9</data>
+    </edge>
+    <edge source="CRYSTAL [INHUMAN]" target="STARFOX/EROS">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="CRYSTAL [INHUMAN]" target="STINGRAY/DR. WALTER ">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="CRYSTAL [INHUMAN]" target="TIGRA/GREER NELSON">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="CRYSTAL [INHUMAN]" target="USAGENT/CAPTAIN JOHN">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="CRYSTAL [INHUMAN]" target="WASP/JANET VAN DYNE ">
+      <data key="d3">27</data>
+    </edge>
+    <edge source="CRYSTAL [INHUMAN]" target="WONDER MAN/SIMON WIL">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="GYRICH, HENRY PETER" target="BLACK KNIGHT V/DANE ">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="GYRICH, HENRY PETER" target="BLACK PANTHER/T'CHAL">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="GYRICH, HENRY PETER" target="BLACK WIDOW/NATASHA ">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="GYRICH, HENRY PETER" target="FALCON/SAM WILSON">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="GYRICH, HENRY PETER" target="FURY, COL. NICHOLAS ">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="GYRICH, HENRY PETER" target="DUGAN, TIMOTHY ALOYI">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="GYRICH, HENRY PETER" target="HAWK">
+      <data key="d3">17</data>
+    </edge>
+    <edge source="GYRICH, HENRY PETER" target="HERCULES [GREEK GOD]">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="GYRICH, HENRY PETER" target="IRON MAN IV/JAMES R.">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="GYRICH, HENRY PETER" target="JARVIS, EDWIN ">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="GYRICH, HENRY PETER" target="MOCKINGBIRD/DR. BARB">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="GYRICH, HENRY PETER" target="QUICKSILVER/PIETRO M">
+      <data key="d3">9</data>
+    </edge>
+    <edge source="GYRICH, HENRY PETER" target="SCARLET WITCH/WANDA ">
+      <data key="d3">20</data>
+    </edge>
+    <edge source="GYRICH, HENRY PETER" target="SHE-HULK/JENNIFER WA">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="GYRICH, HENRY PETER" target="STARFOX/EROS">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="GYRICH, HENRY PETER" target="TIGRA/GREER NELSON">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="GYRICH, HENRY PETER" target="USAGENT/CAPTAIN JOHN">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="GYRICH, HENRY PETER" target="WASP/JANET VAN DYNE ">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="GYRICH, HENRY PETER" target="WONDER MAN/SIMON WIL">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="GYRICH, HENRY PETER" target="MACHINE MAN/X-51">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="GYRICH, HENRY PETER" target="MOONDRAGON/HEATHER D">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="FALCON/SAM WILSON" target="BLACK KNIGHT V/DANE ">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="FALCON/SAM WILSON" target="BLACK PANTHER/T'CHAL">
+      <data key="d3">13</data>
+    </edge>
+    <edge source="FALCON/SAM WILSON" target="BLACK WIDOW/NATASHA ">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="FALCON/SAM WILSON" target="DUGAN, TIMOTHY ALOYI">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="FALCON/SAM WILSON" target="DR. DRUID/ANTHONY LU">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="FALCON/SAM WILSON" target="FURY, COL. NICHOLAS ">
+      <data key="d3">20</data>
+    </edge>
+    <edge source="FALCON/SAM WILSON" target="HAWK">
+      <data key="d3">18</data>
+    </edge>
+    <edge source="FALCON/SAM WILSON" target="HERCULES [GREEK GOD]">
+      <data key="d3">9</data>
+    </edge>
+    <edge source="FALCON/SAM WILSON" target="JARVIS, EDWIN ">
+      <data key="d3">15</data>
+    </edge>
+    <edge source="FALCON/SAM WILSON" target="MACHINE MAN/X-51">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="FALCON/SAM WILSON" target="MOCKINGBIRD/DR. BARB">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="FALCON/SAM WILSON" target="MOONDRAGON/HEATHER D">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="FALCON/SAM WILSON" target="QUASAR III/WENDELL V">
+      <data key="d3">9</data>
+    </edge>
+    <edge source="FALCON/SAM WILSON" target="QUICKSILVER/PIETRO M">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="FALCON/SAM WILSON" target="RED SKULL/JOHANN SCH">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="FALCON/SAM WILSON" target="SCARLET WITCH/WANDA ">
+      <data key="d3">20</data>
+    </edge>
+    <edge source="FALCON/SAM WILSON" target="SHE-HULK/JENNIFER WA">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="FALCON/SAM WILSON" target="STARFOX/EROS">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="FALCON/SAM WILSON" target="STINGRAY/DR. WALTER ">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="FALCON/SAM WILSON" target="TIGRA/GREER NELSON">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="FALCON/SAM WILSON" target="USAGENT/CAPTAIN JOHN">
+      <data key="d3">13</data>
+    </edge>
+    <edge source="FALCON/SAM WILSON" target="WASP/JANET VAN DYNE ">
+      <data key="d3">20</data>
+    </edge>
+    <edge source="FALCON/SAM WILSON" target="WONDER MAN/SIMON WIL">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="FALCON/SAM WILSON" target="IRON MAN IV/JAMES R.">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="FALCON/SAM WILSON" target="VANGUARD/NICOLAI KRY">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="BLACK PANTHER/T'CHAL" target="BLACK KNIGHT V/DANE ">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="BLACK PANTHER/T'CHAL" target="BLACK WIDOW/NATASHA ">
+      <data key="d3">30</data>
+    </edge>
+    <edge source="BLACK PANTHER/T'CHAL" target="DARKSTAR/LAYNIA SERG">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="BLACK PANTHER/T'CHAL" target="DUGAN, TIMOTHY ALOYI">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="BLACK PANTHER/T'CHAL" target="FURY, COL. NICHOLAS ">
+      <data key="d3">9</data>
+    </edge>
+    <edge source="BLACK PANTHER/T'CHAL" target="HAWK">
+      <data key="d3">45</data>
+    </edge>
+    <edge source="BLACK PANTHER/T'CHAL" target="HERCULES [GREEK GOD]">
+      <data key="d3">16</data>
+    </edge>
+    <edge source="BLACK PANTHER/T'CHAL" target="IRON MAN IV/JAMES R.">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="BLACK PANTHER/T'CHAL" target="JARVIS, EDWIN ">
+      <data key="d3">41</data>
+    </edge>
+    <edge source="BLACK PANTHER/T'CHAL" target="MACHINE MAN/X-51">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="BLACK PANTHER/T'CHAL" target="MOCKINGBIRD/DR. BARB">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="BLACK PANTHER/T'CHAL" target="MOONDRAGON/HEATHER D">
+      <data key="d3">15</data>
+    </edge>
+    <edge source="BLACK PANTHER/T'CHAL" target="PHARAOH RAMA-TUT">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="BLACK PANTHER/T'CHAL" target="QUASAR III/WENDELL V">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="BLACK PANTHER/T'CHAL" target="QUICKSILVER/PIETRO M">
+      <data key="d3">29</data>
+    </edge>
+    <edge source="BLACK PANTHER/T'CHAL" target="SCARLET WITCH/WANDA ">
+      <data key="d3">53</data>
+    </edge>
+    <edge source="BLACK PANTHER/T'CHAL" target="SHE-HULK/JENNIFER WA">
+      <data key="d3">13</data>
+    </edge>
+    <edge source="BLACK PANTHER/T'CHAL" target="STARFOX/EROS">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="BLACK PANTHER/T'CHAL" target="STINGRAY/DR. WALTER ">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="BLACK PANTHER/T'CHAL" target="TIGRA/GREER NELSON">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="BLACK PANTHER/T'CHAL" target="USAGENT/CAPTAIN JOHN">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="BLACK PANTHER/T'CHAL" target="VANGUARD/NICOLAI KRY">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="BLACK PANTHER/T'CHAL" target="WASP/JANET VAN DYNE ">
+      <data key="d3">51</data>
+    </edge>
+    <edge source="BLACK PANTHER/T'CHAL" target="WONDER MAN/SIMON WIL">
+      <data key="d3">31</data>
+    </edge>
+    <edge source="HAWK" target="BLACK KNIGHT V/DANE ">
+      <data key="d3">28</data>
+    </edge>
+    <edge source="HAWK" target="BLACK WIDOW/NATASHA ">
+      <data key="d3">50</data>
+    </edge>
+    <edge source="HAWK" target="DR. DRUID/ANTHONY LU">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="HAWK" target="DUGAN, TIMOTHY ALOYI">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="HAWK" target="FURY, COL. NICHOLAS ">
+      <data key="d3">21</data>
+    </edge>
+    <edge source="HAWK" target="DARKSTAR/LAYNIA SERG">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="HAWK" target="HERCULES [GREEK GOD]">
+      <data key="d3">36</data>
+    </edge>
+    <edge source="HAWK" target="IRON MAN IV/JAMES R.">
+      <data key="d3">25</data>
+    </edge>
+    <edge source="HAWK" target="JARVIS, EDWIN ">
+      <data key="d3">49</data>
+    </edge>
+    <edge source="HAWK" target="MACHINE MAN/X-51">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="HAWK" target="MOCKINGBIRD/DR. BARB">
+      <data key="d3">71</data>
+    </edge>
+    <edge source="HAWK" target="MOONDRAGON/HEATHER D">
+      <data key="d3">15</data>
+    </edge>
+    <edge source="HAWK" target="PHARAOH RAMA-TUT">
+      <data key="d3">19</data>
+    </edge>
+    <edge source="HAWK" target="QUASAR III/WENDELL V">
+      <data key="d3">15</data>
+    </edge>
+    <edge source="HAWK" target="QUICKSILVER/PIETRO M">
+      <data key="d3">75</data>
+    </edge>
+    <edge source="HAWK" target="RED SKULL/JOHANN SCH">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="HAWK" target="SCARLET WITCH/WANDA ">
+      <data key="d3">143</data>
+    </edge>
+    <edge source="HAWK" target="SHE-HULK/JENNIFER WA">
+      <data key="d3">34</data>
+    </edge>
+    <edge source="HAWK" target="STARFOX/EROS">
+      <data key="d3">20</data>
+    </edge>
+    <edge source="HAWK" target="STINGRAY/DR. WALTER ">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="HAWK" target="TIGRA/GREER NELSON">
+      <data key="d3">56</data>
+    </edge>
+    <edge source="HAWK" target="USAGENT/CAPTAIN JOHN">
+      <data key="d3">42</data>
+    </edge>
+    <edge source="HAWK" target="WASP/JANET VAN DYNE ">
+      <data key="d3">133</data>
+    </edge>
+    <edge source="HAWK" target="WONDER MAN/SIMON WIL">
+      <data key="d3">101</data>
+    </edge>
+    <edge source="HAWK" target="VANGUARD/NICOLAI KRY">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="DUGAN, TIMOTHY ALOYI" target="BLACK WIDOW/NATASHA ">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="DUGAN, TIMOTHY ALOYI" target="FURY, COL. NICHOLAS ">
+      <data key="d3">94</data>
+    </edge>
+    <edge source="DUGAN, TIMOTHY ALOYI" target="HERCULES [GREEK GOD]">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="DUGAN, TIMOTHY ALOYI" target="JARVIS, EDWIN ">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="DUGAN, TIMOTHY ALOYI" target="MACHINE MAN/X-51">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="DUGAN, TIMOTHY ALOYI" target="QUASAR III/WENDELL V">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="DUGAN, TIMOTHY ALOYI" target="QUICKSILVER/PIETRO M">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="DUGAN, TIMOTHY ALOYI" target="RED SKULL/JOHANN SCH">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="DUGAN, TIMOTHY ALOYI" target="SCARLET WITCH/WANDA ">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="DUGAN, TIMOTHY ALOYI" target="SHE-HULK/JENNIFER WA">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="DUGAN, TIMOTHY ALOYI" target="USAGENT/CAPTAIN JOHN">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="DUGAN, TIMOTHY ALOYI" target="WASP/JANET VAN DYNE ">
+      <data key="d3">9</data>
+    </edge>
+    <edge source="DUGAN, TIMOTHY ALOYI" target="WONDER MAN/SIMON WIL">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="WONDER MAN/SIMON WIL" target="BLACK KNIGHT V/DANE ">
+      <data key="d3">21</data>
+    </edge>
+    <edge source="WONDER MAN/SIMON WIL" target="BLACK WIDOW/NATASHA ">
+      <data key="d3">18</data>
+    </edge>
+    <edge source="WONDER MAN/SIMON WIL" target="DARKSTAR/LAYNIA SERG">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="WONDER MAN/SIMON WIL" target="DR. DRUID/ANTHONY LU">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="WONDER MAN/SIMON WIL" target="FURY, COL. NICHOLAS ">
+      <data key="d3">9</data>
+    </edge>
+    <edge source="WONDER MAN/SIMON WIL" target="HERCULES [GREEK GOD]">
+      <data key="d3">32</data>
+    </edge>
+    <edge source="WONDER MAN/SIMON WIL" target="IRON MAN IV/JAMES R.">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="WONDER MAN/SIMON WIL" target="JARVIS, EDWIN ">
+      <data key="d3">37</data>
+    </edge>
+    <edge source="WONDER MAN/SIMON WIL" target="MACHINE MAN/X-51">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="WONDER MAN/SIMON WIL" target="MOCKINGBIRD/DR. BARB">
+      <data key="d3">63</data>
+    </edge>
+    <edge source="WONDER MAN/SIMON WIL" target="MOONDRAGON/HEATHER D">
+      <data key="d3">17</data>
+    </edge>
+    <edge source="WONDER MAN/SIMON WIL" target="PHARAOH RAMA-TUT">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="WONDER MAN/SIMON WIL" target="QUASAR III/WENDELL V">
+      <data key="d3">21</data>
+    </edge>
+    <edge source="WONDER MAN/SIMON WIL" target="QUICKSILVER/PIETRO M">
+      <data key="d3">28</data>
+    </edge>
+    <edge source="WONDER MAN/SIMON WIL" target="RED SKULL/JOHANN SCH">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="WONDER MAN/SIMON WIL" target="SCARLET WITCH/WANDA ">
+      <data key="d3">118</data>
+    </edge>
+    <edge source="WONDER MAN/SIMON WIL" target="SHE-HULK/JENNIFER WA">
+      <data key="d3">37</data>
+    </edge>
+    <edge source="WONDER MAN/SIMON WIL" target="STARFOX/EROS">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="WONDER MAN/SIMON WIL" target="STINGRAY/DR. WALTER ">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="WONDER MAN/SIMON WIL" target="TIGRA/GREER NELSON">
+      <data key="d3">56</data>
+    </edge>
+    <edge source="WONDER MAN/SIMON WIL" target="USAGENT/CAPTAIN JOHN">
+      <data key="d3">32</data>
+    </edge>
+    <edge source="WONDER MAN/SIMON WIL" target="VANGUARD/NICOLAI KRY">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="WONDER MAN/SIMON WIL" target="WASP/JANET VAN DYNE ">
+      <data key="d3">88</data>
+    </edge>
+    <edge source="TIGRA/GREER NELSON" target="BLACK KNIGHT V/DANE ">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="TIGRA/GREER NELSON" target="BLACK WIDOW/NATASHA ">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="TIGRA/GREER NELSON" target="DR. DRUID/ANTHONY LU">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="TIGRA/GREER NELSON" target="FURY, COL. NICHOLAS ">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="TIGRA/GREER NELSON" target="HERCULES [GREEK GOD]">
+      <data key="d3">16</data>
+    </edge>
+    <edge source="TIGRA/GREER NELSON" target="IRON MAN IV/JAMES R.">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="TIGRA/GREER NELSON" target="JARVIS, EDWIN ">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="TIGRA/GREER NELSON" target="MACHINE MAN/X-51">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="TIGRA/GREER NELSON" target="MOCKINGBIRD/DR. BARB">
+      <data key="d3">46</data>
+    </edge>
+    <edge source="TIGRA/GREER NELSON" target="MOONDRAGON/HEATHER D">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="TIGRA/GREER NELSON" target="QUASAR III/WENDELL V">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="TIGRA/GREER NELSON" target="QUICKSILVER/PIETRO M">
+      <data key="d3">18</data>
+    </edge>
+    <edge source="TIGRA/GREER NELSON" target="SCARLET WITCH/WANDA ">
+      <data key="d3">35</data>
+    </edge>
+    <edge source="TIGRA/GREER NELSON" target="SHE-HULK/JENNIFER WA">
+      <data key="d3">24</data>
+    </edge>
+    <edge source="TIGRA/GREER NELSON" target="STARFOX/EROS">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="TIGRA/GREER NELSON" target="DARKSTAR/LAYNIA SERG">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="TIGRA/GREER NELSON" target="STINGRAY/DR. WALTER ">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="TIGRA/GREER NELSON" target="USAGENT/CAPTAIN JOHN">
+      <data key="d3">13</data>
+    </edge>
+    <edge source="TIGRA/GREER NELSON" target="WASP/JANET VAN DYNE ">
+      <data key="d3">41</data>
+    </edge>
+    <edge source="TIGRA/GREER NELSON" target="VANGUARD/NICOLAI KRY">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="IRON MAN IV/JAMES R." target="BLACK WIDOW/NATASHA ">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="IRON MAN IV/JAMES R." target="FURY, COL. NICHOLAS ">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="IRON MAN IV/JAMES R." target="HERCULES [GREEK GOD]">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="IRON MAN IV/JAMES R." target="JARVIS, EDWIN ">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="IRON MAN IV/JAMES R." target="MOCKINGBIRD/DR. BARB">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="IRON MAN IV/JAMES R." target="PHARAOH RAMA-TUT">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="IRON MAN IV/JAMES R." target="QUICKSILVER/PIETRO M">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="IRON MAN IV/JAMES R." target="SCARLET WITCH/WANDA ">
+      <data key="d3">19</data>
+    </edge>
+    <edge source="IRON MAN IV/JAMES R." target="SHE-HULK/JENNIFER WA">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="IRON MAN IV/JAMES R." target="STARFOX/EROS">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="IRON MAN IV/JAMES R." target="USAGENT/CAPTAIN JOHN">
+      <data key="d3">9</data>
+    </edge>
+    <edge source="IRON MAN IV/JAMES R." target="WASP/JANET VAN DYNE ">
+      <data key="d3">13</data>
+    </edge>
+    <edge source="IRON MAN IV/JAMES R." target="MOONDRAGON/HEATHER D">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="VANGUARD/NICOLAI KRY" target="BLACK WIDOW/NATASHA ">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="VANGUARD/NICOLAI KRY" target="DARKSTAR/LAYNIA SERG">
+      <data key="d3">16</data>
+    </edge>
+    <edge source="VANGUARD/NICOLAI KRY" target="JARVIS, EDWIN ">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="VANGUARD/NICOLAI KRY" target="MOONDRAGON/HEATHER D">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="VANGUARD/NICOLAI KRY" target="PHARAOH RAMA-TUT">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="VANGUARD/NICOLAI KRY" target="QUICKSILVER/PIETRO M">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="VANGUARD/NICOLAI KRY" target="SCARLET WITCH/WANDA ">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="VANGUARD/NICOLAI KRY" target="BLACK KNIGHT V/DANE ">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="VANGUARD/NICOLAI KRY" target="DR. DRUID/ANTHONY LU">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="VANGUARD/NICOLAI KRY" target="HERCULES [GREEK GOD]">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="VANGUARD/NICOLAI KRY" target="MACHINE MAN/X-51">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="VANGUARD/NICOLAI KRY" target="MOCKINGBIRD/DR. BARB">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="VANGUARD/NICOLAI KRY" target="QUASAR III/WENDELL V">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="VANGUARD/NICOLAI KRY" target="SHE-HULK/JENNIFER WA">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="VANGUARD/NICOLAI KRY" target="STINGRAY/DR. WALTER ">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="VANGUARD/NICOLAI KRY" target="WASP/JANET VAN DYNE ">
       <data key="d3">3</data>
     </edge>
     <edge source="DARKSTAR/LAYNIA SERG" target="BLACK KNIGHT V/DANE ">
       <data key="d3">3</data>
     </edge>
-    <edge source="DARKSTAR/LAYNIA SERG" target="BLACK PANTHER/T'CHAL">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="DARKSTAR/LAYNIA SERG" target="CRYSTAL [INHUMAN]">
-      <data key="d3">2</data>
+    <edge source="DARKSTAR/LAYNIA SERG" target="BLACK WIDOW/NATASHA ">
+      <data key="d3">8</data>
     </edge>
     <edge source="DARKSTAR/LAYNIA SERG" target="HERCULES [GREEK GOD]">
       <data key="d3">9</data>
-    </edge>
-    <edge source="DARKSTAR/LAYNIA SERG" target="IRON MAN/TONY STARK ">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="DARKSTAR/LAYNIA SERG" target="JACK OF HEARTS/JACK ">
-      <data key="d3">4</data>
     </edge>
     <edge source="DARKSTAR/LAYNIA SERG" target="QUASAR III/WENDELL V">
       <data key="d3">3</data>
     </edge>
     <edge source="DARKSTAR/LAYNIA SERG" target="SCARLET WITCH/WANDA ">
       <data key="d3">5</data>
-    </edge>
-    <edge source="DARKSTAR/LAYNIA SERG" target="VANGUARD/NICOLAI KRY">
-      <data key="d3">16</data>
     </edge>
     <edge source="DARKSTAR/LAYNIA SERG" target="WASP/JANET VAN DYNE ">
       <data key="d3">4</data>
@@ -1192,188 +1789,209 @@
     <edge source="DARKSTAR/LAYNIA SERG" target="SHE-HULK/JENNIFER WA">
       <data key="d3">3</data>
     </edge>
-    <edge source="DARKSTAR/LAYNIA SERG" target="TIGRA/GREER NELSON">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="PHARAOH RAMA-TUT" target="ANT-MAN/DR. HENRY J.">
-      <data key="d3">17</data>
-    </edge>
-    <edge source="PHARAOH RAMA-TUT" target="BINARY/CAROL DANVERS">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="PHARAOH RAMA-TUT" target="BLACK KNIGHT V/DANE ">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="PHARAOH RAMA-TUT" target="BLACK PANTHER/T'CHAL">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="PHARAOH RAMA-TUT" target="CAPTAIN MARVEL II/MO">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="PHARAOH RAMA-TUT" target="CRYSTAL [INHUMAN]">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="PHARAOH RAMA-TUT" target="DR. DRUID/ANTHONY LU">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="PHARAOH RAMA-TUT" target="HERCULES [GREEK GOD]">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="PHARAOH RAMA-TUT" target="IRON MAN/TONY STARK ">
-      <data key="d3">22</data>
-    </edge>
-    <edge source="PHARAOH RAMA-TUT" target="JARVIS, EDWIN ">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="PHARAOH RAMA-TUT" target="MOONDRAGON/HEATHER D">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="PHARAOH RAMA-TUT" target="QUICKSILVER/PIETRO M">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="PHARAOH RAMA-TUT" target="SCARLET WITCH/WANDA ">
-      <data key="d3">18</data>
-    </edge>
-    <edge source="PHARAOH RAMA-TUT" target="SHE-HULK/JENNIFER WA">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="PHARAOH RAMA-TUT" target="USAGENT/CAPTAIN JOHN">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="PHARAOH RAMA-TUT" target="VANGUARD/NICOLAI KRY">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="PHARAOH RAMA-TUT" target="WASP/JANET VAN DYNE ">
-      <data key="d3">22</data>
-    </edge>
-    <edge source="PHARAOH RAMA-TUT" target="QUASAR III/WENDELL V">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="PHARAOH RAMA-TUT" target="SPIDER-WOMAN II/JULI">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="MOONDRAGON/HEATHER D" target="ANT-MAN/DR. HENRY J.">
-      <data key="d3">17</data>
-    </edge>
-    <edge source="MOONDRAGON/HEATHER D" target="BINARY/CAROL DANVERS">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="MOONDRAGON/HEATHER D" target="BLACK KNIGHT V/DANE ">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="MOONDRAGON/HEATHER D" target="BLACK PANTHER/T'CHAL">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="MOONDRAGON/HEATHER D" target="CAPTAIN MARVEL II/MO">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="MOONDRAGON/HEATHER D" target="CRYSTAL [INHUMAN]">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="MOONDRAGON/HEATHER D" target="DR. DRUID/ANTHONY LU">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="MOONDRAGON/HEATHER D" target="FALCON/SAM WILSON">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MOONDRAGON/HEATHER D" target="FURY, COL. NICHOLAS ">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="MOONDRAGON/HEATHER D" target="HERCULES [GREEK GOD]">
-      <data key="d3">25</data>
-    </edge>
-    <edge source="MOONDRAGON/HEATHER D" target="IRON MAN/TONY STARK ">
-      <data key="d3">31</data>
-    </edge>
-    <edge source="MOONDRAGON/HEATHER D" target="JACK OF HEARTS/JACK ">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="MOONDRAGON/HEATHER D" target="JARVIS, EDWIN ">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="MOONDRAGON/HEATHER D" target="MACHINE MAN/X-51">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MOONDRAGON/HEATHER D" target="GYRICH, HENRY PETER">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="MOONDRAGON/HEATHER D" target="QUASAR III/WENDELL V">
-      <data key="d3">22</data>
-    </edge>
-    <edge source="MOONDRAGON/HEATHER D" target="QUICKSILVER/PIETRO M">
+    <edge source="MOCKINGBIRD/DR. BARB" target="BLACK KNIGHT V/DANE ">
       <data key="d3">9</data>
     </edge>
-    <edge source="MOONDRAGON/HEATHER D" target="SCARLET WITCH/WANDA ">
-      <data key="d3">23</data>
+    <edge source="MOCKINGBIRD/DR. BARB" target="BLACK WIDOW/NATASHA ">
+      <data key="d3">10</data>
     </edge>
-    <edge source="MOONDRAGON/HEATHER D" target="SHE-HULK/JENNIFER WA">
+    <edge source="MOCKINGBIRD/DR. BARB" target="DR. DRUID/ANTHONY LU">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="MOCKINGBIRD/DR. BARB" target="FURY, COL. NICHOLAS ">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="MOCKINGBIRD/DR. BARB" target="HERCULES [GREEK GOD]">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="MOCKINGBIRD/DR. BARB" target="JARVIS, EDWIN ">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="MOCKINGBIRD/DR. BARB" target="MACHINE MAN/X-51">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="MOCKINGBIRD/DR. BARB" target="MOONDRAGON/HEATHER D">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="MOCKINGBIRD/DR. BARB" target="QUASAR III/WENDELL V">
       <data key="d3">11</data>
     </edge>
-    <edge source="MOONDRAGON/HEATHER D" target="SPIDER-WOMAN II/JULI">
-      <data key="d3">4</data>
+    <edge source="MOCKINGBIRD/DR. BARB" target="QUICKSILVER/PIETRO M">
+      <data key="d3">12</data>
     </edge>
-    <edge source="MOONDRAGON/HEATHER D" target="STINGRAY/DR. WALTER ">
-      <data key="d3">2</data>
+    <edge source="MOCKINGBIRD/DR. BARB" target="SCARLET WITCH/WANDA ">
+      <data key="d3">37</data>
     </edge>
-    <edge source="MOONDRAGON/HEATHER D" target="TIGRA/GREER NELSON">
-      <data key="d3">8</data>
+    <edge source="MOCKINGBIRD/DR. BARB" target="SHE-HULK/JENNIFER WA">
+      <data key="d3">15</data>
     </edge>
-    <edge source="MOONDRAGON/HEATHER D" target="USAGENT/CAPTAIN JOHN">
-      <data key="d3">5</data>
+    <edge source="MOCKINGBIRD/DR. BARB" target="STARFOX/EROS">
+      <data key="d3">12</data>
     </edge>
-    <edge source="MOONDRAGON/HEATHER D" target="VANGUARD/NICOLAI KRY">
-      <data key="d3">2</data>
+    <edge source="MOCKINGBIRD/DR. BARB" target="USAGENT/CAPTAIN JOHN">
+      <data key="d3">18</data>
     </edge>
-    <edge source="MOONDRAGON/HEATHER D" target="WASP/JANET VAN DYNE ">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="SCARLET WITCH/WANDA " target="ANT-MAN/DR. HENRY J.">
-      <data key="d3">117</data>
-    </edge>
-    <edge source="SCARLET WITCH/WANDA " target="BINARY/CAROL DANVERS">
-      <data key="d3">35</data>
-    </edge>
-    <edge source="SCARLET WITCH/WANDA " target="BLACK KNIGHT V/DANE ">
-      <data key="d3">30</data>
-    </edge>
-    <edge source="SCARLET WITCH/WANDA " target="BLACK PANTHER/T'CHAL">
-      <data key="d3">53</data>
-    </edge>
-    <edge source="SCARLET WITCH/WANDA " target="CAPTAIN MARVEL II/MO">
-      <data key="d3">36</data>
-    </edge>
-    <edge source="SCARLET WITCH/WANDA " target="CRYSTAL [INHUMAN]">
+    <edge source="MOCKINGBIRD/DR. BARB" target="WASP/JANET VAN DYNE ">
       <data key="d3">32</data>
     </edge>
-    <edge source="SCARLET WITCH/WANDA " target="DR. DRUID/ANTHONY LU">
+    <edge source="MOCKINGBIRD/DR. BARB" target="PHARAOH RAMA-TUT">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="MOCKINGBIRD/DR. BARB" target="RED SKULL/JOHANN SCH">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="MOCKINGBIRD/DR. BARB" target="STINGRAY/DR. WALTER ">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="HERCULES [GREEK GOD]" target="BLACK KNIGHT V/DANE ">
+      <data key="d3">56</data>
+    </edge>
+    <edge source="HERCULES [GREEK GOD]" target="BLACK WIDOW/NATASHA ">
+      <data key="d3">52</data>
+    </edge>
+    <edge source="HERCULES [GREEK GOD]" target="DR. DRUID/ANTHONY LU">
       <data key="d3">8</data>
     </edge>
-    <edge source="SCARLET WITCH/WANDA " target="DUGAN, TIMOTHY ALOYI">
+    <edge source="HERCULES [GREEK GOD]" target="FURY, COL. NICHOLAS ">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="HERCULES [GREEK GOD]" target="JARVIS, EDWIN ">
+      <data key="d3">46</data>
+    </edge>
+    <edge source="HERCULES [GREEK GOD]" target="MACHINE MAN/X-51">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="HERCULES [GREEK GOD]" target="MOONDRAGON/HEATHER D">
+      <data key="d3">25</data>
+    </edge>
+    <edge source="HERCULES [GREEK GOD]" target="PHARAOH RAMA-TUT">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="HERCULES [GREEK GOD]" target="QUASAR III/WENDELL V">
+      <data key="d3">29</data>
+    </edge>
+    <edge source="HERCULES [GREEK GOD]" target="QUICKSILVER/PIETRO M">
+      <data key="d3">52</data>
+    </edge>
+    <edge source="HERCULES [GREEK GOD]" target="RED SKULL/JOHANN SCH">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="HERCULES [GREEK GOD]" target="SCARLET WITCH/WANDA ">
+      <data key="d3">51</data>
+    </edge>
+    <edge source="HERCULES [GREEK GOD]" target="SHE-HULK/JENNIFER WA">
+      <data key="d3">31</data>
+    </edge>
+    <edge source="HERCULES [GREEK GOD]" target="STARFOX/EROS">
+      <data key="d3">16</data>
+    </edge>
+    <edge source="HERCULES [GREEK GOD]" target="STINGRAY/DR. WALTER ">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="HERCULES [GREEK GOD]" target="USAGENT/CAPTAIN JOHN">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="HERCULES [GREEK GOD]" target="WASP/JANET VAN DYNE ">
+      <data key="d3">65</data>
+    </edge>
+    <edge source="BLACK KNIGHT V/DANE " target="BLACK WIDOW/NATASHA ">
+      <data key="d3">29</data>
+    </edge>
+    <edge source="BLACK KNIGHT V/DANE " target="DR. DRUID/ANTHONY LU">
+      <data key="d3">21</data>
+    </edge>
+    <edge source="BLACK KNIGHT V/DANE " target="FURY, COL. NICHOLAS ">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="BLACK KNIGHT V/DANE " target="JARVIS, EDWIN ">
+      <data key="d3">24</data>
+    </edge>
+    <edge source="BLACK KNIGHT V/DANE " target="MACHINE MAN/X-51">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="BLACK KNIGHT V/DANE " target="MOONDRAGON/HEATHER D">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="BLACK KNIGHT V/DANE " target="PHARAOH RAMA-TUT">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="BLACK KNIGHT V/DANE " target="QUASAR III/WENDELL V">
+      <data key="d3">18</data>
+    </edge>
+    <edge source="BLACK KNIGHT V/DANE " target="QUICKSILVER/PIETRO M">
+      <data key="d3">17</data>
+    </edge>
+    <edge source="BLACK KNIGHT V/DANE " target="SCARLET WITCH/WANDA ">
+      <data key="d3">30</data>
+    </edge>
+    <edge source="BLACK KNIGHT V/DANE " target="SHE-HULK/JENNIFER WA">
+      <data key="d3">32</data>
+    </edge>
+    <edge source="BLACK KNIGHT V/DANE " target="STARFOX/EROS">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="BLACK KNIGHT V/DANE " target="STINGRAY/DR. WALTER ">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="BLACK KNIGHT V/DANE " target="USAGENT/CAPTAIN JOHN">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="BLACK KNIGHT V/DANE " target="WASP/JANET VAN DYNE ">
+      <data key="d3">36</data>
+    </edge>
+    <edge source="DR. DRUID/ANTHONY LU" target="BLACK WIDOW/NATASHA ">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="DR. DRUID/ANTHONY LU" target="JARVIS, EDWIN ">
       <data key="d3">8</data>
     </edge>
-    <edge source="SCARLET WITCH/WANDA " target="FALCON/SAM WILSON">
-      <data key="d3">20</data>
+    <edge source="DR. DRUID/ANTHONY LU" target="MACHINE MAN/X-51">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="DR. DRUID/ANTHONY LU" target="MOONDRAGON/HEATHER D">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="DR. DRUID/ANTHONY LU" target="PHARAOH RAMA-TUT">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="DR. DRUID/ANTHONY LU" target="QUASAR III/WENDELL V">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="DR. DRUID/ANTHONY LU" target="SCARLET WITCH/WANDA ">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="DR. DRUID/ANTHONY LU" target="SHE-HULK/JENNIFER WA">
+      <data key="d3">26</data>
+    </edge>
+    <edge source="DR. DRUID/ANTHONY LU" target="STINGRAY/DR. WALTER ">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="DR. DRUID/ANTHONY LU" target="USAGENT/CAPTAIN JOHN">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="DR. DRUID/ANTHONY LU" target="WASP/JANET VAN DYNE ">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="DR. DRUID/ANTHONY LU" target="QUICKSILVER/PIETRO M">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="SCARLET WITCH/WANDA " target="BLACK WIDOW/NATASHA ">
+      <data key="d3">49</data>
     </edge>
     <edge source="SCARLET WITCH/WANDA " target="FURY, COL. NICHOLAS ">
       <data key="d3">13</data>
-    </edge>
-    <edge source="SCARLET WITCH/WANDA " target="GYRICH, HENRY PETER">
-      <data key="d3">20</data>
-    </edge>
-    <edge source="SCARLET WITCH/WANDA " target="HERCULES [GREEK GOD]">
-      <data key="d3">51</data>
-    </edge>
-    <edge source="SCARLET WITCH/WANDA " target="IRON MAN/TONY STARK ">
-      <data key="d3">185</data>
-    </edge>
-    <edge source="SCARLET WITCH/WANDA " target="JACK OF HEARTS/JACK ">
-      <data key="d3">7</data>
     </edge>
     <edge source="SCARLET WITCH/WANDA " target="JARVIS, EDWIN ">
       <data key="d3">76</data>
     </edge>
     <edge source="SCARLET WITCH/WANDA " target="MACHINE MAN/X-51">
       <data key="d3">4</data>
+    </edge>
+    <edge source="SCARLET WITCH/WANDA " target="MOONDRAGON/HEATHER D">
+      <data key="d3">23</data>
+    </edge>
+    <edge source="SCARLET WITCH/WANDA " target="PHARAOH RAMA-TUT">
+      <data key="d3">18</data>
     </edge>
     <edge source="SCARLET WITCH/WANDA " target="QUASAR III/WENDELL V">
       <data key="d3">22</data>
@@ -1387,299 +2005,23 @@
     <edge source="SCARLET WITCH/WANDA " target="SHE-HULK/JENNIFER WA">
       <data key="d3">37</data>
     </edge>
-    <edge source="SCARLET WITCH/WANDA " target="SPIDER-WOMAN II/JULI">
-      <data key="d3">35</data>
+    <edge source="SCARLET WITCH/WANDA " target="STARFOX/EROS">
+      <data key="d3">29</data>
     </edge>
     <edge source="SCARLET WITCH/WANDA " target="STINGRAY/DR. WALTER ">
       <data key="d3">3</data>
     </edge>
-    <edge source="SCARLET WITCH/WANDA " target="TIGRA/GREER NELSON">
-      <data key="d3">35</data>
-    </edge>
     <edge source="SCARLET WITCH/WANDA " target="USAGENT/CAPTAIN JOHN">
       <data key="d3">49</data>
-    </edge>
-    <edge source="SCARLET WITCH/WANDA " target="VANGUARD/NICOLAI KRY">
-      <data key="d3">3</data>
     </edge>
     <edge source="SCARLET WITCH/WANDA " target="WASP/JANET VAN DYNE ">
       <data key="d3">145</data>
     </edge>
-    <edge source="VANGUARD/NICOLAI KRY" target="BINARY/CAROL DANVERS">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="VANGUARD/NICOLAI KRY" target="BLACK PANTHER/T'CHAL">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="VANGUARD/NICOLAI KRY" target="IRON MAN/TONY STARK ">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="VANGUARD/NICOLAI KRY" target="JACK OF HEARTS/JACK ">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="VANGUARD/NICOLAI KRY" target="JARVIS, EDWIN ">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="VANGUARD/NICOLAI KRY" target="QUICKSILVER/PIETRO M">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="VANGUARD/NICOLAI KRY" target="BLACK KNIGHT V/DANE ">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="VANGUARD/NICOLAI KRY" target="DR. DRUID/ANTHONY LU">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="VANGUARD/NICOLAI KRY" target="FALCON/SAM WILSON">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="VANGUARD/NICOLAI KRY" target="HERCULES [GREEK GOD]">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="VANGUARD/NICOLAI KRY" target="MACHINE MAN/X-51">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="VANGUARD/NICOLAI KRY" target="QUASAR III/WENDELL V">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="VANGUARD/NICOLAI KRY" target="SHE-HULK/JENNIFER WA">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="VANGUARD/NICOLAI KRY" target="STINGRAY/DR. WALTER ">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="VANGUARD/NICOLAI KRY" target="TIGRA/GREER NELSON">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="VANGUARD/NICOLAI KRY" target="WASP/JANET VAN DYNE ">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="BINARY/CAROL DANVERS" target="ANT-MAN/DR. HENRY J.">
-      <data key="d3">20</data>
-    </edge>
-    <edge source="BINARY/CAROL DANVERS" target="BLACK KNIGHT V/DANE ">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="BINARY/CAROL DANVERS" target="BLACK PANTHER/T'CHAL">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="BINARY/CAROL DANVERS" target="CAPTAIN MARVEL II/MO">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="BINARY/CAROL DANVERS" target="CRYSTAL [INHUMAN]">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="BINARY/CAROL DANVERS" target="FALCON/SAM WILSON">
+    <edge source="USAGENT/CAPTAIN JOHN" target="BLACK WIDOW/NATASHA ">
       <data key="d3">11</data>
-    </edge>
-    <edge source="BINARY/CAROL DANVERS" target="FURY, COL. NICHOLAS ">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="BINARY/CAROL DANVERS" target="GYRICH, HENRY PETER">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="BINARY/CAROL DANVERS" target="HERCULES [GREEK GOD]">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="BINARY/CAROL DANVERS" target="IRON MAN/TONY STARK ">
-      <data key="d3">36</data>
-    </edge>
-    <edge source="BINARY/CAROL DANVERS" target="JACK OF HEARTS/JACK ">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="BINARY/CAROL DANVERS" target="JARVIS, EDWIN ">
-      <data key="d3">17</data>
-    </edge>
-    <edge source="BINARY/CAROL DANVERS" target="MACHINE MAN/X-51">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="BINARY/CAROL DANVERS" target="QUASAR III/WENDELL V">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="BINARY/CAROL DANVERS" target="QUICKSILVER/PIETRO M">
-      <data key="d3">19</data>
-    </edge>
-    <edge source="BINARY/CAROL DANVERS" target="SHE-HULK/JENNIFER WA">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="BINARY/CAROL DANVERS" target="SPIDER-WOMAN II/JULI">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="BINARY/CAROL DANVERS" target="STINGRAY/DR. WALTER ">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="BINARY/CAROL DANVERS" target="TIGRA/GREER NELSON">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="BINARY/CAROL DANVERS" target="USAGENT/CAPTAIN JOHN">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="BINARY/CAROL DANVERS" target="WASP/JANET VAN DYNE ">
-      <data key="d3">33</data>
-    </edge>
-    <edge source="QUASAR III/WENDELL V" target="ANT-MAN/DR. HENRY J.">
-      <data key="d3">16</data>
-    </edge>
-    <edge source="QUASAR III/WENDELL V" target="BLACK KNIGHT V/DANE ">
-      <data key="d3">18</data>
-    </edge>
-    <edge source="QUASAR III/WENDELL V" target="BLACK PANTHER/T'CHAL">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="QUASAR III/WENDELL V" target="CAPTAIN MARVEL II/MO">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="QUASAR III/WENDELL V" target="CRYSTAL [INHUMAN]">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="QUASAR III/WENDELL V" target="DR. DRUID/ANTHONY LU">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="QUASAR III/WENDELL V" target="DUGAN, TIMOTHY ALOYI">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="QUASAR III/WENDELL V" target="FALCON/SAM WILSON">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="QUASAR III/WENDELL V" target="FURY, COL. NICHOLAS ">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="QUASAR III/WENDELL V" target="HERCULES [GREEK GOD]">
-      <data key="d3">29</data>
-    </edge>
-    <edge source="QUASAR III/WENDELL V" target="IRON MAN/TONY STARK ">
-      <data key="d3">26</data>
-    </edge>
-    <edge source="QUASAR III/WENDELL V" target="JACK OF HEARTS/JACK ">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="QUASAR III/WENDELL V" target="JARVIS, EDWIN ">
-      <data key="d3">16</data>
-    </edge>
-    <edge source="QUASAR III/WENDELL V" target="MACHINE MAN/X-51">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="QUASAR III/WENDELL V" target="QUICKSILVER/PIETRO M">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="QUASAR III/WENDELL V" target="SHE-HULK/JENNIFER WA">
-      <data key="d3">31</data>
-    </edge>
-    <edge source="QUASAR III/WENDELL V" target="SPIDER-WOMAN II/JULI">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="QUASAR III/WENDELL V" target="STINGRAY/DR. WALTER ">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="QUASAR III/WENDELL V" target="TIGRA/GREER NELSON">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="QUASAR III/WENDELL V" target="USAGENT/CAPTAIN JOHN">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="QUASAR III/WENDELL V" target="WASP/JANET VAN DYNE ">
-      <data key="d3">20</data>
-    </edge>
-    <edge source="QUASAR III/WENDELL V" target="RED SKULL/JOHANN SCH">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="FALCON/SAM WILSON" target="ANT-MAN/DR. HENRY J.">
-      <data key="d3">19</data>
-    </edge>
-    <edge source="FALCON/SAM WILSON" target="BLACK KNIGHT V/DANE ">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="FALCON/SAM WILSON" target="BLACK PANTHER/T'CHAL">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="FALCON/SAM WILSON" target="CAPTAIN MARVEL II/MO">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="FALCON/SAM WILSON" target="CRYSTAL [INHUMAN]">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="FALCON/SAM WILSON" target="DUGAN, TIMOTHY ALOYI">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="FALCON/SAM WILSON" target="DR. DRUID/ANTHONY LU">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="FALCON/SAM WILSON" target="FURY, COL. NICHOLAS ">
-      <data key="d3">20</data>
-    </edge>
-    <edge source="FALCON/SAM WILSON" target="GYRICH, HENRY PETER">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="FALCON/SAM WILSON" target="HERCULES [GREEK GOD]">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="FALCON/SAM WILSON" target="IRON MAN/TONY STARK ">
-      <data key="d3">18</data>
-    </edge>
-    <edge source="FALCON/SAM WILSON" target="JACK OF HEARTS/JACK ">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="FALCON/SAM WILSON" target="JARVIS, EDWIN ">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="FALCON/SAM WILSON" target="MACHINE MAN/X-51">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="FALCON/SAM WILSON" target="QUICKSILVER/PIETRO M">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="FALCON/SAM WILSON" target="RED SKULL/JOHANN SCH">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="FALCON/SAM WILSON" target="SHE-HULK/JENNIFER WA">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="FALCON/SAM WILSON" target="SPIDER-WOMAN II/JULI">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="FALCON/SAM WILSON" target="STINGRAY/DR. WALTER ">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="FALCON/SAM WILSON" target="TIGRA/GREER NELSON">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="FALCON/SAM WILSON" target="USAGENT/CAPTAIN JOHN">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="FALCON/SAM WILSON" target="WASP/JANET VAN DYNE ">
-      <data key="d3">20</data>
-    </edge>
-    <edge source="USAGENT/CAPTAIN JOHN" target="ANT-MAN/DR. HENRY J.">
-      <data key="d3">34</data>
-    </edge>
-    <edge source="USAGENT/CAPTAIN JOHN" target="BLACK KNIGHT V/DANE ">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="USAGENT/CAPTAIN JOHN" target="BLACK PANTHER/T'CHAL">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="USAGENT/CAPTAIN JOHN" target="CAPTAIN MARVEL II/MO">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="USAGENT/CAPTAIN JOHN" target="CRYSTAL [INHUMAN]">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="USAGENT/CAPTAIN JOHN" target="DR. DRUID/ANTHONY LU">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="USAGENT/CAPTAIN JOHN" target="DUGAN, TIMOTHY ALOYI">
-      <data key="d3">5</data>
     </edge>
     <edge source="USAGENT/CAPTAIN JOHN" target="FURY, COL. NICHOLAS ">
       <data key="d3">6</data>
-    </edge>
-    <edge source="USAGENT/CAPTAIN JOHN" target="GYRICH, HENRY PETER">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="USAGENT/CAPTAIN JOHN" target="HERCULES [GREEK GOD]">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="USAGENT/CAPTAIN JOHN" target="IRON MAN/TONY STARK ">
-      <data key="d3">48</data>
     </edge>
     <edge source="USAGENT/CAPTAIN JOHN" target="JARVIS, EDWIN ">
       <data key="d3">4</data>
@@ -1687,22 +2029,25 @@
     <edge source="USAGENT/CAPTAIN JOHN" target="MACHINE MAN/X-51">
       <data key="d3">2</data>
     </edge>
+    <edge source="USAGENT/CAPTAIN JOHN" target="MOONDRAGON/HEATHER D">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="USAGENT/CAPTAIN JOHN" target="PHARAOH RAMA-TUT">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="USAGENT/CAPTAIN JOHN" target="QUASAR III/WENDELL V">
+      <data key="d3">15</data>
+    </edge>
     <edge source="USAGENT/CAPTAIN JOHN" target="QUICKSILVER/PIETRO M">
       <data key="d3">18</data>
     </edge>
     <edge source="USAGENT/CAPTAIN JOHN" target="SHE-HULK/JENNIFER WA">
       <data key="d3">13</data>
     </edge>
-    <edge source="USAGENT/CAPTAIN JOHN" target="SPIDER-WOMAN II/JULI">
-      <data key="d3">36</data>
+    <edge source="USAGENT/CAPTAIN JOHN" target="STARFOX/EROS">
+      <data key="d3">5</data>
     </edge>
     <edge source="USAGENT/CAPTAIN JOHN" target="STINGRAY/DR. WALTER ">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="USAGENT/CAPTAIN JOHN" target="TIGRA/GREER NELSON">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="USAGENT/CAPTAIN JOHN" target="JACK OF HEARTS/JACK ">
       <data key="d3">2</data>
     </edge>
     <edge source="USAGENT/CAPTAIN JOHN" target="RED SKULL/JOHANN SCH">
@@ -1711,221 +2056,158 @@
     <edge source="USAGENT/CAPTAIN JOHN" target="WASP/JANET VAN DYNE ">
       <data key="d3">24</data>
     </edge>
-    <edge source="JACK OF HEARTS/JACK " target="ANT-MAN/DR. HENRY J.">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="JACK OF HEARTS/JACK " target="BLACK KNIGHT V/DANE ">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="JACK OF HEARTS/JACK " target="BLACK PANTHER/T'CHAL">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="JACK OF HEARTS/JACK " target="CAPTAIN MARVEL II/MO">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="JACK OF HEARTS/JACK " target="FURY, COL. NICHOLAS ">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="JACK OF HEARTS/JACK " target="HERCULES [GREEK GOD]">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="JACK OF HEARTS/JACK " target="IRON MAN/TONY STARK ">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="JACK OF HEARTS/JACK " target="CRYSTAL [INHUMAN]">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="JACK OF HEARTS/JACK " target="DUGAN, TIMOTHY ALOYI">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="JACK OF HEARTS/JACK " target="JARVIS, EDWIN ">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="JACK OF HEARTS/JACK " target="QUICKSILVER/PIETRO M">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="JACK OF HEARTS/JACK " target="SHE-HULK/JENNIFER WA">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="JACK OF HEARTS/JACK " target="TIGRA/GREER NELSON">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="JACK OF HEARTS/JACK " target="WASP/JANET VAN DYNE ">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="JACK OF HEARTS/JACK " target="MACHINE MAN/X-51">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="JACK OF HEARTS/JACK " target="STINGRAY/DR. WALTER ">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="BLACK KNIGHT V/DANE " target="ANT-MAN/DR. HENRY J.">
-      <data key="d3">20</data>
-    </edge>
-    <edge source="BLACK KNIGHT V/DANE " target="BLACK PANTHER/T'CHAL">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="BLACK KNIGHT V/DANE " target="CAPTAIN MARVEL II/MO">
-      <data key="d3">33</data>
-    </edge>
-    <edge source="BLACK KNIGHT V/DANE " target="CRYSTAL [INHUMAN]">
-      <data key="d3">29</data>
-    </edge>
-    <edge source="BLACK KNIGHT V/DANE " target="DR. DRUID/ANTHONY LU">
-      <data key="d3">21</data>
-    </edge>
-    <edge source="BLACK KNIGHT V/DANE " target="FURY, COL. NICHOLAS ">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="BLACK KNIGHT V/DANE " target="GYRICH, HENRY PETER">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="BLACK KNIGHT V/DANE " target="HERCULES [GREEK GOD]">
-      <data key="d3">56</data>
-    </edge>
-    <edge source="BLACK KNIGHT V/DANE " target="IRON MAN/TONY STARK ">
-      <data key="d3">26</data>
-    </edge>
-    <edge source="BLACK KNIGHT V/DANE " target="JARVIS, EDWIN ">
-      <data key="d3">24</data>
-    </edge>
-    <edge source="BLACK KNIGHT V/DANE " target="MACHINE MAN/X-51">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="BLACK KNIGHT V/DANE " target="QUICKSILVER/PIETRO M">
+    <edge source="QUASAR III/WENDELL V" target="BLACK WIDOW/NATASHA ">
       <data key="d3">17</data>
     </edge>
-    <edge source="BLACK KNIGHT V/DANE " target="SHE-HULK/JENNIFER WA">
-      <data key="d3">32</data>
+    <edge source="QUASAR III/WENDELL V" target="FURY, COL. NICHOLAS ">
+      <data key="d3">3</data>
     </edge>
-    <edge source="BLACK KNIGHT V/DANE " target="SPIDER-WOMAN II/JULI">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="BLACK KNIGHT V/DANE " target="STINGRAY/DR. WALTER ">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="BLACK KNIGHT V/DANE " target="TIGRA/GREER NELSON">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="BLACK KNIGHT V/DANE " target="WASP/JANET VAN DYNE ">
-      <data key="d3">36</data>
-    </edge>
-    <edge source="HERCULES [GREEK GOD]" target="ANT-MAN/DR. HENRY J.">
-      <data key="d3">46</data>
-    </edge>
-    <edge source="HERCULES [GREEK GOD]" target="BLACK PANTHER/T'CHAL">
+    <edge source="QUASAR III/WENDELL V" target="JARVIS, EDWIN ">
       <data key="d3">16</data>
     </edge>
-    <edge source="HERCULES [GREEK GOD]" target="CAPTAIN MARVEL II/MO">
-      <data key="d3">40</data>
+    <edge source="QUASAR III/WENDELL V" target="MACHINE MAN/X-51">
+      <data key="d3">3</data>
     </edge>
-    <edge source="HERCULES [GREEK GOD]" target="CRYSTAL [INHUMAN]">
-      <data key="d3">32</data>
+    <edge source="QUASAR III/WENDELL V" target="MOONDRAGON/HEATHER D">
+      <data key="d3">22</data>
     </edge>
-    <edge source="HERCULES [GREEK GOD]" target="DR. DRUID/ANTHONY LU">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="HERCULES [GREEK GOD]" target="DUGAN, TIMOTHY ALOYI">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="HERCULES [GREEK GOD]" target="FURY, COL. NICHOLAS ">
+    <edge source="QUASAR III/WENDELL V" target="PHARAOH RAMA-TUT">
       <data key="d3">5</data>
     </edge>
-    <edge source="HERCULES [GREEK GOD]" target="GYRICH, HENRY PETER">
-      <data key="d3">4</data>
+    <edge source="QUASAR III/WENDELL V" target="QUICKSILVER/PIETRO M">
+      <data key="d3">9</data>
     </edge>
-    <edge source="HERCULES [GREEK GOD]" target="IRON MAN/TONY STARK ">
-      <data key="d3">44</data>
-    </edge>
-    <edge source="HERCULES [GREEK GOD]" target="JARVIS, EDWIN ">
-      <data key="d3">46</data>
-    </edge>
-    <edge source="HERCULES [GREEK GOD]" target="MACHINE MAN/X-51">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="HERCULES [GREEK GOD]" target="QUICKSILVER/PIETRO M">
-      <data key="d3">52</data>
-    </edge>
-    <edge source="HERCULES [GREEK GOD]" target="RED SKULL/JOHANN SCH">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="HERCULES [GREEK GOD]" target="SHE-HULK/JENNIFER WA">
+    <edge source="QUASAR III/WENDELL V" target="SHE-HULK/JENNIFER WA">
       <data key="d3">31</data>
     </edge>
-    <edge source="HERCULES [GREEK GOD]" target="SPIDER-WOMAN II/JULI">
+    <edge source="QUASAR III/WENDELL V" target="STARFOX/EROS">
       <data key="d3">12</data>
     </edge>
-    <edge source="HERCULES [GREEK GOD]" target="STINGRAY/DR. WALTER ">
-      <data key="d3">5</data>
+    <edge source="QUASAR III/WENDELL V" target="STINGRAY/DR. WALTER ">
+      <data key="d3">10</data>
     </edge>
-    <edge source="HERCULES [GREEK GOD]" target="TIGRA/GREER NELSON">
-      <data key="d3">16</data>
+    <edge source="QUASAR III/WENDELL V" target="WASP/JANET VAN DYNE ">
+      <data key="d3">20</data>
     </edge>
-    <edge source="HERCULES [GREEK GOD]" target="WASP/JANET VAN DYNE ">
-      <data key="d3">65</data>
-    </edge>
-    <edge source="ANT-MAN/DR. HENRY J." target="BLACK PANTHER/T'CHAL">
-      <data key="d3">32</data>
-    </edge>
-    <edge source="ANT-MAN/DR. HENRY J." target="CAPTAIN MARVEL II/MO">
-      <data key="d3">19</data>
-    </edge>
-    <edge source="ANT-MAN/DR. HENRY J." target="CRYSTAL [INHUMAN]">
-      <data key="d3">32</data>
-    </edge>
-    <edge source="ANT-MAN/DR. HENRY J." target="DR. DRUID/ANTHONY LU">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="ANT-MAN/DR. HENRY J." target="DUGAN, TIMOTHY ALOYI">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="ANT-MAN/DR. HENRY J." target="FURY, COL. NICHOLAS ">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="ANT-MAN/DR. HENRY J." target="GYRICH, HENRY PETER">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="ANT-MAN/DR. HENRY J." target="IRON MAN/TONY STARK ">
-      <data key="d3">135</data>
-    </edge>
-    <edge source="ANT-MAN/DR. HENRY J." target="JARVIS, EDWIN ">
-      <data key="d3">64</data>
-    </edge>
-    <edge source="ANT-MAN/DR. HENRY J." target="MACHINE MAN/X-51">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="ANT-MAN/DR. HENRY J." target="QUICKSILVER/PIETRO M">
-      <data key="d3">55</data>
-    </edge>
-    <edge source="ANT-MAN/DR. HENRY J." target="RED SKULL/JOHANN SCH">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="ANT-MAN/DR. HENRY J." target="SHE-HULK/JENNIFER WA">
-      <data key="d3">27</data>
-    </edge>
-    <edge source="ANT-MAN/DR. HENRY J." target="SPIDER-WOMAN II/JULI">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="ANT-MAN/DR. HENRY J." target="TIGRA/GREER NELSON">
-      <data key="d3">37</data>
-    </edge>
-    <edge source="ANT-MAN/DR. HENRY J." target="WASP/JANET VAN DYNE ">
-      <data key="d3">211</data>
-    </edge>
-    <edge source="ANT-MAN/DR. HENRY J." target="STINGRAY/DR. WALTER ">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="RED SKULL/JOHANN SCH" target="CRYSTAL [INHUMAN]">
+    <edge source="QUASAR III/WENDELL V" target="RED SKULL/JOHANN SCH">
       <data key="d3">2</data>
     </edge>
-    <edge source="RED SKULL/JOHANN SCH" target="DUGAN, TIMOTHY ALOYI">
+    <edge source="SHE-HULK/JENNIFER WA" target="BLACK WIDOW/NATASHA ">
+      <data key="d3">20</data>
+    </edge>
+    <edge source="SHE-HULK/JENNIFER WA" target="FURY, COL. NICHOLAS ">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="SHE-HULK/JENNIFER WA" target="JARVIS, EDWIN ">
+      <data key="d3">26</data>
+    </edge>
+    <edge source="SHE-HULK/JENNIFER WA" target="MACHINE MAN/X-51">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="SHE-HULK/JENNIFER WA" target="MOONDRAGON/HEATHER D">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="SHE-HULK/JENNIFER WA" target="PHARAOH RAMA-TUT">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="SHE-HULK/JENNIFER WA" target="QUICKSILVER/PIETRO M">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="SHE-HULK/JENNIFER WA" target="RED SKULL/JOHANN SCH">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="SHE-HULK/JENNIFER WA" target="STARFOX/EROS">
+      <data key="d3">21</data>
+    </edge>
+    <edge source="SHE-HULK/JENNIFER WA" target="STINGRAY/DR. WALTER ">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="SHE-HULK/JENNIFER WA" target="WASP/JANET VAN DYNE ">
+      <data key="d3">85</data>
+    </edge>
+    <edge source="MOONDRAGON/HEATHER D" target="BLACK WIDOW/NATASHA ">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="MOONDRAGON/HEATHER D" target="FURY, COL. NICHOLAS ">
       <data key="d3">4</data>
+    </edge>
+    <edge source="MOONDRAGON/HEATHER D" target="JARVIS, EDWIN ">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="MOONDRAGON/HEATHER D" target="MACHINE MAN/X-51">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="MOONDRAGON/HEATHER D" target="PHARAOH RAMA-TUT">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="MOONDRAGON/HEATHER D" target="QUICKSILVER/PIETRO M">
+      <data key="d3">9</data>
+    </edge>
+    <edge source="MOONDRAGON/HEATHER D" target="STARFOX/EROS">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="MOONDRAGON/HEATHER D" target="STINGRAY/DR. WALTER ">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="MOONDRAGON/HEATHER D" target="WASP/JANET VAN DYNE ">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="STARFOX/EROS" target="BLACK WIDOW/NATASHA ">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="STARFOX/EROS" target="FURY, COL. NICHOLAS ">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="STARFOX/EROS" target="JARVIS, EDWIN ">
+      <data key="d3">15</data>
+    </edge>
+    <edge source="STARFOX/EROS" target="MACHINE MAN/X-51">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="STARFOX/EROS" target="PHARAOH RAMA-TUT">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="STARFOX/EROS" target="QUICKSILVER/PIETRO M">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="STARFOX/EROS" target="RED SKULL/JOHANN SCH">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="STARFOX/EROS" target="STINGRAY/DR. WALTER ">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="STARFOX/EROS" target="WASP/JANET VAN DYNE ">
+      <data key="d3">29</data>
+    </edge>
+    <edge source="WASP/JANET VAN DYNE " target="BLACK WIDOW/NATASHA ">
+      <data key="d3">47</data>
+    </edge>
+    <edge source="WASP/JANET VAN DYNE " target="FURY, COL. NICHOLAS ">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="WASP/JANET VAN DYNE " target="JARVIS, EDWIN ">
+      <data key="d3">75</data>
+    </edge>
+    <edge source="WASP/JANET VAN DYNE " target="MACHINE MAN/X-51">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="WASP/JANET VAN DYNE " target="PHARAOH RAMA-TUT">
+      <data key="d3">22</data>
+    </edge>
+    <edge source="WASP/JANET VAN DYNE " target="QUICKSILVER/PIETRO M">
+      <data key="d3">59</data>
+    </edge>
+    <edge source="WASP/JANET VAN DYNE " target="RED SKULL/JOHANN SCH">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="WASP/JANET VAN DYNE " target="STINGRAY/DR. WALTER ">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="RED SKULL/JOHANN SCH" target="BLACK WIDOW/NATASHA ">
+      <data key="d3">5</data>
     </edge>
     <edge source="RED SKULL/JOHANN SCH" target="FURY, COL. NICHOLAS ">
       <data key="d3">14</data>
-    </edge>
-    <edge source="RED SKULL/JOHANN SCH" target="IRON MAN/TONY STARK ">
-      <data key="d3">2</data>
     </edge>
     <edge source="RED SKULL/JOHANN SCH" target="JARVIS, EDWIN ">
       <data key="d3">4</data>
@@ -1933,77 +2215,26 @@
     <edge source="RED SKULL/JOHANN SCH" target="QUICKSILVER/PIETRO M">
       <data key="d3">5</data>
     </edge>
-    <edge source="RED SKULL/JOHANN SCH" target="CAPTAIN MARVEL II/MO">
-      <data key="d3">2</data>
+    <edge source="JARVIS, EDWIN " target="BLACK WIDOW/NATASHA ">
+      <data key="d3">26</data>
     </edge>
-    <edge source="RED SKULL/JOHANN SCH" target="SHE-HULK/JENNIFER WA">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="RED SKULL/JOHANN SCH" target="WASP/JANET VAN DYNE ">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="TIGRA/GREER NELSON" target="BLACK PANTHER/T'CHAL">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="TIGRA/GREER NELSON" target="CAPTAIN MARVEL II/MO">
+    <edge source="JARVIS, EDWIN " target="FURY, COL. NICHOLAS ">
       <data key="d3">13</data>
     </edge>
-    <edge source="TIGRA/GREER NELSON" target="CRYSTAL [INHUMAN]">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="TIGRA/GREER NELSON" target="DR. DRUID/ANTHONY LU">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="TIGRA/GREER NELSON" target="FURY, COL. NICHOLAS ">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="TIGRA/GREER NELSON" target="GYRICH, HENRY PETER">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="TIGRA/GREER NELSON" target="IRON MAN/TONY STARK ">
-      <data key="d3">48</data>
-    </edge>
-    <edge source="TIGRA/GREER NELSON" target="JARVIS, EDWIN ">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="TIGRA/GREER NELSON" target="MACHINE MAN/X-51">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="TIGRA/GREER NELSON" target="QUICKSILVER/PIETRO M">
-      <data key="d3">18</data>
-    </edge>
-    <edge source="TIGRA/GREER NELSON" target="SHE-HULK/JENNIFER WA">
-      <data key="d3">24</data>
-    </edge>
-    <edge source="TIGRA/GREER NELSON" target="SPIDER-WOMAN II/JULI">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="TIGRA/GREER NELSON" target="STINGRAY/DR. WALTER ">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="TIGRA/GREER NELSON" target="WASP/JANET VAN DYNE ">
-      <data key="d3">41</data>
-    </edge>
-    <edge source="FURY, COL. NICHOLAS " target="BLACK PANTHER/T'CHAL">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="FURY, COL. NICHOLAS " target="CAPTAIN MARVEL II/MO">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="FURY, COL. NICHOLAS " target="CRYSTAL [INHUMAN]">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="FURY, COL. NICHOLAS " target="DUGAN, TIMOTHY ALOYI">
-      <data key="d3">94</data>
-    </edge>
-    <edge source="FURY, COL. NICHOLAS " target="GYRICH, HENRY PETER">
+    <edge source="JARVIS, EDWIN " target="MACHINE MAN/X-51">
       <data key="d3">2</data>
     </edge>
-    <edge source="FURY, COL. NICHOLAS " target="IRON MAN/TONY STARK ">
-      <data key="d3">38</data>
+    <edge source="JARVIS, EDWIN " target="PHARAOH RAMA-TUT">
+      <data key="d3">10</data>
     </edge>
-    <edge source="FURY, COL. NICHOLAS " target="JARVIS, EDWIN ">
-      <data key="d3">13</data>
+    <edge source="JARVIS, EDWIN " target="QUICKSILVER/PIETRO M">
+      <data key="d3">27</data>
+    </edge>
+    <edge source="JARVIS, EDWIN " target="STINGRAY/DR. WALTER ">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="FURY, COL. NICHOLAS " target="BLACK WIDOW/NATASHA ">
+      <data key="d3">14</data>
     </edge>
     <edge source="FURY, COL. NICHOLAS " target="MACHINE MAN/X-51">
       <data key="d3">4</data>
@@ -2011,260 +2242,29 @@
     <edge source="FURY, COL. NICHOLAS " target="QUICKSILVER/PIETRO M">
       <data key="d3">9</data>
     </edge>
-    <edge source="FURY, COL. NICHOLAS " target="SHE-HULK/JENNIFER WA">
-      <data key="d3">12</data>
+    <edge source="MACHINE MAN/X-51" target="BLACK WIDOW/NATASHA ">
+      <data key="d3">4</data>
     </edge>
-    <edge source="FURY, COL. NICHOLAS " target="SPIDER-WOMAN II/JULI">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="FURY, COL. NICHOLAS " target="WASP/JANET VAN DYNE ">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="CRYSTAL [INHUMAN]" target="BLACK PANTHER/T'CHAL">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="CRYSTAL [INHUMAN]" target="CAPTAIN MARVEL II/MO">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="CRYSTAL [INHUMAN]" target="DR. DRUID/ANTHONY LU">
+    <edge source="MACHINE MAN/X-51" target="QUICKSILVER/PIETRO M">
       <data key="d3">5</data>
     </edge>
-    <edge source="CRYSTAL [INHUMAN]" target="DUGAN, TIMOTHY ALOYI">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="CRYSTAL [INHUMAN]" target="GYRICH, HENRY PETER">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="CRYSTAL [INHUMAN]" target="IRON MAN/TONY STARK ">
-      <data key="d3">19</data>
-    </edge>
-    <edge source="CRYSTAL [INHUMAN]" target="JARVIS, EDWIN ">
-      <data key="d3">22</data>
-    </edge>
-    <edge source="CRYSTAL [INHUMAN]" target="MACHINE MAN/X-51">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="CRYSTAL [INHUMAN]" target="QUICKSILVER/PIETRO M">
-      <data key="d3">51</data>
-    </edge>
-    <edge source="CRYSTAL [INHUMAN]" target="SHE-HULK/JENNIFER WA">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="CRYSTAL [INHUMAN]" target="SPIDER-WOMAN II/JULI">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="CRYSTAL [INHUMAN]" target="STINGRAY/DR. WALTER ">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="CRYSTAL [INHUMAN]" target="WASP/JANET VAN DYNE ">
-      <data key="d3">27</data>
-    </edge>
-    <edge source="STINGRAY/DR. WALTER " target="BLACK PANTHER/T'CHAL">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="STINGRAY/DR. WALTER " target="CAPTAIN MARVEL II/MO">
+    <edge source="MACHINE MAN/X-51" target="STINGRAY/DR. WALTER ">
       <data key="d3">3</data>
     </edge>
-    <edge source="STINGRAY/DR. WALTER " target="DR. DRUID/ANTHONY LU">
+    <edge source="STINGRAY/DR. WALTER " target="BLACK WIDOW/NATASHA ">
       <data key="d3">2</data>
-    </edge>
-    <edge source="STINGRAY/DR. WALTER " target="IRON MAN/TONY STARK ">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="STINGRAY/DR. WALTER " target="JARVIS, EDWIN ">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="STINGRAY/DR. WALTER " target="MACHINE MAN/X-51">
-      <data key="d3">3</data>
     </edge>
     <edge source="STINGRAY/DR. WALTER " target="QUICKSILVER/PIETRO M">
       <data key="d3">5</data>
     </edge>
-    <edge source="STINGRAY/DR. WALTER " target="SHE-HULK/JENNIFER WA">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="STINGRAY/DR. WALTER " target="SPIDER-WOMAN II/JULI">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="STINGRAY/DR. WALTER " target="WASP/JANET VAN DYNE ">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="JARVIS, EDWIN " target="BLACK PANTHER/T'CHAL">
-      <data key="d3">41</data>
-    </edge>
-    <edge source="JARVIS, EDWIN " target="CAPTAIN MARVEL II/MO">
-      <data key="d3">34</data>
-    </edge>
-    <edge source="JARVIS, EDWIN " target="DR. DRUID/ANTHONY LU">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="JARVIS, EDWIN " target="DUGAN, TIMOTHY ALOYI">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="JARVIS, EDWIN " target="GYRICH, HENRY PETER">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="JARVIS, EDWIN " target="IRON MAN/TONY STARK ">
-      <data key="d3">97</data>
-    </edge>
-    <edge source="JARVIS, EDWIN " target="MACHINE MAN/X-51">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="JARVIS, EDWIN " target="QUICKSILVER/PIETRO M">
-      <data key="d3">27</data>
-    </edge>
-    <edge source="JARVIS, EDWIN " target="SHE-HULK/JENNIFER WA">
-      <data key="d3">26</data>
-    </edge>
-    <edge source="JARVIS, EDWIN " target="WASP/JANET VAN DYNE ">
-      <data key="d3">75</data>
-    </edge>
-    <edge source="JARVIS, EDWIN " target="SPIDER-WOMAN II/JULI">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="BLACK PANTHER/T'CHAL" target="CAPTAIN MARVEL II/MO">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="BLACK PANTHER/T'CHAL" target="DUGAN, TIMOTHY ALOYI">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="BLACK PANTHER/T'CHAL" target="GYRICH, HENRY PETER">
+    <edge source="BLACK WIDOW/NATASHA " target="PHARAOH RAMA-TUT">
       <data key="d3">3</data>
     </edge>
-    <edge source="BLACK PANTHER/T'CHAL" target="IRON MAN/TONY STARK ">
-      <data key="d3">61</data>
-    </edge>
-    <edge source="BLACK PANTHER/T'CHAL" target="MACHINE MAN/X-51">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="BLACK PANTHER/T'CHAL" target="QUICKSILVER/PIETRO M">
-      <data key="d3">29</data>
-    </edge>
-    <edge source="BLACK PANTHER/T'CHAL" target="SHE-HULK/JENNIFER WA">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="BLACK PANTHER/T'CHAL" target="WASP/JANET VAN DYNE ">
-      <data key="d3">51</data>
-    </edge>
-    <edge source="BLACK PANTHER/T'CHAL" target="SPIDER-WOMAN II/JULI">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="SHE-HULK/JENNIFER WA" target="CAPTAIN MARVEL II/MO">
+    <edge source="BLACK WIDOW/NATASHA " target="QUICKSILVER/PIETRO M">
       <data key="d3">38</data>
     </edge>
-    <edge source="SHE-HULK/JENNIFER WA" target="DR. DRUID/ANTHONY LU">
-      <data key="d3">26</data>
-    </edge>
-    <edge source="SHE-HULK/JENNIFER WA" target="DUGAN, TIMOTHY ALOYI">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="SHE-HULK/JENNIFER WA" target="GYRICH, HENRY PETER">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="SHE-HULK/JENNIFER WA" target="IRON MAN/TONY STARK ">
-      <data key="d3">41</data>
-    </edge>
-    <edge source="SHE-HULK/JENNIFER WA" target="MACHINE MAN/X-51">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="SHE-HULK/JENNIFER WA" target="QUICKSILVER/PIETRO M">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="SHE-HULK/JENNIFER WA" target="SPIDER-WOMAN II/JULI">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="SHE-HULK/JENNIFER WA" target="WASP/JANET VAN DYNE ">
-      <data key="d3">85</data>
-    </edge>
-    <edge source="GYRICH, HENRY PETER" target="CAPTAIN MARVEL II/MO">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="GYRICH, HENRY PETER" target="DUGAN, TIMOTHY ALOYI">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="GYRICH, HENRY PETER" target="IRON MAN/TONY STARK ">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="GYRICH, HENRY PETER" target="QUICKSILVER/PIETRO M">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="GYRICH, HENRY PETER" target="WASP/JANET VAN DYNE ">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="GYRICH, HENRY PETER" target="MACHINE MAN/X-51">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="SPIDER-WOMAN II/JULI" target="CAPTAIN MARVEL II/MO">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="SPIDER-WOMAN II/JULI" target="IRON MAN/TONY STARK ">
-      <data key="d3">33</data>
-    </edge>
-    <edge source="SPIDER-WOMAN II/JULI" target="MACHINE MAN/X-51">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="SPIDER-WOMAN II/JULI" target="QUICKSILVER/PIETRO M">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="SPIDER-WOMAN II/JULI" target="WASP/JANET VAN DYNE ">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="DR. DRUID/ANTHONY LU" target="CAPTAIN MARVEL II/MO">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="DR. DRUID/ANTHONY LU" target="IRON MAN/TONY STARK ">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="DR. DRUID/ANTHONY LU" target="MACHINE MAN/X-51">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="DR. DRUID/ANTHONY LU" target="WASP/JANET VAN DYNE ">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="DR. DRUID/ANTHONY LU" target="QUICKSILVER/PIETRO M">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="DUGAN, TIMOTHY ALOYI" target="IRON MAN/TONY STARK ">
-      <data key="d3">20</data>
-    </edge>
-    <edge source="DUGAN, TIMOTHY ALOYI" target="MACHINE MAN/X-51">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="DUGAN, TIMOTHY ALOYI" target="QUICKSILVER/PIETRO M">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="DUGAN, TIMOTHY ALOYI" target="WASP/JANET VAN DYNE ">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="WASP/JANET VAN DYNE " target="CAPTAIN MARVEL II/MO">
-      <data key="d3">65</data>
-    </edge>
-    <edge source="WASP/JANET VAN DYNE " target="IRON MAN/TONY STARK ">
-      <data key="d3">152</data>
-    </edge>
-    <edge source="WASP/JANET VAN DYNE " target="MACHINE MAN/X-51">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="WASP/JANET VAN DYNE " target="QUICKSILVER/PIETRO M">
-      <data key="d3">59</data>
-    </edge>
-    <edge source="QUICKSILVER/PIETRO M" target="CAPTAIN MARVEL II/MO">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="QUICKSILVER/PIETRO M" target="IRON MAN/TONY STARK ">
-      <data key="d3">57</data>
-    </edge>
-    <edge source="QUICKSILVER/PIETRO M" target="MACHINE MAN/X-51">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="IRON MAN/TONY STARK " target="CAPTAIN MARVEL II/MO">
-      <data key="d3">18</data>
-    </edge>
-    <edge source="IRON MAN/TONY STARK " target="MACHINE MAN/X-51">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="MACHINE MAN/X-51" target="CAPTAIN MARVEL II/MO">
-      <data key="d3">4</data>
+    <edge source="PHARAOH RAMA-TUT" target="QUICKSILVER/PIETRO M">
+      <data key="d3">13</data>
     </edge>
   </graph>
 </graphml>

@@ -5,70 +5,115 @@
   <key id="d1" for="node" attr.name="degree" attr.type="long" />
   <key id="d0" for="node" attr.name="community" attr.type="long" />
   <graph edgedefault="undirected">
-    <node id="ELECTRO/MAX DILLON">
+    <node id="PAGE, KAREN">
       <data key="d0">13</data>
-      <data key="d1">96</data>
-      <data key="d2">0.0013824479957348609</data>
+      <data key="d1">112</data>
+      <data key="d2">0.005319301713496014</data>
     </node>
-    <node id="LEEDS, NED">
+    <node id="JAMESON, J. JONAH">
+      <data key="d0">13</data>
+      <data key="d1">370</data>
+      <data key="d2">0.017284944134685152</data>
+    </node>
+    <node id="VULTURE/ADRIAN TOOME">
       <data key="d0">13</data>
       <data key="d1">72</data>
-      <data key="d2">0.0005658456292343039</data>
+      <data key="d2">0.0019452476607713961</data>
     </node>
     <node id="PUNISHER II/FRANK CA">
       <data key="d0">13</data>
       <data key="d1">223</data>
       <data key="d2">0.02770908577370722</data>
     </node>
-    <node id="ROBERTSON, RANDY">
+    <node id="ELECTRO/MAX DILLON">
       <data key="d0">13</data>
-      <data key="d1">70</data>
-      <data key="d2">0.00020068661231811098</data>
+      <data key="d1">96</data>
+      <data key="d2">0.0013824479957348609</data>
     </node>
-    <node id="LUBENSKI, NATE">
+    <node id="SPIDER-MAN CLONE/BEN">
       <data key="d0">13</data>
-      <data key="d1">63</data>
-      <data key="d2">0.00021793893012416618</data>
+      <data key="d1">175</data>
+      <data key="d2">0.015291116204145552</data>
     </node>
-    <node id="NELSON, FRANKLIN FOG">
+    <node id="CUSHING, KATE">
       <data key="d0">13</data>
-      <data key="d1">195</data>
-      <data key="d2">0.010874182962889495</data>
-    </node>
-    <node id="VENOM/EDDIE BROCK">
-      <data key="d0">13</data>
-      <data key="d1">63</data>
-      <data key="d2">0.00140170984418443</data>
+      <data key="d1">61</data>
+      <data key="d2">9.45177655568299e-05</data>
     </node>
     <node id="KINGPIN/WILSON FISK">
       <data key="d0">13</data>
       <data key="d1">220</data>
       <data key="d2">0.006467878844999477</data>
     </node>
-    <node id="RHINO">
+    <node id="URICH, BEN">
       <data key="d0">13</data>
-      <data key="d1">89</data>
-      <data key="d2">0.0015782424746849982</data>
+      <data key="d1">145</data>
+      <data key="d2">0.00210961684187665</data>
+    </node>
+    <node id="DR. OCTOPUS/OTTO OCT">
+      <data key="d0">13</data>
+      <data key="d1">107</data>
+      <data key="d2">0.0004134438437572754</data>
     </node>
     <node id="THOMPSON, EUGENE FLA">
       <data key="d0">13</data>
       <data key="d1">166</data>
       <data key="d2">0.002287324460331834</data>
     </node>
-    <node id="PAGE, KAREN">
+    <node id="OSBORN, LIZ ALLAN">
       <data key="d0">13</data>
-      <data key="d1">112</data>
-      <data key="d2">0.005319301713496014</data>
+      <data key="d1">118</data>
+      <data key="d2">0.001751385668590871</data>
     </node>
-    <node id="JAMESON, MARLA MADIS">
+    <node id="RHINO">
       <data key="d0">13</data>
-      <data key="d1">86</data>
-      <data key="d2">0.0006837445786041413</data>
+      <data key="d1">89</data>
+      <data key="d2">0.0015782424746849982</data>
     </node>
-    <node id="SANDMAN/WILLIAM BAKE">
+    <node id="HAMMERHEAD">
       <data key="d0">13</data>
-      <data key="d1">168</data>
-      <data key="d2">0.004056680388516477</data>
+      <data key="d1">64</data>
+      <data key="d2">0.0003052198735773003</data>
+    </node>
+    <node id="NELSON, FRANKLIN FOG">
+      <data key="d0">13</data>
+      <data key="d1">195</data>
+      <data key="d2">0.010874182962889495</data>
+    </node>
+    <node id="LUBENSKI, NATE">
+      <data key="d0">13</data>
+      <data key="d1">63</data>
+      <data key="d2">0.00021793893012416618</data>
+    </node>
+    <node id="MYSTERIO/QUENTIN BEC">
+      <data key="d0">13</data>
+      <data key="d1">61</data>
+      <data key="d2">0.000735412383049045</data>
+    </node>
+    <node id="WATSON, ANNA">
+      <data key="d0">13</data>
+      <data key="d1">116</data>
+      <data key="d2">0.002818760189157697</data>
+    </node>
+    <node id="LUMPKIN, WILLIAM WIL">
+      <data key="d0">13</data>
+      <data key="d1">60</data>
+      <data key="d2">0.0010636419170483545</data>
+    </node>
+    <node id="TOMBSTONE/LONNIE THO">
+      <data key="d0">13</data>
+      <data key="d1">69</data>
+      <data key="d2">0.0008707936452232502</data>
+    </node>
+    <node id="GREEN GOBLIN/NORMAN ">
+      <data key="d0">13</data>
+      <data key="d1">97</data>
+      <data key="d2">0.002301510350023571</data>
+    </node>
+    <node id="LEEDS, BETTY BRANT">
+      <data key="d0">13</data>
+      <data key="d1">173</data>
+      <data key="d2">0.005478661081759915</data>
     </node>
     <node id="OSBORN, HARRY">
       <data key="d0">13</data>
@@ -80,131 +125,377 @@
       <data key="d1">213</data>
       <data key="d2">0.007792067058028803</data>
     </node>
-    <node id="GREEN GOBLIN/NORMAN ">
+    <node id="JAMESON, MARLA MADIS">
       <data key="d0">13</data>
-      <data key="d1">97</data>
-      <data key="d2">0.002301510350023571</data>
+      <data key="d1">86</data>
+      <data key="d2">0.0006837445786041413</data>
     </node>
     <node id="ROBERTSON, JOE">
       <data key="d0">13</data>
       <data key="d1">267</data>
       <data key="d2">0.009201184303548734</data>
     </node>
-    <node id="LUMPKIN, WILLIAM WIL">
-      <data key="d0">13</data>
-      <data key="d1">60</data>
-      <data key="d2">0.0010636419170483545</data>
-    </node>
-    <node id="SPIDER-MAN CLONE/BEN">
-      <data key="d0">13</data>
-      <data key="d1">175</data>
-      <data key="d2">0.015291116204145552</data>
-    </node>
-    <node id="LEEDS, BETTY BRANT">
-      <data key="d0">13</data>
-      <data key="d1">173</data>
-      <data key="d2">0.005478661081759915</data>
-    </node>
-    <node id="WATSON-PARKER, MARY ">
-      <data key="d0">13</data>
-      <data key="d1">345</data>
-      <data key="d2">0.021303814900620287</data>
-    </node>
     <node id="BLACK CAT/FELICIA HA">
       <data key="d0">13</data>
       <data key="d1">137</data>
       <data key="d2">0.003502619145263273</data>
-    </node>
-    <node id="HOBGOBLIN V/JASON PH">
-      <data key="d0">13</data>
-      <data key="d1">91</data>
-      <data key="d2">0.002436056330960019</data>
-    </node>
-    <node id="CUSHING, KATE">
-      <data key="d0">13</data>
-      <data key="d1">61</data>
-      <data key="d2">9.45177655568299e-05</data>
-    </node>
-    <node id="HAMMERHEAD">
-      <data key="d0">13</data>
-      <data key="d1">64</data>
-      <data key="d2">0.0003052198735773003</data>
-    </node>
-    <node id="WATSON, ANNA">
-      <data key="d0">13</data>
-      <data key="d1">116</data>
-      <data key="d2">0.002818760189157697</data>
-    </node>
-    <node id="SPIDER-MAN/PETER PAR">
-      <data key="d0">13</data>
-      <data key="d1">874</data>
-      <data key="d2">0.05198785949590764</data>
-    </node>
-    <node id="TOMBSTONE/LONNIE THO">
-      <data key="d0">13</data>
-      <data key="d1">69</data>
-      <data key="d2">0.0008707936452232502</data>
-    </node>
-    <node id="JAMESON, COL. JOHN ">
-      <data key="d0">13</data>
-      <data key="d1">157</data>
-      <data key="d2">0.003779966312242412</data>
-    </node>
-    <node id="OSBORN, LIZ ALLAN">
-      <data key="d0">13</data>
-      <data key="d1">118</data>
-      <data key="d2">0.001751385668590871</data>
-    </node>
-    <node id="VULTURE/ADRIAN TOOME">
-      <data key="d0">13</data>
-      <data key="d1">72</data>
-      <data key="d2">0.0019452476607713961</data>
-    </node>
-    <node id="MYSTERIO/QUENTIN BEC">
-      <data key="d0">13</data>
-      <data key="d1">61</data>
-      <data key="d2">0.000735412383049045</data>
-    </node>
-    <node id="ROBERTSON, MARTHA">
-      <data key="d0">13</data>
-      <data key="d1">62</data>
-      <data key="d2">0.00045164247418760046</data>
-    </node>
-    <node id="JAMESON, J. JONAH">
-      <data key="d0">13</data>
-      <data key="d1">370</data>
-      <data key="d2">0.017284944134685152</data>
     </node>
     <node id="GRANT, GLORIA GLORY">
       <data key="d0">13</data>
       <data key="d1">109</data>
       <data key="d2">0.0005329075650543989</data>
     </node>
-    <node id="DEATHLOK III/MICHAEL">
+    <node id="VENOM/EDDIE BROCK">
       <data key="d0">13</data>
-      <data key="d1">73</data>
-      <data key="d2">0.006998228313430663</data>
+      <data key="d1">63</data>
+      <data key="d2">0.00140170984418443</data>
     </node>
     <node id="LIZARD/DR. CURTIS CO">
       <data key="d0">13</data>
       <data key="d1">91</data>
       <data key="d2">0.00034739769624035985</data>
     </node>
-    <node id="DR. OCTOPUS/OTTO OCT">
+    <node id="WATSON-PARKER, MARY ">
       <data key="d0">13</data>
-      <data key="d1">107</data>
-      <data key="d2">0.0004134438437572754</data>
+      <data key="d1">345</data>
+      <data key="d2">0.021303814900620287</data>
+    </node>
+    <node id="DEATHLOK III/MICHAEL">
+      <data key="d0">13</data>
+      <data key="d1">73</data>
+      <data key="d2">0.006998228313430663</data>
+    </node>
+    <node id="ROBERTSON, RANDY">
+      <data key="d0">13</data>
+      <data key="d1">70</data>
+      <data key="d2">0.00020068661231811098</data>
+    </node>
+    <node id="HOBGOBLIN V/JASON PH">
+      <data key="d0">13</data>
+      <data key="d1">91</data>
+      <data key="d2">0.002436056330960019</data>
+    </node>
+    <node id="ROBERTSON, MARTHA">
+      <data key="d0">13</data>
+      <data key="d1">62</data>
+      <data key="d2">0.00045164247418760046</data>
     </node>
     <node id="DAREDEVIL/MATT MURDO">
       <data key="d0">13</data>
       <data key="d1">464</data>
       <data key="d2">0.023109853593694416</data>
     </node>
-    <node id="URICH, BEN">
+    <node id="JAMESON, COL. JOHN ">
       <data key="d0">13</data>
-      <data key="d1">145</data>
-      <data key="d2">0.00210961684187665</data>
+      <data key="d1">157</data>
+      <data key="d2">0.003779966312242412</data>
     </node>
+    <node id="SANDMAN/WILLIAM BAKE">
+      <data key="d0">13</data>
+      <data key="d1">168</data>
+      <data key="d2">0.004056680388516477</data>
+    </node>
+    <node id="SPIDER-MAN/PETER PAR">
+      <data key="d0">13</data>
+      <data key="d1">874</data>
+      <data key="d2">0.05198785949590764</data>
+    </node>
+    <node id="LEEDS, NED">
+      <data key="d0">13</data>
+      <data key="d1">72</data>
+      <data key="d2">0.0005658456292343039</data>
+    </node>
+    <edge source="PAGE, KAREN" target="DAREDEVIL/MATT MURDO">
+      <data key="d3">78</data>
+    </edge>
+    <edge source="PAGE, KAREN" target="JAMESON, J. JONAH">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="PAGE, KAREN" target="KINGPIN/WILSON FISK">
+      <data key="d3">13</data>
+    </edge>
+    <edge source="PAGE, KAREN" target="MYSTERIO/QUENTIN BEC">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="PAGE, KAREN" target="NELSON, FRANKLIN FOG">
+      <data key="d3">49</data>
+    </edge>
+    <edge source="PAGE, KAREN" target="OSBORN, LIZ ALLAN">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="PAGE, KAREN" target="LEEDS, BETTY BRANT">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="PAGE, KAREN" target="PARKER, MAY">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="PAGE, KAREN" target="SPIDER-MAN/PETER PAR">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="PAGE, KAREN" target="URICH, BEN">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="PAGE, KAREN" target="ROBERTSON, JOE">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="PAGE, KAREN" target="WATSON-PARKER, MARY ">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="JAMESON, J. JONAH" target="BLACK CAT/FELICIA HA">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="JAMESON, J. JONAH" target="CUSHING, KATE">
+      <data key="d3">17</data>
+    </edge>
+    <edge source="JAMESON, J. JONAH" target="DAREDEVIL/MATT MURDO">
+      <data key="d3">28</data>
+    </edge>
+    <edge source="JAMESON, J. JONAH" target="DR. OCTOPUS/OTTO OCT">
+      <data key="d3">15</data>
+    </edge>
+    <edge source="JAMESON, J. JONAH" target="ELECTRO/MAX DILLON">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="JAMESON, J. JONAH" target="GRANT, GLORIA GLORY">
+      <data key="d3">45</data>
+    </edge>
+    <edge source="JAMESON, J. JONAH" target="GREEN GOBLIN/NORMAN ">
+      <data key="d3">31</data>
+    </edge>
+    <edge source="JAMESON, J. JONAH" target="HAMMERHEAD">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="JAMESON, J. JONAH" target="HOBGOBLIN V/JASON PH">
+      <data key="d3">9</data>
+    </edge>
+    <edge source="JAMESON, J. JONAH" target="JAMESON, COL. JOHN ">
+      <data key="d3">24</data>
+    </edge>
+    <edge source="JAMESON, J. JONAH" target="JAMESON, MARLA MADIS">
+      <data key="d3">38</data>
+    </edge>
+    <edge source="JAMESON, J. JONAH" target="KINGPIN/WILSON FISK">
+      <data key="d3">22</data>
+    </edge>
+    <edge source="JAMESON, J. JONAH" target="LEEDS, BETTY BRANT">
+      <data key="d3">87</data>
+    </edge>
+    <edge source="JAMESON, J. JONAH" target="LEEDS, NED">
+      <data key="d3">26</data>
+    </edge>
+    <edge source="JAMESON, J. JONAH" target="LIZARD/DR. CURTIS CO">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="JAMESON, J. JONAH" target="LUBENSKI, NATE">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="JAMESON, J. JONAH" target="LUMPKIN, WILLIAM WIL">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="JAMESON, J. JONAH" target="MYSTERIO/QUENTIN BEC">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="JAMESON, J. JONAH" target="NELSON, FRANKLIN FOG">
+      <data key="d3">16</data>
+    </edge>
+    <edge source="JAMESON, J. JONAH" target="OSBORN, HARRY">
+      <data key="d3">55</data>
+    </edge>
+    <edge source="JAMESON, J. JONAH" target="OSBORN, LIZ ALLAN">
+      <data key="d3">48</data>
+    </edge>
+    <edge source="JAMESON, J. JONAH" target="PARKER, MAY">
+      <data key="d3">101</data>
+    </edge>
+    <edge source="JAMESON, J. JONAH" target="PUNISHER II/FRANK CA">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="JAMESON, J. JONAH" target="RHINO">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="JAMESON, J. JONAH" target="ROBERTSON, JOE">
+      <data key="d3">149</data>
+    </edge>
+    <edge source="JAMESON, J. JONAH" target="ROBERTSON, MARTHA">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="JAMESON, J. JONAH" target="ROBERTSON, RANDY">
+      <data key="d3">16</data>
+    </edge>
+    <edge source="JAMESON, J. JONAH" target="SANDMAN/WILLIAM BAKE">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="JAMESON, J. JONAH" target="SPIDER-MAN CLONE/BEN">
+      <data key="d3">22</data>
+    </edge>
+    <edge source="JAMESON, J. JONAH" target="SPIDER-MAN/PETER PAR">
+      <data key="d3">263</data>
+    </edge>
+    <edge source="JAMESON, J. JONAH" target="THOMPSON, EUGENE FLA">
+      <data key="d3">73</data>
+    </edge>
+    <edge source="JAMESON, J. JONAH" target="TOMBSTONE/LONNIE THO">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="JAMESON, J. JONAH" target="URICH, BEN">
+      <data key="d3">39</data>
+    </edge>
+    <edge source="JAMESON, J. JONAH" target="VENOM/EDDIE BROCK">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="JAMESON, J. JONAH" target="VULTURE/ADRIAN TOOME">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="JAMESON, J. JONAH" target="WATSON, ANNA">
+      <data key="d3">40</data>
+    </edge>
+    <edge source="JAMESON, J. JONAH" target="WATSON-PARKER, MARY ">
+      <data key="d3">112</data>
+    </edge>
+    <edge source="VULTURE/ADRIAN TOOME" target="DEATHLOK III/MICHAEL">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="VULTURE/ADRIAN TOOME" target="DR. OCTOPUS/OTTO OCT">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="VULTURE/ADRIAN TOOME" target="ELECTRO/MAX DILLON">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="VULTURE/ADRIAN TOOME" target="GREEN GOBLIN/NORMAN ">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="VULTURE/ADRIAN TOOME" target="HOBGOBLIN V/JASON PH">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="VULTURE/ADRIAN TOOME" target="LEEDS, BETTY BRANT">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="VULTURE/ADRIAN TOOME" target="LEEDS, NED">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="VULTURE/ADRIAN TOOME" target="LUBENSKI, NATE">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="VULTURE/ADRIAN TOOME" target="MYSTERIO/QUENTIN BEC">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="VULTURE/ADRIAN TOOME" target="OSBORN, HARRY">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="VULTURE/ADRIAN TOOME" target="PARKER, MAY">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="VULTURE/ADRIAN TOOME" target="ROBERTSON, JOE">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="VULTURE/ADRIAN TOOME" target="SANDMAN/WILLIAM BAKE">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="VULTURE/ADRIAN TOOME" target="SPIDER-MAN CLONE/BEN">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="VULTURE/ADRIAN TOOME" target="SPIDER-MAN/PETER PAR">
+      <data key="d3">32</data>
+    </edge>
+    <edge source="VULTURE/ADRIAN TOOME" target="THOMPSON, EUGENE FLA">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="VULTURE/ADRIAN TOOME" target="BLACK CAT/FELICIA HA">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="VULTURE/ADRIAN TOOME" target="DAREDEVIL/MATT MURDO">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="VULTURE/ADRIAN TOOME" target="OSBORN, LIZ ALLAN">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="VULTURE/ADRIAN TOOME" target="WATSON, ANNA">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="VULTURE/ADRIAN TOOME" target="WATSON-PARKER, MARY ">
+      <data key="d3">15</data>
+    </edge>
+    <edge source="PUNISHER II/FRANK CA" target="BLACK CAT/FELICIA HA">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="PUNISHER II/FRANK CA" target="CUSHING, KATE">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="PUNISHER II/FRANK CA" target="DAREDEVIL/MATT MURDO">
+      <data key="d3">16</data>
+    </edge>
+    <edge source="PUNISHER II/FRANK CA" target="GRANT, GLORIA GLORY">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="PUNISHER II/FRANK CA" target="HAMMERHEAD">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="PUNISHER II/FRANK CA" target="HOBGOBLIN V/JASON PH">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="PUNISHER II/FRANK CA" target="JAMESON, MARLA MADIS">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="PUNISHER II/FRANK CA" target="KINGPIN/WILSON FISK">
+      <data key="d3">24</data>
+    </edge>
+    <edge source="PUNISHER II/FRANK CA" target="LEEDS, BETTY BRANT">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="PUNISHER II/FRANK CA" target="NELSON, FRANKLIN FOG">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="PUNISHER II/FRANK CA" target="OSBORN, HARRY">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="PUNISHER II/FRANK CA" target="OSBORN, LIZ ALLAN">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="PUNISHER II/FRANK CA" target="PARKER, MAY">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="PUNISHER II/FRANK CA" target="DEATHLOK III/MICHAEL">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="PUNISHER II/FRANK CA" target="DR. OCTOPUS/OTTO OCT">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="PUNISHER II/FRANK CA" target="GREEN GOBLIN/NORMAN ">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="PUNISHER II/FRANK CA" target="LEEDS, NED">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="PUNISHER II/FRANK CA" target="LUBENSKI, NATE">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="PUNISHER II/FRANK CA" target="ROBERTSON, JOE">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="PUNISHER II/FRANK CA" target="ROBERTSON, RANDY">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="PUNISHER II/FRANK CA" target="SPIDER-MAN CLONE/BEN">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="PUNISHER II/FRANK CA" target="SPIDER-MAN/PETER PAR">
+      <data key="d3">16</data>
+    </edge>
+    <edge source="PUNISHER II/FRANK CA" target="THOMPSON, EUGENE FLA">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="PUNISHER II/FRANK CA" target="TOMBSTONE/LONNIE THO">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="PUNISHER II/FRANK CA" target="URICH, BEN">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="PUNISHER II/FRANK CA" target="WATSON-PARKER, MARY ">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="PUNISHER II/FRANK CA" target="WATSON, ANNA">
+      <data key="d3">3</data>
+    </edge>
     <edge source="ELECTRO/MAX DILLON" target="DAREDEVIL/MATT MURDO">
       <data key="d3">2</data>
     </edge>
@@ -221,9 +512,6 @@
       <data key="d3">2</data>
     </edge>
     <edge source="ELECTRO/MAX DILLON" target="HOBGOBLIN V/JASON PH">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="ELECTRO/MAX DILLON" target="JAMESON, J. JONAH">
       <data key="d3">6</data>
     </edge>
     <edge source="ELECTRO/MAX DILLON" target="JAMESON, MARLA MADIS">
@@ -265,9 +553,6 @@
     <edge source="ELECTRO/MAX DILLON" target="URICH, BEN">
       <data key="d3">2</data>
     </edge>
-    <edge source="ELECTRO/MAX DILLON" target="VULTURE/ADRIAN TOOME">
-      <data key="d3">10</data>
-    </edge>
     <edge source="ELECTRO/MAX DILLON" target="WATSON, ANNA">
       <data key="d3">3</data>
     </edge>
@@ -286,455 +571,149 @@
     <edge source="ELECTRO/MAX DILLON" target="VENOM/EDDIE BROCK">
       <data key="d3">2</data>
     </edge>
-    <edge source="LEEDS, NED" target="CUSHING, KATE">
+    <edge source="SPIDER-MAN CLONE/BEN" target="BLACK CAT/FELICIA HA">
       <data key="d3">2</data>
     </edge>
-    <edge source="LEEDS, NED" target="DAREDEVIL/MATT MURDO">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="LEEDS, NED" target="DR. OCTOPUS/OTTO OCT">
+    <edge source="SPIDER-MAN CLONE/BEN" target="DAREDEVIL/MATT MURDO">
       <data key="d3">2</data>
     </edge>
-    <edge source="LEEDS, NED" target="GRANT, GLORIA GLORY">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="LEEDS, NED" target="GREEN GOBLIN/NORMAN ">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="LEEDS, NED" target="HAMMERHEAD">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="LEEDS, NED" target="HOBGOBLIN V/JASON PH">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="LEEDS, NED" target="JAMESON, COL. JOHN ">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="LEEDS, NED" target="JAMESON, J. JONAH">
-      <data key="d3">26</data>
-    </edge>
-    <edge source="LEEDS, NED" target="JAMESON, MARLA MADIS">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="LEEDS, NED" target="KINGPIN/WILSON FISK">
+    <edge source="SPIDER-MAN CLONE/BEN" target="GRANT, GLORIA GLORY">
       <data key="d3">5</data>
     </edge>
-    <edge source="LEEDS, NED" target="LEEDS, BETTY BRANT">
-      <data key="d3">25</data>
-    </edge>
-    <edge source="LEEDS, NED" target="BLACK CAT/FELICIA HA">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="LEEDS, NED" target="LIZARD/DR. CURTIS CO">
+    <edge source="SPIDER-MAN CLONE/BEN" target="GREEN GOBLIN/NORMAN ">
       <data key="d3">2</data>
     </edge>
-    <edge source="LEEDS, NED" target="LUBENSKI, NATE">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="LEEDS, NED" target="NELSON, FRANKLIN FOG">
+    <edge source="SPIDER-MAN CLONE/BEN" target="HAMMERHEAD">
       <data key="d3">2</data>
     </edge>
-    <edge source="LEEDS, NED" target="OSBORN, HARRY">
-      <data key="d3">13</data>
+    <edge source="SPIDER-MAN CLONE/BEN" target="HOBGOBLIN V/JASON PH">
+      <data key="d3">6</data>
     </edge>
-    <edge source="LEEDS, NED" target="OSBORN, LIZ ALLAN">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="LEEDS, NED" target="PARKER, MAY">
-      <data key="d3">23</data>
-    </edge>
-    <edge source="LEEDS, NED" target="RHINO">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="LEEDS, NED" target="ROBERTSON, JOE">
-      <data key="d3">21</data>
-    </edge>
-    <edge source="LEEDS, NED" target="ROBERTSON, RANDY">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="LEEDS, NED" target="SANDMAN/WILLIAM BAKE">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="LEEDS, NED" target="SPIDER-MAN CLONE/BEN">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="LEEDS, NED" target="SPIDER-MAN/PETER PAR">
-      <data key="d3">36</data>
-    </edge>
-    <edge source="LEEDS, NED" target="THOMPSON, EUGENE FLA">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="LEEDS, NED" target="URICH, BEN">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="LEEDS, NED" target="VULTURE/ADRIAN TOOME">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="LEEDS, NED" target="WATSON, ANNA">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="LEEDS, NED" target="WATSON-PARKER, MARY ">
-      <data key="d3">19</data>
-    </edge>
-    <edge source="LEEDS, NED" target="MYSTERIO/QUENTIN BEC">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="LEEDS, NED" target="PUNISHER II/FRANK CA">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="LEEDS, NED" target="ROBERTSON, MARTHA">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="PUNISHER II/FRANK CA" target="BLACK CAT/FELICIA HA">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="PUNISHER II/FRANK CA" target="CUSHING, KATE">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="PUNISHER II/FRANK CA" target="DAREDEVIL/MATT MURDO">
-      <data key="d3">16</data>
-    </edge>
-    <edge source="PUNISHER II/FRANK CA" target="GRANT, GLORIA GLORY">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="PUNISHER II/FRANK CA" target="HAMMERHEAD">
+    <edge source="SPIDER-MAN CLONE/BEN" target="JAMESON, COL. JOHN ">
       <data key="d3">7</data>
     </edge>
-    <edge source="PUNISHER II/FRANK CA" target="HOBGOBLIN V/JASON PH">
+    <edge source="SPIDER-MAN CLONE/BEN" target="JAMESON, MARLA MADIS">
       <data key="d3">2</data>
     </edge>
-    <edge source="PUNISHER II/FRANK CA" target="JAMESON, J. JONAH">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="PUNISHER II/FRANK CA" target="JAMESON, MARLA MADIS">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="PUNISHER II/FRANK CA" target="KINGPIN/WILSON FISK">
-      <data key="d3">24</data>
-    </edge>
-    <edge source="PUNISHER II/FRANK CA" target="LEEDS, BETTY BRANT">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="PUNISHER II/FRANK CA" target="NELSON, FRANKLIN FOG">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="PUNISHER II/FRANK CA" target="OSBORN, HARRY">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="PUNISHER II/FRANK CA" target="OSBORN, LIZ ALLAN">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="PUNISHER II/FRANK CA" target="PARKER, MAY">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="PUNISHER II/FRANK CA" target="DEATHLOK III/MICHAEL">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="PUNISHER II/FRANK CA" target="DR. OCTOPUS/OTTO OCT">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="PUNISHER II/FRANK CA" target="GREEN GOBLIN/NORMAN ">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="PUNISHER II/FRANK CA" target="LUBENSKI, NATE">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="PUNISHER II/FRANK CA" target="ROBERTSON, JOE">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="PUNISHER II/FRANK CA" target="ROBERTSON, RANDY">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="PUNISHER II/FRANK CA" target="SPIDER-MAN CLONE/BEN">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="PUNISHER II/FRANK CA" target="SPIDER-MAN/PETER PAR">
-      <data key="d3">16</data>
-    </edge>
-    <edge source="PUNISHER II/FRANK CA" target="THOMPSON, EUGENE FLA">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="PUNISHER II/FRANK CA" target="TOMBSTONE/LONNIE THO">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="PUNISHER II/FRANK CA" target="URICH, BEN">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="PUNISHER II/FRANK CA" target="WATSON-PARKER, MARY ">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="PUNISHER II/FRANK CA" target="WATSON, ANNA">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="ROBERTSON, RANDY" target="BLACK CAT/FELICIA HA">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="ROBERTSON, RANDY" target="CUSHING, KATE">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="ROBERTSON, RANDY" target="DR. OCTOPUS/OTTO OCT">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="ROBERTSON, RANDY" target="GRANT, GLORIA GLORY">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="ROBERTSON, RANDY" target="GREEN GOBLIN/NORMAN ">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="ROBERTSON, RANDY" target="HAMMERHEAD">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="ROBERTSON, RANDY" target="HOBGOBLIN V/JASON PH">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="ROBERTSON, RANDY" target="JAMESON, COL. JOHN ">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="ROBERTSON, RANDY" target="JAMESON, J. JONAH">
-      <data key="d3">16</data>
-    </edge>
-    <edge source="ROBERTSON, RANDY" target="JAMESON, MARLA MADIS">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="ROBERTSON, RANDY" target="KINGPIN/WILSON FISK">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="ROBERTSON, RANDY" target="LEEDS, BETTY BRANT">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="ROBERTSON, RANDY" target="LIZARD/DR. CURTIS CO">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="ROBERTSON, RANDY" target="LUMPKIN, WILLIAM WIL">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="ROBERTSON, RANDY" target="OSBORN, HARRY">
+    <edge source="SPIDER-MAN CLONE/BEN" target="LEEDS, BETTY BRANT">
       <data key="d3">9</data>
     </edge>
-    <edge source="ROBERTSON, RANDY" target="OSBORN, LIZ ALLAN">
+    <edge source="SPIDER-MAN CLONE/BEN" target="LEEDS, NED">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="SPIDER-MAN CLONE/BEN" target="LIZARD/DR. CURTIS CO">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="SPIDER-MAN CLONE/BEN" target="MYSTERIO/QUENTIN BEC">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="SPIDER-MAN CLONE/BEN" target="OSBORN, LIZ ALLAN">
       <data key="d3">4</data>
     </edge>
-    <edge source="ROBERTSON, RANDY" target="PARKER, MAY">
+    <edge source="SPIDER-MAN CLONE/BEN" target="PARKER, MAY">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="SPIDER-MAN CLONE/BEN" target="ROBERTSON, JOE">
+      <data key="d3">17</data>
+    </edge>
+    <edge source="SPIDER-MAN CLONE/BEN" target="NELSON, FRANKLIN FOG">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="SPIDER-MAN CLONE/BEN" target="SANDMAN/WILLIAM BAKE">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="SPIDER-MAN CLONE/BEN" target="SPIDER-MAN/PETER PAR">
+      <data key="d3">48</data>
+    </edge>
+    <edge source="SPIDER-MAN CLONE/BEN" target="TOMBSTONE/LONNIE THO">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="SPIDER-MAN CLONE/BEN" target="URICH, BEN">
       <data key="d3">10</data>
     </edge>
-    <edge source="ROBERTSON, RANDY" target="ROBERTSON, JOE">
-      <data key="d3">17</data>
-    </edge>
-    <edge source="ROBERTSON, RANDY" target="ROBERTSON, MARTHA">
+    <edge source="SPIDER-MAN CLONE/BEN" target="VENOM/EDDIE BROCK">
       <data key="d3">4</data>
     </edge>
-    <edge source="ROBERTSON, RANDY" target="SANDMAN/WILLIAM BAKE">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="ROBERTSON, RANDY" target="SPIDER-MAN/PETER PAR">
-      <data key="d3">32</data>
-    </edge>
-    <edge source="ROBERTSON, RANDY" target="THOMPSON, EUGENE FLA">
+    <edge source="SPIDER-MAN CLONE/BEN" target="WATSON, ANNA">
       <data key="d3">9</data>
     </edge>
-    <edge source="ROBERTSON, RANDY" target="TOMBSTONE/LONNIE THO">
+    <edge source="SPIDER-MAN CLONE/BEN" target="WATSON-PARKER, MARY ">
+      <data key="d3">38</data>
+    </edge>
+    <edge source="SPIDER-MAN CLONE/BEN" target="THOMPSON, EUGENE FLA">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="CUSHING, KATE" target="BLACK CAT/FELICIA HA">
       <data key="d3">4</data>
     </edge>
-    <edge source="ROBERTSON, RANDY" target="URICH, BEN">
+    <edge source="CUSHING, KATE" target="DR. OCTOPUS/OTTO OCT">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="CUSHING, KATE" target="GRANT, GLORIA GLORY">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="CUSHING, KATE" target="HAMMERHEAD">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="CUSHING, KATE" target="HOBGOBLIN V/JASON PH">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="CUSHING, KATE" target="KINGPIN/WILSON FISK">
       <data key="d3">5</data>
     </edge>
-    <edge source="ROBERTSON, RANDY" target="VENOM/EDDIE BROCK">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="ROBERTSON, RANDY" target="WATSON, ANNA">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="ROBERTSON, RANDY" target="WATSON-PARKER, MARY ">
-      <data key="d3">17</data>
-    </edge>
-    <edge source="LUBENSKI, NATE" target="BLACK CAT/FELICIA HA">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="LUBENSKI, NATE" target="CUSHING, KATE">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="LUBENSKI, NATE" target="DR. OCTOPUS/OTTO OCT">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="LUBENSKI, NATE" target="GRANT, GLORIA GLORY">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="LUBENSKI, NATE" target="HOBGOBLIN V/JASON PH">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="LUBENSKI, NATE" target="JAMESON, J. JONAH">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="LUBENSKI, NATE" target="KINGPIN/WILSON FISK">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="LUBENSKI, NATE" target="LEEDS, BETTY BRANT">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="LUBENSKI, NATE" target="MYSTERIO/QUENTIN BEC">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="LUBENSKI, NATE" target="OSBORN, HARRY">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="LUBENSKI, NATE" target="OSBORN, LIZ ALLAN">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="LUBENSKI, NATE" target="PARKER, MAY">
-      <data key="d3">29</data>
-    </edge>
-    <edge source="LUBENSKI, NATE" target="ROBERTSON, JOE">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="LUBENSKI, NATE" target="SPIDER-MAN/PETER PAR">
-      <data key="d3">25</data>
-    </edge>
-    <edge source="LUBENSKI, NATE" target="THOMPSON, EUGENE FLA">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="LUBENSKI, NATE" target="URICH, BEN">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="LUBENSKI, NATE" target="VULTURE/ADRIAN TOOME">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="LUBENSKI, NATE" target="WATSON, ANNA">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="LUBENSKI, NATE" target="WATSON-PARKER, MARY ">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="LUBENSKI, NATE" target="VENOM/EDDIE BROCK">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="NELSON, FRANKLIN FOG" target="DAREDEVIL/MATT MURDO">
-      <data key="d3">147</data>
-    </edge>
-    <edge source="NELSON, FRANKLIN FOG" target="GREEN GOBLIN/NORMAN ">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="NELSON, FRANKLIN FOG" target="JAMESON, J. JONAH">
-      <data key="d3">16</data>
-    </edge>
-    <edge source="NELSON, FRANKLIN FOG" target="KINGPIN/WILSON FISK">
-      <data key="d3">32</data>
-    </edge>
-    <edge source="NELSON, FRANKLIN FOG" target="MYSTERIO/QUENTIN BEC">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="NELSON, FRANKLIN FOG" target="GRANT, GLORIA GLORY">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="NELSON, FRANKLIN FOG" target="JAMESON, COL. JOHN ">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="NELSON, FRANKLIN FOG" target="JAMESON, MARLA MADIS">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="NELSON, FRANKLIN FOG" target="LEEDS, BETTY BRANT">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="NELSON, FRANKLIN FOG" target="LUMPKIN, WILLIAM WIL">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="NELSON, FRANKLIN FOG" target="OSBORN, HARRY">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="NELSON, FRANKLIN FOG" target="OSBORN, LIZ ALLAN">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="NELSON, FRANKLIN FOG" target="PAGE, KAREN">
-      <data key="d3">49</data>
-    </edge>
-    <edge source="NELSON, FRANKLIN FOG" target="PARKER, MAY">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="NELSON, FRANKLIN FOG" target="ROBERTSON, JOE">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="NELSON, FRANKLIN FOG" target="ROBERTSON, MARTHA">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="NELSON, FRANKLIN FOG" target="SPIDER-MAN/PETER PAR">
+    <edge source="CUSHING, KATE" target="LEEDS, BETTY BRANT">
       <data key="d3">12</data>
     </edge>
-    <edge source="NELSON, FRANKLIN FOG" target="THOMPSON, EUGENE FLA">
+    <edge source="CUSHING, KATE" target="LEEDS, NED">
       <data key="d3">2</data>
     </edge>
-    <edge source="NELSON, FRANKLIN FOG" target="URICH, BEN">
-      <data key="d3">18</data>
-    </edge>
-    <edge source="NELSON, FRANKLIN FOG" target="WATSON, ANNA">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="NELSON, FRANKLIN FOG" target="WATSON-PARKER, MARY ">
+    <edge source="CUSHING, KATE" target="LUBENSKI, NATE">
       <data key="d3">5</data>
     </edge>
-    <edge source="NELSON, FRANKLIN FOG" target="SPIDER-MAN CLONE/BEN">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="NELSON, FRANKLIN FOG" target="TOMBSTONE/LONNIE THO">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="VENOM/EDDIE BROCK" target="BLACK CAT/FELICIA HA">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="VENOM/EDDIE BROCK" target="HOBGOBLIN V/JASON PH">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="VENOM/EDDIE BROCK" target="JAMESON, J. JONAH">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="VENOM/EDDIE BROCK" target="KINGPIN/WILSON FISK">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="VENOM/EDDIE BROCK" target="LEEDS, BETTY BRANT">
+    <edge source="CUSHING, KATE" target="OSBORN, HARRY">
       <data key="d3">5</data>
     </edge>
-    <edge source="VENOM/EDDIE BROCK" target="PARKER, MAY">
-      <data key="d3">8</data>
+    <edge source="CUSHING, KATE" target="OSBORN, LIZ ALLAN">
+      <data key="d3">3</data>
     </edge>
-    <edge source="VENOM/EDDIE BROCK" target="SANDMAN/WILLIAM BAKE">
-      <data key="d3">2</data>
+    <edge source="CUSHING, KATE" target="PARKER, MAY">
+      <data key="d3">9</data>
     </edge>
-    <edge source="VENOM/EDDIE BROCK" target="SPIDER-MAN CLONE/BEN">
-      <data key="d3">4</data>
+    <edge source="CUSHING, KATE" target="ROBERTSON, JOE">
+      <data key="d3">19</data>
     </edge>
-    <edge source="VENOM/EDDIE BROCK" target="SPIDER-MAN/PETER PAR">
+    <edge source="CUSHING, KATE" target="ROBERTSON, MARTHA">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="CUSHING, KATE" target="ROBERTSON, RANDY">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="CUSHING, KATE" target="SPIDER-MAN/PETER PAR">
       <data key="d3">34</data>
     </edge>
-    <edge source="VENOM/EDDIE BROCK" target="DAREDEVIL/MATT MURDO">
+    <edge source="CUSHING, KATE" target="THOMPSON, EUGENE FLA">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="CUSHING, KATE" target="TOMBSTONE/LONNIE THO">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="CUSHING, KATE" target="URICH, BEN">
+      <data key="d3">9</data>
+    </edge>
+    <edge source="CUSHING, KATE" target="WATSON, ANNA">
       <data key="d3">2</data>
     </edge>
-    <edge source="VENOM/EDDIE BROCK" target="GRANT, GLORIA GLORY">
-      <data key="d3">4</data>
+    <edge source="CUSHING, KATE" target="WATSON-PARKER, MARY ">
+      <data key="d3">28</data>
     </edge>
-    <edge source="VENOM/EDDIE BROCK" target="LUMPKIN, WILLIAM WIL">
+    <edge source="CUSHING, KATE" target="JAMESON, MARLA MADIS">
       <data key="d3">2</data>
     </edge>
-    <edge source="VENOM/EDDIE BROCK" target="OSBORN, HARRY">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="VENOM/EDDIE BROCK" target="OSBORN, LIZ ALLAN">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="VENOM/EDDIE BROCK" target="ROBERTSON, JOE">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="VENOM/EDDIE BROCK" target="THOMPSON, EUGENE FLA">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="VENOM/EDDIE BROCK" target="WATSON-PARKER, MARY ">
-      <data key="d3">16</data>
-    </edge>
-    <edge source="VENOM/EDDIE BROCK" target="WATSON, ANNA">
-      <data key="d3">2</data>
+    <edge source="CUSHING, KATE" target="LUMPKIN, WILLIAM WIL">
+      <data key="d3">3</data>
     </edge>
     <edge source="KINGPIN/WILSON FISK" target="BLACK CAT/FELICIA HA">
       <data key="d3">10</data>
-    </edge>
-    <edge source="KINGPIN/WILSON FISK" target="CUSHING, KATE">
-      <data key="d3">5</data>
     </edge>
     <edge source="KINGPIN/WILSON FISK" target="DAREDEVIL/MATT MURDO">
       <data key="d3">52</data>
@@ -757,9 +736,6 @@
     <edge source="KINGPIN/WILSON FISK" target="JAMESON, COL. JOHN ">
       <data key="d3">2</data>
     </edge>
-    <edge source="KINGPIN/WILSON FISK" target="JAMESON, J. JONAH">
-      <data key="d3">22</data>
-    </edge>
     <edge source="KINGPIN/WILSON FISK" target="JAMESON, MARLA MADIS">
       <data key="d3">2</data>
     </edge>
@@ -769,17 +745,23 @@
     <edge source="KINGPIN/WILSON FISK" target="LEEDS, BETTY BRANT">
       <data key="d3">14</data>
     </edge>
+    <edge source="KINGPIN/WILSON FISK" target="LEEDS, NED">
+      <data key="d3">5</data>
+    </edge>
     <edge source="KINGPIN/WILSON FISK" target="LIZARD/DR. CURTIS CO">
       <data key="d3">3</data>
+    </edge>
+    <edge source="KINGPIN/WILSON FISK" target="LUBENSKI, NATE">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="KINGPIN/WILSON FISK" target="NELSON, FRANKLIN FOG">
+      <data key="d3">32</data>
     </edge>
     <edge source="KINGPIN/WILSON FISK" target="OSBORN, HARRY">
       <data key="d3">9</data>
     </edge>
     <edge source="KINGPIN/WILSON FISK" target="OSBORN, LIZ ALLAN">
       <data key="d3">3</data>
-    </edge>
-    <edge source="KINGPIN/WILSON FISK" target="PAGE, KAREN">
-      <data key="d3">13</data>
     </edge>
     <edge source="KINGPIN/WILSON FISK" target="PARKER, MAY">
       <data key="d3">11</data>
@@ -793,6 +775,9 @@
     <edge source="KINGPIN/WILSON FISK" target="ROBERTSON, MARTHA">
       <data key="d3">2</data>
     </edge>
+    <edge source="KINGPIN/WILSON FISK" target="ROBERTSON, RANDY">
+      <data key="d3">3</data>
+    </edge>
     <edge source="KINGPIN/WILSON FISK" target="SPIDER-MAN/PETER PAR">
       <data key="d3">50</data>
     </edge>
@@ -805,6 +790,9 @@
     <edge source="KINGPIN/WILSON FISK" target="URICH, BEN">
       <data key="d3">14</data>
     </edge>
+    <edge source="KINGPIN/WILSON FISK" target="VENOM/EDDIE BROCK">
+      <data key="d3">3</data>
+    </edge>
     <edge source="KINGPIN/WILSON FISK" target="WATSON, ANNA">
       <data key="d3">3</data>
     </edge>
@@ -814,56 +802,170 @@
     <edge source="KINGPIN/WILSON FISK" target="MYSTERIO/QUENTIN BEC">
       <data key="d3">2</data>
     </edge>
-    <edge source="RHINO" target="JAMESON, J. JONAH">
+    <edge source="URICH, BEN" target="BLACK CAT/FELICIA HA">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="URICH, BEN" target="DAREDEVIL/MATT MURDO">
+      <data key="d3">23</data>
+    </edge>
+    <edge source="URICH, BEN" target="DR. OCTOPUS/OTTO OCT">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="URICH, BEN" target="GRANT, GLORIA GLORY">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="URICH, BEN" target="GREEN GOBLIN/NORMAN ">
       <data key="d3">6</data>
     </edge>
-    <edge source="RHINO" target="LEEDS, BETTY BRANT">
-      <data key="d3">2</data>
+    <edge source="URICH, BEN" target="HAMMERHEAD">
+      <data key="d3">5</data>
     </edge>
-    <edge source="RHINO" target="JAMESON, COL. JOHN ">
-      <data key="d3">2</data>
+    <edge source="URICH, BEN" target="HOBGOBLIN V/JASON PH">
+      <data key="d3">6</data>
     </edge>
-    <edge source="RHINO" target="OSBORN, HARRY">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="RHINO" target="OSBORN, LIZ ALLAN">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="RHINO" target="PARKER, MAY">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="RHINO" target="SANDMAN/WILLIAM BAKE">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="RHINO" target="SPIDER-MAN/PETER PAR">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="RHINO" target="THOMPSON, EUGENE FLA">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="RHINO" target="URICH, BEN">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="RHINO" target="WATSON, ANNA">
+    <edge source="URICH, BEN" target="JAMESON, COL. JOHN ">
       <data key="d3">3</data>
     </edge>
-    <edge source="RHINO" target="WATSON-PARKER, MARY ">
+    <edge source="URICH, BEN" target="JAMESON, MARLA MADIS">
+      <data key="d3">9</data>
+    </edge>
+    <edge source="URICH, BEN" target="LEEDS, BETTY BRANT">
+      <data key="d3">18</data>
+    </edge>
+    <edge source="URICH, BEN" target="LEEDS, NED">
       <data key="d3">3</data>
     </edge>
-    <edge source="RHINO" target="ROBERTSON, JOE">
+    <edge source="URICH, BEN" target="LUBENSKI, NATE">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="URICH, BEN" target="LUMPKIN, WILLIAM WIL">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="URICH, BEN" target="MYSTERIO/QUENTIN BEC">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="URICH, BEN" target="NELSON, FRANKLIN FOG">
+      <data key="d3">18</data>
+    </edge>
+    <edge source="URICH, BEN" target="OSBORN, HARRY">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="URICH, BEN" target="OSBORN, LIZ ALLAN">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="URICH, BEN" target="PARKER, MAY">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="URICH, BEN" target="RHINO">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="URICH, BEN" target="ROBERTSON, JOE">
+      <data key="d3">26</data>
+    </edge>
+    <edge source="URICH, BEN" target="ROBERTSON, MARTHA">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="URICH, BEN" target="ROBERTSON, RANDY">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="URICH, BEN" target="SPIDER-MAN/PETER PAR">
+      <data key="d3">61</data>
+    </edge>
+    <edge source="URICH, BEN" target="THOMPSON, EUGENE FLA">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="URICH, BEN" target="TOMBSTONE/LONNIE THO">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="URICH, BEN" target="LIZARD/DR. CURTIS CO">
       <data key="d3">3</data>
+    </edge>
+    <edge source="URICH, BEN" target="SANDMAN/WILLIAM BAKE">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="URICH, BEN" target="WATSON, ANNA">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="URICH, BEN" target="WATSON-PARKER, MARY ">
+      <data key="d3">40</data>
+    </edge>
+    <edge source="DR. OCTOPUS/OTTO OCT" target="BLACK CAT/FELICIA HA">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="DR. OCTOPUS/OTTO OCT" target="DAREDEVIL/MATT MURDO">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="DR. OCTOPUS/OTTO OCT" target="DEATHLOK III/MICHAEL">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="DR. OCTOPUS/OTTO OCT" target="GRANT, GLORIA GLORY">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="DR. OCTOPUS/OTTO OCT" target="HAMMERHEAD">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="DR. OCTOPUS/OTTO OCT" target="HOBGOBLIN V/JASON PH">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="DR. OCTOPUS/OTTO OCT" target="JAMESON, COL. JOHN ">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="DR. OCTOPUS/OTTO OCT" target="JAMESON, MARLA MADIS">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="DR. OCTOPUS/OTTO OCT" target="LEEDS, BETTY BRANT">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="DR. OCTOPUS/OTTO OCT" target="LEEDS, NED">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="DR. OCTOPUS/OTTO OCT" target="LIZARD/DR. CURTIS CO">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="DR. OCTOPUS/OTTO OCT" target="LUBENSKI, NATE">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="DR. OCTOPUS/OTTO OCT" target="MYSTERIO/QUENTIN BEC">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="DR. OCTOPUS/OTTO OCT" target="OSBORN, HARRY">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="DR. OCTOPUS/OTTO OCT" target="OSBORN, LIZ ALLAN">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="DR. OCTOPUS/OTTO OCT" target="PARKER, MAY">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="DR. OCTOPUS/OTTO OCT" target="ROBERTSON, JOE">
+      <data key="d3">9</data>
+    </edge>
+    <edge source="DR. OCTOPUS/OTTO OCT" target="ROBERTSON, MARTHA">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="DR. OCTOPUS/OTTO OCT" target="ROBERTSON, RANDY">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="DR. OCTOPUS/OTTO OCT" target="SANDMAN/WILLIAM BAKE">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="DR. OCTOPUS/OTTO OCT" target="SPIDER-MAN/PETER PAR">
+      <data key="d3">40</data>
+    </edge>
+    <edge source="DR. OCTOPUS/OTTO OCT" target="THOMPSON, EUGENE FLA">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="DR. OCTOPUS/OTTO OCT" target="WATSON, ANNA">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="DR. OCTOPUS/OTTO OCT" target="WATSON-PARKER, MARY ">
+      <data key="d3">15</data>
     </edge>
     <edge source="THOMPSON, EUGENE FLA" target="BLACK CAT/FELICIA HA">
       <data key="d3">16</data>
     </edge>
-    <edge source="THOMPSON, EUGENE FLA" target="CUSHING, KATE">
-      <data key="d3">7</data>
-    </edge>
     <edge source="THOMPSON, EUGENE FLA" target="DAREDEVIL/MATT MURDO">
       <data key="d3">2</data>
-    </edge>
-    <edge source="THOMPSON, EUGENE FLA" target="DR. OCTOPUS/OTTO OCT">
-      <data key="d3">10</data>
     </edge>
     <edge source="THOMPSON, EUGENE FLA" target="GRANT, GLORIA GLORY">
       <data key="d3">14</data>
@@ -880,16 +982,19 @@
     <edge source="THOMPSON, EUGENE FLA" target="JAMESON, COL. JOHN ">
       <data key="d3">8</data>
     </edge>
-    <edge source="THOMPSON, EUGENE FLA" target="JAMESON, J. JONAH">
-      <data key="d3">73</data>
-    </edge>
     <edge source="THOMPSON, EUGENE FLA" target="JAMESON, MARLA MADIS">
       <data key="d3">11</data>
     </edge>
     <edge source="THOMPSON, EUGENE FLA" target="LEEDS, BETTY BRANT">
       <data key="d3">62</data>
     </edge>
+    <edge source="THOMPSON, EUGENE FLA" target="LEEDS, NED">
+      <data key="d3">14</data>
+    </edge>
     <edge source="THOMPSON, EUGENE FLA" target="LIZARD/DR. CURTIS CO">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="THOMPSON, EUGENE FLA" target="LUBENSKI, NATE">
       <data key="d3">6</data>
     </edge>
     <edge source="THOMPSON, EUGENE FLA" target="LUMPKIN, WILLIAM WIL">
@@ -897,6 +1002,9 @@
     </edge>
     <edge source="THOMPSON, EUGENE FLA" target="MYSTERIO/QUENTIN BEC">
       <data key="d3">7</data>
+    </edge>
+    <edge source="THOMPSON, EUGENE FLA" target="NELSON, FRANKLIN FOG">
+      <data key="d3">2</data>
     </edge>
     <edge source="THOMPSON, EUGENE FLA" target="OSBORN, HARRY">
       <data key="d3">38</data>
@@ -907,11 +1015,17 @@
     <edge source="THOMPSON, EUGENE FLA" target="PARKER, MAY">
       <data key="d3">70</data>
     </edge>
+    <edge source="THOMPSON, EUGENE FLA" target="RHINO">
+      <data key="d3">4</data>
+    </edge>
     <edge source="THOMPSON, EUGENE FLA" target="ROBERTSON, JOE">
       <data key="d3">41</data>
     </edge>
     <edge source="THOMPSON, EUGENE FLA" target="ROBERTSON, MARTHA">
       <data key="d3">5</data>
+    </edge>
+    <edge source="THOMPSON, EUGENE FLA" target="ROBERTSON, RANDY">
+      <data key="d3">9</data>
     </edge>
     <edge source="THOMPSON, EUGENE FLA" target="SANDMAN/WILLIAM BAKE">
       <data key="d3">3</data>
@@ -919,17 +1033,8 @@
     <edge source="THOMPSON, EUGENE FLA" target="SPIDER-MAN/PETER PAR">
       <data key="d3">135</data>
     </edge>
-    <edge source="THOMPSON, EUGENE FLA" target="SPIDER-MAN CLONE/BEN">
-      <data key="d3">7</data>
-    </edge>
     <edge source="THOMPSON, EUGENE FLA" target="TOMBSTONE/LONNIE THO">
       <data key="d3">4</data>
-    </edge>
-    <edge source="THOMPSON, EUGENE FLA" target="URICH, BEN">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="THOMPSON, EUGENE FLA" target="VULTURE/ADRIAN TOOME">
-      <data key="d3">3</data>
     </edge>
     <edge source="THOMPSON, EUGENE FLA" target="WATSON, ANNA">
       <data key="d3">24</data>
@@ -937,308 +1042,422 @@
     <edge source="THOMPSON, EUGENE FLA" target="WATSON-PARKER, MARY ">
       <data key="d3">53</data>
     </edge>
-    <edge source="PAGE, KAREN" target="DAREDEVIL/MATT MURDO">
-      <data key="d3">78</data>
+    <edge source="THOMPSON, EUGENE FLA" target="VENOM/EDDIE BROCK">
+      <data key="d3">8</data>
     </edge>
-    <edge source="PAGE, KAREN" target="JAMESON, J. JONAH">
+    <edge source="OSBORN, LIZ ALLAN" target="BLACK CAT/FELICIA HA">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="OSBORN, LIZ ALLAN" target="DAREDEVIL/MATT MURDO">
       <data key="d3">4</data>
     </edge>
-    <edge source="PAGE, KAREN" target="MYSTERIO/QUENTIN BEC">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="PAGE, KAREN" target="OSBORN, LIZ ALLAN">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="PAGE, KAREN" target="LEEDS, BETTY BRANT">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="PAGE, KAREN" target="PARKER, MAY">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="PAGE, KAREN" target="SPIDER-MAN/PETER PAR">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="PAGE, KAREN" target="URICH, BEN">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="PAGE, KAREN" target="ROBERTSON, JOE">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="PAGE, KAREN" target="WATSON-PARKER, MARY ">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="JAMESON, MARLA MADIS" target="BLACK CAT/FELICIA HA">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="JAMESON, MARLA MADIS" target="DR. OCTOPUS/OTTO OCT">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="JAMESON, MARLA MADIS" target="GRANT, GLORIA GLORY">
+    <edge source="OSBORN, LIZ ALLAN" target="GRANT, GLORIA GLORY">
       <data key="d3">13</data>
     </edge>
-    <edge source="JAMESON, MARLA MADIS" target="GREEN GOBLIN/NORMAN ">
+    <edge source="OSBORN, LIZ ALLAN" target="GREEN GOBLIN/NORMAN ">
+      <data key="d3">13</data>
+    </edge>
+    <edge source="OSBORN, LIZ ALLAN" target="HOBGOBLIN V/JASON PH">
       <data key="d3">3</data>
     </edge>
-    <edge source="JAMESON, MARLA MADIS" target="JAMESON, COL. JOHN ">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="JAMESON, MARLA MADIS" target="JAMESON, J. JONAH">
-      <data key="d3">38</data>
-    </edge>
-    <edge source="JAMESON, MARLA MADIS" target="CUSHING, KATE">
+    <edge source="OSBORN, LIZ ALLAN" target="JAMESON, COL. JOHN ">
       <data key="d3">2</data>
     </edge>
-    <edge source="JAMESON, MARLA MADIS" target="DAREDEVIL/MATT MURDO">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="JAMESON, MARLA MADIS" target="HOBGOBLIN V/JASON PH">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="JAMESON, MARLA MADIS" target="LEEDS, BETTY BRANT">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="JAMESON, MARLA MADIS" target="OSBORN, HARRY">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="JAMESON, MARLA MADIS" target="OSBORN, LIZ ALLAN">
+    <edge source="OSBORN, LIZ ALLAN" target="JAMESON, MARLA MADIS">
       <data key="d3">8</data>
     </edge>
-    <edge source="JAMESON, MARLA MADIS" target="PARKER, MAY">
-      <data key="d3">11</data>
+    <edge source="OSBORN, LIZ ALLAN" target="LEEDS, BETTY BRANT">
+      <data key="d3">38</data>
     </edge>
-    <edge source="JAMESON, MARLA MADIS" target="ROBERTSON, JOE">
-      <data key="d3">20</data>
-    </edge>
-    <edge source="JAMESON, MARLA MADIS" target="ROBERTSON, MARTHA">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="JAMESON, MARLA MADIS" target="SPIDER-MAN CLONE/BEN">
+    <edge source="OSBORN, LIZ ALLAN" target="LEEDS, NED">
       <data key="d3">2</data>
     </edge>
-    <edge source="JAMESON, MARLA MADIS" target="SPIDER-MAN/PETER PAR">
-      <data key="d3">30</data>
-    </edge>
-    <edge source="JAMESON, MARLA MADIS" target="TOMBSTONE/LONNIE THO">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="JAMESON, MARLA MADIS" target="URICH, BEN">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="JAMESON, MARLA MADIS" target="WATSON-PARKER, MARY ">
-      <data key="d3">17</data>
-    </edge>
-    <edge source="JAMESON, MARLA MADIS" target="LIZARD/DR. CURTIS CO">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="JAMESON, MARLA MADIS" target="LUMPKIN, WILLIAM WIL">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="JAMESON, MARLA MADIS" target="MYSTERIO/QUENTIN BEC">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="JAMESON, MARLA MADIS" target="WATSON, ANNA">
+    <edge source="OSBORN, LIZ ALLAN" target="LIZARD/DR. CURTIS CO">
       <data key="d3">4</data>
     </edge>
-    <edge source="SANDMAN/WILLIAM BAKE" target="DAREDEVIL/MATT MURDO">
+    <edge source="OSBORN, LIZ ALLAN" target="LUBENSKI, NATE">
       <data key="d3">3</data>
     </edge>
-    <edge source="SANDMAN/WILLIAM BAKE" target="DEATHLOK III/MICHAEL">
+    <edge source="OSBORN, LIZ ALLAN" target="LUMPKIN, WILLIAM WIL">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="OSBORN, LIZ ALLAN" target="MYSTERIO/QUENTIN BEC">
       <data key="d3">2</data>
     </edge>
-    <edge source="SANDMAN/WILLIAM BAKE" target="DR. OCTOPUS/OTTO OCT">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="SANDMAN/WILLIAM BAKE" target="GRANT, GLORIA GLORY">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="SANDMAN/WILLIAM BAKE" target="HOBGOBLIN V/JASON PH">
+    <edge source="OSBORN, LIZ ALLAN" target="NELSON, FRANKLIN FOG">
       <data key="d3">6</data>
     </edge>
-    <edge source="SANDMAN/WILLIAM BAKE" target="JAMESON, COL. JOHN ">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="SANDMAN/WILLIAM BAKE" target="JAMESON, J. JONAH">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="SANDMAN/WILLIAM BAKE" target="LEEDS, BETTY BRANT">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="SANDMAN/WILLIAM BAKE" target="LIZARD/DR. CURTIS CO">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="SANDMAN/WILLIAM BAKE" target="MYSTERIO/QUENTIN BEC">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="SANDMAN/WILLIAM BAKE" target="OSBORN, LIZ ALLAN">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="SANDMAN/WILLIAM BAKE" target="PARKER, MAY">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="SANDMAN/WILLIAM BAKE" target="ROBERTSON, JOE">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="SANDMAN/WILLIAM BAKE" target="BLACK CAT/FELICIA HA">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="SANDMAN/WILLIAM BAKE" target="SPIDER-MAN/PETER PAR">
-      <data key="d3">28</data>
-    </edge>
-    <edge source="SANDMAN/WILLIAM BAKE" target="VULTURE/ADRIAN TOOME">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="SANDMAN/WILLIAM BAKE" target="WATSON-PARKER, MARY ">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="SANDMAN/WILLIAM BAKE" target="SPIDER-MAN CLONE/BEN">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="SANDMAN/WILLIAM BAKE" target="URICH, BEN">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="SANDMAN/WILLIAM BAKE" target="WATSON, ANNA">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="OSBORN, HARRY" target="BLACK CAT/FELICIA HA">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="OSBORN, HARRY" target="CUSHING, KATE">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="OSBORN, HARRY" target="DR. OCTOPUS/OTTO OCT">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="OSBORN, HARRY" target="GRANT, GLORIA GLORY">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="OSBORN, HARRY" target="GREEN GOBLIN/NORMAN ">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="OSBORN, HARRY" target="HAMMERHEAD">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="OSBORN, HARRY" target="HOBGOBLIN V/JASON PH">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="OSBORN, HARRY" target="JAMESON, COL. JOHN ">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="OSBORN, HARRY" target="JAMESON, J. JONAH">
-      <data key="d3">55</data>
-    </edge>
-    <edge source="OSBORN, HARRY" target="LEEDS, BETTY BRANT">
-      <data key="d3">21</data>
-    </edge>
-    <edge source="OSBORN, HARRY" target="LIZARD/DR. CURTIS CO">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="OSBORN, HARRY" target="LUMPKIN, WILLIAM WIL">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="OSBORN, HARRY" target="MYSTERIO/QUENTIN BEC">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="OSBORN, HARRY" target="OSBORN, LIZ ALLAN">
+    <edge source="OSBORN, LIZ ALLAN" target="OSBORN, HARRY">
       <data key="d3">36</data>
     </edge>
-    <edge source="OSBORN, HARRY" target="PARKER, MAY">
+    <edge source="OSBORN, LIZ ALLAN" target="PARKER, MAY">
       <data key="d3">38</data>
     </edge>
-    <edge source="OSBORN, HARRY" target="ROBERTSON, JOE">
-      <data key="d3">38</data>
+    <edge source="OSBORN, LIZ ALLAN" target="ROBERTSON, JOE">
+      <data key="d3">17</data>
     </edge>
-    <edge source="OSBORN, HARRY" target="ROBERTSON, MARTHA">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="OSBORN, HARRY" target="SPIDER-MAN/PETER PAR">
-      <data key="d3">90</data>
-    </edge>
-    <edge source="OSBORN, HARRY" target="TOMBSTONE/LONNIE THO">
+    <edge source="OSBORN, LIZ ALLAN" target="ROBERTSON, MARTHA">
       <data key="d3">4</data>
     </edge>
-    <edge source="OSBORN, HARRY" target="URICH, BEN">
+    <edge source="OSBORN, LIZ ALLAN" target="ROBERTSON, RANDY">
       <data key="d3">4</data>
     </edge>
-    <edge source="OSBORN, HARRY" target="VULTURE/ADRIAN TOOME">
+    <edge source="OSBORN, LIZ ALLAN" target="SANDMAN/WILLIAM BAKE">
       <data key="d3">2</data>
     </edge>
-    <edge source="OSBORN, HARRY" target="WATSON, ANNA">
-      <data key="d3">18</data>
+    <edge source="OSBORN, LIZ ALLAN" target="SPIDER-MAN/PETER PAR">
+      <data key="d3">71</data>
     </edge>
-    <edge source="OSBORN, HARRY" target="WATSON-PARKER, MARY ">
-      <data key="d3">51</data>
+    <edge source="OSBORN, LIZ ALLAN" target="TOMBSTONE/LONNIE THO">
+      <data key="d3">2</data>
     </edge>
-    <edge source="PARKER, MAY" target="BLACK CAT/FELICIA HA">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="PARKER, MAY" target="CUSHING, KATE">
+    <edge source="OSBORN, LIZ ALLAN" target="WATSON, ANNA">
       <data key="d3">9</data>
     </edge>
-    <edge source="PARKER, MAY" target="DAREDEVIL/MATT MURDO">
-      <data key="d3">7</data>
+    <edge source="OSBORN, LIZ ALLAN" target="WATSON-PARKER, MARY ">
+      <data key="d3">37</data>
     </edge>
-    <edge source="PARKER, MAY" target="DR. OCTOPUS/OTTO OCT">
-      <data key="d3">14</data>
+    <edge source="OSBORN, LIZ ALLAN" target="RHINO">
+      <data key="d3">2</data>
     </edge>
-    <edge source="PARKER, MAY" target="GRANT, GLORIA GLORY">
-      <data key="d3">16</data>
+    <edge source="OSBORN, LIZ ALLAN" target="VENOM/EDDIE BROCK">
+      <data key="d3">2</data>
     </edge>
-    <edge source="PARKER, MAY" target="GREEN GOBLIN/NORMAN ">
-      <data key="d3">11</data>
+    <edge source="RHINO" target="LEEDS, BETTY BRANT">
+      <data key="d3">2</data>
     </edge>
-    <edge source="PARKER, MAY" target="HAMMERHEAD">
+    <edge source="RHINO" target="LEEDS, NED">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="RHINO" target="JAMESON, COL. JOHN ">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="RHINO" target="OSBORN, HARRY">
       <data key="d3">4</data>
     </edge>
-    <edge source="PARKER, MAY" target="HOBGOBLIN V/JASON PH">
+    <edge source="RHINO" target="PARKER, MAY">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="RHINO" target="SANDMAN/WILLIAM BAKE">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="RHINO" target="SPIDER-MAN/PETER PAR">
+      <data key="d3">13</data>
+    </edge>
+    <edge source="RHINO" target="WATSON, ANNA">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="RHINO" target="WATSON-PARKER, MARY ">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="RHINO" target="ROBERTSON, JOE">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="HAMMERHEAD" target="DAREDEVIL/MATT MURDO">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="HAMMERHEAD" target="GRANT, GLORIA GLORY">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="HAMMERHEAD" target="HOBGOBLIN V/JASON PH">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="HAMMERHEAD" target="LEEDS, BETTY BRANT">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="HAMMERHEAD" target="LEEDS, NED">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="HAMMERHEAD" target="LIZARD/DR. CURTIS CO">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="HAMMERHEAD" target="OSBORN, HARRY">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="HAMMERHEAD" target="PARKER, MAY">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="HAMMERHEAD" target="ROBERTSON, JOE">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="HAMMERHEAD" target="ROBERTSON, RANDY">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="HAMMERHEAD" target="SPIDER-MAN/PETER PAR">
+      <data key="d3">21</data>
+    </edge>
+    <edge source="HAMMERHEAD" target="TOMBSTONE/LONNIE THO">
       <data key="d3">6</data>
     </edge>
-    <edge source="PARKER, MAY" target="JAMESON, COL. JOHN ">
-      <data key="d3">9</data>
+    <edge source="HAMMERHEAD" target="WATSON-PARKER, MARY ">
+      <data key="d3">12</data>
     </edge>
-    <edge source="PARKER, MAY" target="JAMESON, J. JONAH">
-      <data key="d3">101</data>
-    </edge>
-    <edge source="PARKER, MAY" target="LEEDS, BETTY BRANT">
-      <data key="d3">51</data>
-    </edge>
-    <edge source="PARKER, MAY" target="LIZARD/DR. CURTIS CO">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="PARKER, MAY" target="LUMPKIN, WILLIAM WIL">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="PARKER, MAY" target="MYSTERIO/QUENTIN BEC">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="PARKER, MAY" target="OSBORN, LIZ ALLAN">
-      <data key="d3">38</data>
-    </edge>
-    <edge source="PARKER, MAY" target="ROBERTSON, JOE">
-      <data key="d3">49</data>
-    </edge>
-    <edge source="PARKER, MAY" target="ROBERTSON, MARTHA">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="PARKER, MAY" target="SPIDER-MAN CLONE/BEN">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="PARKER, MAY" target="SPIDER-MAN/PETER PAR">
-      <data key="d3">199</data>
-    </edge>
-    <edge source="PARKER, MAY" target="TOMBSTONE/LONNIE THO">
+    <edge source="HAMMERHEAD" target="ROBERTSON, MARTHA">
       <data key="d3">2</data>
     </edge>
-    <edge source="PARKER, MAY" target="URICH, BEN">
-      <data key="d3">11</data>
+    <edge source="NELSON, FRANKLIN FOG" target="DAREDEVIL/MATT MURDO">
+      <data key="d3">147</data>
     </edge>
-    <edge source="PARKER, MAY" target="VULTURE/ADRIAN TOOME">
-      <data key="d3">10</data>
+    <edge source="NELSON, FRANKLIN FOG" target="GREEN GOBLIN/NORMAN ">
+      <data key="d3">3</data>
     </edge>
-    <edge source="PARKER, MAY" target="WATSON, ANNA">
+    <edge source="NELSON, FRANKLIN FOG" target="LEEDS, NED">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="NELSON, FRANKLIN FOG" target="MYSTERIO/QUENTIN BEC">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="NELSON, FRANKLIN FOG" target="GRANT, GLORIA GLORY">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="NELSON, FRANKLIN FOG" target="JAMESON, COL. JOHN ">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="NELSON, FRANKLIN FOG" target="JAMESON, MARLA MADIS">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="NELSON, FRANKLIN FOG" target="LEEDS, BETTY BRANT">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="NELSON, FRANKLIN FOG" target="LUMPKIN, WILLIAM WIL">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="NELSON, FRANKLIN FOG" target="OSBORN, HARRY">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="NELSON, FRANKLIN FOG" target="PARKER, MAY">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="NELSON, FRANKLIN FOG" target="ROBERTSON, JOE">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="NELSON, FRANKLIN FOG" target="ROBERTSON, MARTHA">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="NELSON, FRANKLIN FOG" target="SPIDER-MAN/PETER PAR">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="NELSON, FRANKLIN FOG" target="WATSON, ANNA">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="NELSON, FRANKLIN FOG" target="WATSON-PARKER, MARY ">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="NELSON, FRANKLIN FOG" target="TOMBSTONE/LONNIE THO">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="LUBENSKI, NATE" target="BLACK CAT/FELICIA HA">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="LUBENSKI, NATE" target="GRANT, GLORIA GLORY">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="LUBENSKI, NATE" target="HOBGOBLIN V/JASON PH">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="LUBENSKI, NATE" target="LEEDS, NED">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="LUBENSKI, NATE" target="LEEDS, BETTY BRANT">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="LUBENSKI, NATE" target="MYSTERIO/QUENTIN BEC">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="LUBENSKI, NATE" target="OSBORN, HARRY">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="LUBENSKI, NATE" target="PARKER, MAY">
+      <data key="d3">29</data>
+    </edge>
+    <edge source="LUBENSKI, NATE" target="ROBERTSON, JOE">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="LUBENSKI, NATE" target="SPIDER-MAN/PETER PAR">
+      <data key="d3">25</data>
+    </edge>
+    <edge source="LUBENSKI, NATE" target="WATSON, ANNA">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="LUBENSKI, NATE" target="WATSON-PARKER, MARY ">
+      <data key="d3">15</data>
+    </edge>
+    <edge source="LUBENSKI, NATE" target="VENOM/EDDIE BROCK">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="MYSTERIO/QUENTIN BEC" target="DAREDEVIL/MATT MURDO">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="MYSTERIO/QUENTIN BEC" target="DEATHLOK III/MICHAEL">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="MYSTERIO/QUENTIN BEC" target="HOBGOBLIN V/JASON PH">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="MYSTERIO/QUENTIN BEC" target="LEEDS, BETTY BRANT">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="MYSTERIO/QUENTIN BEC" target="BLACK CAT/FELICIA HA">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="MYSTERIO/QUENTIN BEC" target="GRANT, GLORIA GLORY">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="MYSTERIO/QUENTIN BEC" target="JAMESON, MARLA MADIS">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="MYSTERIO/QUENTIN BEC" target="LEEDS, NED">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="MYSTERIO/QUENTIN BEC" target="OSBORN, HARRY">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="MYSTERIO/QUENTIN BEC" target="PARKER, MAY">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="MYSTERIO/QUENTIN BEC" target="ROBERTSON, JOE">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="MYSTERIO/QUENTIN BEC" target="SANDMAN/WILLIAM BAKE">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="MYSTERIO/QUENTIN BEC" target="SPIDER-MAN/PETER PAR">
+      <data key="d3">17</data>
+    </edge>
+    <edge source="MYSTERIO/QUENTIN BEC" target="WATSON-PARKER, MARY ">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="MYSTERIO/QUENTIN BEC" target="WATSON, ANNA">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="WATSON, ANNA" target="BLACK CAT/FELICIA HA">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="WATSON, ANNA" target="DAREDEVIL/MATT MURDO">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="WATSON, ANNA" target="GRANT, GLORIA GLORY">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="WATSON, ANNA" target="GREEN GOBLIN/NORMAN ">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="WATSON, ANNA" target="JAMESON, COL. JOHN ">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="WATSON, ANNA" target="LEEDS, BETTY BRANT">
+      <data key="d3">21</data>
+    </edge>
+    <edge source="WATSON, ANNA" target="LEEDS, NED">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="WATSON, ANNA" target="LIZARD/DR. CURTIS CO">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="WATSON, ANNA" target="OSBORN, HARRY">
+      <data key="d3">18</data>
+    </edge>
+    <edge source="WATSON, ANNA" target="PARKER, MAY">
       <data key="d3">45</data>
     </edge>
-    <edge source="PARKER, MAY" target="WATSON-PARKER, MARY ">
-      <data key="d3">93</data>
+    <edge source="WATSON, ANNA" target="ROBERTSON, JOE">
+      <data key="d3">25</data>
+    </edge>
+    <edge source="WATSON, ANNA" target="ROBERTSON, MARTHA">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="WATSON, ANNA" target="ROBERTSON, RANDY">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="WATSON, ANNA" target="SPIDER-MAN/PETER PAR">
+      <data key="d3">74</data>
+    </edge>
+    <edge source="WATSON, ANNA" target="JAMESON, MARLA MADIS">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="WATSON, ANNA" target="SANDMAN/WILLIAM BAKE">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="WATSON, ANNA" target="VENOM/EDDIE BROCK">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="WATSON, ANNA" target="WATSON-PARKER, MARY ">
+      <data key="d3">41</data>
+    </edge>
+    <edge source="LUMPKIN, WILLIAM WIL" target="BLACK CAT/FELICIA HA">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="LUMPKIN, WILLIAM WIL" target="GRANT, GLORIA GLORY">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="LUMPKIN, WILLIAM WIL" target="JAMESON, MARLA MADIS">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="LUMPKIN, WILLIAM WIL" target="LEEDS, BETTY BRANT">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="LUMPKIN, WILLIAM WIL" target="OSBORN, HARRY">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="LUMPKIN, WILLIAM WIL" target="PARKER, MAY">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="LUMPKIN, WILLIAM WIL" target="ROBERTSON, JOE">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="LUMPKIN, WILLIAM WIL" target="ROBERTSON, MARTHA">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="LUMPKIN, WILLIAM WIL" target="ROBERTSON, RANDY">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="LUMPKIN, WILLIAM WIL" target="SPIDER-MAN/PETER PAR">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="LUMPKIN, WILLIAM WIL" target="WATSON-PARKER, MARY ">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="LUMPKIN, WILLIAM WIL" target="VENOM/EDDIE BROCK">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="TOMBSTONE/LONNIE THO" target="DAREDEVIL/MATT MURDO">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="TOMBSTONE/LONNIE THO" target="GRANT, GLORIA GLORY">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="TOMBSTONE/LONNIE THO" target="JAMESON, MARLA MADIS">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="TOMBSTONE/LONNIE THO" target="OSBORN, HARRY">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="TOMBSTONE/LONNIE THO" target="PARKER, MAY">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="TOMBSTONE/LONNIE THO" target="ROBERTSON, JOE">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="TOMBSTONE/LONNIE THO" target="ROBERTSON, MARTHA">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="TOMBSTONE/LONNIE THO" target="ROBERTSON, RANDY">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="TOMBSTONE/LONNIE THO" target="SPIDER-MAN/PETER PAR">
+      <data key="d3">10</data>
+    </edge>
+    <edge source="TOMBSTONE/LONNIE THO" target="BLACK CAT/FELICIA HA">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="TOMBSTONE/LONNIE THO" target="HOBGOBLIN V/JASON PH">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="TOMBSTONE/LONNIE THO" target="LEEDS, BETTY BRANT">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="TOMBSTONE/LONNIE THO" target="WATSON-PARKER, MARY ">
+      <data key="d3">10</data>
     </edge>
     <edge source="GREEN GOBLIN/NORMAN " target="DAREDEVIL/MATT MURDO">
       <data key="d3">3</data>
@@ -1249,14 +1468,20 @@
     <edge source="GREEN GOBLIN/NORMAN " target="JAMESON, COL. JOHN ">
       <data key="d3">2</data>
     </edge>
-    <edge source="GREEN GOBLIN/NORMAN " target="JAMESON, J. JONAH">
-      <data key="d3">31</data>
+    <edge source="GREEN GOBLIN/NORMAN " target="JAMESON, MARLA MADIS">
+      <data key="d3">3</data>
     </edge>
     <edge source="GREEN GOBLIN/NORMAN " target="LEEDS, BETTY BRANT">
       <data key="d3">18</data>
     </edge>
-    <edge source="GREEN GOBLIN/NORMAN " target="OSBORN, LIZ ALLAN">
-      <data key="d3">13</data>
+    <edge source="GREEN GOBLIN/NORMAN " target="LEEDS, NED">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="GREEN GOBLIN/NORMAN " target="OSBORN, HARRY">
+      <data key="d3">12</data>
+    </edge>
+    <edge source="GREEN GOBLIN/NORMAN " target="PARKER, MAY">
+      <data key="d3">11</data>
     </edge>
     <edge source="GREEN GOBLIN/NORMAN " target="ROBERTSON, JOE">
       <data key="d3">14</data>
@@ -1264,188 +1489,23 @@
     <edge source="GREEN GOBLIN/NORMAN " target="ROBERTSON, MARTHA">
       <data key="d3">3</data>
     </edge>
-    <edge source="GREEN GOBLIN/NORMAN " target="SPIDER-MAN CLONE/BEN">
+    <edge source="GREEN GOBLIN/NORMAN " target="ROBERTSON, RANDY">
       <data key="d3">2</data>
     </edge>
     <edge source="GREEN GOBLIN/NORMAN " target="SPIDER-MAN/PETER PAR">
       <data key="d3">40</data>
     </edge>
-    <edge source="GREEN GOBLIN/NORMAN " target="URICH, BEN">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="GREEN GOBLIN/NORMAN " target="VULTURE/ADRIAN TOOME">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="GREEN GOBLIN/NORMAN " target="WATSON, ANNA">
-      <data key="d3">14</data>
-    </edge>
     <edge source="GREEN GOBLIN/NORMAN " target="WATSON-PARKER, MARY ">
       <data key="d3">34</data>
-    </edge>
-    <edge source="ROBERTSON, JOE" target="BLACK CAT/FELICIA HA">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="ROBERTSON, JOE" target="CUSHING, KATE">
-      <data key="d3">19</data>
-    </edge>
-    <edge source="ROBERTSON, JOE" target="DAREDEVIL/MATT MURDO">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="ROBERTSON, JOE" target="DR. OCTOPUS/OTTO OCT">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="ROBERTSON, JOE" target="GRANT, GLORIA GLORY">
-      <data key="d3">38</data>
-    </edge>
-    <edge source="ROBERTSON, JOE" target="HAMMERHEAD">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="ROBERTSON, JOE" target="HOBGOBLIN V/JASON PH">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="ROBERTSON, JOE" target="JAMESON, COL. JOHN ">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="ROBERTSON, JOE" target="JAMESON, J. JONAH">
-      <data key="d3">149</data>
-    </edge>
-    <edge source="ROBERTSON, JOE" target="LEEDS, BETTY BRANT">
-      <data key="d3">64</data>
-    </edge>
-    <edge source="ROBERTSON, JOE" target="LIZARD/DR. CURTIS CO">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="ROBERTSON, JOE" target="LUMPKIN, WILLIAM WIL">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="ROBERTSON, JOE" target="MYSTERIO/QUENTIN BEC">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="ROBERTSON, JOE" target="OSBORN, LIZ ALLAN">
-      <data key="d3">17</data>
-    </edge>
-    <edge source="ROBERTSON, JOE" target="ROBERTSON, MARTHA">
-      <data key="d3">17</data>
-    </edge>
-    <edge source="ROBERTSON, JOE" target="SPIDER-MAN CLONE/BEN">
-      <data key="d3">17</data>
-    </edge>
-    <edge source="ROBERTSON, JOE" target="SPIDER-MAN/PETER PAR">
-      <data key="d3">176</data>
-    </edge>
-    <edge source="ROBERTSON, JOE" target="TOMBSTONE/LONNIE THO">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="ROBERTSON, JOE" target="URICH, BEN">
-      <data key="d3">26</data>
-    </edge>
-    <edge source="ROBERTSON, JOE" target="VULTURE/ADRIAN TOOME">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="ROBERTSON, JOE" target="WATSON, ANNA">
-      <data key="d3">25</data>
-    </edge>
-    <edge source="ROBERTSON, JOE" target="WATSON-PARKER, MARY ">
-      <data key="d3">99</data>
-    </edge>
-    <edge source="LUMPKIN, WILLIAM WIL" target="BLACK CAT/FELICIA HA">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="LUMPKIN, WILLIAM WIL" target="JAMESON, J. JONAH">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="LUMPKIN, WILLIAM WIL" target="CUSHING, KATE">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="LUMPKIN, WILLIAM WIL" target="GRANT, GLORIA GLORY">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="LUMPKIN, WILLIAM WIL" target="LEEDS, BETTY BRANT">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="LUMPKIN, WILLIAM WIL" target="OSBORN, LIZ ALLAN">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="LUMPKIN, WILLIAM WIL" target="ROBERTSON, MARTHA">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="LUMPKIN, WILLIAM WIL" target="SPIDER-MAN/PETER PAR">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="LUMPKIN, WILLIAM WIL" target="URICH, BEN">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="LUMPKIN, WILLIAM WIL" target="WATSON-PARKER, MARY ">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="SPIDER-MAN CLONE/BEN" target="BLACK CAT/FELICIA HA">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="SPIDER-MAN CLONE/BEN" target="DAREDEVIL/MATT MURDO">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="SPIDER-MAN CLONE/BEN" target="GRANT, GLORIA GLORY">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="SPIDER-MAN CLONE/BEN" target="HAMMERHEAD">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="SPIDER-MAN CLONE/BEN" target="HOBGOBLIN V/JASON PH">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="SPIDER-MAN CLONE/BEN" target="JAMESON, COL. JOHN ">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="SPIDER-MAN CLONE/BEN" target="JAMESON, J. JONAH">
-      <data key="d3">22</data>
-    </edge>
-    <edge source="SPIDER-MAN CLONE/BEN" target="LEEDS, BETTY BRANT">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="SPIDER-MAN CLONE/BEN" target="LIZARD/DR. CURTIS CO">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="SPIDER-MAN CLONE/BEN" target="MYSTERIO/QUENTIN BEC">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="SPIDER-MAN CLONE/BEN" target="OSBORN, LIZ ALLAN">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="SPIDER-MAN CLONE/BEN" target="SPIDER-MAN/PETER PAR">
-      <data key="d3">48</data>
-    </edge>
-    <edge source="SPIDER-MAN CLONE/BEN" target="TOMBSTONE/LONNIE THO">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="SPIDER-MAN CLONE/BEN" target="URICH, BEN">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="SPIDER-MAN CLONE/BEN" target="VULTURE/ADRIAN TOOME">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="SPIDER-MAN CLONE/BEN" target="WATSON, ANNA">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="SPIDER-MAN CLONE/BEN" target="WATSON-PARKER, MARY ">
-      <data key="d3">38</data>
     </edge>
     <edge source="LEEDS, BETTY BRANT" target="BLACK CAT/FELICIA HA">
       <data key="d3">10</data>
     </edge>
-    <edge source="LEEDS, BETTY BRANT" target="CUSHING, KATE">
-      <data key="d3">12</data>
-    </edge>
     <edge source="LEEDS, BETTY BRANT" target="DAREDEVIL/MATT MURDO">
       <data key="d3">5</data>
     </edge>
-    <edge source="LEEDS, BETTY BRANT" target="DR. OCTOPUS/OTTO OCT">
-      <data key="d3">8</data>
-    </edge>
     <edge source="LEEDS, BETTY BRANT" target="GRANT, GLORIA GLORY">
       <data key="d3">15</data>
-    </edge>
-    <edge source="LEEDS, BETTY BRANT" target="HAMMERHEAD">
-      <data key="d3">4</data>
     </edge>
     <edge source="LEEDS, BETTY BRANT" target="HOBGOBLIN V/JASON PH">
       <data key="d3">8</data>
@@ -1453,104 +1513,206 @@
     <edge source="LEEDS, BETTY BRANT" target="JAMESON, COL. JOHN ">
       <data key="d3">12</data>
     </edge>
-    <edge source="LEEDS, BETTY BRANT" target="JAMESON, J. JONAH">
-      <data key="d3">87</data>
+    <edge source="LEEDS, BETTY BRANT" target="JAMESON, MARLA MADIS">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="LEEDS, BETTY BRANT" target="LEEDS, NED">
+      <data key="d3">25</data>
     </edge>
     <edge source="LEEDS, BETTY BRANT" target="LIZARD/DR. CURTIS CO">
       <data key="d3">4</data>
     </edge>
-    <edge source="LEEDS, BETTY BRANT" target="MYSTERIO/QUENTIN BEC">
-      <data key="d3">3</data>
+    <edge source="LEEDS, BETTY BRANT" target="OSBORN, HARRY">
+      <data key="d3">21</data>
     </edge>
-    <edge source="LEEDS, BETTY BRANT" target="OSBORN, LIZ ALLAN">
-      <data key="d3">38</data>
+    <edge source="LEEDS, BETTY BRANT" target="PARKER, MAY">
+      <data key="d3">51</data>
+    </edge>
+    <edge source="LEEDS, BETTY BRANT" target="ROBERTSON, JOE">
+      <data key="d3">64</data>
     </edge>
     <edge source="LEEDS, BETTY BRANT" target="ROBERTSON, MARTHA">
       <data key="d3">8</data>
     </edge>
+    <edge source="LEEDS, BETTY BRANT" target="ROBERTSON, RANDY">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="LEEDS, BETTY BRANT" target="SANDMAN/WILLIAM BAKE">
+      <data key="d3">5</data>
+    </edge>
     <edge source="LEEDS, BETTY BRANT" target="SPIDER-MAN/PETER PAR">
       <data key="d3">108</data>
     </edge>
-    <edge source="LEEDS, BETTY BRANT" target="URICH, BEN">
-      <data key="d3">18</data>
-    </edge>
-    <edge source="LEEDS, BETTY BRANT" target="VULTURE/ADRIAN TOOME">
+    <edge source="LEEDS, BETTY BRANT" target="VENOM/EDDIE BROCK">
       <data key="d3">5</data>
-    </edge>
-    <edge source="LEEDS, BETTY BRANT" target="WATSON, ANNA">
-      <data key="d3">21</data>
     </edge>
     <edge source="LEEDS, BETTY BRANT" target="WATSON-PARKER, MARY ">
       <data key="d3">69</data>
     </edge>
-    <edge source="LEEDS, BETTY BRANT" target="TOMBSTONE/LONNIE THO">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="WATSON-PARKER, MARY " target="BLACK CAT/FELICIA HA">
-      <data key="d3">23</data>
-    </edge>
-    <edge source="WATSON-PARKER, MARY " target="CUSHING, KATE">
-      <data key="d3">28</data>
-    </edge>
-    <edge source="WATSON-PARKER, MARY " target="DAREDEVIL/MATT MURDO">
+    <edge source="OSBORN, HARRY" target="BLACK CAT/FELICIA HA">
       <data key="d3">11</data>
     </edge>
-    <edge source="WATSON-PARKER, MARY " target="DEATHLOK III/MICHAEL">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="WATSON-PARKER, MARY " target="DR. OCTOPUS/OTTO OCT">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="WATSON-PARKER, MARY " target="GRANT, GLORIA GLORY">
-      <data key="d3">33</data>
-    </edge>
-    <edge source="WATSON-PARKER, MARY " target="HAMMERHEAD">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="WATSON-PARKER, MARY " target="HOBGOBLIN V/JASON PH">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="WATSON-PARKER, MARY " target="JAMESON, COL. JOHN ">
+    <edge source="OSBORN, HARRY" target="GRANT, GLORIA GLORY">
       <data key="d3">10</data>
     </edge>
-    <edge source="WATSON-PARKER, MARY " target="JAMESON, J. JONAH">
-      <data key="d3">112</data>
+    <edge source="OSBORN, HARRY" target="HOBGOBLIN V/JASON PH">
+      <data key="d3">4</data>
     </edge>
-    <edge source="WATSON-PARKER, MARY " target="LIZARD/DR. CURTIS CO">
-      <data key="d3">15</data>
+    <edge source="OSBORN, HARRY" target="JAMESON, COL. JOHN ">
+      <data key="d3">5</data>
     </edge>
-    <edge source="WATSON-PARKER, MARY " target="MYSTERIO/QUENTIN BEC">
+    <edge source="OSBORN, HARRY" target="JAMESON, MARLA MADIS">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="OSBORN, HARRY" target="LEEDS, NED">
+      <data key="d3">13</data>
+    </edge>
+    <edge source="OSBORN, HARRY" target="LIZARD/DR. CURTIS CO">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="OSBORN, HARRY" target="PARKER, MAY">
+      <data key="d3">38</data>
+    </edge>
+    <edge source="OSBORN, HARRY" target="ROBERTSON, JOE">
+      <data key="d3">38</data>
+    </edge>
+    <edge source="OSBORN, HARRY" target="ROBERTSON, MARTHA">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="OSBORN, HARRY" target="ROBERTSON, RANDY">
+      <data key="d3">9</data>
+    </edge>
+    <edge source="OSBORN, HARRY" target="SPIDER-MAN/PETER PAR">
+      <data key="d3">90</data>
+    </edge>
+    <edge source="OSBORN, HARRY" target="WATSON-PARKER, MARY ">
+      <data key="d3">51</data>
+    </edge>
+    <edge source="OSBORN, HARRY" target="VENOM/EDDIE BROCK">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="PARKER, MAY" target="BLACK CAT/FELICIA HA">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="PARKER, MAY" target="DAREDEVIL/MATT MURDO">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="PARKER, MAY" target="GRANT, GLORIA GLORY">
+      <data key="d3">16</data>
+    </edge>
+    <edge source="PARKER, MAY" target="HOBGOBLIN V/JASON PH">
       <data key="d3">6</data>
     </edge>
-    <edge source="WATSON-PARKER, MARY " target="OSBORN, LIZ ALLAN">
-      <data key="d3">37</data>
+    <edge source="PARKER, MAY" target="JAMESON, COL. JOHN ">
+      <data key="d3">9</data>
     </edge>
-    <edge source="WATSON-PARKER, MARY " target="ROBERTSON, MARTHA">
-      <data key="d3">14</data>
+    <edge source="PARKER, MAY" target="JAMESON, MARLA MADIS">
+      <data key="d3">11</data>
     </edge>
-    <edge source="WATSON-PARKER, MARY " target="SPIDER-MAN/PETER PAR">
-      <data key="d3">321</data>
+    <edge source="PARKER, MAY" target="LEEDS, NED">
+      <data key="d3">23</data>
     </edge>
-    <edge source="WATSON-PARKER, MARY " target="TOMBSTONE/LONNIE THO">
+    <edge source="PARKER, MAY" target="LIZARD/DR. CURTIS CO">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="PARKER, MAY" target="ROBERTSON, JOE">
+      <data key="d3">49</data>
+    </edge>
+    <edge source="PARKER, MAY" target="ROBERTSON, MARTHA">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="PARKER, MAY" target="ROBERTSON, RANDY">
       <data key="d3">10</data>
     </edge>
-    <edge source="WATSON-PARKER, MARY " target="URICH, BEN">
-      <data key="d3">40</data>
+    <edge source="PARKER, MAY" target="SANDMAN/WILLIAM BAKE">
+      <data key="d3">11</data>
     </edge>
-    <edge source="WATSON-PARKER, MARY " target="VULTURE/ADRIAN TOOME">
-      <data key="d3">15</data>
+    <edge source="PARKER, MAY" target="SPIDER-MAN/PETER PAR">
+      <data key="d3">199</data>
     </edge>
-    <edge source="WATSON-PARKER, MARY " target="WATSON, ANNA">
-      <data key="d3">41</data>
+    <edge source="PARKER, MAY" target="VENOM/EDDIE BROCK">
+      <data key="d3">8</data>
     </edge>
-    <edge source="BLACK CAT/FELICIA HA" target="CUSHING, KATE">
+    <edge source="PARKER, MAY" target="WATSON-PARKER, MARY ">
+      <data key="d3">93</data>
+    </edge>
+    <edge source="JAMESON, MARLA MADIS" target="BLACK CAT/FELICIA HA">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="JAMESON, MARLA MADIS" target="GRANT, GLORIA GLORY">
+      <data key="d3">13</data>
+    </edge>
+    <edge source="JAMESON, MARLA MADIS" target="JAMESON, COL. JOHN ">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="JAMESON, MARLA MADIS" target="DAREDEVIL/MATT MURDO">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="JAMESON, MARLA MADIS" target="HOBGOBLIN V/JASON PH">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="JAMESON, MARLA MADIS" target="LEEDS, NED">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="JAMESON, MARLA MADIS" target="ROBERTSON, JOE">
+      <data key="d3">20</data>
+    </edge>
+    <edge source="JAMESON, MARLA MADIS" target="ROBERTSON, MARTHA">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="JAMESON, MARLA MADIS" target="ROBERTSON, RANDY">
       <data key="d3">4</data>
+    </edge>
+    <edge source="JAMESON, MARLA MADIS" target="SPIDER-MAN/PETER PAR">
+      <data key="d3">30</data>
+    </edge>
+    <edge source="JAMESON, MARLA MADIS" target="WATSON-PARKER, MARY ">
+      <data key="d3">17</data>
+    </edge>
+    <edge source="JAMESON, MARLA MADIS" target="LIZARD/DR. CURTIS CO">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="ROBERTSON, JOE" target="BLACK CAT/FELICIA HA">
+      <data key="d3">13</data>
+    </edge>
+    <edge source="ROBERTSON, JOE" target="DAREDEVIL/MATT MURDO">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="ROBERTSON, JOE" target="GRANT, GLORIA GLORY">
+      <data key="d3">38</data>
+    </edge>
+    <edge source="ROBERTSON, JOE" target="HOBGOBLIN V/JASON PH">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="ROBERTSON, JOE" target="JAMESON, COL. JOHN ">
+      <data key="d3">9</data>
+    </edge>
+    <edge source="ROBERTSON, JOE" target="LEEDS, NED">
+      <data key="d3">21</data>
+    </edge>
+    <edge source="ROBERTSON, JOE" target="LIZARD/DR. CURTIS CO">
+      <data key="d3">5</data>
+    </edge>
+    <edge source="ROBERTSON, JOE" target="ROBERTSON, MARTHA">
+      <data key="d3">17</data>
+    </edge>
+    <edge source="ROBERTSON, JOE" target="ROBERTSON, RANDY">
+      <data key="d3">17</data>
+    </edge>
+    <edge source="ROBERTSON, JOE" target="SANDMAN/WILLIAM BAKE">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="ROBERTSON, JOE" target="SPIDER-MAN/PETER PAR">
+      <data key="d3">176</data>
+    </edge>
+    <edge source="ROBERTSON, JOE" target="WATSON-PARKER, MARY ">
+      <data key="d3">99</data>
+    </edge>
+    <edge source="ROBERTSON, JOE" target="VENOM/EDDIE BROCK">
+      <data key="d3">8</data>
     </edge>
     <edge source="BLACK CAT/FELICIA HA" target="DAREDEVIL/MATT MURDO">
       <data key="d3">4</data>
-    </edge>
-    <edge source="BLACK CAT/FELICIA HA" target="DR. OCTOPUS/OTTO OCT">
-      <data key="d3">2</data>
     </edge>
     <edge source="BLACK CAT/FELICIA HA" target="GRANT, GLORIA GLORY">
       <data key="d3">2</data>
@@ -1558,371 +1720,209 @@
     <edge source="BLACK CAT/FELICIA HA" target="HOBGOBLIN V/JASON PH">
       <data key="d3">4</data>
     </edge>
-    <edge source="BLACK CAT/FELICIA HA" target="JAMESON, J. JONAH">
-      <data key="d3">14</data>
-    </edge>
     <edge source="BLACK CAT/FELICIA HA" target="LIZARD/DR. CURTIS CO">
       <data key="d3">2</data>
-    </edge>
-    <edge source="BLACK CAT/FELICIA HA" target="OSBORN, LIZ ALLAN">
-      <data key="d3">8</data>
     </edge>
     <edge source="BLACK CAT/FELICIA HA" target="ROBERTSON, MARTHA">
       <data key="d3">2</data>
     </edge>
+    <edge source="BLACK CAT/FELICIA HA" target="ROBERTSON, RANDY">
+      <data key="d3">3</data>
+    </edge>
     <edge source="BLACK CAT/FELICIA HA" target="SPIDER-MAN/PETER PAR">
       <data key="d3">48</data>
     </edge>
-    <edge source="BLACK CAT/FELICIA HA" target="URICH, BEN">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="BLACK CAT/FELICIA HA" target="WATSON, ANNA">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="BLACK CAT/FELICIA HA" target="MYSTERIO/QUENTIN BEC">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="BLACK CAT/FELICIA HA" target="TOMBSTONE/LONNIE THO">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="BLACK CAT/FELICIA HA" target="VULTURE/ADRIAN TOOME">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="HOBGOBLIN V/JASON PH" target="CUSHING, KATE">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="HOBGOBLIN V/JASON PH" target="DEATHLOK III/MICHAEL">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="HOBGOBLIN V/JASON PH" target="DR. OCTOPUS/OTTO OCT">
+    <edge source="BLACK CAT/FELICIA HA" target="VENOM/EDDIE BROCK">
       <data key="d3">6</data>
     </edge>
-    <edge source="HOBGOBLIN V/JASON PH" target="GRANT, GLORIA GLORY">
-      <data key="d3">2</data>
+    <edge source="BLACK CAT/FELICIA HA" target="WATSON-PARKER, MARY ">
+      <data key="d3">23</data>
     </edge>
-    <edge source="HOBGOBLIN V/JASON PH" target="HAMMERHEAD">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="HOBGOBLIN V/JASON PH" target="DAREDEVIL/MATT MURDO">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="HOBGOBLIN V/JASON PH" target="JAMESON, J. JONAH">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="HOBGOBLIN V/JASON PH" target="LIZARD/DR. CURTIS CO">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="HOBGOBLIN V/JASON PH" target="MYSTERIO/QUENTIN BEC">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="HOBGOBLIN V/JASON PH" target="OSBORN, LIZ ALLAN">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="HOBGOBLIN V/JASON PH" target="ROBERTSON, MARTHA">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="HOBGOBLIN V/JASON PH" target="SPIDER-MAN/PETER PAR">
-      <data key="d3">32</data>
-    </edge>
-    <edge source="HOBGOBLIN V/JASON PH" target="URICH, BEN">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="HOBGOBLIN V/JASON PH" target="VULTURE/ADRIAN TOOME">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="HOBGOBLIN V/JASON PH" target="TOMBSTONE/LONNIE THO">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="CUSHING, KATE" target="DR. OCTOPUS/OTTO OCT">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="CUSHING, KATE" target="GRANT, GLORIA GLORY">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="CUSHING, KATE" target="HAMMERHEAD">
+    <edge source="BLACK CAT/FELICIA HA" target="LEEDS, NED">
       <data key="d3">4</data>
     </edge>
-    <edge source="CUSHING, KATE" target="JAMESON, J. JONAH">
-      <data key="d3">17</data>
-    </edge>
-    <edge source="CUSHING, KATE" target="OSBORN, LIZ ALLAN">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="CUSHING, KATE" target="ROBERTSON, MARTHA">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="CUSHING, KATE" target="SPIDER-MAN/PETER PAR">
-      <data key="d3">34</data>
-    </edge>
-    <edge source="CUSHING, KATE" target="TOMBSTONE/LONNIE THO">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="CUSHING, KATE" target="URICH, BEN">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="CUSHING, KATE" target="WATSON, ANNA">
+    <edge source="BLACK CAT/FELICIA HA" target="SANDMAN/WILLIAM BAKE">
       <data key="d3">2</data>
-    </edge>
-    <edge source="HAMMERHEAD" target="DAREDEVIL/MATT MURDO">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="HAMMERHEAD" target="DR. OCTOPUS/OTTO OCT">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="HAMMERHEAD" target="GRANT, GLORIA GLORY">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="HAMMERHEAD" target="JAMESON, J. JONAH">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="HAMMERHEAD" target="LIZARD/DR. CURTIS CO">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="HAMMERHEAD" target="SPIDER-MAN/PETER PAR">
-      <data key="d3">21</data>
-    </edge>
-    <edge source="HAMMERHEAD" target="TOMBSTONE/LONNIE THO">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="HAMMERHEAD" target="URICH, BEN">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="HAMMERHEAD" target="ROBERTSON, MARTHA">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="WATSON, ANNA" target="DAREDEVIL/MATT MURDO">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="WATSON, ANNA" target="DR. OCTOPUS/OTTO OCT">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="WATSON, ANNA" target="GRANT, GLORIA GLORY">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="WATSON, ANNA" target="JAMESON, COL. JOHN ">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="WATSON, ANNA" target="JAMESON, J. JONAH">
-      <data key="d3">40</data>
-    </edge>
-    <edge source="WATSON, ANNA" target="LIZARD/DR. CURTIS CO">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="WATSON, ANNA" target="OSBORN, LIZ ALLAN">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="WATSON, ANNA" target="ROBERTSON, MARTHA">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="WATSON, ANNA" target="SPIDER-MAN/PETER PAR">
-      <data key="d3">74</data>
-    </edge>
-    <edge source="WATSON, ANNA" target="URICH, BEN">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="WATSON, ANNA" target="VULTURE/ADRIAN TOOME">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="WATSON, ANNA" target="MYSTERIO/QUENTIN BEC">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="SPIDER-MAN/PETER PAR" target="DAREDEVIL/MATT MURDO">
-      <data key="d3">47</data>
-    </edge>
-    <edge source="SPIDER-MAN/PETER PAR" target="DEATHLOK III/MICHAEL">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="SPIDER-MAN/PETER PAR" target="DR. OCTOPUS/OTTO OCT">
-      <data key="d3">40</data>
-    </edge>
-    <edge source="SPIDER-MAN/PETER PAR" target="GRANT, GLORIA GLORY">
-      <data key="d3">53</data>
-    </edge>
-    <edge source="SPIDER-MAN/PETER PAR" target="JAMESON, COL. JOHN ">
-      <data key="d3">24</data>
-    </edge>
-    <edge source="SPIDER-MAN/PETER PAR" target="JAMESON, J. JONAH">
-      <data key="d3">263</data>
-    </edge>
-    <edge source="SPIDER-MAN/PETER PAR" target="LIZARD/DR. CURTIS CO">
-      <data key="d3">33</data>
-    </edge>
-    <edge source="SPIDER-MAN/PETER PAR" target="MYSTERIO/QUENTIN BEC">
-      <data key="d3">17</data>
-    </edge>
-    <edge source="SPIDER-MAN/PETER PAR" target="OSBORN, LIZ ALLAN">
-      <data key="d3">71</data>
-    </edge>
-    <edge source="SPIDER-MAN/PETER PAR" target="ROBERTSON, MARTHA">
-      <data key="d3">19</data>
-    </edge>
-    <edge source="SPIDER-MAN/PETER PAR" target="TOMBSTONE/LONNIE THO">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="SPIDER-MAN/PETER PAR" target="URICH, BEN">
-      <data key="d3">61</data>
-    </edge>
-    <edge source="SPIDER-MAN/PETER PAR" target="VULTURE/ADRIAN TOOME">
-      <data key="d3">32</data>
-    </edge>
-    <edge source="TOMBSTONE/LONNIE THO" target="DAREDEVIL/MATT MURDO">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="TOMBSTONE/LONNIE THO" target="GRANT, GLORIA GLORY">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="TOMBSTONE/LONNIE THO" target="JAMESON, J. JONAH">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="TOMBSTONE/LONNIE THO" target="OSBORN, LIZ ALLAN">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="TOMBSTONE/LONNIE THO" target="ROBERTSON, MARTHA">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="TOMBSTONE/LONNIE THO" target="URICH, BEN">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="JAMESON, COL. JOHN " target="DAREDEVIL/MATT MURDO">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="JAMESON, COL. JOHN " target="DR. OCTOPUS/OTTO OCT">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="JAMESON, COL. JOHN " target="GRANT, GLORIA GLORY">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="JAMESON, COL. JOHN " target="JAMESON, J. JONAH">
-      <data key="d3">24</data>
-    </edge>
-    <edge source="JAMESON, COL. JOHN " target="OSBORN, LIZ ALLAN">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="JAMESON, COL. JOHN " target="ROBERTSON, MARTHA">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="JAMESON, COL. JOHN " target="URICH, BEN">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="OSBORN, LIZ ALLAN" target="DAREDEVIL/MATT MURDO">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="OSBORN, LIZ ALLAN" target="DR. OCTOPUS/OTTO OCT">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="OSBORN, LIZ ALLAN" target="GRANT, GLORIA GLORY">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="OSBORN, LIZ ALLAN" target="JAMESON, J. JONAH">
-      <data key="d3">48</data>
-    </edge>
-    <edge source="OSBORN, LIZ ALLAN" target="LIZARD/DR. CURTIS CO">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="OSBORN, LIZ ALLAN" target="MYSTERIO/QUENTIN BEC">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="OSBORN, LIZ ALLAN" target="ROBERTSON, MARTHA">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="OSBORN, LIZ ALLAN" target="URICH, BEN">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="OSBORN, LIZ ALLAN" target="VULTURE/ADRIAN TOOME">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="VULTURE/ADRIAN TOOME" target="DEATHLOK III/MICHAEL">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="VULTURE/ADRIAN TOOME" target="DR. OCTOPUS/OTTO OCT">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="VULTURE/ADRIAN TOOME" target="JAMESON, J. JONAH">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="VULTURE/ADRIAN TOOME" target="MYSTERIO/QUENTIN BEC">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="VULTURE/ADRIAN TOOME" target="DAREDEVIL/MATT MURDO">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="MYSTERIO/QUENTIN BEC" target="DAREDEVIL/MATT MURDO">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="MYSTERIO/QUENTIN BEC" target="DEATHLOK III/MICHAEL">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="MYSTERIO/QUENTIN BEC" target="DR. OCTOPUS/OTTO OCT">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="MYSTERIO/QUENTIN BEC" target="JAMESON, J. JONAH">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="MYSTERIO/QUENTIN BEC" target="GRANT, GLORIA GLORY">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MYSTERIO/QUENTIN BEC" target="URICH, BEN">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="ROBERTSON, MARTHA" target="DR. OCTOPUS/OTTO OCT">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="ROBERTSON, MARTHA" target="GRANT, GLORIA GLORY">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="ROBERTSON, MARTHA" target="JAMESON, J. JONAH">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="ROBERTSON, MARTHA" target="URICH, BEN">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="JAMESON, J. JONAH" target="DAREDEVIL/MATT MURDO">
-      <data key="d3">28</data>
-    </edge>
-    <edge source="JAMESON, J. JONAH" target="DR. OCTOPUS/OTTO OCT">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="JAMESON, J. JONAH" target="GRANT, GLORIA GLORY">
-      <data key="d3">45</data>
-    </edge>
-    <edge source="JAMESON, J. JONAH" target="LIZARD/DR. CURTIS CO">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="JAMESON, J. JONAH" target="URICH, BEN">
-      <data key="d3">39</data>
     </edge>
     <edge source="GRANT, GLORIA GLORY" target="DAREDEVIL/MATT MURDO">
       <data key="d3">3</data>
     </edge>
-    <edge source="GRANT, GLORIA GLORY" target="DR. OCTOPUS/OTTO OCT">
-      <data key="d3">4</data>
+    <edge source="GRANT, GLORIA GLORY" target="HOBGOBLIN V/JASON PH">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="GRANT, GLORIA GLORY" target="LEEDS, NED">
+      <data key="d3">2</data>
     </edge>
     <edge source="GRANT, GLORIA GLORY" target="LIZARD/DR. CURTIS CO">
       <data key="d3">5</data>
     </edge>
-    <edge source="GRANT, GLORIA GLORY" target="URICH, BEN">
+    <edge source="GRANT, GLORIA GLORY" target="ROBERTSON, MARTHA">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="GRANT, GLORIA GLORY" target="ROBERTSON, RANDY">
+      <data key="d3">13</data>
+    </edge>
+    <edge source="GRANT, GLORIA GLORY" target="SANDMAN/WILLIAM BAKE">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="GRANT, GLORIA GLORY" target="SPIDER-MAN/PETER PAR">
+      <data key="d3">53</data>
+    </edge>
+    <edge source="GRANT, GLORIA GLORY" target="WATSON-PARKER, MARY ">
+      <data key="d3">33</data>
+    </edge>
+    <edge source="GRANT, GLORIA GLORY" target="JAMESON, COL. JOHN ">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="GRANT, GLORIA GLORY" target="VENOM/EDDIE BROCK">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="VENOM/EDDIE BROCK" target="HOBGOBLIN V/JASON PH">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="VENOM/EDDIE BROCK" target="ROBERTSON, RANDY">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="VENOM/EDDIE BROCK" target="SANDMAN/WILLIAM BAKE">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="VENOM/EDDIE BROCK" target="SPIDER-MAN/PETER PAR">
+      <data key="d3">34</data>
+    </edge>
+    <edge source="VENOM/EDDIE BROCK" target="DAREDEVIL/MATT MURDO">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="VENOM/EDDIE BROCK" target="WATSON-PARKER, MARY ">
+      <data key="d3">16</data>
+    </edge>
+    <edge source="LIZARD/DR. CURTIS CO" target="HOBGOBLIN V/JASON PH">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="LIZARD/DR. CURTIS CO" target="LEEDS, NED">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="LIZARD/DR. CURTIS CO" target="ROBERTSON, RANDY">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="LIZARD/DR. CURTIS CO" target="SANDMAN/WILLIAM BAKE">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="LIZARD/DR. CURTIS CO" target="SPIDER-MAN/PETER PAR">
+      <data key="d3">33</data>
+    </edge>
+    <edge source="LIZARD/DR. CURTIS CO" target="WATSON-PARKER, MARY ">
+      <data key="d3">15</data>
+    </edge>
+    <edge source="WATSON-PARKER, MARY " target="DAREDEVIL/MATT MURDO">
+      <data key="d3">11</data>
+    </edge>
+    <edge source="WATSON-PARKER, MARY " target="DEATHLOK III/MICHAEL">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="WATSON-PARKER, MARY " target="HOBGOBLIN V/JASON PH">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="WATSON-PARKER, MARY " target="JAMESON, COL. JOHN ">
       <data key="d3">10</data>
+    </edge>
+    <edge source="WATSON-PARKER, MARY " target="LEEDS, NED">
+      <data key="d3">19</data>
+    </edge>
+    <edge source="WATSON-PARKER, MARY " target="ROBERTSON, MARTHA">
+      <data key="d3">14</data>
+    </edge>
+    <edge source="WATSON-PARKER, MARY " target="ROBERTSON, RANDY">
+      <data key="d3">17</data>
+    </edge>
+    <edge source="WATSON-PARKER, MARY " target="SANDMAN/WILLIAM BAKE">
+      <data key="d3">7</data>
+    </edge>
+    <edge source="WATSON-PARKER, MARY " target="SPIDER-MAN/PETER PAR">
+      <data key="d3">321</data>
     </edge>
     <edge source="DEATHLOK III/MICHAEL" target="DAREDEVIL/MATT MURDO">
       <data key="d3">2</data>
     </edge>
-    <edge source="DEATHLOK III/MICHAEL" target="DR. OCTOPUS/OTTO OCT">
+    <edge source="DEATHLOK III/MICHAEL" target="HOBGOBLIN V/JASON PH">
       <data key="d3">2</data>
     </edge>
-    <edge source="LIZARD/DR. CURTIS CO" target="DR. OCTOPUS/OTTO OCT">
-      <data key="d3">5</data>
+    <edge source="DEATHLOK III/MICHAEL" target="SANDMAN/WILLIAM BAKE">
+      <data key="d3">2</data>
     </edge>
-    <edge source="LIZARD/DR. CURTIS CO" target="URICH, BEN">
+    <edge source="DEATHLOK III/MICHAEL" target="SPIDER-MAN/PETER PAR">
       <data key="d3">3</data>
     </edge>
-    <edge source="DR. OCTOPUS/OTTO OCT" target="DAREDEVIL/MATT MURDO">
-      <data key="d3">3</data>
+    <edge source="ROBERTSON, RANDY" target="HOBGOBLIN V/JASON PH">
+      <data key="d3">2</data>
     </edge>
-    <edge source="DR. OCTOPUS/OTTO OCT" target="URICH, BEN">
+    <edge source="ROBERTSON, RANDY" target="JAMESON, COL. JOHN ">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="ROBERTSON, RANDY" target="LEEDS, NED">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="ROBERTSON, RANDY" target="ROBERTSON, MARTHA">
       <data key="d3">4</data>
     </edge>
-    <edge source="DAREDEVIL/MATT MURDO" target="URICH, BEN">
-      <data key="d3">23</data>
+    <edge source="ROBERTSON, RANDY" target="SANDMAN/WILLIAM BAKE">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="ROBERTSON, RANDY" target="SPIDER-MAN/PETER PAR">
+      <data key="d3">32</data>
+    </edge>
+    <edge source="HOBGOBLIN V/JASON PH" target="DAREDEVIL/MATT MURDO">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="HOBGOBLIN V/JASON PH" target="LEEDS, NED">
+      <data key="d3">8</data>
+    </edge>
+    <edge source="HOBGOBLIN V/JASON PH" target="ROBERTSON, MARTHA">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="HOBGOBLIN V/JASON PH" target="SANDMAN/WILLIAM BAKE">
+      <data key="d3">6</data>
+    </edge>
+    <edge source="HOBGOBLIN V/JASON PH" target="SPIDER-MAN/PETER PAR">
+      <data key="d3">32</data>
+    </edge>
+    <edge source="ROBERTSON, MARTHA" target="JAMESON, COL. JOHN ">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="ROBERTSON, MARTHA" target="LEEDS, NED">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="ROBERTSON, MARTHA" target="SPIDER-MAN/PETER PAR">
+      <data key="d3">19</data>
+    </edge>
+    <edge source="DAREDEVIL/MATT MURDO" target="JAMESON, COL. JOHN ">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="DAREDEVIL/MATT MURDO" target="LEEDS, NED">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="DAREDEVIL/MATT MURDO" target="SANDMAN/WILLIAM BAKE">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="DAREDEVIL/MATT MURDO" target="SPIDER-MAN/PETER PAR">
+      <data key="d3">47</data>
+    </edge>
+    <edge source="JAMESON, COL. JOHN " target="LEEDS, NED">
+      <data key="d3">4</data>
+    </edge>
+    <edge source="JAMESON, COL. JOHN " target="SANDMAN/WILLIAM BAKE">
+      <data key="d3">3</data>
+    </edge>
+    <edge source="JAMESON, COL. JOHN " target="SPIDER-MAN/PETER PAR">
+      <data key="d3">24</data>
+    </edge>
+    <edge source="SANDMAN/WILLIAM BAKE" target="LEEDS, NED">
+      <data key="d3">2</data>
+    </edge>
+    <edge source="SANDMAN/WILLIAM BAKE" target="SPIDER-MAN/PETER PAR">
+      <data key="d3">28</data>
+    </edge>
+    <edge source="SPIDER-MAN/PETER PAR" target="LEEDS, NED">
+      <data key="d3">36</data>
     </edge>
   </graph>
 </graphml>
