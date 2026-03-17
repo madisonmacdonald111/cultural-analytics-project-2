@@ -27,8 +27,15 @@ For the full analysis, results, discussion, and interpretations see **`code/proj
 ```
 cultural-analytics-project-2/
 ├── code/
-│   └── project-workflow.ipynb      <- full analysis lives here
-|   ├── project-workflow.html
+│   ├── project-workflow.ipynb      <- full analysis lives here
+│   ├── project-workflow.html
+│   └── network_output/
+│       ├── marvel_Avengers.graphml
+│       ├── marvel_Defenders_and_Mystic_Heroes.graphml
+│       ├── marvel_Fantastic_Four.graphml
+│       ├── marvel_Spider-Mans_World.graphml
+│       ├── marvel_Thor_and_Cosmic_Heroes.graphml
+│       └── marvel_X-Men.graphml
 ├── data/
 │   ├── nodes.csv
 │   ├── edges.csv
@@ -38,14 +45,7 @@ cultural-analytics-project-2/
 │   ├── interactive_community_1.html
 │   ├── interactive_community_8.html
 │   └── interactive_community_13.html
-├── network_output/
-│   └── marvel_Avengers
-|   ├── marvel_Defenders_and_Mystic_Heroes.graphml
-|   ├── marvel_Fantastic_Four.graphml
-|   ├── marvel_network.graphml
-|   ├── marvel_Spider-Mans_World.graphml
-|   ├── marvel_Thor_and_Cosmic_Heroes.graphml
-|   ├── marvel_X-men.graphml
+├── environment.yaml
 ├── index.html
 └── README.md
 ```
@@ -55,30 +55,41 @@ cultural-analytics-project-2/
 ## How to Run
 
 1. Clone the repo
-2. Install dependencies (see below)
-3. Run `code/project-workflow.ipynb` top to bottom
+2. Create and activate the conda environment:
+```bash
+conda env create -f environment.yaml
+conda activate cultural_analytics
+```
+3. Launch Jupyter and run `code/project-workflow.ipynb` top to bottom
 
 All random operations use `SEED = 230` so results are fully reproducible.
 
 ---
 
-## Dependencies
-```
-pandas
-numpy
-networkx
-plotly
-pyvis
-```
-```bash
-pip install networkx pyvis plotly
-```
+## Environment
+
+All dependencies are managed via `environment.yaml` using the `cultural_analytics` conda environment. Key packages include `networkx`, `pyvis`, and `plotly` for network analysis and visualization, alongside `pandas`, `numpy`, `matplotlib`, and `scikit-learn` for general data processing.
 
 ---
 
-## Course Context
+## References
 
-Mini Project 2 — INFO 230: Cultural Analytics, Spring 2026  
-Network analysis patterns draw on the course Holmes co-occurrence notebook (`holmes_cooccurrence_networks.ipynb`).
+**Dataset**
+- Sanhueza, C. (2017). *The Marvel Universe Social Network*. Kaggle. https://www.kaggle.com/datasets/csanhueza/the-marvel-universe-social-network
+
+**Network Analysis Methods**
+- Blondel, V. D., Guillaume, J. L., Lambiotte, R., & Lefebvre, E. (2008). Fast unfolding of communities in large networks. *Journal of Statistical Mechanics: Theory and Experiment*, 2008(10), P10008.
+- Newman, M. E. J. (2010). *Networks: An Introduction*. Oxford University Press.
+- Barabási, A. L., & Albert, R. (1999). Emergence of scaling in random networks. *Science*, 286(5439), 509–512.
+
+**Marvel Lore**
+- DeFalco, T., Sanderson, P., Brevoort, T., Teitelbaum, M., Wallace, D., Darling, A., ... & Cowsill, A. (2019). *Marvel Encyclopedia*. DK Publishing.
+- Gruenwald, M., Grant, S., & Layton, B. (1982). *Marvel Super Hero Contest of Champions* #1–3. Marvel Comics.
+
+**Academic Network Analysis of Marvel**
+- Alberich, R., Miro-Julia, J., & Rossello, F. (2002). Marvel Universe looks almost like a real social network. *arXiv preprint cond-mat/0202174*.
+
+**Course Materials**
+- Course Holmes co-occurrence notebook (`holmes_cooccurrence_networks.ipynb`), INFO 230: Cultural Analytics, Spring 2026.
 
 By Maddie MacDonald | UC Berkeley Statistics, MA
