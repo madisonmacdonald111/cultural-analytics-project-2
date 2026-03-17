@@ -47,7 +47,8 @@ cultural-analytics-project-2/
 │   └── interactive_community_13.html
 ├── environment.yaml
 ├── index.html
-└── README.md
+├── README.md
+└── README.html
 ```
 
 ---
@@ -68,7 +69,7 @@ All random operations use `SEED = 230` so results are fully reproducible.
 
 ## Environment
 
-All dependencies are managed via `environment.yaml` using the `cultural_analytics` conda environment. Key packages include `networkx`, `pyvis`, and `plotly` for network analysis and visualization, alongside `pandas`, `numpy`, `matplotlib`, and `scikit-learn` for general data processing.
+All dependencies are managed via `environment.yaml` using the `cultural_analytics` conda environment. Key packages include `scipy`, `networkx`, `pyvis`, and `plotly` for network analysis and visualization, alongside `pandas`, `numpy`, `matplotlib`, and `scikit-learn` for general data processing.
 
 ---
 
