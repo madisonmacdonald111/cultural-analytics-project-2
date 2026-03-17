@@ -93,4 +93,8 @@ All dependencies are managed via `environment.yaml` using the `cultural_analytic
 **Course Materials**
 - Course Holmes co-occurrence notebook (`holmes_cooccurrence_networks.ipynb`), INFO 230: Cultural Analytics, Spring 2026.
 
+## AI Disclosure
+
+Claude (Anthropic) was used as an AI assistant throughout this project for help with code structure, debugging, implementation decisions, and writing feedback. All code was read through, understood, and retyped manually. All analytical decisions, interpretations, and conclusions are my own. Claude helped, but the thinking was mine.
+
 By Maddie MacDonald | UC Berkeley Statistics, MA
