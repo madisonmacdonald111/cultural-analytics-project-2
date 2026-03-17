@@ -1,2372 +1,655 @@
 <?xml version='1.0' encoding='utf-8'?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
-  <key id="d3" for="edge" attr.name="weight" attr.type="long" />
-  <key id="d2" for="node" attr.name="btw" attr.type="double" />
-  <key id="d1" for="node" attr.name="degree" attr.type="long" />
-  <key id="d0" for="node" attr.name="community" attr.type="long" />
+  <key id="d2" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d1" for="node" attr.name="community" attr.type="long" />
+  <key id="d0" for="node" attr.name="degree" attr.type="long" />
   <graph edgedefault="undirected">
-    <node id="JUBILEE/JUBILATION L">
-      <data key="d0">1</data>
-      <data key="d1">211</data>
-      <data key="d2">0.008621728818800911</data>
-    </node>
-    <node id="PROFESSOR X/CHARLES ">
-      <data key="d0">1</data>
-      <data key="d1">511</data>
-      <data key="d2">0.011776230985515878</data>
-    </node>
-    <node id="BEAST/HENRY &amp;HANK&amp; P">
-      <data key="d0">1</data>
-      <data key="d1">594</data>
-      <data key="d2">0.012657361679730895</data>
-    </node>
-    <node id="MIRAGE II/DANIELLE M">
-      <data key="d0">1</data>
-      <data key="d1">197</data>
-      <data key="d2">0.006216650504483222</data>
-    </node>
-    <node id="SUMMERS, NATHAN CHRI">
-      <data key="d0">1</data>
-      <data key="d1">300</data>
-      <data key="d2">0.01534038423525022</data>
-    </node>
-    <node id="MULTIPLE MAN/JAMES A">
-      <data key="d0">1</data>
-      <data key="d1">166</data>
-      <data key="d2">0.002673490153712125</data>
-    </node>
-    <node id="MAGNETO/MAGNUS/ERIC ">
-      <data key="d0">1</data>
-      <data key="d1">277</data>
-      <data key="d2">0.002207135543112428</data>
-    </node>
-    <node id="BANSHEE/SEAN CASSIDY">
-      <data key="d0">1</data>
-      <data key="d1">250</data>
-      <data key="d2">0.005697380533874435</data>
-    </node>
-    <node id="THUNDERBIRD II/JAMES">
-      <data key="d0">1</data>
-      <data key="d1">180</data>
-      <data key="d2">0.0039656430787832495</data>
-    </node>
-    <node id="ICEMAN/ROBERT BOBBY ">
-      <data key="d0">1</data>
-      <data key="d1">465</data>
-      <data key="d2">0.010017776938711639</data>
-    </node>
-    <node id="DAZZLER II/ALLISON B">
-      <data key="d0">1</data>
-      <data key="d1">165</data>
-      <data key="d2">0.0019402380289979442</data>
-    </node>
-    <node id="POLARIS/LORNA DANE">
-      <data key="d0">1</data>
-      <data key="d1">311</data>
-      <data key="d2">0.007171516225244784</data>
-    </node>
-    <node id="CANNONBALL II/SAM GU">
-      <data key="d0">1</data>
-      <data key="d1">331</data>
-      <data key="d2">0.009535646347080184</data>
-    </node>
-    <node id="BOOMER/TABITHA SMITH">
-      <data key="d0">1</data>
-      <data key="d1">228</data>
-      <data key="d2">0.0028649103385770744</data>
+    <node id="WOLFSBANE/RAHNE SINC">
+      <data key="d0">286</data>
+      <data key="d1">1</data>
     </node>
     <node id="PSYLOCKE/ELISABETH B">
-      <data key="d0">1</data>
-      <data key="d1">353</data>
-      <data key="d2">0.0077433229387712625</data>
-    </node>
-    <node id="STORM/ORORO MUNROE S">
-      <data key="d0">1</data>
-      <data key="d1">580</data>
-      <data key="d2">0.01692861418166917</data>
+      <data key="d0">353</data>
+      <data key="d1">1</data>
     </node>
     <node id="MARVEL GIRL/JEAN GRE">
-      <data key="d0">1</data>
-      <data key="d1">472</data>
-      <data key="d2">0.011495006570555147</data>
-    </node>
-    <node id="CYCLOPS/SCOTT SUMMER">
-      <data key="d0">1</data>
-      <data key="d1">580</data>
-      <data key="d2">0.010851651008629672</data>
-    </node>
-    <node id="COOPER, DR. VALERIE">
-      <data key="d0">1</data>
-      <data key="d1">214</data>
-      <data key="d2">0.006122991462167755</data>
-    </node>
-    <node id="WHITE QUEEN/EMMA FRO">
-      <data key="d0">1</data>
-      <data key="d1">163</data>
-      <data key="d2">0.006311002017295889</data>
-    </node>
-    <node id="LOCKHEED">
-      <data key="d0">1</data>
-      <data key="d1">157</data>
-      <data key="d2">0.0017795267327503853</data>
-    </node>
-    <node id="BISHOP /">
-      <data key="d0">1</data>
-      <data key="d1">169</data>
-      <data key="d2">0.006175908264389414</data>
-    </node>
-    <node id="MACTAGGERT, MOIRA KI">
-      <data key="d0">1</data>
-      <data key="d1">200</data>
-      <data key="d2">0.0019216382502232165</data>
-    </node>
-    <node id="LILANDRA NERAMANI [S">
-      <data key="d0">1</data>
-      <data key="d1">157</data>
-      <data key="d2">0.00416221205657835</data>
-    </node>
-    <node id="PHOENIX III/RACHEL S">
-      <data key="d0">1</data>
-      <data key="d1">184</data>
-      <data key="d2">0.004554746607088333</data>
-    </node>
-    <node id="SUNSPOT/ROBERTO DACO">
-      <data key="d0">1</data>
-      <data key="d1">229</data>
-      <data key="d2">0.0037870543824308337</data>
-    </node>
-    <node id="WOLVERINE/LOGAN ">
-      <data key="d0">1</data>
-      <data key="d1">713</data>
-      <data key="d2">0.033317243137036344</data>
-    </node>
-    <node id="HAVOK/ALEX SUMMERS ">
-      <data key="d0">1</data>
-      <data key="d1">399</data>
-      <data key="d2">0.02330329298624879</data>
-    </node>
-    <node id="COLOSSUS II/PETER RA">
-      <data key="d0">1</data>
-      <data key="d1">532</data>
-      <data key="d2">0.01248618234220216</data>
-    </node>
-    <node id="ROGUE /">
-      <data key="d0">1</data>
-      <data key="d1">428</data>
-      <data key="d2">0.007966546345619115</data>
-    </node>
-    <node id="NIGHTCRAWLER/KURT WA">
-      <data key="d0">1</data>
-      <data key="d1">440</data>
-      <data key="d2">0.012616231506103035</data>
-    </node>
-    <node id="FORGE">
-      <data key="d0">1</data>
-      <data key="d1">218</data>
-      <data key="d2">0.0039308346669287755</data>
-    </node>
-    <node id="BLOB/FRED J. DUKES">
-      <data key="d0">1</data>
-      <data key="d1">154</data>
-      <data key="d2">0.003219966473482839</data>
+      <data key="d0">472</data>
+      <data key="d1">1</data>
     </node>
     <node id="SHADOWCAT/KATHERINE ">
-      <data key="d0">1</data>
-      <data key="d1">353</data>
-      <data key="d2">0.004934127422431543</data>
+      <data key="d0">353</data>
+      <data key="d1">1</data>
     </node>
-    <node id="WOLFSBANE/RAHNE SINC">
-      <data key="d0">1</data>
-      <data key="d1">286</data>
-      <data key="d2">0.0077911639804594</data>
+    <node id="POLARIS/LORNA DANE">
+      <data key="d0">311</data>
+      <data key="d1">1</data>
     </node>
-    <node id="ANGEL/WARREN KENNETH">
-      <data key="d0">1</data>
-      <data key="d1">509</data>
-      <data key="d2">0.008495152159128412</data>
+    <node id="BEAST/HENRY &amp;HANK&amp; P">
+      <data key="d0">594</data>
+      <data key="d1">1</data>
     </node>
-    <node id="MYSTIQUE/RAVEN DARKH">
-      <data key="d0">1</data>
-      <data key="d1">158</data>
-      <data key="d2">0.0024446955294673794</data>
+    <node id="COLOSSUS II/PETER RA">
+      <data key="d0">532</data>
+      <data key="d1">1</data>
     </node>
-    <node id="CAPTAIN BRITAIN/BRIA">
-      <data key="d0">1</data>
-      <data key="d1">181</data>
-      <data key="d2">0.00378848404413075</data>
+    <node id="ICEMAN/ROBERT BOBBY ">
+      <data key="d0">465</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="WOLVERINE/LOGAN ">
+      <data key="d0">713</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="CANNONBALL II/SAM GU">
+      <data key="d0">331</data>
+      <data key="d1">1</data>
     </node>
     <node id="GAMBIT/REMY LEBEAU ">
-      <data key="d0">1</data>
-      <data key="d1">293</data>
-      <data key="d2">0.008003114154577743</data>
+      <data key="d0">293</data>
+      <data key="d1">1</data>
     </node>
-    <node id="STRONG GUY/GUIDO CAR">
-      <data key="d0">1</data>
-      <data key="d1">169</data>
-      <data key="d2">0.00124458205857023</data>
+    <node id="PROFESSOR X/CHARLES ">
+      <data key="d0">511</data>
+      <data key="d1">1</data>
     </node>
-    <edge source="JUBILEE/JUBILATION L" target="ANGEL/WARREN KENNETH">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="JUBILEE/JUBILATION L" target="BANSHEE/SEAN CASSIDY">
-      <data key="d3">54</data>
-    </edge>
-    <edge source="JUBILEE/JUBILATION L" target="BEAST/HENRY &amp;HANK&amp; P">
-      <data key="d3">16</data>
-    </edge>
-    <edge source="JUBILEE/JUBILATION L" target="BISHOP /">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="JUBILEE/JUBILATION L" target="BOOMER/TABITHA SMITH">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="JUBILEE/JUBILATION L" target="CANNONBALL II/SAM GU">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="JUBILEE/JUBILATION L" target="COLOSSUS II/PETER RA">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="JUBILEE/JUBILATION L" target="COOPER, DR. VALERIE">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="JUBILEE/JUBILATION L" target="CYCLOPS/SCOTT SUMMER">
-      <data key="d3">18</data>
-    </edge>
-    <edge source="JUBILEE/JUBILATION L" target="DAZZLER II/ALLISON B">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="JUBILEE/JUBILATION L" target="FORGE">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="JUBILEE/JUBILATION L" target="GAMBIT/REMY LEBEAU ">
-      <data key="d3">24</data>
-    </edge>
-    <edge source="JUBILEE/JUBILATION L" target="HAVOK/ALEX SUMMERS ">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="JUBILEE/JUBILATION L" target="ICEMAN/ROBERT BOBBY ">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="JUBILEE/JUBILATION L" target="LILANDRA NERAMANI [S">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="JUBILEE/JUBILATION L" target="MACTAGGERT, MOIRA KI">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="JUBILEE/JUBILATION L" target="MAGNETO/MAGNUS/ERIC ">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="JUBILEE/JUBILATION L" target="MARVEL GIRL/JEAN GRE">
-      <data key="d3">30</data>
-    </edge>
-    <edge source="JUBILEE/JUBILATION L" target="MIRAGE II/DANIELLE M">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="JUBILEE/JUBILATION L" target="MULTIPLE MAN/JAMES A">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="JUBILEE/JUBILATION L" target="MYSTIQUE/RAVEN DARKH">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="JUBILEE/JUBILATION L" target="NIGHTCRAWLER/KURT WA">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="JUBILEE/JUBILATION L" target="POLARIS/LORNA DANE">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="JUBILEE/JUBILATION L" target="PROFESSOR X/CHARLES ">
-      <data key="d3">22</data>
-    </edge>
-    <edge source="JUBILEE/JUBILATION L" target="PSYLOCKE/ELISABETH B">
-      <data key="d3">28</data>
-    </edge>
-    <edge source="JUBILEE/JUBILATION L" target="ROGUE /">
-      <data key="d3">29</data>
-    </edge>
-    <edge source="JUBILEE/JUBILATION L" target="SHADOWCAT/KATHERINE ">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="JUBILEE/JUBILATION L" target="STORM/ORORO MUNROE S">
-      <data key="d3">35</data>
-    </edge>
-    <edge source="JUBILEE/JUBILATION L" target="STRONG GUY/GUIDO CAR">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="JUBILEE/JUBILATION L" target="SUMMERS, NATHAN CHRI">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="JUBILEE/JUBILATION L" target="SUNSPOT/ROBERTO DACO">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="JUBILEE/JUBILATION L" target="THUNDERBIRD II/JAMES">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="JUBILEE/JUBILATION L" target="WHITE QUEEN/EMMA FRO">
-      <data key="d3">35</data>
-    </edge>
-    <edge source="JUBILEE/JUBILATION L" target="WOLFSBANE/RAHNE SINC">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="JUBILEE/JUBILATION L" target="WOLVERINE/LOGAN ">
-      <data key="d3">52</data>
-    </edge>
-    <edge source="JUBILEE/JUBILATION L" target="LOCKHEED">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="PROFESSOR X/CHARLES " target="ANGEL/WARREN KENNETH">
-      <data key="d3">85</data>
-    </edge>
-    <edge source="PROFESSOR X/CHARLES " target="BANSHEE/SEAN CASSIDY">
-      <data key="d3">43</data>
-    </edge>
-    <edge source="PROFESSOR X/CHARLES " target="BEAST/HENRY &amp;HANK&amp; P">
-      <data key="d3">89</data>
-    </edge>
-    <edge source="PROFESSOR X/CHARLES " target="BISHOP /">
-      <data key="d3">39</data>
-    </edge>
-    <edge source="PROFESSOR X/CHARLES " target="BLOB/FRED J. DUKES">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="PROFESSOR X/CHARLES " target="BOOMER/TABITHA SMITH">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="PROFESSOR X/CHARLES " target="CANNONBALL II/SAM GU">
-      <data key="d3">50</data>
-    </edge>
-    <edge source="PROFESSOR X/CHARLES " target="CAPTAIN BRITAIN/BRIA">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="PROFESSOR X/CHARLES " target="COLOSSUS II/PETER RA">
-      <data key="d3">119</data>
-    </edge>
-    <edge source="PROFESSOR X/CHARLES " target="COOPER, DR. VALERIE">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="PROFESSOR X/CHARLES " target="CYCLOPS/SCOTT SUMMER">
-      <data key="d3">146</data>
-    </edge>
-    <edge source="PROFESSOR X/CHARLES " target="DAZZLER II/ALLISON B">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="PROFESSOR X/CHARLES " target="FORGE">
-      <data key="d3">23</data>
-    </edge>
-    <edge source="PROFESSOR X/CHARLES " target="GAMBIT/REMY LEBEAU ">
-      <data key="d3">47</data>
-    </edge>
-    <edge source="PROFESSOR X/CHARLES " target="HAVOK/ALEX SUMMERS ">
-      <data key="d3">31</data>
-    </edge>
-    <edge source="PROFESSOR X/CHARLES " target="ICEMAN/ROBERT BOBBY ">
-      <data key="d3">94</data>
-    </edge>
-    <edge source="PROFESSOR X/CHARLES " target="LILANDRA NERAMANI [S">
-      <data key="d3">31</data>
-    </edge>
-    <edge source="PROFESSOR X/CHARLES " target="LOCKHEED">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="PROFESSOR X/CHARLES " target="MACTAGGERT, MOIRA KI">
-      <data key="d3">38</data>
-    </edge>
-    <edge source="PROFESSOR X/CHARLES " target="MAGNETO/MAGNUS/ERIC ">
-      <data key="d3">49</data>
-    </edge>
-    <edge source="PROFESSOR X/CHARLES " target="MARVEL GIRL/JEAN GRE">
-      <data key="d3">111</data>
-    </edge>
-    <edge source="PROFESSOR X/CHARLES " target="MIRAGE II/DANIELLE M">
-      <data key="d3">21</data>
-    </edge>
-    <edge source="PROFESSOR X/CHARLES " target="MULTIPLE MAN/JAMES A">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="PROFESSOR X/CHARLES " target="MYSTIQUE/RAVEN DARKH">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="PROFESSOR X/CHARLES " target="NIGHTCRAWLER/KURT WA">
-      <data key="d3">95</data>
-    </edge>
-    <edge source="PROFESSOR X/CHARLES " target="PHOENIX III/RACHEL S">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="PROFESSOR X/CHARLES " target="POLARIS/LORNA DANE">
-      <data key="d3">37</data>
-    </edge>
-    <edge source="PROFESSOR X/CHARLES " target="PSYLOCKE/ELISABETH B">
-      <data key="d3">42</data>
-    </edge>
-    <edge source="PROFESSOR X/CHARLES " target="ROGUE /">
-      <data key="d3">58</data>
-    </edge>
-    <edge source="PROFESSOR X/CHARLES " target="SHADOWCAT/KATHERINE ">
-      <data key="d3">72</data>
-    </edge>
-    <edge source="PROFESSOR X/CHARLES " target="STORM/ORORO MUNROE S">
-      <data key="d3">128</data>
-    </edge>
-    <edge source="PROFESSOR X/CHARLES " target="STRONG GUY/GUIDO CAR">
-      <data key="d3">16</data>
-    </edge>
-    <edge source="PROFESSOR X/CHARLES " target="SUMMERS, NATHAN CHRI">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="PROFESSOR X/CHARLES " target="SUNSPOT/ROBERTO DACO">
-      <data key="d3">21</data>
-    </edge>
-    <edge source="PROFESSOR X/CHARLES " target="THUNDERBIRD II/JAMES">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="PROFESSOR X/CHARLES " target="WHITE QUEEN/EMMA FRO">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="PROFESSOR X/CHARLES " target="WOLFSBANE/RAHNE SINC">
-      <data key="d3">27</data>
-    </edge>
-    <edge source="PROFESSOR X/CHARLES " target="WOLVERINE/LOGAN ">
-      <data key="d3">119</data>
-    </edge>
-    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="ANGEL/WARREN KENNETH">
-      <data key="d3">153</data>
-    </edge>
-    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="BANSHEE/SEAN CASSIDY">
-      <data key="d3">26</data>
-    </edge>
-    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="BISHOP /">
-      <data key="d3">24</data>
-    </edge>
-    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="BLOB/FRED J. DUKES">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="BOOMER/TABITHA SMITH">
-      <data key="d3">27</data>
-    </edge>
-    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="CANNONBALL II/SAM GU">
-      <data key="d3">31</data>
-    </edge>
-    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="CAPTAIN BRITAIN/BRIA">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="COLOSSUS II/PETER RA">
-      <data key="d3">41</data>
-    </edge>
-    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="COOPER, DR. VALERIE">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="CYCLOPS/SCOTT SUMMER">
-      <data key="d3">159</data>
-    </edge>
-    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="DAZZLER II/ALLISON B">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="FORGE">
-      <data key="d3">20</data>
-    </edge>
-    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="GAMBIT/REMY LEBEAU ">
-      <data key="d3">50</data>
-    </edge>
-    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="HAVOK/ALEX SUMMERS ">
-      <data key="d3">36</data>
-    </edge>
-    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="ICEMAN/ROBERT BOBBY ">
-      <data key="d3">160</data>
-    </edge>
-    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="LILANDRA NERAMANI [S">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="MACTAGGERT, MOIRA KI">
-      <data key="d3">22</data>
-    </edge>
-    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="MAGNETO/MAGNUS/ERIC ">
-      <data key="d3">26</data>
-    </edge>
-    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="MARVEL GIRL/JEAN GRE">
-      <data key="d3">168</data>
-    </edge>
-    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="MIRAGE II/DANIELLE M">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="MULTIPLE MAN/JAMES A">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="MYSTIQUE/RAVEN DARKH">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="NIGHTCRAWLER/KURT WA">
-      <data key="d3">20</data>
-    </edge>
-    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="PHOENIX III/RACHEL S">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="POLARIS/LORNA DANE">
-      <data key="d3">34</data>
-    </edge>
-    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="PSYLOCKE/ELISABETH B">
-      <data key="d3">47</data>
-    </edge>
-    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="ROGUE /">
-      <data key="d3">56</data>
-    </edge>
-    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="SHADOWCAT/KATHERINE ">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="STORM/ORORO MUNROE S">
-      <data key="d3">57</data>
-    </edge>
-    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="STRONG GUY/GUIDO CAR">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="SUMMERS, NATHAN CHRI">
-      <data key="d3">42</data>
-    </edge>
-    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="SUNSPOT/ROBERTO DACO">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="THUNDERBIRD II/JAMES">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="WHITE QUEEN/EMMA FRO">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="WOLFSBANE/RAHNE SINC">
-      <data key="d3">16</data>
-    </edge>
-    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="WOLVERINE/LOGAN ">
-      <data key="d3">79</data>
-    </edge>
-    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="LOCKHEED">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MIRAGE II/DANIELLE M" target="ANGEL/WARREN KENNETH">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MIRAGE II/DANIELLE M" target="BANSHEE/SEAN CASSIDY">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="MIRAGE II/DANIELLE M" target="BLOB/FRED J. DUKES">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MIRAGE II/DANIELLE M" target="BOOMER/TABITHA SMITH">
-      <data key="d3">27</data>
-    </edge>
-    <edge source="MIRAGE II/DANIELLE M" target="CANNONBALL II/SAM GU">
-      <data key="d3">67</data>
-    </edge>
-    <edge source="MIRAGE II/DANIELLE M" target="CAPTAIN BRITAIN/BRIA">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MIRAGE II/DANIELLE M" target="COLOSSUS II/PETER RA">
-      <data key="d3">17</data>
-    </edge>
-    <edge source="MIRAGE II/DANIELLE M" target="COOPER, DR. VALERIE">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MIRAGE II/DANIELLE M" target="CYCLOPS/SCOTT SUMMER">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="MIRAGE II/DANIELLE M" target="DAZZLER II/ALLISON B">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MIRAGE II/DANIELLE M" target="FORGE">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MIRAGE II/DANIELLE M" target="HAVOK/ALEX SUMMERS ">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="MIRAGE II/DANIELLE M" target="ICEMAN/ROBERT BOBBY ">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="MIRAGE II/DANIELLE M" target="LILANDRA NERAMANI [S">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="MIRAGE II/DANIELLE M" target="LOCKHEED">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="MIRAGE II/DANIELLE M" target="MACTAGGERT, MOIRA KI">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="MIRAGE II/DANIELLE M" target="MAGNETO/MAGNUS/ERIC ">
-      <data key="d3">24</data>
-    </edge>
-    <edge source="MIRAGE II/DANIELLE M" target="MARVEL GIRL/JEAN GRE">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="MIRAGE II/DANIELLE M" target="GAMBIT/REMY LEBEAU ">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MIRAGE II/DANIELLE M" target="MULTIPLE MAN/JAMES A">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MIRAGE II/DANIELLE M" target="MYSTIQUE/RAVEN DARKH">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="MIRAGE II/DANIELLE M" target="NIGHTCRAWLER/KURT WA">
-      <data key="d3">16</data>
-    </edge>
-    <edge source="MIRAGE II/DANIELLE M" target="PHOENIX III/RACHEL S">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="MIRAGE II/DANIELLE M" target="ROGUE /">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="MIRAGE II/DANIELLE M" target="SHADOWCAT/KATHERINE ">
-      <data key="d3">18</data>
-    </edge>
-    <edge source="MIRAGE II/DANIELLE M" target="STORM/ORORO MUNROE S">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="MIRAGE II/DANIELLE M" target="SUMMERS, NATHAN CHRI">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="MIRAGE II/DANIELLE M" target="SUNSPOT/ROBERTO DACO">
-      <data key="d3">68</data>
-    </edge>
-    <edge source="MIRAGE II/DANIELLE M" target="THUNDERBIRD II/JAMES">
-      <data key="d3">20</data>
-    </edge>
-    <edge source="MIRAGE II/DANIELLE M" target="WHITE QUEEN/EMMA FRO">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="MIRAGE II/DANIELLE M" target="WOLFSBANE/RAHNE SINC">
-      <data key="d3">66</data>
-    </edge>
-    <edge source="MIRAGE II/DANIELLE M" target="WOLVERINE/LOGAN ">
-      <data key="d3">17</data>
-    </edge>
-    <edge source="MIRAGE II/DANIELLE M" target="PSYLOCKE/ELISABETH B">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="SUMMERS, NATHAN CHRI" target="ANGEL/WARREN KENNETH">
-      <data key="d3">36</data>
-    </edge>
-    <edge source="SUMMERS, NATHAN CHRI" target="BANSHEE/SEAN CASSIDY">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="SUMMERS, NATHAN CHRI" target="BISHOP /">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="SUMMERS, NATHAN CHRI" target="BLOB/FRED J. DUKES">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="SUMMERS, NATHAN CHRI" target="BOOMER/TABITHA SMITH">
-      <data key="d3">37</data>
-    </edge>
-    <edge source="SUMMERS, NATHAN CHRI" target="CANNONBALL II/SAM GU">
-      <data key="d3">43</data>
-    </edge>
-    <edge source="SUMMERS, NATHAN CHRI" target="COLOSSUS II/PETER RA">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="SUMMERS, NATHAN CHRI" target="COOPER, DR. VALERIE">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="SUMMERS, NATHAN CHRI" target="CYCLOPS/SCOTT SUMMER">
-      <data key="d3">40</data>
-    </edge>
-    <edge source="SUMMERS, NATHAN CHRI" target="DAZZLER II/ALLISON B">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="SUMMERS, NATHAN CHRI" target="FORGE">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="SUMMERS, NATHAN CHRI" target="GAMBIT/REMY LEBEAU ">
-      <data key="d3">24</data>
-    </edge>
-    <edge source="SUMMERS, NATHAN CHRI" target="HAVOK/ALEX SUMMERS ">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="SUMMERS, NATHAN CHRI" target="ICEMAN/ROBERT BOBBY ">
-      <data key="d3">26</data>
-    </edge>
-    <edge source="SUMMERS, NATHAN CHRI" target="LILANDRA NERAMANI [S">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="SUMMERS, NATHAN CHRI" target="MACTAGGERT, MOIRA KI">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="SUMMERS, NATHAN CHRI" target="MAGNETO/MAGNUS/ERIC ">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="SUMMERS, NATHAN CHRI" target="MARVEL GIRL/JEAN GRE">
-      <data key="d3">47</data>
-    </edge>
-    <edge source="SUMMERS, NATHAN CHRI" target="MULTIPLE MAN/JAMES A">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="SUMMERS, NATHAN CHRI" target="MYSTIQUE/RAVEN DARKH">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="SUMMERS, NATHAN CHRI" target="NIGHTCRAWLER/KURT WA">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="SUMMERS, NATHAN CHRI" target="PHOENIX III/RACHEL S">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="SUMMERS, NATHAN CHRI" target="POLARIS/LORNA DANE">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="SUMMERS, NATHAN CHRI" target="PSYLOCKE/ELISABETH B">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="SUMMERS, NATHAN CHRI" target="ROGUE /">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="SUMMERS, NATHAN CHRI" target="SHADOWCAT/KATHERINE ">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="SUMMERS, NATHAN CHRI" target="STORM/ORORO MUNROE S">
-      <data key="d3">37</data>
-    </edge>
-    <edge source="SUMMERS, NATHAN CHRI" target="STRONG GUY/GUIDO CAR">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="SUMMERS, NATHAN CHRI" target="CAPTAIN BRITAIN/BRIA">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="SUMMERS, NATHAN CHRI" target="SUNSPOT/ROBERTO DACO">
-      <data key="d3">28</data>
-    </edge>
-    <edge source="SUMMERS, NATHAN CHRI" target="THUNDERBIRD II/JAMES">
-      <data key="d3">23</data>
-    </edge>
-    <edge source="SUMMERS, NATHAN CHRI" target="WHITE QUEEN/EMMA FRO">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="SUMMERS, NATHAN CHRI" target="WOLFSBANE/RAHNE SINC">
-      <data key="d3">18</data>
-    </edge>
-    <edge source="SUMMERS, NATHAN CHRI" target="WOLVERINE/LOGAN ">
-      <data key="d3">33</data>
-    </edge>
-    <edge source="MULTIPLE MAN/JAMES A" target="ANGEL/WARREN KENNETH">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="MULTIPLE MAN/JAMES A" target="BANSHEE/SEAN CASSIDY">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="MULTIPLE MAN/JAMES A" target="BISHOP /">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="MULTIPLE MAN/JAMES A" target="BOOMER/TABITHA SMITH">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="MULTIPLE MAN/JAMES A" target="CANNONBALL II/SAM GU">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="MULTIPLE MAN/JAMES A" target="COLOSSUS II/PETER RA">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="MULTIPLE MAN/JAMES A" target="COOPER, DR. VALERIE">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="MULTIPLE MAN/JAMES A" target="CYCLOPS/SCOTT SUMMER">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="MULTIPLE MAN/JAMES A" target="FORGE">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MULTIPLE MAN/JAMES A" target="GAMBIT/REMY LEBEAU ">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="MULTIPLE MAN/JAMES A" target="HAVOK/ALEX SUMMERS ">
-      <data key="d3">16</data>
-    </edge>
-    <edge source="MULTIPLE MAN/JAMES A" target="ICEMAN/ROBERT BOBBY ">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="MULTIPLE MAN/JAMES A" target="MACTAGGERT, MOIRA KI">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="MULTIPLE MAN/JAMES A" target="MAGNETO/MAGNUS/ERIC ">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="MULTIPLE MAN/JAMES A" target="MARVEL GIRL/JEAN GRE">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="MULTIPLE MAN/JAMES A" target="LILANDRA NERAMANI [S">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MULTIPLE MAN/JAMES A" target="NIGHTCRAWLER/KURT WA">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="MULTIPLE MAN/JAMES A" target="POLARIS/LORNA DANE">
-      <data key="d3">25</data>
-    </edge>
-    <edge source="MULTIPLE MAN/JAMES A" target="PSYLOCKE/ELISABETH B">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="MULTIPLE MAN/JAMES A" target="ROGUE /">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="MULTIPLE MAN/JAMES A" target="STORM/ORORO MUNROE S">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="MULTIPLE MAN/JAMES A" target="STRONG GUY/GUIDO CAR">
-      <data key="d3">23</data>
-    </edge>
-    <edge source="MULTIPLE MAN/JAMES A" target="SUNSPOT/ROBERTO DACO">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="MULTIPLE MAN/JAMES A" target="THUNDERBIRD II/JAMES">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="MULTIPLE MAN/JAMES A" target="WOLFSBANE/RAHNE SINC">
-      <data key="d3">21</data>
-    </edge>
-    <edge source="MULTIPLE MAN/JAMES A" target="WOLVERINE/LOGAN ">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="MULTIPLE MAN/JAMES A" target="MYSTIQUE/RAVEN DARKH">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MAGNETO/MAGNUS/ERIC " target="ANGEL/WARREN KENNETH">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="MAGNETO/MAGNUS/ERIC " target="BANSHEE/SEAN CASSIDY">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="MAGNETO/MAGNUS/ERIC " target="BISHOP /">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MAGNETO/MAGNUS/ERIC " target="BLOB/FRED J. DUKES">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="MAGNETO/MAGNUS/ERIC " target="BOOMER/TABITHA SMITH">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MAGNETO/MAGNUS/ERIC " target="CANNONBALL II/SAM GU">
-      <data key="d3">27</data>
-    </edge>
-    <edge source="MAGNETO/MAGNUS/ERIC " target="COLOSSUS II/PETER RA">
-      <data key="d3">36</data>
-    </edge>
-    <edge source="MAGNETO/MAGNUS/ERIC " target="COOPER, DR. VALERIE">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="MAGNETO/MAGNUS/ERIC " target="CYCLOPS/SCOTT SUMMER">
-      <data key="d3">39</data>
-    </edge>
-    <edge source="MAGNETO/MAGNUS/ERIC " target="DAZZLER II/ALLISON B">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="MAGNETO/MAGNUS/ERIC " target="FORGE">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="MAGNETO/MAGNUS/ERIC " target="GAMBIT/REMY LEBEAU ">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="MAGNETO/MAGNUS/ERIC " target="HAVOK/ALEX SUMMERS ">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="MAGNETO/MAGNUS/ERIC " target="ICEMAN/ROBERT BOBBY ">
-      <data key="d3">16</data>
-    </edge>
-    <edge source="MAGNETO/MAGNUS/ERIC " target="LILANDRA NERAMANI [S">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MAGNETO/MAGNUS/ERIC " target="LOCKHEED">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="MAGNETO/MAGNUS/ERIC " target="MACTAGGERT, MOIRA KI">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="MAGNETO/MAGNUS/ERIC " target="MARVEL GIRL/JEAN GRE">
-      <data key="d3">24</data>
-    </edge>
-    <edge source="MAGNETO/MAGNUS/ERIC " target="MYSTIQUE/RAVEN DARKH">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="MAGNETO/MAGNUS/ERIC " target="NIGHTCRAWLER/KURT WA">
-      <data key="d3">33</data>
-    </edge>
-    <edge source="MAGNETO/MAGNUS/ERIC " target="PHOENIX III/RACHEL S">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="MAGNETO/MAGNUS/ERIC " target="POLARIS/LORNA DANE">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="MAGNETO/MAGNUS/ERIC " target="PSYLOCKE/ELISABETH B">
-      <data key="d3">19</data>
-    </edge>
-    <edge source="MAGNETO/MAGNUS/ERIC " target="ROGUE /">
-      <data key="d3">42</data>
-    </edge>
-    <edge source="MAGNETO/MAGNUS/ERIC " target="SHADOWCAT/KATHERINE ">
-      <data key="d3">24</data>
-    </edge>
-    <edge source="MAGNETO/MAGNUS/ERIC " target="STORM/ORORO MUNROE S">
-      <data key="d3">42</data>
-    </edge>
-    <edge source="MAGNETO/MAGNUS/ERIC " target="SUNSPOT/ROBERTO DACO">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="MAGNETO/MAGNUS/ERIC " target="THUNDERBIRD II/JAMES">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MAGNETO/MAGNUS/ERIC " target="WHITE QUEEN/EMMA FRO">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="MAGNETO/MAGNUS/ERIC " target="WOLFSBANE/RAHNE SINC">
-      <data key="d3">30</data>
-    </edge>
-    <edge source="MAGNETO/MAGNUS/ERIC " target="WOLVERINE/LOGAN ">
-      <data key="d3">43</data>
-    </edge>
-    <edge source="BANSHEE/SEAN CASSIDY" target="ANGEL/WARREN KENNETH">
-      <data key="d3">22</data>
-    </edge>
-    <edge source="BANSHEE/SEAN CASSIDY" target="BISHOP /">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="BANSHEE/SEAN CASSIDY" target="BLOB/FRED J. DUKES">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="BANSHEE/SEAN CASSIDY" target="BOOMER/TABITHA SMITH">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="BANSHEE/SEAN CASSIDY" target="CANNONBALL II/SAM GU">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="BANSHEE/SEAN CASSIDY" target="COLOSSUS II/PETER RA">
-      <data key="d3">46</data>
-    </edge>
-    <edge source="BANSHEE/SEAN CASSIDY" target="COOPER, DR. VALERIE">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="BANSHEE/SEAN CASSIDY" target="CYCLOPS/SCOTT SUMMER">
-      <data key="d3">54</data>
-    </edge>
-    <edge source="BANSHEE/SEAN CASSIDY" target="DAZZLER II/ALLISON B">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="BANSHEE/SEAN CASSIDY" target="FORGE">
-      <data key="d3">20</data>
-    </edge>
-    <edge source="BANSHEE/SEAN CASSIDY" target="GAMBIT/REMY LEBEAU ">
-      <data key="d3">17</data>
-    </edge>
-    <edge source="BANSHEE/SEAN CASSIDY" target="HAVOK/ALEX SUMMERS ">
-      <data key="d3">17</data>
-    </edge>
-    <edge source="BANSHEE/SEAN CASSIDY" target="ICEMAN/ROBERT BOBBY ">
-      <data key="d3">16</data>
-    </edge>
-    <edge source="BANSHEE/SEAN CASSIDY" target="LILANDRA NERAMANI [S">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="BANSHEE/SEAN CASSIDY" target="MACTAGGERT, MOIRA KI">
-      <data key="d3">32</data>
-    </edge>
-    <edge source="BANSHEE/SEAN CASSIDY" target="MARVEL GIRL/JEAN GRE">
-      <data key="d3">29</data>
-    </edge>
-    <edge source="BANSHEE/SEAN CASSIDY" target="MYSTIQUE/RAVEN DARKH">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="BANSHEE/SEAN CASSIDY" target="NIGHTCRAWLER/KURT WA">
-      <data key="d3">47</data>
-    </edge>
-    <edge source="BANSHEE/SEAN CASSIDY" target="PHOENIX III/RACHEL S">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="BANSHEE/SEAN CASSIDY" target="POLARIS/LORNA DANE">
-      <data key="d3">16</data>
-    </edge>
-    <edge source="BANSHEE/SEAN CASSIDY" target="PSYLOCKE/ELISABETH B">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="BANSHEE/SEAN CASSIDY" target="ROGUE /">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="BANSHEE/SEAN CASSIDY" target="SHADOWCAT/KATHERINE ">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="BANSHEE/SEAN CASSIDY" target="STORM/ORORO MUNROE S">
-      <data key="d3">58</data>
-    </edge>
-    <edge source="BANSHEE/SEAN CASSIDY" target="STRONG GUY/GUIDO CAR">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="BANSHEE/SEAN CASSIDY" target="SUNSPOT/ROBERTO DACO">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="BANSHEE/SEAN CASSIDY" target="THUNDERBIRD II/JAMES">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="BANSHEE/SEAN CASSIDY" target="WHITE QUEEN/EMMA FRO">
-      <data key="d3">39</data>
-    </edge>
-    <edge source="BANSHEE/SEAN CASSIDY" target="WOLFSBANE/RAHNE SINC">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="BANSHEE/SEAN CASSIDY" target="WOLVERINE/LOGAN ">
-      <data key="d3">57</data>
-    </edge>
-    <edge source="BANSHEE/SEAN CASSIDY" target="LOCKHEED">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="THUNDERBIRD II/JAMES" target="ANGEL/WARREN KENNETH">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="THUNDERBIRD II/JAMES" target="BISHOP /">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="THUNDERBIRD II/JAMES" target="BLOB/FRED J. DUKES">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="THUNDERBIRD II/JAMES" target="BOOMER/TABITHA SMITH">
-      <data key="d3">61</data>
-    </edge>
-    <edge source="THUNDERBIRD II/JAMES" target="CANNONBALL II/SAM GU">
-      <data key="d3">55</data>
-    </edge>
-    <edge source="THUNDERBIRD II/JAMES" target="COLOSSUS II/PETER RA">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="THUNDERBIRD II/JAMES" target="COOPER, DR. VALERIE">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="THUNDERBIRD II/JAMES" target="CYCLOPS/SCOTT SUMMER">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="THUNDERBIRD II/JAMES" target="FORGE">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="THUNDERBIRD II/JAMES" target="GAMBIT/REMY LEBEAU ">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="THUNDERBIRD II/JAMES" target="HAVOK/ALEX SUMMERS ">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="THUNDERBIRD II/JAMES" target="ICEMAN/ROBERT BOBBY ">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="THUNDERBIRD II/JAMES" target="MACTAGGERT, MOIRA KI">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="THUNDERBIRD II/JAMES" target="MARVEL GIRL/JEAN GRE">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="THUNDERBIRD II/JAMES" target="NIGHTCRAWLER/KURT WA">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="THUNDERBIRD II/JAMES" target="POLARIS/LORNA DANE">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="THUNDERBIRD II/JAMES" target="PSYLOCKE/ELISABETH B">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="THUNDERBIRD II/JAMES" target="ROGUE /">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="THUNDERBIRD II/JAMES" target="SHADOWCAT/KATHERINE ">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="THUNDERBIRD II/JAMES" target="STORM/ORORO MUNROE S">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="THUNDERBIRD II/JAMES" target="STRONG GUY/GUIDO CAR">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="THUNDERBIRD II/JAMES" target="SUNSPOT/ROBERTO DACO">
-      <data key="d3">36</data>
-    </edge>
-    <edge source="THUNDERBIRD II/JAMES" target="MYSTIQUE/RAVEN DARKH">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="THUNDERBIRD II/JAMES" target="WHITE QUEEN/EMMA FRO">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="THUNDERBIRD II/JAMES" target="WOLFSBANE/RAHNE SINC">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="THUNDERBIRD II/JAMES" target="WOLVERINE/LOGAN ">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="ICEMAN/ROBERT BOBBY " target="ANGEL/WARREN KENNETH">
-      <data key="d3">173</data>
-    </edge>
-    <edge source="ICEMAN/ROBERT BOBBY " target="BISHOP /">
-      <data key="d3">30</data>
-    </edge>
-    <edge source="ICEMAN/ROBERT BOBBY " target="BLOB/FRED J. DUKES">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="ICEMAN/ROBERT BOBBY " target="BOOMER/TABITHA SMITH">
-      <data key="d3">19</data>
-    </edge>
-    <edge source="ICEMAN/ROBERT BOBBY " target="CANNONBALL II/SAM GU">
-      <data key="d3">28</data>
-    </edge>
-    <edge source="ICEMAN/ROBERT BOBBY " target="CAPTAIN BRITAIN/BRIA">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="ICEMAN/ROBERT BOBBY " target="COLOSSUS II/PETER RA">
-      <data key="d3">33</data>
-    </edge>
-    <edge source="ICEMAN/ROBERT BOBBY " target="COOPER, DR. VALERIE">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="ICEMAN/ROBERT BOBBY " target="CYCLOPS/SCOTT SUMMER">
-      <data key="d3">151</data>
-    </edge>
-    <edge source="ICEMAN/ROBERT BOBBY " target="DAZZLER II/ALLISON B">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="ICEMAN/ROBERT BOBBY " target="FORGE">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="ICEMAN/ROBERT BOBBY " target="GAMBIT/REMY LEBEAU ">
-      <data key="d3">35</data>
-    </edge>
-    <edge source="ICEMAN/ROBERT BOBBY " target="HAVOK/ALEX SUMMERS ">
-      <data key="d3">39</data>
-    </edge>
-    <edge source="ICEMAN/ROBERT BOBBY " target="LILANDRA NERAMANI [S">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="ICEMAN/ROBERT BOBBY " target="MACTAGGERT, MOIRA KI">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="ICEMAN/ROBERT BOBBY " target="MARVEL GIRL/JEAN GRE">
-      <data key="d3">179</data>
-    </edge>
-    <edge source="ICEMAN/ROBERT BOBBY " target="MYSTIQUE/RAVEN DARKH">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="ICEMAN/ROBERT BOBBY " target="NIGHTCRAWLER/KURT WA">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="ICEMAN/ROBERT BOBBY " target="POLARIS/LORNA DANE">
-      <data key="d3">36</data>
-    </edge>
-    <edge source="ICEMAN/ROBERT BOBBY " target="PSYLOCKE/ELISABETH B">
-      <data key="d3">34</data>
-    </edge>
-    <edge source="ICEMAN/ROBERT BOBBY " target="ROGUE /">
-      <data key="d3">36</data>
-    </edge>
-    <edge source="ICEMAN/ROBERT BOBBY " target="SHADOWCAT/KATHERINE ">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="ICEMAN/ROBERT BOBBY " target="STORM/ORORO MUNROE S">
-      <data key="d3">56</data>
-    </edge>
-    <edge source="ICEMAN/ROBERT BOBBY " target="STRONG GUY/GUIDO CAR">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="ICEMAN/ROBERT BOBBY " target="SUNSPOT/ROBERTO DACO">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="ICEMAN/ROBERT BOBBY " target="WHITE QUEEN/EMMA FRO">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="ICEMAN/ROBERT BOBBY " target="WOLFSBANE/RAHNE SINC">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="ICEMAN/ROBERT BOBBY " target="WOLVERINE/LOGAN ">
-      <data key="d3">58</data>
-    </edge>
-    <edge source="ICEMAN/ROBERT BOBBY " target="LOCKHEED">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="ICEMAN/ROBERT BOBBY " target="PHOENIX III/RACHEL S">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="DAZZLER II/ALLISON B" target="ANGEL/WARREN KENNETH">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="DAZZLER II/ALLISON B" target="BLOB/FRED J. DUKES">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="DAZZLER II/ALLISON B" target="CANNONBALL II/SAM GU">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="DAZZLER II/ALLISON B" target="COLOSSUS II/PETER RA">
-      <data key="d3">25</data>
-    </edge>
-    <edge source="DAZZLER II/ALLISON B" target="CYCLOPS/SCOTT SUMMER">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="DAZZLER II/ALLISON B" target="FORGE">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="DAZZLER II/ALLISON B" target="GAMBIT/REMY LEBEAU ">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="DAZZLER II/ALLISON B" target="HAVOK/ALEX SUMMERS ">
-      <data key="d3">20</data>
-    </edge>
-    <edge source="DAZZLER II/ALLISON B" target="MACTAGGERT, MOIRA KI">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="DAZZLER II/ALLISON B" target="MARVEL GIRL/JEAN GRE">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="DAZZLER II/ALLISON B" target="MYSTIQUE/RAVEN DARKH">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="DAZZLER II/ALLISON B" target="NIGHTCRAWLER/KURT WA">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="DAZZLER II/ALLISON B" target="POLARIS/LORNA DANE">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="DAZZLER II/ALLISON B" target="PSYLOCKE/ELISABETH B">
-      <data key="d3">28</data>
-    </edge>
-    <edge source="DAZZLER II/ALLISON B" target="ROGUE /">
-      <data key="d3">36</data>
-    </edge>
-    <edge source="DAZZLER II/ALLISON B" target="SHADOWCAT/KATHERINE ">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="DAZZLER II/ALLISON B" target="STORM/ORORO MUNROE S">
-      <data key="d3">24</data>
-    </edge>
-    <edge source="DAZZLER II/ALLISON B" target="SUNSPOT/ROBERTO DACO">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="DAZZLER II/ALLISON B" target="WHITE QUEEN/EMMA FRO">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="DAZZLER II/ALLISON B" target="WOLVERINE/LOGAN ">
-      <data key="d3">34</data>
-    </edge>
-    <edge source="DAZZLER II/ALLISON B" target="LOCKHEED">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="DAZZLER II/ALLISON B" target="PHOENIX III/RACHEL S">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="DAZZLER II/ALLISON B" target="WOLFSBANE/RAHNE SINC">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="POLARIS/LORNA DANE" target="ANGEL/WARREN KENNETH">
-      <data key="d3">40</data>
-    </edge>
-    <edge source="POLARIS/LORNA DANE" target="BISHOP /">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="POLARIS/LORNA DANE" target="BLOB/FRED J. DUKES">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="POLARIS/LORNA DANE" target="BOOMER/TABITHA SMITH">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="POLARIS/LORNA DANE" target="CANNONBALL II/SAM GU">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="POLARIS/LORNA DANE" target="CAPTAIN BRITAIN/BRIA">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="POLARIS/LORNA DANE" target="COLOSSUS II/PETER RA">
-      <data key="d3">33</data>
-    </edge>
-    <edge source="POLARIS/LORNA DANE" target="COOPER, DR. VALERIE">
-      <data key="d3">17</data>
-    </edge>
-    <edge source="POLARIS/LORNA DANE" target="CYCLOPS/SCOTT SUMMER">
-      <data key="d3">44</data>
-    </edge>
-    <edge source="POLARIS/LORNA DANE" target="FORGE">
-      <data key="d3">26</data>
-    </edge>
-    <edge source="POLARIS/LORNA DANE" target="GAMBIT/REMY LEBEAU ">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="POLARIS/LORNA DANE" target="HAVOK/ALEX SUMMERS ">
-      <data key="d3">67</data>
-    </edge>
-    <edge source="POLARIS/LORNA DANE" target="LILANDRA NERAMANI [S">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="POLARIS/LORNA DANE" target="MACTAGGERT, MOIRA KI">
-      <data key="d3">20</data>
-    </edge>
-    <edge source="POLARIS/LORNA DANE" target="MARVEL GIRL/JEAN GRE">
-      <data key="d3">35</data>
-    </edge>
-    <edge source="POLARIS/LORNA DANE" target="MYSTIQUE/RAVEN DARKH">
-      <data key="d3">20</data>
-    </edge>
-    <edge source="POLARIS/LORNA DANE" target="NIGHTCRAWLER/KURT WA">
-      <data key="d3">17</data>
-    </edge>
-    <edge source="POLARIS/LORNA DANE" target="PSYLOCKE/ELISABETH B">
-      <data key="d3">26</data>
-    </edge>
-    <edge source="POLARIS/LORNA DANE" target="ROGUE /">
-      <data key="d3">27</data>
-    </edge>
-    <edge source="POLARIS/LORNA DANE" target="SHADOWCAT/KATHERINE ">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="POLARIS/LORNA DANE" target="STORM/ORORO MUNROE S">
-      <data key="d3">32</data>
-    </edge>
-    <edge source="POLARIS/LORNA DANE" target="STRONG GUY/GUIDO CAR">
-      <data key="d3">20</data>
-    </edge>
-    <edge source="POLARIS/LORNA DANE" target="WOLFSBANE/RAHNE SINC">
-      <data key="d3">22</data>
-    </edge>
-    <edge source="POLARIS/LORNA DANE" target="WOLVERINE/LOGAN ">
-      <data key="d3">32</data>
-    </edge>
-    <edge source="POLARIS/LORNA DANE" target="SUNSPOT/ROBERTO DACO">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="POLARIS/LORNA DANE" target="WHITE QUEEN/EMMA FRO">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="CANNONBALL II/SAM GU" target="ANGEL/WARREN KENNETH">
-      <data key="d3">23</data>
-    </edge>
-    <edge source="CANNONBALL II/SAM GU" target="BISHOP /">
-      <data key="d3">23</data>
-    </edge>
-    <edge source="CANNONBALL II/SAM GU" target="BLOB/FRED J. DUKES">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="CANNONBALL II/SAM GU" target="BOOMER/TABITHA SMITH">
-      <data key="d3">59</data>
-    </edge>
-    <edge source="CANNONBALL II/SAM GU" target="CAPTAIN BRITAIN/BRIA">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="CANNONBALL II/SAM GU" target="COLOSSUS II/PETER RA">
-      <data key="d3">25</data>
-    </edge>
-    <edge source="CANNONBALL II/SAM GU" target="COOPER, DR. VALERIE">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="CANNONBALL II/SAM GU" target="CYCLOPS/SCOTT SUMMER">
-      <data key="d3">36</data>
-    </edge>
-    <edge source="CANNONBALL II/SAM GU" target="FORGE">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="CANNONBALL II/SAM GU" target="GAMBIT/REMY LEBEAU ">
-      <data key="d3">24</data>
-    </edge>
-    <edge source="CANNONBALL II/SAM GU" target="HAVOK/ALEX SUMMERS ">
-      <data key="d3">16</data>
-    </edge>
-    <edge source="CANNONBALL II/SAM GU" target="LILANDRA NERAMANI [S">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="CANNONBALL II/SAM GU" target="LOCKHEED">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="CANNONBALL II/SAM GU" target="MACTAGGERT, MOIRA KI">
-      <data key="d3">19</data>
-    </edge>
-    <edge source="CANNONBALL II/SAM GU" target="MARVEL GIRL/JEAN GRE">
-      <data key="d3">43</data>
-    </edge>
-    <edge source="CANNONBALL II/SAM GU" target="MYSTIQUE/RAVEN DARKH">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="CANNONBALL II/SAM GU" target="NIGHTCRAWLER/KURT WA">
-      <data key="d3">20</data>
-    </edge>
-    <edge source="CANNONBALL II/SAM GU" target="PHOENIX III/RACHEL S">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="CANNONBALL II/SAM GU" target="PSYLOCKE/ELISABETH B">
-      <data key="d3">19</data>
-    </edge>
-    <edge source="CANNONBALL II/SAM GU" target="ROGUE /">
-      <data key="d3">28</data>
-    </edge>
-    <edge source="CANNONBALL II/SAM GU" target="SHADOWCAT/KATHERINE ">
-      <data key="d3">24</data>
-    </edge>
-    <edge source="CANNONBALL II/SAM GU" target="STORM/ORORO MUNROE S">
-      <data key="d3">50</data>
-    </edge>
-    <edge source="CANNONBALL II/SAM GU" target="STRONG GUY/GUIDO CAR">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="CANNONBALL II/SAM GU" target="SUNSPOT/ROBERTO DACO">
-      <data key="d3">88</data>
-    </edge>
-    <edge source="CANNONBALL II/SAM GU" target="WHITE QUEEN/EMMA FRO">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="CANNONBALL II/SAM GU" target="WOLFSBANE/RAHNE SINC">
-      <data key="d3">79</data>
-    </edge>
-    <edge source="CANNONBALL II/SAM GU" target="WOLVERINE/LOGAN ">
-      <data key="d3">58</data>
-    </edge>
-    <edge source="BOOMER/TABITHA SMITH" target="ANGEL/WARREN KENNETH">
-      <data key="d3">21</data>
-    </edge>
-    <edge source="BOOMER/TABITHA SMITH" target="BISHOP /">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="BOOMER/TABITHA SMITH" target="BLOB/FRED J. DUKES">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="BOOMER/TABITHA SMITH" target="COLOSSUS II/PETER RA">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="BOOMER/TABITHA SMITH" target="COOPER, DR. VALERIE">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="BOOMER/TABITHA SMITH" target="CYCLOPS/SCOTT SUMMER">
-      <data key="d3">26</data>
-    </edge>
-    <edge source="BOOMER/TABITHA SMITH" target="FORGE">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="BOOMER/TABITHA SMITH" target="GAMBIT/REMY LEBEAU ">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="BOOMER/TABITHA SMITH" target="HAVOK/ALEX SUMMERS ">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="BOOMER/TABITHA SMITH" target="MACTAGGERT, MOIRA KI">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="BOOMER/TABITHA SMITH" target="MARVEL GIRL/JEAN GRE">
-      <data key="d3">25</data>
-    </edge>
-    <edge source="BOOMER/TABITHA SMITH" target="MYSTIQUE/RAVEN DARKH">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="BOOMER/TABITHA SMITH" target="NIGHTCRAWLER/KURT WA">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="BOOMER/TABITHA SMITH" target="PHOENIX III/RACHEL S">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="BOOMER/TABITHA SMITH" target="PSYLOCKE/ELISABETH B">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="BOOMER/TABITHA SMITH" target="ROGUE /">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="BOOMER/TABITHA SMITH" target="SHADOWCAT/KATHERINE ">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="BOOMER/TABITHA SMITH" target="STORM/ORORO MUNROE S">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="BOOMER/TABITHA SMITH" target="STRONG GUY/GUIDO CAR">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="BOOMER/TABITHA SMITH" target="SUNSPOT/ROBERTO DACO">
-      <data key="d3">54</data>
-    </edge>
-    <edge source="BOOMER/TABITHA SMITH" target="WHITE QUEEN/EMMA FRO">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="BOOMER/TABITHA SMITH" target="WOLFSBANE/RAHNE SINC">
-      <data key="d3">24</data>
-    </edge>
-    <edge source="BOOMER/TABITHA SMITH" target="WOLVERINE/LOGAN ">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="BOOMER/TABITHA SMITH" target="CAPTAIN BRITAIN/BRIA">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="PSYLOCKE/ELISABETH B" target="ANGEL/WARREN KENNETH">
-      <data key="d3">47</data>
-    </edge>
-    <edge source="PSYLOCKE/ELISABETH B" target="BISHOP /">
-      <data key="d3">27</data>
-    </edge>
-    <edge source="PSYLOCKE/ELISABETH B" target="BLOB/FRED J. DUKES">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="PSYLOCKE/ELISABETH B" target="CAPTAIN BRITAIN/BRIA">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="PSYLOCKE/ELISABETH B" target="COLOSSUS II/PETER RA">
-      <data key="d3">50</data>
-    </edge>
-    <edge source="PSYLOCKE/ELISABETH B" target="COOPER, DR. VALERIE">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="PSYLOCKE/ELISABETH B" target="CYCLOPS/SCOTT SUMMER">
-      <data key="d3">43</data>
-    </edge>
-    <edge source="PSYLOCKE/ELISABETH B" target="FORGE">
-      <data key="d3">19</data>
-    </edge>
-    <edge source="PSYLOCKE/ELISABETH B" target="GAMBIT/REMY LEBEAU ">
-      <data key="d3">44</data>
-    </edge>
-    <edge source="PSYLOCKE/ELISABETH B" target="HAVOK/ALEX SUMMERS ">
-      <data key="d3">52</data>
-    </edge>
-    <edge source="PSYLOCKE/ELISABETH B" target="LOCKHEED">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="PSYLOCKE/ELISABETH B" target="MACTAGGERT, MOIRA KI">
-      <data key="d3">16</data>
-    </edge>
-    <edge source="PSYLOCKE/ELISABETH B" target="MARVEL GIRL/JEAN GRE">
-      <data key="d3">46</data>
-    </edge>
-    <edge source="PSYLOCKE/ELISABETH B" target="MYSTIQUE/RAVEN DARKH">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="PSYLOCKE/ELISABETH B" target="NIGHTCRAWLER/KURT WA">
-      <data key="d3">27</data>
-    </edge>
-    <edge source="PSYLOCKE/ELISABETH B" target="LILANDRA NERAMANI [S">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="PSYLOCKE/ELISABETH B" target="ROGUE /">
-      <data key="d3">71</data>
-    </edge>
-    <edge source="PSYLOCKE/ELISABETH B" target="SHADOWCAT/KATHERINE ">
-      <data key="d3">17</data>
-    </edge>
-    <edge source="PSYLOCKE/ELISABETH B" target="STORM/ORORO MUNROE S">
-      <data key="d3">53</data>
-    </edge>
-    <edge source="PSYLOCKE/ELISABETH B" target="STRONG GUY/GUIDO CAR">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="PSYLOCKE/ELISABETH B" target="SUNSPOT/ROBERTO DACO">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="PSYLOCKE/ELISABETH B" target="WHITE QUEEN/EMMA FRO">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="PSYLOCKE/ELISABETH B" target="WOLFSBANE/RAHNE SINC">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="PSYLOCKE/ELISABETH B" target="WOLVERINE/LOGAN ">
-      <data key="d3">76</data>
-    </edge>
-    <edge source="STORM/ORORO MUNROE S" target="ANGEL/WARREN KENNETH">
-      <data key="d3">61</data>
-    </edge>
-    <edge source="STORM/ORORO MUNROE S" target="BISHOP /">
-      <data key="d3">43</data>
-    </edge>
-    <edge source="STORM/ORORO MUNROE S" target="BLOB/FRED J. DUKES">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="STORM/ORORO MUNROE S" target="CAPTAIN BRITAIN/BRIA">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="STORM/ORORO MUNROE S" target="COLOSSUS II/PETER RA">
-      <data key="d3">160</data>
-    </edge>
-    <edge source="STORM/ORORO MUNROE S" target="COOPER, DR. VALERIE">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="STORM/ORORO MUNROE S" target="CYCLOPS/SCOTT SUMMER">
-      <data key="d3">133</data>
-    </edge>
-    <edge source="STORM/ORORO MUNROE S" target="FORGE">
-      <data key="d3">30</data>
-    </edge>
-    <edge source="STORM/ORORO MUNROE S" target="GAMBIT/REMY LEBEAU ">
-      <data key="d3">44</data>
-    </edge>
-    <edge source="STORM/ORORO MUNROE S" target="HAVOK/ALEX SUMMERS ">
-      <data key="d3">54</data>
-    </edge>
-    <edge source="STORM/ORORO MUNROE S" target="LILANDRA NERAMANI [S">
-      <data key="d3">25</data>
-    </edge>
-    <edge source="STORM/ORORO MUNROE S" target="LOCKHEED">
-      <data key="d3">17</data>
-    </edge>
-    <edge source="STORM/ORORO MUNROE S" target="MACTAGGERT, MOIRA KI">
-      <data key="d3">32</data>
-    </edge>
-    <edge source="STORM/ORORO MUNROE S" target="MARVEL GIRL/JEAN GRE">
-      <data key="d3">68</data>
-    </edge>
-    <edge source="STORM/ORORO MUNROE S" target="MYSTIQUE/RAVEN DARKH">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="STORM/ORORO MUNROE S" target="NIGHTCRAWLER/KURT WA">
-      <data key="d3">126</data>
-    </edge>
-    <edge source="STORM/ORORO MUNROE S" target="PHOENIX III/RACHEL S">
-      <data key="d3">16</data>
-    </edge>
-    <edge source="STORM/ORORO MUNROE S" target="ROGUE /">
-      <data key="d3">102</data>
-    </edge>
-    <edge source="STORM/ORORO MUNROE S" target="SHADOWCAT/KATHERINE ">
-      <data key="d3">65</data>
-    </edge>
-    <edge source="STORM/ORORO MUNROE S" target="STRONG GUY/GUIDO CAR">
-      <data key="d3">19</data>
-    </edge>
-    <edge source="STORM/ORORO MUNROE S" target="SUNSPOT/ROBERTO DACO">
-      <data key="d3">25</data>
-    </edge>
-    <edge source="STORM/ORORO MUNROE S" target="WHITE QUEEN/EMMA FRO">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="STORM/ORORO MUNROE S" target="WOLFSBANE/RAHNE SINC">
-      <data key="d3">30</data>
-    </edge>
-    <edge source="STORM/ORORO MUNROE S" target="WOLVERINE/LOGAN ">
-      <data key="d3">198</data>
-    </edge>
-    <edge source="MARVEL GIRL/JEAN GRE" target="ANGEL/WARREN KENNETH">
-      <data key="d3">153</data>
-    </edge>
-    <edge source="MARVEL GIRL/JEAN GRE" target="BISHOP /">
-      <data key="d3">43</data>
-    </edge>
-    <edge source="MARVEL GIRL/JEAN GRE" target="BLOB/FRED J. DUKES">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="MARVEL GIRL/JEAN GRE" target="CAPTAIN BRITAIN/BRIA">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="MARVEL GIRL/JEAN GRE" target="COLOSSUS II/PETER RA">
-      <data key="d3">57</data>
-    </edge>
-    <edge source="MARVEL GIRL/JEAN GRE" target="COOPER, DR. VALERIE">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="MARVEL GIRL/JEAN GRE" target="CYCLOPS/SCOTT SUMMER">
-      <data key="d3">189</data>
-    </edge>
-    <edge source="MARVEL GIRL/JEAN GRE" target="FORGE">
-      <data key="d3">31</data>
-    </edge>
-    <edge source="MARVEL GIRL/JEAN GRE" target="GAMBIT/REMY LEBEAU ">
-      <data key="d3">48</data>
-    </edge>
-    <edge source="MARVEL GIRL/JEAN GRE" target="HAVOK/ALEX SUMMERS ">
-      <data key="d3">44</data>
-    </edge>
-    <edge source="MARVEL GIRL/JEAN GRE" target="LILANDRA NERAMANI [S">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="MARVEL GIRL/JEAN GRE" target="LOCKHEED">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MARVEL GIRL/JEAN GRE" target="MACTAGGERT, MOIRA KI">
-      <data key="d3">16</data>
-    </edge>
-    <edge source="MARVEL GIRL/JEAN GRE" target="MYSTIQUE/RAVEN DARKH">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="MARVEL GIRL/JEAN GRE" target="NIGHTCRAWLER/KURT WA">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="MARVEL GIRL/JEAN GRE" target="PHOENIX III/RACHEL S">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="MARVEL GIRL/JEAN GRE" target="ROGUE /">
-      <data key="d3">44</data>
-    </edge>
-    <edge source="MARVEL GIRL/JEAN GRE" target="SHADOWCAT/KATHERINE ">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="MARVEL GIRL/JEAN GRE" target="STRONG GUY/GUIDO CAR">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="MARVEL GIRL/JEAN GRE" target="SUNSPOT/ROBERTO DACO">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="MARVEL GIRL/JEAN GRE" target="WHITE QUEEN/EMMA FRO">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="MARVEL GIRL/JEAN GRE" target="WOLFSBANE/RAHNE SINC">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="MARVEL GIRL/JEAN GRE" target="WOLVERINE/LOGAN ">
-      <data key="d3">59</data>
-    </edge>
-    <edge source="CYCLOPS/SCOTT SUMMER" target="ANGEL/WARREN KENNETH">
-      <data key="d3">152</data>
-    </edge>
-    <edge source="CYCLOPS/SCOTT SUMMER" target="BISHOP /">
-      <data key="d3">31</data>
-    </edge>
-    <edge source="CYCLOPS/SCOTT SUMMER" target="BLOB/FRED J. DUKES">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="CYCLOPS/SCOTT SUMMER" target="CAPTAIN BRITAIN/BRIA">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="CYCLOPS/SCOTT SUMMER" target="COLOSSUS II/PETER RA">
-      <data key="d3">99</data>
-    </edge>
-    <edge source="CYCLOPS/SCOTT SUMMER" target="COOPER, DR. VALERIE">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="CYCLOPS/SCOTT SUMMER" target="FORGE">
-      <data key="d3">18</data>
-    </edge>
-    <edge source="CYCLOPS/SCOTT SUMMER" target="GAMBIT/REMY LEBEAU ">
-      <data key="d3">41</data>
-    </edge>
-    <edge source="CYCLOPS/SCOTT SUMMER" target="HAVOK/ALEX SUMMERS ">
-      <data key="d3">52</data>
-    </edge>
-    <edge source="CYCLOPS/SCOTT SUMMER" target="LILANDRA NERAMANI [S">
-      <data key="d3">26</data>
-    </edge>
-    <edge source="CYCLOPS/SCOTT SUMMER" target="LOCKHEED">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="CYCLOPS/SCOTT SUMMER" target="MACTAGGERT, MOIRA KI">
-      <data key="d3">36</data>
-    </edge>
-    <edge source="CYCLOPS/SCOTT SUMMER" target="MYSTIQUE/RAVEN DARKH">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="CYCLOPS/SCOTT SUMMER" target="NIGHTCRAWLER/KURT WA">
-      <data key="d3">85</data>
-    </edge>
-    <edge source="CYCLOPS/SCOTT SUMMER" target="PHOENIX III/RACHEL S">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="CYCLOPS/SCOTT SUMMER" target="ROGUE /">
-      <data key="d3">55</data>
-    </edge>
-    <edge source="CYCLOPS/SCOTT SUMMER" target="SHADOWCAT/KATHERINE ">
-      <data key="d3">42</data>
-    </edge>
-    <edge source="CYCLOPS/SCOTT SUMMER" target="STRONG GUY/GUIDO CAR">
-      <data key="d3">18</data>
-    </edge>
-    <edge source="CYCLOPS/SCOTT SUMMER" target="SUNSPOT/ROBERTO DACO">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="CYCLOPS/SCOTT SUMMER" target="WHITE QUEEN/EMMA FRO">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="CYCLOPS/SCOTT SUMMER" target="WOLFSBANE/RAHNE SINC">
-      <data key="d3">21</data>
-    </edge>
-    <edge source="CYCLOPS/SCOTT SUMMER" target="WOLVERINE/LOGAN ">
-      <data key="d3">134</data>
-    </edge>
-    <edge source="COOPER, DR. VALERIE" target="ANGEL/WARREN KENNETH">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="COOPER, DR. VALERIE" target="BISHOP /">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="COOPER, DR. VALERIE" target="BLOB/FRED J. DUKES">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="COOPER, DR. VALERIE" target="COLOSSUS II/PETER RA">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="COOPER, DR. VALERIE" target="FORGE">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="COOPER, DR. VALERIE" target="GAMBIT/REMY LEBEAU ">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="COOPER, DR. VALERIE" target="HAVOK/ALEX SUMMERS ">
-      <data key="d3">17</data>
-    </edge>
-    <edge source="COOPER, DR. VALERIE" target="MACTAGGERT, MOIRA KI">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="COOPER, DR. VALERIE" target="MYSTIQUE/RAVEN DARKH">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="COOPER, DR. VALERIE" target="NIGHTCRAWLER/KURT WA">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="COOPER, DR. VALERIE" target="PHOENIX III/RACHEL S">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="COOPER, DR. VALERIE" target="ROGUE /">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="COOPER, DR. VALERIE" target="SHADOWCAT/KATHERINE ">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="COOPER, DR. VALERIE" target="STRONG GUY/GUIDO CAR">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="COOPER, DR. VALERIE" target="SUNSPOT/ROBERTO DACO">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="COOPER, DR. VALERIE" target="WOLFSBANE/RAHNE SINC">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="COOPER, DR. VALERIE" target="WOLVERINE/LOGAN ">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="WHITE QUEEN/EMMA FRO" target="ANGEL/WARREN KENNETH">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="WHITE QUEEN/EMMA FRO" target="BISHOP /">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="WHITE QUEEN/EMMA FRO" target="COLOSSUS II/PETER RA">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="WHITE QUEEN/EMMA FRO" target="MACTAGGERT, MOIRA KI">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="WHITE QUEEN/EMMA FRO" target="NIGHTCRAWLER/KURT WA">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="WHITE QUEEN/EMMA FRO" target="SHADOWCAT/KATHERINE ">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="WHITE QUEEN/EMMA FRO" target="SUNSPOT/ROBERTO DACO">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="WHITE QUEEN/EMMA FRO" target="FORGE">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="WHITE QUEEN/EMMA FRO" target="GAMBIT/REMY LEBEAU ">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="WHITE QUEEN/EMMA FRO" target="HAVOK/ALEX SUMMERS ">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="WHITE QUEEN/EMMA FRO" target="LOCKHEED">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="WHITE QUEEN/EMMA FRO" target="ROGUE /">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="WHITE QUEEN/EMMA FRO" target="WOLFSBANE/RAHNE SINC">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="WHITE QUEEN/EMMA FRO" target="WOLVERINE/LOGAN ">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="LOCKHEED" target="ANGEL/WARREN KENNETH">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="LOCKHEED" target="CAPTAIN BRITAIN/BRIA">
-      <data key="d3">34</data>
-    </edge>
-    <edge source="LOCKHEED" target="COLOSSUS II/PETER RA">
-      <data key="d3">24</data>
-    </edge>
-    <edge source="LOCKHEED" target="HAVOK/ALEX SUMMERS ">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="LOCKHEED" target="LILANDRA NERAMANI [S">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="LOCKHEED" target="FORGE">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="LOCKHEED" target="MACTAGGERT, MOIRA KI">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="LOCKHEED" target="MYSTIQUE/RAVEN DARKH">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="LOCKHEED" target="NIGHTCRAWLER/KURT WA">
-      <data key="d3">51</data>
-    </edge>
-    <edge source="LOCKHEED" target="PHOENIX III/RACHEL S">
-      <data key="d3">28</data>
-    </edge>
-    <edge source="LOCKHEED" target="ROGUE /">
-      <data key="d3">17</data>
-    </edge>
-    <edge source="LOCKHEED" target="SHADOWCAT/KATHERINE ">
-      <data key="d3">38</data>
-    </edge>
-    <edge source="LOCKHEED" target="SUNSPOT/ROBERTO DACO">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="LOCKHEED" target="WOLFSBANE/RAHNE SINC">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="LOCKHEED" target="WOLVERINE/LOGAN ">
-      <data key="d3">16</data>
-    </edge>
-    <edge source="BISHOP /" target="ANGEL/WARREN KENNETH">
-      <data key="d3">18</data>
-    </edge>
-    <edge source="BISHOP /" target="COLOSSUS II/PETER RA">
-      <data key="d3">17</data>
-    </edge>
-    <edge source="BISHOP /" target="FORGE">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="BISHOP /" target="GAMBIT/REMY LEBEAU ">
-      <data key="d3">27</data>
-    </edge>
-    <edge source="BISHOP /" target="HAVOK/ALEX SUMMERS ">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="BISHOP /" target="MACTAGGERT, MOIRA KI">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="BISHOP /" target="MYSTIQUE/RAVEN DARKH">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="BISHOP /" target="NIGHTCRAWLER/KURT WA">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="BISHOP /" target="ROGUE /">
-      <data key="d3">20</data>
-    </edge>
-    <edge source="BISHOP /" target="SHADOWCAT/KATHERINE ">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="BISHOP /" target="STRONG GUY/GUIDO CAR">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="BISHOP /" target="SUNSPOT/ROBERTO DACO">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="BISHOP /" target="WOLFSBANE/RAHNE SINC">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="BISHOP /" target="WOLVERINE/LOGAN ">
-      <data key="d3">27</data>
-    </edge>
-    <edge source="BISHOP /" target="LILANDRA NERAMANI [S">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="MACTAGGERT, MOIRA KI" target="ANGEL/WARREN KENNETH">
-      <data key="d3">17</data>
-    </edge>
-    <edge source="MACTAGGERT, MOIRA KI" target="BLOB/FRED J. DUKES">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MACTAGGERT, MOIRA KI" target="CAPTAIN BRITAIN/BRIA">
-      <data key="d3">16</data>
-    </edge>
-    <edge source="MACTAGGERT, MOIRA KI" target="COLOSSUS II/PETER RA">
-      <data key="d3">55</data>
-    </edge>
-    <edge source="MACTAGGERT, MOIRA KI" target="FORGE">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="MACTAGGERT, MOIRA KI" target="GAMBIT/REMY LEBEAU ">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="MACTAGGERT, MOIRA KI" target="HAVOK/ALEX SUMMERS ">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="MACTAGGERT, MOIRA KI" target="LILANDRA NERAMANI [S">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="MACTAGGERT, MOIRA KI" target="MYSTIQUE/RAVEN DARKH">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="MACTAGGERT, MOIRA KI" target="NIGHTCRAWLER/KURT WA">
-      <data key="d3">42</data>
-    </edge>
-    <edge source="MACTAGGERT, MOIRA KI" target="PHOENIX III/RACHEL S">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="MACTAGGERT, MOIRA KI" target="ROGUE /">
-      <data key="d3">18</data>
-    </edge>
-    <edge source="MACTAGGERT, MOIRA KI" target="SHADOWCAT/KATHERINE ">
-      <data key="d3">35</data>
-    </edge>
-    <edge source="MACTAGGERT, MOIRA KI" target="STRONG GUY/GUIDO CAR">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="MACTAGGERT, MOIRA KI" target="SUNSPOT/ROBERTO DACO">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="MACTAGGERT, MOIRA KI" target="WOLFSBANE/RAHNE SINC">
-      <data key="d3">24</data>
-    </edge>
-    <edge source="MACTAGGERT, MOIRA KI" target="WOLVERINE/LOGAN ">
-      <data key="d3">44</data>
-    </edge>
-    <edge source="LILANDRA NERAMANI [S" target="ANGEL/WARREN KENNETH">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="LILANDRA NERAMANI [S" target="COLOSSUS II/PETER RA">
-      <data key="d3">22</data>
-    </edge>
-    <edge source="LILANDRA NERAMANI [S" target="FORGE">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="LILANDRA NERAMANI [S" target="GAMBIT/REMY LEBEAU ">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="LILANDRA NERAMANI [S" target="HAVOK/ALEX SUMMERS ">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="LILANDRA NERAMANI [S" target="MYSTIQUE/RAVEN DARKH">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="LILANDRA NERAMANI [S" target="NIGHTCRAWLER/KURT WA">
-      <data key="d3">22</data>
-    </edge>
-    <edge source="LILANDRA NERAMANI [S" target="PHOENIX III/RACHEL S">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="LILANDRA NERAMANI [S" target="ROGUE /">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="LILANDRA NERAMANI [S" target="SHADOWCAT/KATHERINE ">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="LILANDRA NERAMANI [S" target="SUNSPOT/ROBERTO DACO">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="LILANDRA NERAMANI [S" target="WOLFSBANE/RAHNE SINC">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="LILANDRA NERAMANI [S" target="WOLVERINE/LOGAN ">
-      <data key="d3">18</data>
-    </edge>
-    <edge source="PHOENIX III/RACHEL S" target="ANGEL/WARREN KENNETH">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="PHOENIX III/RACHEL S" target="BLOB/FRED J. DUKES">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="PHOENIX III/RACHEL S" target="CAPTAIN BRITAIN/BRIA">
-      <data key="d3">38</data>
-    </edge>
-    <edge source="PHOENIX III/RACHEL S" target="COLOSSUS II/PETER RA">
-      <data key="d3">19</data>
-    </edge>
-    <edge source="PHOENIX III/RACHEL S" target="FORGE">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="PHOENIX III/RACHEL S" target="MYSTIQUE/RAVEN DARKH">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="PHOENIX III/RACHEL S" target="NIGHTCRAWLER/KURT WA">
-      <data key="d3">42</data>
-    </edge>
-    <edge source="PHOENIX III/RACHEL S" target="ROGUE /">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="PHOENIX III/RACHEL S" target="SHADOWCAT/KATHERINE ">
-      <data key="d3">38</data>
-    </edge>
-    <edge source="PHOENIX III/RACHEL S" target="SUNSPOT/ROBERTO DACO">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="PHOENIX III/RACHEL S" target="WOLFSBANE/RAHNE SINC">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="PHOENIX III/RACHEL S" target="WOLVERINE/LOGAN ">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="SUNSPOT/ROBERTO DACO" target="ANGEL/WARREN KENNETH">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="SUNSPOT/ROBERTO DACO" target="BLOB/FRED J. DUKES">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="SUNSPOT/ROBERTO DACO" target="CAPTAIN BRITAIN/BRIA">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="SUNSPOT/ROBERTO DACO" target="COLOSSUS II/PETER RA">
-      <data key="d3">18</data>
-    </edge>
-    <edge source="SUNSPOT/ROBERTO DACO" target="FORGE">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="SUNSPOT/ROBERTO DACO" target="GAMBIT/REMY LEBEAU ">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="SUNSPOT/ROBERTO DACO" target="HAVOK/ALEX SUMMERS ">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="SUNSPOT/ROBERTO DACO" target="MYSTIQUE/RAVEN DARKH">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="SUNSPOT/ROBERTO DACO" target="NIGHTCRAWLER/KURT WA">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="SUNSPOT/ROBERTO DACO" target="ROGUE /">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="SUNSPOT/ROBERTO DACO" target="SHADOWCAT/KATHERINE ">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="SUNSPOT/ROBERTO DACO" target="STRONG GUY/GUIDO CAR">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="SUNSPOT/ROBERTO DACO" target="WOLFSBANE/RAHNE SINC">
-      <data key="d3">66</data>
-    </edge>
-    <edge source="SUNSPOT/ROBERTO DACO" target="WOLVERINE/LOGAN ">
-      <data key="d3">23</data>
-    </edge>
-    <edge source="WOLVERINE/LOGAN " target="ANGEL/WARREN KENNETH">
-      <data key="d3">72</data>
-    </edge>
-    <edge source="WOLVERINE/LOGAN " target="BLOB/FRED J. DUKES">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="WOLVERINE/LOGAN " target="CAPTAIN BRITAIN/BRIA">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="WOLVERINE/LOGAN " target="COLOSSUS II/PETER RA">
-      <data key="d3">159</data>
-    </edge>
-    <edge source="WOLVERINE/LOGAN " target="FORGE">
-      <data key="d3">30</data>
-    </edge>
-    <edge source="WOLVERINE/LOGAN " target="GAMBIT/REMY LEBEAU ">
-      <data key="d3">58</data>
-    </edge>
-    <edge source="WOLVERINE/LOGAN " target="HAVOK/ALEX SUMMERS ">
-      <data key="d3">60</data>
-    </edge>
-    <edge source="WOLVERINE/LOGAN " target="MYSTIQUE/RAVEN DARKH">
-      <data key="d3">18</data>
-    </edge>
-    <edge source="WOLVERINE/LOGAN " target="NIGHTCRAWLER/KURT WA">
-      <data key="d3">139</data>
-    </edge>
-    <edge source="WOLVERINE/LOGAN " target="ROGUE /">
-      <data key="d3">126</data>
-    </edge>
-    <edge source="WOLVERINE/LOGAN " target="SHADOWCAT/KATHERINE ">
-      <data key="d3">91</data>
-    </edge>
-    <edge source="WOLVERINE/LOGAN " target="STRONG GUY/GUIDO CAR">
-      <data key="d3">16</data>
-    </edge>
-    <edge source="WOLVERINE/LOGAN " target="WOLFSBANE/RAHNE SINC">
-      <data key="d3">24</data>
-    </edge>
-    <edge source="HAVOK/ALEX SUMMERS " target="ANGEL/WARREN KENNETH">
-      <data key="d3">35</data>
-    </edge>
-    <edge source="HAVOK/ALEX SUMMERS " target="BLOB/FRED J. DUKES">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="HAVOK/ALEX SUMMERS " target="CAPTAIN BRITAIN/BRIA">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="HAVOK/ALEX SUMMERS " target="COLOSSUS II/PETER RA">
-      <data key="d3">39</data>
-    </edge>
-    <edge source="HAVOK/ALEX SUMMERS " target="FORGE">
-      <data key="d3">17</data>
-    </edge>
-    <edge source="HAVOK/ALEX SUMMERS " target="GAMBIT/REMY LEBEAU ">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="HAVOK/ALEX SUMMERS " target="MYSTIQUE/RAVEN DARKH">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="HAVOK/ALEX SUMMERS " target="NIGHTCRAWLER/KURT WA">
-      <data key="d3">24</data>
-    </edge>
-    <edge source="HAVOK/ALEX SUMMERS " target="ROGUE /">
-      <data key="d3">36</data>
-    </edge>
-    <edge source="HAVOK/ALEX SUMMERS " target="SHADOWCAT/KATHERINE ">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="HAVOK/ALEX SUMMERS " target="STRONG GUY/GUIDO CAR">
-      <data key="d3">27</data>
-    </edge>
-    <edge source="HAVOK/ALEX SUMMERS " target="WOLFSBANE/RAHNE SINC">
-      <data key="d3">29</data>
-    </edge>
-    <edge source="COLOSSUS II/PETER RA" target="ANGEL/WARREN KENNETH">
-      <data key="d3">54</data>
-    </edge>
-    <edge source="COLOSSUS II/PETER RA" target="BLOB/FRED J. DUKES">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="COLOSSUS II/PETER RA" target="CAPTAIN BRITAIN/BRIA">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="COLOSSUS II/PETER RA" target="FORGE">
-      <data key="d3">19</data>
-    </edge>
-    <edge source="COLOSSUS II/PETER RA" target="GAMBIT/REMY LEBEAU ">
-      <data key="d3">35</data>
-    </edge>
-    <edge source="COLOSSUS II/PETER RA" target="MYSTIQUE/RAVEN DARKH">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="COLOSSUS II/PETER RA" target="NIGHTCRAWLER/KURT WA">
-      <data key="d3">145</data>
-    </edge>
-    <edge source="COLOSSUS II/PETER RA" target="ROGUE /">
-      <data key="d3">94</data>
-    </edge>
-    <edge source="COLOSSUS II/PETER RA" target="SHADOWCAT/KATHERINE ">
-      <data key="d3">94</data>
-    </edge>
-    <edge source="COLOSSUS II/PETER RA" target="STRONG GUY/GUIDO CAR">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="COLOSSUS II/PETER RA" target="WOLFSBANE/RAHNE SINC">
-      <data key="d3">35</data>
-    </edge>
-    <edge source="ROGUE /" target="ANGEL/WARREN KENNETH">
-      <data key="d3">32</data>
-    </edge>
-    <edge source="ROGUE /" target="BLOB/FRED J. DUKES">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="ROGUE /" target="CAPTAIN BRITAIN/BRIA">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="ROGUE /" target="FORGE">
-      <data key="d3">20</data>
-    </edge>
-    <edge source="ROGUE /" target="GAMBIT/REMY LEBEAU ">
-      <data key="d3">63</data>
-    </edge>
-    <edge source="ROGUE /" target="MYSTIQUE/RAVEN DARKH">
-      <data key="d3">21</data>
-    </edge>
-    <edge source="ROGUE /" target="NIGHTCRAWLER/KURT WA">
-      <data key="d3">73</data>
-    </edge>
-    <edge source="ROGUE /" target="SHADOWCAT/KATHERINE ">
-      <data key="d3">51</data>
-    </edge>
-    <edge source="ROGUE /" target="STRONG GUY/GUIDO CAR">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="ROGUE /" target="WOLFSBANE/RAHNE SINC">
-      <data key="d3">20</data>
-    </edge>
-    <edge source="NIGHTCRAWLER/KURT WA" target="ANGEL/WARREN KENNETH">
-      <data key="d3">30</data>
-    </edge>
-    <edge source="NIGHTCRAWLER/KURT WA" target="BLOB/FRED J. DUKES">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="NIGHTCRAWLER/KURT WA" target="CAPTAIN BRITAIN/BRIA">
-      <data key="d3">60</data>
-    </edge>
-    <edge source="NIGHTCRAWLER/KURT WA" target="FORGE">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="NIGHTCRAWLER/KURT WA" target="GAMBIT/REMY LEBEAU ">
-      <data key="d3">19</data>
-    </edge>
-    <edge source="NIGHTCRAWLER/KURT WA" target="MYSTIQUE/RAVEN DARKH">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="NIGHTCRAWLER/KURT WA" target="SHADOWCAT/KATHERINE ">
-      <data key="d3">152</data>
-    </edge>
-    <edge source="NIGHTCRAWLER/KURT WA" target="WOLFSBANE/RAHNE SINC">
-      <data key="d3">28</data>
-    </edge>
-    <edge source="NIGHTCRAWLER/KURT WA" target="STRONG GUY/GUIDO CAR">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="FORGE" target="ANGEL/WARREN KENNETH">
-      <data key="d3">18</data>
-    </edge>
-    <edge source="FORGE" target="BLOB/FRED J. DUKES">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="FORGE" target="CAPTAIN BRITAIN/BRIA">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="FORGE" target="GAMBIT/REMY LEBEAU ">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="FORGE" target="MYSTIQUE/RAVEN DARKH">
-      <data key="d3">18</data>
-    </edge>
-    <edge source="FORGE" target="SHADOWCAT/KATHERINE ">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="FORGE" target="STRONG GUY/GUIDO CAR">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="FORGE" target="WOLFSBANE/RAHNE SINC">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="BLOB/FRED J. DUKES" target="ANGEL/WARREN KENNETH">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="BLOB/FRED J. DUKES" target="GAMBIT/REMY LEBEAU ">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="BLOB/FRED J. DUKES" target="MYSTIQUE/RAVEN DARKH">
-      <data key="d3">21</data>
-    </edge>
-    <edge source="BLOB/FRED J. DUKES" target="SHADOWCAT/KATHERINE ">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="BLOB/FRED J. DUKES" target="STRONG GUY/GUIDO CAR">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="BLOB/FRED J. DUKES" target="WOLFSBANE/RAHNE SINC">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="SHADOWCAT/KATHERINE " target="ANGEL/WARREN KENNETH">
-      <data key="d3">23</data>
-    </edge>
-    <edge source="SHADOWCAT/KATHERINE " target="CAPTAIN BRITAIN/BRIA">
-      <data key="d3">51</data>
-    </edge>
-    <edge source="SHADOWCAT/KATHERINE " target="GAMBIT/REMY LEBEAU ">
-      <data key="d3">19</data>
-    </edge>
-    <edge source="SHADOWCAT/KATHERINE " target="MYSTIQUE/RAVEN DARKH">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="SHADOWCAT/KATHERINE " target="WOLFSBANE/RAHNE SINC">
-      <data key="d3">33</data>
-    </edge>
-    <edge source="SHADOWCAT/KATHERINE " target="STRONG GUY/GUIDO CAR">
-      <data key="d3">2</data>
-    </edge>
+    <node id="ANGEL/WARREN KENNETH">
+      <data key="d0">509</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="CYCLOPS/SCOTT SUMMER">
+      <data key="d0">580</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="ROGUE /">
+      <data key="d0">428</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="HAVOK/ALEX SUMMERS ">
+      <data key="d0">399</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="MAGNETO/MAGNUS/ERIC ">
+      <data key="d0">277</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="STORM/ORORO MUNROE S">
+      <data key="d0">580</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="SUMMERS, NATHAN CHRI">
+      <data key="d0">300</data>
+      <data key="d1">1</data>
+    </node>
+    <node id="NIGHTCRAWLER/KURT WA">
+      <data key="d0">440</data>
+      <data key="d1">1</data>
+    </node>
     <edge source="WOLFSBANE/RAHNE SINC" target="ANGEL/WARREN KENNETH">
-      <data key="d3">16</data>
+      <data key="d2">16</data>
     </edge>
-    <edge source="WOLFSBANE/RAHNE SINC" target="CAPTAIN BRITAIN/BRIA">
-      <data key="d3">12</data>
+    <edge source="WOLFSBANE/RAHNE SINC" target="BEAST/HENRY &amp;HANK&amp; P">
+      <data key="d2">16</data>
+    </edge>
+    <edge source="WOLFSBANE/RAHNE SINC" target="CANNONBALL II/SAM GU">
+      <data key="d2">79</data>
+    </edge>
+    <edge source="WOLFSBANE/RAHNE SINC" target="COLOSSUS II/PETER RA">
+      <data key="d2">35</data>
+    </edge>
+    <edge source="WOLFSBANE/RAHNE SINC" target="CYCLOPS/SCOTT SUMMER">
+      <data key="d2">21</data>
     </edge>
     <edge source="WOLFSBANE/RAHNE SINC" target="GAMBIT/REMY LEBEAU ">
-      <data key="d3">11</data>
+      <data key="d2">11</data>
     </edge>
-    <edge source="WOLFSBANE/RAHNE SINC" target="MYSTIQUE/RAVEN DARKH">
-      <data key="d3">7</data>
+    <edge source="WOLFSBANE/RAHNE SINC" target="HAVOK/ALEX SUMMERS ">
+      <data key="d2">29</data>
     </edge>
-    <edge source="WOLFSBANE/RAHNE SINC" target="STRONG GUY/GUIDO CAR">
-      <data key="d3">17</data>
+    <edge source="WOLFSBANE/RAHNE SINC" target="ICEMAN/ROBERT BOBBY ">
+      <data key="d2">13</data>
     </edge>
-    <edge source="ANGEL/WARREN KENNETH" target="CAPTAIN BRITAIN/BRIA">
-      <data key="d3">4</data>
+    <edge source="WOLFSBANE/RAHNE SINC" target="MAGNETO/MAGNUS/ERIC ">
+      <data key="d2">30</data>
     </edge>
-    <edge source="ANGEL/WARREN KENNETH" target="GAMBIT/REMY LEBEAU ">
-      <data key="d3">32</data>
+    <edge source="WOLFSBANE/RAHNE SINC" target="MARVEL GIRL/JEAN GRE">
+      <data key="d2">15</data>
     </edge>
-    <edge source="ANGEL/WARREN KENNETH" target="MYSTIQUE/RAVEN DARKH">
-      <data key="d3">15</data>
+    <edge source="WOLFSBANE/RAHNE SINC" target="NIGHTCRAWLER/KURT WA">
+      <data key="d2">28</data>
     </edge>
-    <edge source="ANGEL/WARREN KENNETH" target="STRONG GUY/GUIDO CAR">
-      <data key="d3">16</data>
+    <edge source="WOLFSBANE/RAHNE SINC" target="POLARIS/LORNA DANE">
+      <data key="d2">22</data>
     </edge>
-    <edge source="MYSTIQUE/RAVEN DARKH" target="GAMBIT/REMY LEBEAU ">
-      <data key="d3">9</data>
+    <edge source="WOLFSBANE/RAHNE SINC" target="PROFESSOR X/CHARLES ">
+      <data key="d2">27</data>
     </edge>
-    <edge source="MYSTIQUE/RAVEN DARKH" target="STRONG GUY/GUIDO CAR">
-      <data key="d3">2</data>
+    <edge source="WOLFSBANE/RAHNE SINC" target="PSYLOCKE/ELISABETH B">
+      <data key="d2">12</data>
     </edge>
-    <edge source="CAPTAIN BRITAIN/BRIA" target="GAMBIT/REMY LEBEAU ">
-      <data key="d3">2</data>
+    <edge source="WOLFSBANE/RAHNE SINC" target="ROGUE /">
+      <data key="d2">20</data>
     </edge>
-    <edge source="GAMBIT/REMY LEBEAU " target="STRONG GUY/GUIDO CAR">
-      <data key="d3">12</data>
+    <edge source="WOLFSBANE/RAHNE SINC" target="SHADOWCAT/KATHERINE ">
+      <data key="d2">33</data>
+    </edge>
+    <edge source="WOLFSBANE/RAHNE SINC" target="STORM/ORORO MUNROE S">
+      <data key="d2">30</data>
+    </edge>
+    <edge source="WOLFSBANE/RAHNE SINC" target="SUMMERS, NATHAN CHRI">
+      <data key="d2">18</data>
+    </edge>
+    <edge source="WOLFSBANE/RAHNE SINC" target="WOLVERINE/LOGAN ">
+      <data key="d2">24</data>
+    </edge>
+    <edge source="PSYLOCKE/ELISABETH B" target="ANGEL/WARREN KENNETH">
+      <data key="d2">47</data>
+    </edge>
+    <edge source="PSYLOCKE/ELISABETH B" target="BEAST/HENRY &amp;HANK&amp; P">
+      <data key="d2">47</data>
+    </edge>
+    <edge source="PSYLOCKE/ELISABETH B" target="CANNONBALL II/SAM GU">
+      <data key="d2">19</data>
+    </edge>
+    <edge source="PSYLOCKE/ELISABETH B" target="COLOSSUS II/PETER RA">
+      <data key="d2">50</data>
+    </edge>
+    <edge source="PSYLOCKE/ELISABETH B" target="CYCLOPS/SCOTT SUMMER">
+      <data key="d2">43</data>
+    </edge>
+    <edge source="PSYLOCKE/ELISABETH B" target="GAMBIT/REMY LEBEAU ">
+      <data key="d2">44</data>
+    </edge>
+    <edge source="PSYLOCKE/ELISABETH B" target="HAVOK/ALEX SUMMERS ">
+      <data key="d2">52</data>
+    </edge>
+    <edge source="PSYLOCKE/ELISABETH B" target="ICEMAN/ROBERT BOBBY ">
+      <data key="d2">34</data>
+    </edge>
+    <edge source="PSYLOCKE/ELISABETH B" target="MAGNETO/MAGNUS/ERIC ">
+      <data key="d2">19</data>
+    </edge>
+    <edge source="PSYLOCKE/ELISABETH B" target="MARVEL GIRL/JEAN GRE">
+      <data key="d2">46</data>
+    </edge>
+    <edge source="PSYLOCKE/ELISABETH B" target="NIGHTCRAWLER/KURT WA">
+      <data key="d2">27</data>
+    </edge>
+    <edge source="PSYLOCKE/ELISABETH B" target="POLARIS/LORNA DANE">
+      <data key="d2">26</data>
+    </edge>
+    <edge source="PSYLOCKE/ELISABETH B" target="PROFESSOR X/CHARLES ">
+      <data key="d2">42</data>
+    </edge>
+    <edge source="PSYLOCKE/ELISABETH B" target="ROGUE /">
+      <data key="d2">71</data>
+    </edge>
+    <edge source="PSYLOCKE/ELISABETH B" target="SHADOWCAT/KATHERINE ">
+      <data key="d2">17</data>
+    </edge>
+    <edge source="PSYLOCKE/ELISABETH B" target="STORM/ORORO MUNROE S">
+      <data key="d2">53</data>
+    </edge>
+    <edge source="PSYLOCKE/ELISABETH B" target="SUMMERS, NATHAN CHRI">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="PSYLOCKE/ELISABETH B" target="WOLVERINE/LOGAN ">
+      <data key="d2">76</data>
+    </edge>
+    <edge source="MARVEL GIRL/JEAN GRE" target="ANGEL/WARREN KENNETH">
+      <data key="d2">153</data>
+    </edge>
+    <edge source="MARVEL GIRL/JEAN GRE" target="BEAST/HENRY &amp;HANK&amp; P">
+      <data key="d2">168</data>
+    </edge>
+    <edge source="MARVEL GIRL/JEAN GRE" target="CANNONBALL II/SAM GU">
+      <data key="d2">43</data>
+    </edge>
+    <edge source="MARVEL GIRL/JEAN GRE" target="COLOSSUS II/PETER RA">
+      <data key="d2">57</data>
+    </edge>
+    <edge source="MARVEL GIRL/JEAN GRE" target="CYCLOPS/SCOTT SUMMER">
+      <data key="d2">189</data>
+    </edge>
+    <edge source="MARVEL GIRL/JEAN GRE" target="GAMBIT/REMY LEBEAU ">
+      <data key="d2">48</data>
+    </edge>
+    <edge source="MARVEL GIRL/JEAN GRE" target="HAVOK/ALEX SUMMERS ">
+      <data key="d2">44</data>
+    </edge>
+    <edge source="MARVEL GIRL/JEAN GRE" target="ICEMAN/ROBERT BOBBY ">
+      <data key="d2">179</data>
+    </edge>
+    <edge source="MARVEL GIRL/JEAN GRE" target="MAGNETO/MAGNUS/ERIC ">
+      <data key="d2">24</data>
+    </edge>
+    <edge source="MARVEL GIRL/JEAN GRE" target="NIGHTCRAWLER/KURT WA">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="MARVEL GIRL/JEAN GRE" target="POLARIS/LORNA DANE">
+      <data key="d2">35</data>
+    </edge>
+    <edge source="MARVEL GIRL/JEAN GRE" target="PROFESSOR X/CHARLES ">
+      <data key="d2">111</data>
+    </edge>
+    <edge source="MARVEL GIRL/JEAN GRE" target="ROGUE /">
+      <data key="d2">44</data>
+    </edge>
+    <edge source="MARVEL GIRL/JEAN GRE" target="SHADOWCAT/KATHERINE ">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="MARVEL GIRL/JEAN GRE" target="STORM/ORORO MUNROE S">
+      <data key="d2">68</data>
+    </edge>
+    <edge source="MARVEL GIRL/JEAN GRE" target="SUMMERS, NATHAN CHRI">
+      <data key="d2">47</data>
+    </edge>
+    <edge source="MARVEL GIRL/JEAN GRE" target="WOLVERINE/LOGAN ">
+      <data key="d2">59</data>
+    </edge>
+    <edge source="SHADOWCAT/KATHERINE " target="ANGEL/WARREN KENNETH">
+      <data key="d2">23</data>
+    </edge>
+    <edge source="SHADOWCAT/KATHERINE " target="BEAST/HENRY &amp;HANK&amp; P">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="SHADOWCAT/KATHERINE " target="CANNONBALL II/SAM GU">
+      <data key="d2">24</data>
+    </edge>
+    <edge source="SHADOWCAT/KATHERINE " target="COLOSSUS II/PETER RA">
+      <data key="d2">94</data>
+    </edge>
+    <edge source="SHADOWCAT/KATHERINE " target="CYCLOPS/SCOTT SUMMER">
+      <data key="d2">42</data>
+    </edge>
+    <edge source="SHADOWCAT/KATHERINE " target="GAMBIT/REMY LEBEAU ">
+      <data key="d2">19</data>
+    </edge>
+    <edge source="SHADOWCAT/KATHERINE " target="HAVOK/ALEX SUMMERS ">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="SHADOWCAT/KATHERINE " target="ICEMAN/ROBERT BOBBY ">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="SHADOWCAT/KATHERINE " target="MAGNETO/MAGNUS/ERIC ">
+      <data key="d2">24</data>
+    </edge>
+    <edge source="SHADOWCAT/KATHERINE " target="NIGHTCRAWLER/KURT WA">
+      <data key="d2">152</data>
+    </edge>
+    <edge source="SHADOWCAT/KATHERINE " target="POLARIS/LORNA DANE">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="SHADOWCAT/KATHERINE " target="PROFESSOR X/CHARLES ">
+      <data key="d2">72</data>
+    </edge>
+    <edge source="SHADOWCAT/KATHERINE " target="ROGUE /">
+      <data key="d2">51</data>
+    </edge>
+    <edge source="SHADOWCAT/KATHERINE " target="STORM/ORORO MUNROE S">
+      <data key="d2">65</data>
+    </edge>
+    <edge source="SHADOWCAT/KATHERINE " target="SUMMERS, NATHAN CHRI">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="SHADOWCAT/KATHERINE " target="WOLVERINE/LOGAN ">
+      <data key="d2">91</data>
+    </edge>
+    <edge source="POLARIS/LORNA DANE" target="ANGEL/WARREN KENNETH">
+      <data key="d2">40</data>
+    </edge>
+    <edge source="POLARIS/LORNA DANE" target="BEAST/HENRY &amp;HANK&amp; P">
+      <data key="d2">34</data>
+    </edge>
+    <edge source="POLARIS/LORNA DANE" target="CANNONBALL II/SAM GU">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="POLARIS/LORNA DANE" target="COLOSSUS II/PETER RA">
+      <data key="d2">33</data>
+    </edge>
+    <edge source="POLARIS/LORNA DANE" target="CYCLOPS/SCOTT SUMMER">
+      <data key="d2">44</data>
+    </edge>
+    <edge source="POLARIS/LORNA DANE" target="GAMBIT/REMY LEBEAU ">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="POLARIS/LORNA DANE" target="HAVOK/ALEX SUMMERS ">
+      <data key="d2">67</data>
+    </edge>
+    <edge source="POLARIS/LORNA DANE" target="ICEMAN/ROBERT BOBBY ">
+      <data key="d2">36</data>
+    </edge>
+    <edge source="POLARIS/LORNA DANE" target="MAGNETO/MAGNUS/ERIC ">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="POLARIS/LORNA DANE" target="NIGHTCRAWLER/KURT WA">
+      <data key="d2">17</data>
+    </edge>
+    <edge source="POLARIS/LORNA DANE" target="PROFESSOR X/CHARLES ">
+      <data key="d2">37</data>
+    </edge>
+    <edge source="POLARIS/LORNA DANE" target="ROGUE /">
+      <data key="d2">27</data>
+    </edge>
+    <edge source="POLARIS/LORNA DANE" target="STORM/ORORO MUNROE S">
+      <data key="d2">32</data>
+    </edge>
+    <edge source="POLARIS/LORNA DANE" target="SUMMERS, NATHAN CHRI">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="POLARIS/LORNA DANE" target="WOLVERINE/LOGAN ">
+      <data key="d2">32</data>
+    </edge>
+    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="ANGEL/WARREN KENNETH">
+      <data key="d2">153</data>
+    </edge>
+    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="CANNONBALL II/SAM GU">
+      <data key="d2">31</data>
+    </edge>
+    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="COLOSSUS II/PETER RA">
+      <data key="d2">41</data>
+    </edge>
+    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="CYCLOPS/SCOTT SUMMER">
+      <data key="d2">159</data>
+    </edge>
+    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="GAMBIT/REMY LEBEAU ">
+      <data key="d2">50</data>
+    </edge>
+    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="HAVOK/ALEX SUMMERS ">
+      <data key="d2">36</data>
+    </edge>
+    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="ICEMAN/ROBERT BOBBY ">
+      <data key="d2">160</data>
+    </edge>
+    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="MAGNETO/MAGNUS/ERIC ">
+      <data key="d2">26</data>
+    </edge>
+    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="NIGHTCRAWLER/KURT WA">
+      <data key="d2">20</data>
+    </edge>
+    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="PROFESSOR X/CHARLES ">
+      <data key="d2">89</data>
+    </edge>
+    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="ROGUE /">
+      <data key="d2">56</data>
+    </edge>
+    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="STORM/ORORO MUNROE S">
+      <data key="d2">57</data>
+    </edge>
+    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="SUMMERS, NATHAN CHRI">
+      <data key="d2">42</data>
+    </edge>
+    <edge source="BEAST/HENRY &amp;HANK&amp; P" target="WOLVERINE/LOGAN ">
+      <data key="d2">79</data>
+    </edge>
+    <edge source="COLOSSUS II/PETER RA" target="ANGEL/WARREN KENNETH">
+      <data key="d2">54</data>
+    </edge>
+    <edge source="COLOSSUS II/PETER RA" target="CANNONBALL II/SAM GU">
+      <data key="d2">25</data>
+    </edge>
+    <edge source="COLOSSUS II/PETER RA" target="CYCLOPS/SCOTT SUMMER">
+      <data key="d2">99</data>
+    </edge>
+    <edge source="COLOSSUS II/PETER RA" target="GAMBIT/REMY LEBEAU ">
+      <data key="d2">35</data>
+    </edge>
+    <edge source="COLOSSUS II/PETER RA" target="HAVOK/ALEX SUMMERS ">
+      <data key="d2">39</data>
+    </edge>
+    <edge source="COLOSSUS II/PETER RA" target="ICEMAN/ROBERT BOBBY ">
+      <data key="d2">33</data>
+    </edge>
+    <edge source="COLOSSUS II/PETER RA" target="MAGNETO/MAGNUS/ERIC ">
+      <data key="d2">36</data>
+    </edge>
+    <edge source="COLOSSUS II/PETER RA" target="NIGHTCRAWLER/KURT WA">
+      <data key="d2">145</data>
+    </edge>
+    <edge source="COLOSSUS II/PETER RA" target="PROFESSOR X/CHARLES ">
+      <data key="d2">119</data>
+    </edge>
+    <edge source="COLOSSUS II/PETER RA" target="ROGUE /">
+      <data key="d2">94</data>
+    </edge>
+    <edge source="COLOSSUS II/PETER RA" target="STORM/ORORO MUNROE S">
+      <data key="d2">160</data>
+    </edge>
+    <edge source="COLOSSUS II/PETER RA" target="SUMMERS, NATHAN CHRI">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="COLOSSUS II/PETER RA" target="WOLVERINE/LOGAN ">
+      <data key="d2">159</data>
+    </edge>
+    <edge source="ICEMAN/ROBERT BOBBY " target="ANGEL/WARREN KENNETH">
+      <data key="d2">173</data>
+    </edge>
+    <edge source="ICEMAN/ROBERT BOBBY " target="CANNONBALL II/SAM GU">
+      <data key="d2">28</data>
+    </edge>
+    <edge source="ICEMAN/ROBERT BOBBY " target="CYCLOPS/SCOTT SUMMER">
+      <data key="d2">151</data>
+    </edge>
+    <edge source="ICEMAN/ROBERT BOBBY " target="GAMBIT/REMY LEBEAU ">
+      <data key="d2">35</data>
+    </edge>
+    <edge source="ICEMAN/ROBERT BOBBY " target="HAVOK/ALEX SUMMERS ">
+      <data key="d2">39</data>
+    </edge>
+    <edge source="ICEMAN/ROBERT BOBBY " target="MAGNETO/MAGNUS/ERIC ">
+      <data key="d2">16</data>
+    </edge>
+    <edge source="ICEMAN/ROBERT BOBBY " target="NIGHTCRAWLER/KURT WA">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="ICEMAN/ROBERT BOBBY " target="PROFESSOR X/CHARLES ">
+      <data key="d2">94</data>
+    </edge>
+    <edge source="ICEMAN/ROBERT BOBBY " target="ROGUE /">
+      <data key="d2">36</data>
+    </edge>
+    <edge source="ICEMAN/ROBERT BOBBY " target="STORM/ORORO MUNROE S">
+      <data key="d2">56</data>
+    </edge>
+    <edge source="ICEMAN/ROBERT BOBBY " target="SUMMERS, NATHAN CHRI">
+      <data key="d2">26</data>
+    </edge>
+    <edge source="ICEMAN/ROBERT BOBBY " target="WOLVERINE/LOGAN ">
+      <data key="d2">58</data>
+    </edge>
+    <edge source="WOLVERINE/LOGAN " target="ANGEL/WARREN KENNETH">
+      <data key="d2">72</data>
+    </edge>
+    <edge source="WOLVERINE/LOGAN " target="CANNONBALL II/SAM GU">
+      <data key="d2">58</data>
+    </edge>
+    <edge source="WOLVERINE/LOGAN " target="CYCLOPS/SCOTT SUMMER">
+      <data key="d2">134</data>
+    </edge>
+    <edge source="WOLVERINE/LOGAN " target="GAMBIT/REMY LEBEAU ">
+      <data key="d2">58</data>
+    </edge>
+    <edge source="WOLVERINE/LOGAN " target="HAVOK/ALEX SUMMERS ">
+      <data key="d2">60</data>
+    </edge>
+    <edge source="WOLVERINE/LOGAN " target="MAGNETO/MAGNUS/ERIC ">
+      <data key="d2">43</data>
+    </edge>
+    <edge source="WOLVERINE/LOGAN " target="NIGHTCRAWLER/KURT WA">
+      <data key="d2">139</data>
+    </edge>
+    <edge source="WOLVERINE/LOGAN " target="PROFESSOR X/CHARLES ">
+      <data key="d2">119</data>
+    </edge>
+    <edge source="WOLVERINE/LOGAN " target="ROGUE /">
+      <data key="d2">126</data>
+    </edge>
+    <edge source="WOLVERINE/LOGAN " target="STORM/ORORO MUNROE S">
+      <data key="d2">198</data>
+    </edge>
+    <edge source="WOLVERINE/LOGAN " target="SUMMERS, NATHAN CHRI">
+      <data key="d2">33</data>
+    </edge>
+    <edge source="CANNONBALL II/SAM GU" target="ANGEL/WARREN KENNETH">
+      <data key="d2">23</data>
+    </edge>
+    <edge source="CANNONBALL II/SAM GU" target="CYCLOPS/SCOTT SUMMER">
+      <data key="d2">36</data>
+    </edge>
+    <edge source="CANNONBALL II/SAM GU" target="GAMBIT/REMY LEBEAU ">
+      <data key="d2">24</data>
+    </edge>
+    <edge source="CANNONBALL II/SAM GU" target="HAVOK/ALEX SUMMERS ">
+      <data key="d2">16</data>
+    </edge>
+    <edge source="CANNONBALL II/SAM GU" target="MAGNETO/MAGNUS/ERIC ">
+      <data key="d2">27</data>
+    </edge>
+    <edge source="CANNONBALL II/SAM GU" target="NIGHTCRAWLER/KURT WA">
+      <data key="d2">20</data>
+    </edge>
+    <edge source="CANNONBALL II/SAM GU" target="PROFESSOR X/CHARLES ">
+      <data key="d2">50</data>
+    </edge>
+    <edge source="CANNONBALL II/SAM GU" target="ROGUE /">
+      <data key="d2">28</data>
+    </edge>
+    <edge source="CANNONBALL II/SAM GU" target="STORM/ORORO MUNROE S">
+      <data key="d2">50</data>
+    </edge>
+    <edge source="CANNONBALL II/SAM GU" target="SUMMERS, NATHAN CHRI">
+      <data key="d2">43</data>
+    </edge>
+    <edge source="GAMBIT/REMY LEBEAU " target="ANGEL/WARREN KENNETH">
+      <data key="d2">32</data>
+    </edge>
+    <edge source="GAMBIT/REMY LEBEAU " target="CYCLOPS/SCOTT SUMMER">
+      <data key="d2">41</data>
+    </edge>
+    <edge source="GAMBIT/REMY LEBEAU " target="HAVOK/ALEX SUMMERS ">
+      <data key="d2">12</data>
+    </edge>
+    <edge source="GAMBIT/REMY LEBEAU " target="MAGNETO/MAGNUS/ERIC ">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="GAMBIT/REMY LEBEAU " target="NIGHTCRAWLER/KURT WA">
+      <data key="d2">19</data>
+    </edge>
+    <edge source="GAMBIT/REMY LEBEAU " target="PROFESSOR X/CHARLES ">
+      <data key="d2">47</data>
+    </edge>
+    <edge source="GAMBIT/REMY LEBEAU " target="ROGUE /">
+      <data key="d2">63</data>
+    </edge>
+    <edge source="GAMBIT/REMY LEBEAU " target="STORM/ORORO MUNROE S">
+      <data key="d2">44</data>
+    </edge>
+    <edge source="GAMBIT/REMY LEBEAU " target="SUMMERS, NATHAN CHRI">
+      <data key="d2">24</data>
+    </edge>
+    <edge source="PROFESSOR X/CHARLES " target="ANGEL/WARREN KENNETH">
+      <data key="d2">85</data>
+    </edge>
+    <edge source="PROFESSOR X/CHARLES " target="CYCLOPS/SCOTT SUMMER">
+      <data key="d2">146</data>
+    </edge>
+    <edge source="PROFESSOR X/CHARLES " target="HAVOK/ALEX SUMMERS ">
+      <data key="d2">31</data>
+    </edge>
+    <edge source="PROFESSOR X/CHARLES " target="MAGNETO/MAGNUS/ERIC ">
+      <data key="d2">49</data>
+    </edge>
+    <edge source="PROFESSOR X/CHARLES " target="NIGHTCRAWLER/KURT WA">
+      <data key="d2">95</data>
+    </edge>
+    <edge source="PROFESSOR X/CHARLES " target="ROGUE /">
+      <data key="d2">58</data>
+    </edge>
+    <edge source="PROFESSOR X/CHARLES " target="STORM/ORORO MUNROE S">
+      <data key="d2">128</data>
+    </edge>
+    <edge source="PROFESSOR X/CHARLES " target="SUMMERS, NATHAN CHRI">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="ANGEL/WARREN KENNETH" target="CYCLOPS/SCOTT SUMMER">
+      <data key="d2">152</data>
+    </edge>
+    <edge source="ANGEL/WARREN KENNETH" target="HAVOK/ALEX SUMMERS ">
+      <data key="d2">35</data>
+    </edge>
+    <edge source="ANGEL/WARREN KENNETH" target="MAGNETO/MAGNUS/ERIC ">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="ANGEL/WARREN KENNETH" target="NIGHTCRAWLER/KURT WA">
+      <data key="d2">30</data>
+    </edge>
+    <edge source="ANGEL/WARREN KENNETH" target="ROGUE /">
+      <data key="d2">32</data>
+    </edge>
+    <edge source="ANGEL/WARREN KENNETH" target="STORM/ORORO MUNROE S">
+      <data key="d2">61</data>
+    </edge>
+    <edge source="ANGEL/WARREN KENNETH" target="SUMMERS, NATHAN CHRI">
+      <data key="d2">36</data>
+    </edge>
+    <edge source="CYCLOPS/SCOTT SUMMER" target="HAVOK/ALEX SUMMERS ">
+      <data key="d2">52</data>
+    </edge>
+    <edge source="CYCLOPS/SCOTT SUMMER" target="MAGNETO/MAGNUS/ERIC ">
+      <data key="d2">39</data>
+    </edge>
+    <edge source="CYCLOPS/SCOTT SUMMER" target="NIGHTCRAWLER/KURT WA">
+      <data key="d2">85</data>
+    </edge>
+    <edge source="CYCLOPS/SCOTT SUMMER" target="ROGUE /">
+      <data key="d2">55</data>
+    </edge>
+    <edge source="CYCLOPS/SCOTT SUMMER" target="STORM/ORORO MUNROE S">
+      <data key="d2">133</data>
+    </edge>
+    <edge source="CYCLOPS/SCOTT SUMMER" target="SUMMERS, NATHAN CHRI">
+      <data key="d2">40</data>
+    </edge>
+    <edge source="ROGUE /" target="HAVOK/ALEX SUMMERS ">
+      <data key="d2">36</data>
+    </edge>
+    <edge source="ROGUE /" target="MAGNETO/MAGNUS/ERIC ">
+      <data key="d2">42</data>
+    </edge>
+    <edge source="ROGUE /" target="NIGHTCRAWLER/KURT WA">
+      <data key="d2">73</data>
+    </edge>
+    <edge source="ROGUE /" target="STORM/ORORO MUNROE S">
+      <data key="d2">102</data>
+    </edge>
+    <edge source="ROGUE /" target="SUMMERS, NATHAN CHRI">
+      <data key="d2">15</data>
+    </edge>
+    <edge source="HAVOK/ALEX SUMMERS " target="MAGNETO/MAGNUS/ERIC ">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="HAVOK/ALEX SUMMERS " target="NIGHTCRAWLER/KURT WA">
+      <data key="d2">24</data>
+    </edge>
+    <edge source="HAVOK/ALEX SUMMERS " target="STORM/ORORO MUNROE S">
+      <data key="d2">54</data>
+    </edge>
+    <edge source="HAVOK/ALEX SUMMERS " target="SUMMERS, NATHAN CHRI">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="MAGNETO/MAGNUS/ERIC " target="NIGHTCRAWLER/KURT WA">
+      <data key="d2">33</data>
+    </edge>
+    <edge source="MAGNETO/MAGNUS/ERIC " target="STORM/ORORO MUNROE S">
+      <data key="d2">42</data>
+    </edge>
+    <edge source="STORM/ORORO MUNROE S" target="NIGHTCRAWLER/KURT WA">
+      <data key="d2">126</data>
+    </edge>
+    <edge source="STORM/ORORO MUNROE S" target="SUMMERS, NATHAN CHRI">
+      <data key="d2">37</data>
+    </edge>
+    <edge source="SUMMERS, NATHAN CHRI" target="NIGHTCRAWLER/KURT WA">
+      <data key="d2">10</data>
     </edge>
   </graph>
 </graphml>

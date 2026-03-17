@@ -1,1637 +1,475 @@
 <?xml version='1.0' encoding='utf-8'?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
-  <key id="d3" for="edge" attr.name="weight" attr.type="long" />
-  <key id="d2" for="node" attr.name="btw" attr.type="double" />
-  <key id="d1" for="node" attr.name="degree" attr.type="long" />
-  <key id="d0" for="node" attr.name="community" attr.type="long" />
+  <key id="d2" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d1" for="node" attr.name="community" attr.type="long" />
+  <key id="d0" for="node" attr.name="degree" attr.type="long" />
   <graph edgedefault="undirected">
-    <node id="PIP/PRINCE GOFERN">
-      <data key="d0">2</data>
-      <data key="d1">124</data>
-      <data key="d2">0.000498340248191105</data>
-    </node>
     <node id="DR. DOOM/VICTOR VON ">
-      <data key="d0">2</data>
-      <data key="d1">288</data>
-      <data key="d2">0.004823657104486358</data>
-    </node>
-    <node id="PUPPET MASTER/PHILLI">
-      <data key="d0">2</data>
-      <data key="d1">82</data>
-      <data key="d2">0.0007862453868402393</data>
-    </node>
-    <node id="LYJA LAZERFIST [SKRU">
-      <data key="d0">2</data>
-      <data key="d1">118</data>
-      <data key="d2">0.0015248402420559842</data>
-    </node>
-    <node id="RICHARDS, FRANKLIN B">
-      <data key="d0">2</data>
-      <data key="d1">300</data>
-      <data key="d2">0.006211439375584981</data>
-    </node>
-    <node id="KARNAK [INHUMAN]">
-      <data key="d0">2</data>
-      <data key="d1">181</data>
-      <data key="d2">0.0027918916485888917</data>
-    </node>
-    <node id="WIZARD/BENTLEY WITTM">
-      <data key="d0">2</data>
-      <data key="d1">78</data>
-      <data key="d2">0.00017821981999182568</data>
-    </node>
-    <node id="MOLECULE MAN/OWEN RE">
-      <data key="d0">2</data>
-      <data key="d1">71</data>
-      <data key="d2">6.287072957693904e-05</data>
-    </node>
-    <node id="MOLE MAN/HARVEY RUPE">
-      <data key="d0">2</data>
-      <data key="d1">109</data>
-      <data key="d2">0.004175713034445827</data>
-    </node>
-    <node id="DRAX/ARTHUR DOUGLAS">
-      <data key="d0">2</data>
-      <data key="d1">166</data>
-      <data key="d2">0.0005341351385635312</data>
-    </node>
-    <node id="NEBULA">
-      <data key="d0">2</data>
-      <data key="d1">66</data>
-      <data key="d2">0.000207937851276492</data>
-    </node>
-    <node id="DEATH">
-      <data key="d0">2</data>
-      <data key="d1">97</data>
-      <data key="d2">0.0006200920244133602</data>
-    </node>
-    <node id="MR. FANTASTIC/REED R">
-      <data key="d0">2</data>
-      <data key="d1">637</data>
-      <data key="d2">0.03027669109251766</data>
+      <data key="d0">288</data>
+      <data key="d1">2</data>
     </node>
     <node id="SILVER SURFER/NORRIN">
-      <data key="d0">2</data>
-      <data key="d1">323</data>
-      <data key="d2">0.018534513717934957</data>
+      <data key="d0">323</data>
+      <data key="d1">2</data>
     </node>
-    <node id="HARKNESS, AGATHA">
-      <data key="d0">2</data>
-      <data key="d1">150</data>
-      <data key="d2">0.0019194496919208714</data>
+    <node id="RICHARDS, FRANKLIN B">
+      <data key="d0">300</data>
+      <data key="d1">2</data>
     </node>
-    <node id="MS. MARVEL II/SHARON">
-      <data key="d0">2</data>
-      <data key="d1">104</data>
-      <data key="d2">0.0010935401559141879</data>
-    </node>
-    <node id="THANOS">
-      <data key="d0">2</data>
-      <data key="d1">175</data>
-      <data key="d2">0.000819804725732156</data>
-    </node>
-    <node id="MEDUSA/MEDUSALITH AM">
-      <data key="d0">2</data>
-      <data key="d1">185</data>
-      <data key="d2">0.003449611529637993</data>
-    </node>
-    <node id="WARLOCK II/ADAM WARL">
-      <data key="d0">2</data>
-      <data key="d1">154</data>
-      <data key="d2">0.0008025234230155157</data>
-    </node>
-    <node id="NOVA II/FRANKIE RAYE">
-      <data key="d0">2</data>
-      <data key="d1">157</data>
-      <data key="d2">0.0016580986318625137</data>
-    </node>
-    <node id="BLACK BOLT/BLACKANTO">
-      <data key="d0">2</data>
-      <data key="d1">190</data>
-      <data key="d2">0.003847679168044942</data>
-    </node>
-    <node id="MAXIMUS [INHUMAN]">
-      <data key="d0">2</data>
-      <data key="d1">75</data>
-      <data key="d2">0.0006651089397119776</data>
-    </node>
-    <node id="LE FEY, MORGAN">
-      <data key="d0">2</data>
-      <data key="d1">93</data>
-      <data key="d2">0.0018617787546329353</data>
-    </node>
-    <node id="ANT-MAN II/SCOTT HAR">
-      <data key="d0">2</data>
-      <data key="d1">175</data>
-      <data key="d2">0.0016427462897391843</data>
-    </node>
-    <node id="GALACTUS/GALAN">
-      <data key="d0">2</data>
-      <data key="d1">215</data>
-      <data key="d2">0.001358819294635736</data>
-    </node>
-    <node id="GAMORA">
-      <data key="d0">2</data>
-      <data key="d1">118</data>
-      <data key="d2">0.0002706447650374576</data>
-    </node>
-    <node id="ETERNITY/ADAM QADMON">
-      <data key="d0">2</data>
-      <data key="d1">127</data>
-      <data key="d2">0.0003810043476202458</data>
-    </node>
-    <node id="TRITON">
-      <data key="d0">2</data>
-      <data key="d1">171</data>
-      <data key="d2">0.003125932078530081</data>
-    </node>
-    <node id="HUMAN TORCH/JOHNNY S">
-      <data key="d0">2</data>
-      <data key="d1">618</data>
-      <data key="d2">0.01956660596151561</data>
-    </node>
-    <node id="LIVING TRIBUNAL">
-      <data key="d0">2</data>
-      <data key="d1">66</data>
-      <data key="d2">0.0005418483125205412</data>
-    </node>
-    <node id="GORGON [INHUMAN]">
-      <data key="d0">2</data>
-      <data key="d1">185</data>
-      <data key="d2">0.001976943281154656</data>
-    </node>
-    <node id="THING/BENJAMIN J. GR">
-      <data key="d0">2</data>
-      <data key="d1">668</data>
-      <data key="d2">0.024429766670313744</data>
-    </node>
-    <node id="UATU">
-      <data key="d0">2</data>
-      <data key="d1">201</data>
-      <data key="d2">0.002579175482285576</data>
-    </node>
-    <node id="INVISIBLE WOMAN/SUE ">
-      <data key="d0">2</data>
-      <data key="d1">569</data>
-      <data key="d2">0.014662662555874933</data>
-    </node>
-    <node id="BEYONDER">
-      <data key="d0">2</data>
-      <data key="d1">91</data>
-      <data key="d2">0.0003934902849731611</data>
-    </node>
-    <node id="STRANGER">
-      <data key="d0">2</data>
-      <data key="d1">84</data>
-      <data key="d2">0.0010286247731261015</data>
-    </node>
-    <node id="THINKER">
-      <data key="d0">2</data>
-      <data key="d1">70</data>
-      <data key="d2">0.0007453002441938708</data>
-    </node>
-    <node id="FIRELORD/PYREUS KRIL">
-      <data key="d0">2</data>
-      <data key="d1">95</data>
-      <data key="d2">0.0011240379333901486</data>
+    <node id="DRAX/ARTHUR DOUGLAS">
+      <data key="d0">166</data>
+      <data key="d1">2</data>
     </node>
     <node id="LOCKJAW [INHUMAN]">
-      <data key="d0">2</data>
-      <data key="d1">160</data>
-      <data key="d2">0.0028031680766073307</data>
+      <data key="d0">160</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="MR. FANTASTIC/REED R">
+      <data key="d0">637</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="THANOS">
+      <data key="d0">175</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="HUMAN TORCH/JOHNNY S">
+      <data key="d0">618</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="BLACK BOLT/BLACKANTO">
+      <data key="d0">190</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="INVISIBLE WOMAN/SUE ">
+      <data key="d0">569</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="MEDUSA/MEDUSALITH AM">
+      <data key="d0">185</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="UATU">
+      <data key="d0">201</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="ANT-MAN II/SCOTT HAR">
+      <data key="d0">175</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="GORGON [INHUMAN]">
+      <data key="d0">185</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="GALACTUS/GALAN">
+      <data key="d0">215</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="KARNAK [INHUMAN]">
+      <data key="d0">181</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="NOVA II/FRANKIE RAYE">
+      <data key="d0">157</data>
+      <data key="d1">2</data>
+    </node>
+    <node id="TRITON">
+      <data key="d0">171</data>
+      <data key="d1">2</data>
     </node>
     <node id="MASTERS, ALICIA REIS">
-      <data key="d0">2</data>
-      <data key="d1">162</data>
-      <data key="d2">0.00174651666066812</data>
+      <data key="d0">162</data>
+      <data key="d1">2</data>
     </node>
-    <edge source="PIP/PRINCE GOFERN" target="DR. DOOM/VICTOR VON ">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="PIP/PRINCE GOFERN" target="DRAX/ARTHUR DOUGLAS">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="PIP/PRINCE GOFERN" target="ETERNITY/ADAM QADMON">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="PIP/PRINCE GOFERN" target="FIRELORD/PYREUS KRIL">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="PIP/PRINCE GOFERN" target="GALACTUS/GALAN">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="PIP/PRINCE GOFERN" target="GAMORA">
-      <data key="d3">21</data>
-    </edge>
-    <edge source="PIP/PRINCE GOFERN" target="HARKNESS, AGATHA">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="PIP/PRINCE GOFERN" target="HUMAN TORCH/JOHNNY S">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="PIP/PRINCE GOFERN" target="INVISIBLE WOMAN/SUE ">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="PIP/PRINCE GOFERN" target="MOLE MAN/HARVEY RUPE">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="PIP/PRINCE GOFERN" target="NOVA II/FRANKIE RAYE">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="PIP/PRINCE GOFERN" target="DEATH">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="PIP/PRINCE GOFERN" target="LIVING TRIBUNAL">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="PIP/PRINCE GOFERN" target="MR. FANTASTIC/REED R">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="PIP/PRINCE GOFERN" target="NEBULA">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="PIP/PRINCE GOFERN" target="SILVER SURFER/NORRIN">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="PIP/PRINCE GOFERN" target="THANOS">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="PIP/PRINCE GOFERN" target="THING/BENJAMIN J. GR">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="PIP/PRINCE GOFERN" target="UATU">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="PIP/PRINCE GOFERN" target="WARLOCK II/ADAM WARL">
-      <data key="d3">21</data>
-    </edge>
-    <edge source="PIP/PRINCE GOFERN" target="STRANGER">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="DR. DOOM/VICTOR VON " target="ANT-MAN II/SCOTT HAR">
-      <data key="d3">4</data>
-    </edge>
+    <node id="THING/BENJAMIN J. GR">
+      <data key="d0">668</data>
+      <data key="d1">2</data>
+    </node>
     <edge source="DR. DOOM/VICTOR VON " target="BLACK BOLT/BLACKANTO">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="DR. DOOM/VICTOR VON " target="DEATH">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="DR. DOOM/VICTOR VON " target="BEYONDER">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="DR. DOOM/VICTOR VON " target="DRAX/ARTHUR DOUGLAS">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="DR. DOOM/VICTOR VON " target="ETERNITY/ADAM QADMON">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="DR. DOOM/VICTOR VON " target="FIRELORD/PYREUS KRIL">
-      <data key="d3">2</data>
+      <data key="d2">6</data>
     </edge>
     <edge source="DR. DOOM/VICTOR VON " target="GALACTUS/GALAN">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="DR. DOOM/VICTOR VON " target="GAMORA">
-      <data key="d3">2</data>
+      <data key="d2">11</data>
     </edge>
     <edge source="DR. DOOM/VICTOR VON " target="GORGON [INHUMAN]">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="DR. DOOM/VICTOR VON " target="HARKNESS, AGATHA">
-      <data key="d3">2</data>
+      <data key="d2">5</data>
     </edge>
     <edge source="DR. DOOM/VICTOR VON " target="HUMAN TORCH/JOHNNY S">
-      <data key="d3">51</data>
+      <data key="d2">51</data>
     </edge>
     <edge source="DR. DOOM/VICTOR VON " target="INVISIBLE WOMAN/SUE ">
-      <data key="d3">47</data>
+      <data key="d2">47</data>
     </edge>
     <edge source="DR. DOOM/VICTOR VON " target="KARNAK [INHUMAN]">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="DR. DOOM/VICTOR VON " target="LOCKJAW [INHUMAN]">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="DR. DOOM/VICTOR VON " target="LYJA LAZERFIST [SKRU">
-      <data key="d3">11</data>
+      <data key="d2">8</data>
     </edge>
     <edge source="DR. DOOM/VICTOR VON " target="MASTERS, ALICIA REIS">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="DR. DOOM/VICTOR VON " target="MAXIMUS [INHUMAN]">
-      <data key="d3">2</data>
+      <data key="d2">11</data>
     </edge>
     <edge source="DR. DOOM/VICTOR VON " target="MEDUSA/MEDUSALITH AM">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="DR. DOOM/VICTOR VON " target="MOLE MAN/HARVEY RUPE">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="DR. DOOM/VICTOR VON " target="MOLECULE MAN/OWEN RE">
-      <data key="d3">6</data>
+      <data key="d2">9</data>
     </edge>
     <edge source="DR. DOOM/VICTOR VON " target="MR. FANTASTIC/REED R">
-      <data key="d3">61</data>
-    </edge>
-    <edge source="DR. DOOM/VICTOR VON " target="MS. MARVEL II/SHARON">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="DR. DOOM/VICTOR VON " target="NEBULA">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="DR. DOOM/VICTOR VON " target="NOVA II/FRANKIE RAYE">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="DR. DOOM/VICTOR VON " target="PUPPET MASTER/PHILLI">
-      <data key="d3">6</data>
+      <data key="d2">61</data>
     </edge>
     <edge source="DR. DOOM/VICTOR VON " target="RICHARDS, FRANKLIN B">
-      <data key="d3">15</data>
+      <data key="d2">15</data>
     </edge>
     <edge source="DR. DOOM/VICTOR VON " target="SILVER SURFER/NORRIN">
-      <data key="d3">10</data>
+      <data key="d2">10</data>
     </edge>
     <edge source="DR. DOOM/VICTOR VON " target="THANOS">
-      <data key="d3">5</data>
+      <data key="d2">5</data>
     </edge>
     <edge source="DR. DOOM/VICTOR VON " target="THING/BENJAMIN J. GR">
-      <data key="d3">63</data>
+      <data key="d2">63</data>
     </edge>
     <edge source="DR. DOOM/VICTOR VON " target="TRITON">
-      <data key="d3">7</data>
+      <data key="d2">7</data>
     </edge>
     <edge source="DR. DOOM/VICTOR VON " target="UATU">
-      <data key="d3">6</data>
+      <data key="d2">6</data>
     </edge>
-    <edge source="DR. DOOM/VICTOR VON " target="WARLOCK II/ADAM WARL">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="DR. DOOM/VICTOR VON " target="WIZARD/BENTLEY WITTM">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="DR. DOOM/VICTOR VON " target="LIVING TRIBUNAL">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="DR. DOOM/VICTOR VON " target="STRANGER">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="PUPPET MASTER/PHILLI" target="GALACTUS/GALAN">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="PUPPET MASTER/PHILLI" target="HARKNESS, AGATHA">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="PUPPET MASTER/PHILLI" target="HUMAN TORCH/JOHNNY S">
-      <data key="d3">18</data>
-    </edge>
-    <edge source="PUPPET MASTER/PHILLI" target="INVISIBLE WOMAN/SUE ">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="PUPPET MASTER/PHILLI" target="LYJA LAZERFIST [SKRU">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="PUPPET MASTER/PHILLI" target="MASTERS, ALICIA REIS">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="PUPPET MASTER/PHILLI" target="MR. FANTASTIC/REED R">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="PUPPET MASTER/PHILLI" target="MS. MARVEL II/SHARON">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="PUPPET MASTER/PHILLI" target="RICHARDS, FRANKLIN B">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="PUPPET MASTER/PHILLI" target="SILVER SURFER/NORRIN">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="PUPPET MASTER/PHILLI" target="THING/BENJAMIN J. GR">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="PUPPET MASTER/PHILLI" target="THINKER">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="PUPPET MASTER/PHILLI" target="UATU">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="LYJA LAZERFIST [SKRU" target="ANT-MAN II/SCOTT HAR">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="LYJA LAZERFIST [SKRU" target="BLACK BOLT/BLACKANTO">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="LYJA LAZERFIST [SKRU" target="GORGON [INHUMAN]">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="LYJA LAZERFIST [SKRU" target="HUMAN TORCH/JOHNNY S">
-      <data key="d3">52</data>
-    </edge>
-    <edge source="LYJA LAZERFIST [SKRU" target="INVISIBLE WOMAN/SUE ">
-      <data key="d3">41</data>
-    </edge>
-    <edge source="LYJA LAZERFIST [SKRU" target="KARNAK [INHUMAN]">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="LYJA LAZERFIST [SKRU" target="LOCKJAW [INHUMAN]">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="LYJA LAZERFIST [SKRU" target="BEYONDER">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="LYJA LAZERFIST [SKRU" target="GALACTUS/GALAN">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="LYJA LAZERFIST [SKRU" target="GAMORA">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="LYJA LAZERFIST [SKRU" target="HARKNESS, AGATHA">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="LYJA LAZERFIST [SKRU" target="LE FEY, MORGAN">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="LYJA LAZERFIST [SKRU" target="MASTERS, ALICIA REIS">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="LYJA LAZERFIST [SKRU" target="MEDUSA/MEDUSALITH AM">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="LYJA LAZERFIST [SKRU" target="MOLE MAN/HARVEY RUPE">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="LYJA LAZERFIST [SKRU" target="MOLECULE MAN/OWEN RE">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="LYJA LAZERFIST [SKRU" target="MR. FANTASTIC/REED R">
-      <data key="d3">31</data>
-    </edge>
-    <edge source="LYJA LAZERFIST [SKRU" target="MS. MARVEL II/SHARON">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="LYJA LAZERFIST [SKRU" target="RICHARDS, FRANKLIN B">
-      <data key="d3">21</data>
-    </edge>
-    <edge source="LYJA LAZERFIST [SKRU" target="SILVER SURFER/NORRIN">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="LYJA LAZERFIST [SKRU" target="THANOS">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="LYJA LAZERFIST [SKRU" target="THING/BENJAMIN J. GR">
-      <data key="d3">42</data>
-    </edge>
-    <edge source="LYJA LAZERFIST [SKRU" target="THINKER">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="LYJA LAZERFIST [SKRU" target="UATU">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="LYJA LAZERFIST [SKRU" target="WARLOCK II/ADAM WARL">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="LYJA LAZERFIST [SKRU" target="WIZARD/BENTLEY WITTM">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="LYJA LAZERFIST [SKRU" target="TRITON">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="RICHARDS, FRANKLIN B" target="ANT-MAN II/SCOTT HAR">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="RICHARDS, FRANKLIN B" target="BEYONDER">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="RICHARDS, FRANKLIN B" target="BLACK BOLT/BLACKANTO">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="RICHARDS, FRANKLIN B" target="DEATH">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="RICHARDS, FRANKLIN B" target="ETERNITY/ADAM QADMON">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="RICHARDS, FRANKLIN B" target="GALACTUS/GALAN">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="RICHARDS, FRANKLIN B" target="GORGON [INHUMAN]">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="RICHARDS, FRANKLIN B" target="HARKNESS, AGATHA">
-      <data key="d3">22</data>
-    </edge>
-    <edge source="RICHARDS, FRANKLIN B" target="HUMAN TORCH/JOHNNY S">
-      <data key="d3">112</data>
-    </edge>
-    <edge source="RICHARDS, FRANKLIN B" target="INVISIBLE WOMAN/SUE ">
-      <data key="d3">119</data>
-    </edge>
-    <edge source="RICHARDS, FRANKLIN B" target="KARNAK [INHUMAN]">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="RICHARDS, FRANKLIN B" target="LOCKJAW [INHUMAN]">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="RICHARDS, FRANKLIN B" target="MASTERS, ALICIA REIS">
-      <data key="d3">35</data>
-    </edge>
-    <edge source="RICHARDS, FRANKLIN B" target="MAXIMUS [INHUMAN]">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="RICHARDS, FRANKLIN B" target="MEDUSA/MEDUSALITH AM">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="RICHARDS, FRANKLIN B" target="MOLE MAN/HARVEY RUPE">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="RICHARDS, FRANKLIN B" target="MR. FANTASTIC/REED R">
-      <data key="d3">123</data>
-    </edge>
-    <edge source="RICHARDS, FRANKLIN B" target="MS. MARVEL II/SHARON">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="RICHARDS, FRANKLIN B" target="NOVA II/FRANKIE RAYE">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="RICHARDS, FRANKLIN B" target="DRAX/ARTHUR DOUGLAS">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="RICHARDS, FRANKLIN B" target="MOLECULE MAN/OWEN RE">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="RICHARDS, FRANKLIN B" target="SILVER SURFER/NORRIN">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="RICHARDS, FRANKLIN B" target="THANOS">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="RICHARDS, FRANKLIN B" target="THING/BENJAMIN J. GR">
-      <data key="d3">91</data>
-    </edge>
-    <edge source="RICHARDS, FRANKLIN B" target="THINKER">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="RICHARDS, FRANKLIN B" target="TRITON">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="RICHARDS, FRANKLIN B" target="UATU">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="RICHARDS, FRANKLIN B" target="WIZARD/BENTLEY WITTM">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="KARNAK [INHUMAN]" target="ANT-MAN II/SCOTT HAR">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="KARNAK [INHUMAN]" target="BLACK BOLT/BLACKANTO">
-      <data key="d3">61</data>
-    </edge>
-    <edge source="KARNAK [INHUMAN]" target="GORGON [INHUMAN]">
-      <data key="d3">50</data>
-    </edge>
-    <edge source="KARNAK [INHUMAN]" target="HARKNESS, AGATHA">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="KARNAK [INHUMAN]" target="HUMAN TORCH/JOHNNY S">
-      <data key="d3">19</data>
-    </edge>
-    <edge source="KARNAK [INHUMAN]" target="INVISIBLE WOMAN/SUE ">
-      <data key="d3">22</data>
-    </edge>
-    <edge source="KARNAK [INHUMAN]" target="LE FEY, MORGAN">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="KARNAK [INHUMAN]" target="LOCKJAW [INHUMAN]">
-      <data key="d3">32</data>
-    </edge>
-    <edge source="KARNAK [INHUMAN]" target="MASTERS, ALICIA REIS">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="KARNAK [INHUMAN]" target="MAXIMUS [INHUMAN]">
-      <data key="d3">25</data>
-    </edge>
-    <edge source="KARNAK [INHUMAN]" target="MEDUSA/MEDUSALITH AM">
-      <data key="d3">57</data>
-    </edge>
-    <edge source="KARNAK [INHUMAN]" target="MR. FANTASTIC/REED R">
-      <data key="d3">26</data>
-    </edge>
-    <edge source="KARNAK [INHUMAN]" target="SILVER SURFER/NORRIN">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="KARNAK [INHUMAN]" target="THING/BENJAMIN J. GR">
-      <data key="d3">31</data>
-    </edge>
-    <edge source="KARNAK [INHUMAN]" target="TRITON">
-      <data key="d3">55</data>
-    </edge>
-    <edge source="KARNAK [INHUMAN]" target="UATU">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="KARNAK [INHUMAN]" target="MS. MARVEL II/SHARON">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="KARNAK [INHUMAN]" target="THANOS">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="WIZARD/BENTLEY WITTM" target="BLACK BOLT/BLACKANTO">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="WIZARD/BENTLEY WITTM" target="DEATH">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="WIZARD/BENTLEY WITTM" target="HARKNESS, AGATHA">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="WIZARD/BENTLEY WITTM" target="HUMAN TORCH/JOHNNY S">
-      <data key="d3">19</data>
-    </edge>
-    <edge source="WIZARD/BENTLEY WITTM" target="INVISIBLE WOMAN/SUE ">
-      <data key="d3">20</data>
-    </edge>
-    <edge source="WIZARD/BENTLEY WITTM" target="MASTERS, ALICIA REIS">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="WIZARD/BENTLEY WITTM" target="MEDUSA/MEDUSALITH AM">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="WIZARD/BENTLEY WITTM" target="MR. FANTASTIC/REED R">
-      <data key="d3">19</data>
-    </edge>
-    <edge source="WIZARD/BENTLEY WITTM" target="MS. MARVEL II/SHARON">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="WIZARD/BENTLEY WITTM" target="THING/BENJAMIN J. GR">
-      <data key="d3">17</data>
-    </edge>
-    <edge source="WIZARD/BENTLEY WITTM" target="TRITON">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MOLECULE MAN/OWEN RE" target="BEYONDER">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="MOLECULE MAN/OWEN RE" target="ETERNITY/ADAM QADMON">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="MOLECULE MAN/OWEN RE" target="GALACTUS/GALAN">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="MOLECULE MAN/OWEN RE" target="HUMAN TORCH/JOHNNY S">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="MOLECULE MAN/OWEN RE" target="INVISIBLE WOMAN/SUE ">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="MOLECULE MAN/OWEN RE" target="MASTERS, ALICIA REIS">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="MOLECULE MAN/OWEN RE" target="HARKNESS, AGATHA">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MOLECULE MAN/OWEN RE" target="MR. FANTASTIC/REED R">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="MOLECULE MAN/OWEN RE" target="MS. MARVEL II/SHARON">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MOLECULE MAN/OWEN RE" target="SILVER SURFER/NORRIN">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="MOLECULE MAN/OWEN RE" target="THING/BENJAMIN J. GR">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="MOLECULE MAN/OWEN RE" target="UATU">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MOLE MAN/HARVEY RUPE" target="DRAX/ARTHUR DOUGLAS">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MOLE MAN/HARVEY RUPE" target="GALACTUS/GALAN">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MOLE MAN/HARVEY RUPE" target="HUMAN TORCH/JOHNNY S">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="MOLE MAN/HARVEY RUPE" target="INVISIBLE WOMAN/SUE ">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="MOLE MAN/HARVEY RUPE" target="MASTERS, ALICIA REIS">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="MOLE MAN/HARVEY RUPE" target="GAMORA">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="MOLE MAN/HARVEY RUPE" target="HARKNESS, AGATHA">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MOLE MAN/HARVEY RUPE" target="MR. FANTASTIC/REED R">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="MOLE MAN/HARVEY RUPE" target="SILVER SURFER/NORRIN">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="MOLE MAN/HARVEY RUPE" target="THANOS">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MOLE MAN/HARVEY RUPE" target="THING/BENJAMIN J. GR">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="MOLE MAN/HARVEY RUPE" target="MS. MARVEL II/SHARON">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="MOLE MAN/HARVEY RUPE" target="NOVA II/FRANKIE RAYE">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MOLE MAN/HARVEY RUPE" target="WARLOCK II/ADAM WARL">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="DRAX/ARTHUR DOUGLAS" target="BLACK BOLT/BLACKANTO">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="DRAX/ARTHUR DOUGLAS" target="DEATH">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="DRAX/ARTHUR DOUGLAS" target="ANT-MAN II/SCOTT HAR">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="DRAX/ARTHUR DOUGLAS" target="ETERNITY/ADAM QADMON">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="DRAX/ARTHUR DOUGLAS" target="FIRELORD/PYREUS KRIL">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="DRAX/ARTHUR DOUGLAS" target="GALACTUS/GALAN">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="DRAX/ARTHUR DOUGLAS" target="GAMORA">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="DRAX/ARTHUR DOUGLAS" target="HARKNESS, AGATHA">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="DRAX/ARTHUR DOUGLAS" target="HUMAN TORCH/JOHNNY S">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="DRAX/ARTHUR DOUGLAS" target="INVISIBLE WOMAN/SUE ">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="DRAX/ARTHUR DOUGLAS" target="LIVING TRIBUNAL">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="DRAX/ARTHUR DOUGLAS" target="MR. FANTASTIC/REED R">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="DRAX/ARTHUR DOUGLAS" target="NEBULA">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="DRAX/ARTHUR DOUGLAS" target="NOVA II/FRANKIE RAYE">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="DRAX/ARTHUR DOUGLAS" target="SILVER SURFER/NORRIN">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="DRAX/ARTHUR DOUGLAS" target="THANOS">
-      <data key="d3">21</data>
-    </edge>
-    <edge source="DRAX/ARTHUR DOUGLAS" target="THING/BENJAMIN J. GR">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="DRAX/ARTHUR DOUGLAS" target="UATU">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="DRAX/ARTHUR DOUGLAS" target="WARLOCK II/ADAM WARL">
-      <data key="d3">16</data>
-    </edge>
-    <edge source="DRAX/ARTHUR DOUGLAS" target="GORGON [INHUMAN]">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="DRAX/ARTHUR DOUGLAS" target="MEDUSA/MEDUSALITH AM">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="DRAX/ARTHUR DOUGLAS" target="STRANGER">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="DRAX/ARTHUR DOUGLAS" target="TRITON">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="NEBULA" target="DEATH">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="NEBULA" target="ETERNITY/ADAM QADMON">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="NEBULA" target="FIRELORD/PYREUS KRIL">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="NEBULA" target="GALACTUS/GALAN">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="NEBULA" target="GAMORA">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="NEBULA" target="NOVA II/FRANKIE RAYE">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="NEBULA" target="SILVER SURFER/NORRIN">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="NEBULA" target="STRANGER">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="NEBULA" target="THANOS">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="NEBULA" target="WARLOCK II/ADAM WARL">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="NEBULA" target="UATU">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="DEATH" target="BLACK BOLT/BLACKANTO">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="DEATH" target="BEYONDER">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="DEATH" target="ETERNITY/ADAM QADMON">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="DEATH" target="FIRELORD/PYREUS KRIL">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="DEATH" target="GALACTUS/GALAN">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="DEATH" target="GAMORA">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="DEATH" target="HUMAN TORCH/JOHNNY S">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="DEATH" target="INVISIBLE WOMAN/SUE ">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="DEATH" target="MR. FANTASTIC/REED R">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="DEATH" target="NOVA II/FRANKIE RAYE">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="DEATH" target="SILVER SURFER/NORRIN">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="DEATH" target="THANOS">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="DEATH" target="THING/BENJAMIN J. GR">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="DEATH" target="UATU">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="DEATH" target="WARLOCK II/ADAM WARL">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="DEATH" target="GORGON [INHUMAN]">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="DEATH" target="MEDUSA/MEDUSALITH AM">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="DEATH" target="STRANGER">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="MR. FANTASTIC/REED R" target="ANT-MAN II/SCOTT HAR">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="MR. FANTASTIC/REED R" target="BEYONDER">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="MR. FANTASTIC/REED R" target="BLACK BOLT/BLACKANTO">
-      <data key="d3">25</data>
-    </edge>
-    <edge source="MR. FANTASTIC/REED R" target="ETERNITY/ADAM QADMON">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="MR. FANTASTIC/REED R" target="FIRELORD/PYREUS KRIL">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="MR. FANTASTIC/REED R" target="GALACTUS/GALAN">
-      <data key="d3">28</data>
-    </edge>
-    <edge source="MR. FANTASTIC/REED R" target="GAMORA">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MR. FANTASTIC/REED R" target="GORGON [INHUMAN]">
-      <data key="d3">26</data>
-    </edge>
-    <edge source="MR. FANTASTIC/REED R" target="HARKNESS, AGATHA">
-      <data key="d3">28</data>
-    </edge>
-    <edge source="MR. FANTASTIC/REED R" target="HUMAN TORCH/JOHNNY S">
-      <data key="d3">347</data>
-    </edge>
-    <edge source="MR. FANTASTIC/REED R" target="INVISIBLE WOMAN/SUE ">
-      <data key="d3">362</data>
-    </edge>
-    <edge source="MR. FANTASTIC/REED R" target="LOCKJAW [INHUMAN]">
-      <data key="d3">17</data>
-    </edge>
-    <edge source="MR. FANTASTIC/REED R" target="MASTERS, ALICIA REIS">
-      <data key="d3">77</data>
-    </edge>
-    <edge source="MR. FANTASTIC/REED R" target="MAXIMUS [INHUMAN]">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="MR. FANTASTIC/REED R" target="MEDUSA/MEDUSALITH AM">
-      <data key="d3">44</data>
-    </edge>
-    <edge source="MR. FANTASTIC/REED R" target="MS. MARVEL II/SHARON">
-      <data key="d3">23</data>
-    </edge>
-    <edge source="MR. FANTASTIC/REED R" target="NOVA II/FRANKIE RAYE">
-      <data key="d3">16</data>
-    </edge>
-    <edge source="MR. FANTASTIC/REED R" target="SILVER SURFER/NORRIN">
-      <data key="d3">35</data>
-    </edge>
-    <edge source="MR. FANTASTIC/REED R" target="THING/BENJAMIN J. GR">
-      <data key="d3">365</data>
-    </edge>
-    <edge source="MR. FANTASTIC/REED R" target="THINKER">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="MR. FANTASTIC/REED R" target="TRITON">
-      <data key="d3">28</data>
-    </edge>
-    <edge source="MR. FANTASTIC/REED R" target="UATU">
-      <data key="d3">28</data>
-    </edge>
-    <edge source="MR. FANTASTIC/REED R" target="WARLOCK II/ADAM WARL">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="MR. FANTASTIC/REED R" target="STRANGER">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="MR. FANTASTIC/REED R" target="THANOS">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="SILVER SURFER/NORRIN" target="ANT-MAN II/SCOTT HAR">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="SILVER SURFER/NORRIN" target="BLACK BOLT/BLACKANTO">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="SILVER SURFER/NORRIN" target="ETERNITY/ADAM QADMON">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="SILVER SURFER/NORRIN" target="FIRELORD/PYREUS KRIL">
-      <data key="d3">9</data>
+    <edge source="SILVER SURFER/NORRIN" target="DRAX/ARTHUR DOUGLAS">
+      <data key="d2">15</data>
     </edge>
     <edge source="SILVER SURFER/NORRIN" target="GALACTUS/GALAN">
-      <data key="d3">36</data>
-    </edge>
-    <edge source="SILVER SURFER/NORRIN" target="GAMORA">
-      <data key="d3">10</data>
+      <data key="d2">36</data>
     </edge>
     <edge source="SILVER SURFER/NORRIN" target="GORGON [INHUMAN]">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="SILVER SURFER/NORRIN" target="HARKNESS, AGATHA">
-      <data key="d3">3</data>
+      <data key="d2">5</data>
     </edge>
     <edge source="SILVER SURFER/NORRIN" target="HUMAN TORCH/JOHNNY S">
-      <data key="d3">41</data>
+      <data key="d2">41</data>
     </edge>
     <edge source="SILVER SURFER/NORRIN" target="INVISIBLE WOMAN/SUE ">
-      <data key="d3">26</data>
-    </edge>
-    <edge source="SILVER SURFER/NORRIN" target="LIVING TRIBUNAL">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="SILVER SURFER/NORRIN" target="LOCKJAW [INHUMAN]">
-      <data key="d3">2</data>
+      <data key="d2">26</data>
     </edge>
     <edge source="SILVER SURFER/NORRIN" target="MASTERS, ALICIA REIS">
-      <data key="d3">22</data>
-    </edge>
-    <edge source="SILVER SURFER/NORRIN" target="MAXIMUS [INHUMAN]">
-      <data key="d3">5</data>
+      <data key="d2">22</data>
     </edge>
     <edge source="SILVER SURFER/NORRIN" target="MEDUSA/MEDUSALITH AM">
-      <data key="d3">11</data>
+      <data key="d2">11</data>
+    </edge>
+    <edge source="SILVER SURFER/NORRIN" target="MR. FANTASTIC/REED R">
+      <data key="d2">35</data>
     </edge>
     <edge source="SILVER SURFER/NORRIN" target="NOVA II/FRANKIE RAYE">
-      <data key="d3">20</data>
-    </edge>
-    <edge source="SILVER SURFER/NORRIN" target="MS. MARVEL II/SHARON">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="SILVER SURFER/NORRIN" target="STRANGER">
-      <data key="d3">6</data>
+      <data key="d2">20</data>
     </edge>
     <edge source="SILVER SURFER/NORRIN" target="THANOS">
-      <data key="d3">13</data>
+      <data key="d2">13</data>
     </edge>
     <edge source="SILVER SURFER/NORRIN" target="THING/BENJAMIN J. GR">
-      <data key="d3">40</data>
+      <data key="d2">40</data>
     </edge>
     <edge source="SILVER SURFER/NORRIN" target="UATU">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="SILVER SURFER/NORRIN" target="WARLOCK II/ADAM WARL">
-      <data key="d3">14</data>
+      <data key="d2">10</data>
     </edge>
     <edge source="SILVER SURFER/NORRIN" target="TRITON">
-      <data key="d3">8</data>
+      <data key="d2">8</data>
     </edge>
-    <edge source="HARKNESS, AGATHA" target="BLACK BOLT/BLACKANTO">
-      <data key="d3">4</data>
+    <edge source="RICHARDS, FRANKLIN B" target="ANT-MAN II/SCOTT HAR">
+      <data key="d2">5</data>
     </edge>
-    <edge source="HARKNESS, AGATHA" target="GALACTUS/GALAN">
-      <data key="d3">2</data>
+    <edge source="RICHARDS, FRANKLIN B" target="BLACK BOLT/BLACKANTO">
+      <data key="d2">6</data>
     </edge>
-    <edge source="HARKNESS, AGATHA" target="GAMORA">
-      <data key="d3">4</data>
+    <edge source="RICHARDS, FRANKLIN B" target="GALACTUS/GALAN">
+      <data key="d2">8</data>
     </edge>
-    <edge source="HARKNESS, AGATHA" target="GORGON [INHUMAN]">
-      <data key="d3">2</data>
+    <edge source="RICHARDS, FRANKLIN B" target="GORGON [INHUMAN]">
+      <data key="d2">8</data>
     </edge>
-    <edge source="HARKNESS, AGATHA" target="ETERNITY/ADAM QADMON">
-      <data key="d3">4</data>
+    <edge source="RICHARDS, FRANKLIN B" target="HUMAN TORCH/JOHNNY S">
+      <data key="d2">112</data>
     </edge>
-    <edge source="HARKNESS, AGATHA" target="HUMAN TORCH/JOHNNY S">
-      <data key="d3">26</data>
+    <edge source="RICHARDS, FRANKLIN B" target="INVISIBLE WOMAN/SUE ">
+      <data key="d2">119</data>
     </edge>
-    <edge source="HARKNESS, AGATHA" target="INVISIBLE WOMAN/SUE ">
-      <data key="d3">31</data>
+    <edge source="RICHARDS, FRANKLIN B" target="KARNAK [INHUMAN]">
+      <data key="d2">7</data>
     </edge>
-    <edge source="HARKNESS, AGATHA" target="LOCKJAW [INHUMAN]">
-      <data key="d3">3</data>
+    <edge source="RICHARDS, FRANKLIN B" target="MASTERS, ALICIA REIS">
+      <data key="d2">35</data>
     </edge>
-    <edge source="HARKNESS, AGATHA" target="MASTERS, ALICIA REIS">
-      <data key="d3">8</data>
+    <edge source="RICHARDS, FRANKLIN B" target="MEDUSA/MEDUSALITH AM">
+      <data key="d2">8</data>
     </edge>
-    <edge source="HARKNESS, AGATHA" target="MEDUSA/MEDUSALITH AM">
-      <data key="d3">5</data>
+    <edge source="RICHARDS, FRANKLIN B" target="MR. FANTASTIC/REED R">
+      <data key="d2">123</data>
     </edge>
-    <edge source="HARKNESS, AGATHA" target="NOVA II/FRANKIE RAYE">
-      <data key="d3">2</data>
+    <edge source="RICHARDS, FRANKLIN B" target="NOVA II/FRANKIE RAYE">
+      <data key="d2">11</data>
     </edge>
-    <edge source="HARKNESS, AGATHA" target="THANOS">
-      <data key="d3">3</data>
+    <edge source="RICHARDS, FRANKLIN B" target="THING/BENJAMIN J. GR">
+      <data key="d2">91</data>
     </edge>
-    <edge source="HARKNESS, AGATHA" target="THING/BENJAMIN J. GR">
-      <data key="d3">28</data>
+    <edge source="RICHARDS, FRANKLIN B" target="UATU">
+      <data key="d2">8</data>
     </edge>
-    <edge source="HARKNESS, AGATHA" target="UATU">
-      <data key="d3">5</data>
+    <edge source="DRAX/ARTHUR DOUGLAS" target="GALACTUS/GALAN">
+      <data key="d2">10</data>
     </edge>
-    <edge source="HARKNESS, AGATHA" target="WARLOCK II/ADAM WARL">
-      <data key="d3">4</data>
+    <edge source="DRAX/ARTHUR DOUGLAS" target="HUMAN TORCH/JOHNNY S">
+      <data key="d2">6</data>
     </edge>
-    <edge source="HARKNESS, AGATHA" target="MAXIMUS [INHUMAN]">
-      <data key="d3">2</data>
+    <edge source="DRAX/ARTHUR DOUGLAS" target="THANOS">
+      <data key="d2">21</data>
     </edge>
-    <edge source="HARKNESS, AGATHA" target="THINKER">
-      <data key="d3">2</data>
+    <edge source="DRAX/ARTHUR DOUGLAS" target="THING/BENJAMIN J. GR">
+      <data key="d2">7</data>
     </edge>
-    <edge source="HARKNESS, AGATHA" target="TRITON">
-      <data key="d3">2</data>
+    <edge source="LOCKJAW [INHUMAN]" target="BLACK BOLT/BLACKANTO">
+      <data key="d2">36</data>
     </edge>
-    <edge source="MS. MARVEL II/SHARON" target="BEYONDER">
-      <data key="d3">2</data>
+    <edge source="LOCKJAW [INHUMAN]" target="GORGON [INHUMAN]">
+      <data key="d2">33</data>
     </edge>
-    <edge source="MS. MARVEL II/SHARON" target="HUMAN TORCH/JOHNNY S">
-      <data key="d3">39</data>
+    <edge source="LOCKJAW [INHUMAN]" target="HUMAN TORCH/JOHNNY S">
+      <data key="d2">19</data>
     </edge>
-    <edge source="MS. MARVEL II/SHARON" target="INVISIBLE WOMAN/SUE ">
-      <data key="d3">24</data>
+    <edge source="LOCKJAW [INHUMAN]" target="INVISIBLE WOMAN/SUE ">
+      <data key="d2">23</data>
     </edge>
-    <edge source="MS. MARVEL II/SHARON" target="GORGON [INHUMAN]">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MS. MARVEL II/SHARON" target="LOCKJAW [INHUMAN]">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MS. MARVEL II/SHARON" target="MASTERS, ALICIA REIS">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="MS. MARVEL II/SHARON" target="THING/BENJAMIN J. GR">
-      <data key="d3">40</data>
-    </edge>
-    <edge source="MS. MARVEL II/SHARON" target="UATU">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="THANOS" target="BLACK BOLT/BLACKANTO">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="THANOS" target="ETERNITY/ADAM QADMON">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="THANOS" target="FIRELORD/PYREUS KRIL">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="THANOS" target="GALACTUS/GALAN">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="THANOS" target="GAMORA">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="THANOS" target="GORGON [INHUMAN]">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="THANOS" target="HUMAN TORCH/JOHNNY S">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="THANOS" target="INVISIBLE WOMAN/SUE ">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="THANOS" target="LIVING TRIBUNAL">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="THANOS" target="MEDUSA/MEDUSALITH AM">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="THANOS" target="NOVA II/FRANKIE RAYE">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="THANOS" target="STRANGER">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="THANOS" target="THING/BENJAMIN J. GR">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="THANOS" target="TRITON">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="THANOS" target="UATU">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="THANOS" target="WARLOCK II/ADAM WARL">
-      <data key="d3">16</data>
-    </edge>
-    <edge source="MEDUSA/MEDUSALITH AM" target="ANT-MAN II/SCOTT HAR">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="MEDUSA/MEDUSALITH AM" target="BLACK BOLT/BLACKANTO">
-      <data key="d3">61</data>
-    </edge>
-    <edge source="MEDUSA/MEDUSALITH AM" target="GALACTUS/GALAN">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="MEDUSA/MEDUSALITH AM" target="GORGON [INHUMAN]">
-      <data key="d3">54</data>
-    </edge>
-    <edge source="MEDUSA/MEDUSALITH AM" target="HUMAN TORCH/JOHNNY S">
-      <data key="d3">45</data>
-    </edge>
-    <edge source="MEDUSA/MEDUSALITH AM" target="INVISIBLE WOMAN/SUE ">
-      <data key="d3">34</data>
-    </edge>
-    <edge source="MEDUSA/MEDUSALITH AM" target="LOCKJAW [INHUMAN]">
-      <data key="d3">34</data>
-    </edge>
-    <edge source="MEDUSA/MEDUSALITH AM" target="MASTERS, ALICIA REIS">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="MEDUSA/MEDUSALITH AM" target="MAXIMUS [INHUMAN]">
-      <data key="d3">25</data>
-    </edge>
-    <edge source="MEDUSA/MEDUSALITH AM" target="LE FEY, MORGAN">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="MEDUSA/MEDUSALITH AM" target="THING/BENJAMIN J. GR">
-      <data key="d3">47</data>
-    </edge>
-    <edge source="MEDUSA/MEDUSALITH AM" target="TRITON">
-      <data key="d3">48</data>
-    </edge>
-    <edge source="MEDUSA/MEDUSALITH AM" target="UATU">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="MEDUSA/MEDUSALITH AM" target="WARLOCK II/ADAM WARL">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="WARLOCK II/ADAM WARL" target="BLACK BOLT/BLACKANTO">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="WARLOCK II/ADAM WARL" target="ETERNITY/ADAM QADMON">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="WARLOCK II/ADAM WARL" target="FIRELORD/PYREUS KRIL">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="WARLOCK II/ADAM WARL" target="GALACTUS/GALAN">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="WARLOCK II/ADAM WARL" target="GAMORA">
-      <data key="d3">21</data>
-    </edge>
-    <edge source="WARLOCK II/ADAM WARL" target="GORGON [INHUMAN]">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="WARLOCK II/ADAM WARL" target="HUMAN TORCH/JOHNNY S">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="WARLOCK II/ADAM WARL" target="INVISIBLE WOMAN/SUE ">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="WARLOCK II/ADAM WARL" target="LIVING TRIBUNAL">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="WARLOCK II/ADAM WARL" target="MASTERS, ALICIA REIS">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="WARLOCK II/ADAM WARL" target="NOVA II/FRANKIE RAYE">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="WARLOCK II/ADAM WARL" target="STRANGER">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="WARLOCK II/ADAM WARL" target="THING/BENJAMIN J. GR">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="WARLOCK II/ADAM WARL" target="TRITON">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="WARLOCK II/ADAM WARL" target="UATU">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="NOVA II/FRANKIE RAYE" target="ETERNITY/ADAM QADMON">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="NOVA II/FRANKIE RAYE" target="FIRELORD/PYREUS KRIL">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="NOVA II/FRANKIE RAYE" target="GALACTUS/GALAN">
-      <data key="d3">21</data>
-    </edge>
-    <edge source="NOVA II/FRANKIE RAYE" target="GAMORA">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="NOVA II/FRANKIE RAYE" target="HUMAN TORCH/JOHNNY S">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="NOVA II/FRANKIE RAYE" target="INVISIBLE WOMAN/SUE ">
-      <data key="d3">14</data>
-    </edge>
-    <edge source="NOVA II/FRANKIE RAYE" target="LOCKJAW [INHUMAN]">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="NOVA II/FRANKIE RAYE" target="MASTERS, ALICIA REIS">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="NOVA II/FRANKIE RAYE" target="LIVING TRIBUNAL">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="NOVA II/FRANKIE RAYE" target="THING/BENJAMIN J. GR">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="NOVA II/FRANKIE RAYE" target="UATU">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="BLACK BOLT/BLACKANTO" target="ANT-MAN II/SCOTT HAR">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="BLACK BOLT/BLACKANTO" target="GORGON [INHUMAN]">
-      <data key="d3">66</data>
-    </edge>
-    <edge source="BLACK BOLT/BLACKANTO" target="HUMAN TORCH/JOHNNY S">
-      <data key="d3">29</data>
-    </edge>
-    <edge source="BLACK BOLT/BLACKANTO" target="INVISIBLE WOMAN/SUE ">
-      <data key="d3">28</data>
-    </edge>
-    <edge source="BLACK BOLT/BLACKANTO" target="LE FEY, MORGAN">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="BLACK BOLT/BLACKANTO" target="LOCKJAW [INHUMAN]">
-      <data key="d3">36</data>
-    </edge>
-    <edge source="BLACK BOLT/BLACKANTO" target="MASTERS, ALICIA REIS">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="BLACK BOLT/BLACKANTO" target="MAXIMUS [INHUMAN]">
-      <data key="d3">24</data>
-    </edge>
-    <edge source="BLACK BOLT/BLACKANTO" target="THING/BENJAMIN J. GR">
-      <data key="d3">28</data>
-    </edge>
-    <edge source="BLACK BOLT/BLACKANTO" target="TRITON">
-      <data key="d3">54</data>
-    </edge>
-    <edge source="BLACK BOLT/BLACKANTO" target="UATU">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="BLACK BOLT/BLACKANTO" target="GALACTUS/GALAN">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MAXIMUS [INHUMAN]" target="ANT-MAN II/SCOTT HAR">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MAXIMUS [INHUMAN]" target="GORGON [INHUMAN]">
-      <data key="d3">24</data>
-    </edge>
-    <edge source="MAXIMUS [INHUMAN]" target="HUMAN TORCH/JOHNNY S">
-      <data key="d3">13</data>
-    </edge>
-    <edge source="MAXIMUS [INHUMAN]" target="INVISIBLE WOMAN/SUE ">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="MAXIMUS [INHUMAN]" target="LE FEY, MORGAN">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="MAXIMUS [INHUMAN]" target="LOCKJAW [INHUMAN]">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="MAXIMUS [INHUMAN]" target="MASTERS, ALICIA REIS">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="MAXIMUS [INHUMAN]" target="THING/BENJAMIN J. GR">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="MAXIMUS [INHUMAN]" target="TRITON">
-      <data key="d3">22</data>
-    </edge>
-    <edge source="LE FEY, MORGAN" target="ANT-MAN II/SCOTT HAR">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="LE FEY, MORGAN" target="HUMAN TORCH/JOHNNY S">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="LE FEY, MORGAN" target="INVISIBLE WOMAN/SUE ">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="LE FEY, MORGAN" target="GORGON [INHUMAN]">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="LE FEY, MORGAN" target="THING/BENJAMIN J. GR">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="LE FEY, MORGAN" target="TRITON">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="LE FEY, MORGAN" target="LOCKJAW [INHUMAN]">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="ANT-MAN II/SCOTT HAR" target="GORGON [INHUMAN]">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="ANT-MAN II/SCOTT HAR" target="HUMAN TORCH/JOHNNY S">
-      <data key="d3">33</data>
-    </edge>
-    <edge source="ANT-MAN II/SCOTT HAR" target="INVISIBLE WOMAN/SUE ">
-      <data key="d3">21</data>
-    </edge>
-    <edge source="ANT-MAN II/SCOTT HAR" target="LOCKJAW [INHUMAN]">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="ANT-MAN II/SCOTT HAR" target="MASTERS, ALICIA REIS">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="ANT-MAN II/SCOTT HAR" target="THING/BENJAMIN J. GR">
-      <data key="d3">26</data>
-    </edge>
-    <edge source="ANT-MAN II/SCOTT HAR" target="THINKER">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="ANT-MAN II/SCOTT HAR" target="TRITON">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="ANT-MAN II/SCOTT HAR" target="UATU">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="GALACTUS/GALAN" target="BEYONDER">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="GALACTUS/GALAN" target="ETERNITY/ADAM QADMON">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="GALACTUS/GALAN" target="FIRELORD/PYREUS KRIL">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="GALACTUS/GALAN" target="GAMORA">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="GALACTUS/GALAN" target="HUMAN TORCH/JOHNNY S">
-      <data key="d3">24</data>
-    </edge>
-    <edge source="GALACTUS/GALAN" target="INVISIBLE WOMAN/SUE ">
-      <data key="d3">27</data>
-    </edge>
-    <edge source="GALACTUS/GALAN" target="LIVING TRIBUNAL">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="GALACTUS/GALAN" target="MASTERS, ALICIA REIS">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="GALACTUS/GALAN" target="THING/BENJAMIN J. GR">
-      <data key="d3">31</data>
-    </edge>
-    <edge source="GALACTUS/GALAN" target="UATU">
-      <data key="d3">11</data>
-    </edge>
-    <edge source="GALACTUS/GALAN" target="GORGON [INHUMAN]">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="GALACTUS/GALAN" target="STRANGER">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="GALACTUS/GALAN" target="TRITON">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="GAMORA" target="ETERNITY/ADAM QADMON">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="GAMORA" target="HUMAN TORCH/JOHNNY S">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="GAMORA" target="INVISIBLE WOMAN/SUE ">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="GAMORA" target="LIVING TRIBUNAL">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="GAMORA" target="THING/BENJAMIN J. GR">
-      <data key="d3">12</data>
-    </edge>
-    <edge source="GAMORA" target="UATU">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="ETERNITY/ADAM QADMON" target="BEYONDER">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="ETERNITY/ADAM QADMON" target="FIRELORD/PYREUS KRIL">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="ETERNITY/ADAM QADMON" target="HUMAN TORCH/JOHNNY S">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="ETERNITY/ADAM QADMON" target="INVISIBLE WOMAN/SUE ">
-      <data key="d3">9</data>
-    </edge>
-    <edge source="ETERNITY/ADAM QADMON" target="LIVING TRIBUNAL">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="ETERNITY/ADAM QADMON" target="THING/BENJAMIN J. GR">
-      <data key="d3">7</data>
-    </edge>
-    <edge source="ETERNITY/ADAM QADMON" target="UATU">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="ETERNITY/ADAM QADMON" target="STRANGER">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="TRITON" target="GORGON [INHUMAN]">
-      <data key="d3">54</data>
-    </edge>
-    <edge source="TRITON" target="HUMAN TORCH/JOHNNY S">
-      <data key="d3">32</data>
-    </edge>
-    <edge source="TRITON" target="INVISIBLE WOMAN/SUE ">
-      <data key="d3">21</data>
-    </edge>
-    <edge source="TRITON" target="LOCKJAW [INHUMAN]">
-      <data key="d3">30</data>
-    </edge>
-    <edge source="TRITON" target="THING/BENJAMIN J. GR">
-      <data key="d3">32</data>
-    </edge>
-    <edge source="TRITON" target="MASTERS, ALICIA REIS">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="TRITON" target="UATU">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="HUMAN TORCH/JOHNNY S" target="BEYONDER">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="HUMAN TORCH/JOHNNY S" target="GORGON [INHUMAN]">
-      <data key="d3">27</data>
-    </edge>
-    <edge source="HUMAN TORCH/JOHNNY S" target="FIRELORD/PYREUS KRIL">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="HUMAN TORCH/JOHNNY S" target="INVISIBLE WOMAN/SUE ">
-      <data key="d3">353</data>
-    </edge>
-    <edge source="HUMAN TORCH/JOHNNY S" target="LIVING TRIBUNAL">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="HUMAN TORCH/JOHNNY S" target="LOCKJAW [INHUMAN]">
-      <data key="d3">19</data>
-    </edge>
-    <edge source="HUMAN TORCH/JOHNNY S" target="MASTERS, ALICIA REIS">
-      <data key="d3">66</data>
-    </edge>
-    <edge source="HUMAN TORCH/JOHNNY S" target="THING/BENJAMIN J. GR">
-      <data key="d3">382</data>
-    </edge>
-    <edge source="HUMAN TORCH/JOHNNY S" target="THINKER">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="HUMAN TORCH/JOHNNY S" target="UATU">
-      <data key="d3">30</data>
-    </edge>
-    <edge source="HUMAN TORCH/JOHNNY S" target="STRANGER">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="LIVING TRIBUNAL" target="INVISIBLE WOMAN/SUE ">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="LIVING TRIBUNAL" target="UATU">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="LIVING TRIBUNAL" target="STRANGER">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="LIVING TRIBUNAL" target="THING/BENJAMIN J. GR">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="GORGON [INHUMAN]" target="INVISIBLE WOMAN/SUE ">
-      <data key="d3">25</data>
-    </edge>
-    <edge source="GORGON [INHUMAN]" target="LOCKJAW [INHUMAN]">
-      <data key="d3">33</data>
-    </edge>
-    <edge source="GORGON [INHUMAN]" target="MASTERS, ALICIA REIS">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="GORGON [INHUMAN]" target="THING/BENJAMIN J. GR">
-      <data key="d3">31</data>
-    </edge>
-    <edge source="GORGON [INHUMAN]" target="UATU">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="THING/BENJAMIN J. GR" target="BEYONDER">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="THING/BENJAMIN J. GR" target="INVISIBLE WOMAN/SUE ">
-      <data key="d3">351</data>
-    </edge>
-    <edge source="THING/BENJAMIN J. GR" target="LOCKJAW [INHUMAN]">
-      <data key="d3">18</data>
-    </edge>
-    <edge source="THING/BENJAMIN J. GR" target="MASTERS, ALICIA REIS">
-      <data key="d3">93</data>
-    </edge>
-    <edge source="THING/BENJAMIN J. GR" target="FIRELORD/PYREUS KRIL">
-      <data key="d3">4</data>
-    </edge>
-    <edge source="THING/BENJAMIN J. GR" target="STRANGER">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="THING/BENJAMIN J. GR" target="THINKER">
-      <data key="d3">15</data>
-    </edge>
-    <edge source="THING/BENJAMIN J. GR" target="UATU">
-      <data key="d3">31</data>
-    </edge>
-    <edge source="UATU" target="INVISIBLE WOMAN/SUE ">
-      <data key="d3">27</data>
-    </edge>
-    <edge source="UATU" target="LOCKJAW [INHUMAN]">
-      <data key="d3">6</data>
-    </edge>
-    <edge source="UATU" target="MASTERS, ALICIA REIS">
-      <data key="d3">8</data>
-    </edge>
-    <edge source="UATU" target="STRANGER">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="UATU" target="BEYONDER">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="UATU" target="FIRELORD/PYREUS KRIL">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="INVISIBLE WOMAN/SUE " target="BEYONDER">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="INVISIBLE WOMAN/SUE " target="FIRELORD/PYREUS KRIL">
-      <data key="d3">5</data>
-    </edge>
-    <edge source="INVISIBLE WOMAN/SUE " target="LOCKJAW [INHUMAN]">
-      <data key="d3">23</data>
-    </edge>
-    <edge source="INVISIBLE WOMAN/SUE " target="MASTERS, ALICIA REIS">
-      <data key="d3">69</data>
-    </edge>
-    <edge source="INVISIBLE WOMAN/SUE " target="THINKER">
-      <data key="d3">10</data>
-    </edge>
-    <edge source="INVISIBLE WOMAN/SUE " target="STRANGER">
-      <data key="d3">2</data>
-    </edge>
-    <edge source="STRANGER" target="FIRELORD/PYREUS KRIL">
-      <data key="d3">3</data>
-    </edge>
-    <edge source="THINKER" target="MASTERS, ALICIA REIS">
-      <data key="d3">5</data>
+    <edge source="LOCKJAW [INHUMAN]" target="KARNAK [INHUMAN]">
+      <data key="d2">32</data>
     </edge>
     <edge source="LOCKJAW [INHUMAN]" target="MASTERS, ALICIA REIS">
-      <data key="d3">5</data>
+      <data key="d2">5</data>
+    </edge>
+    <edge source="LOCKJAW [INHUMAN]" target="MEDUSA/MEDUSALITH AM">
+      <data key="d2">34</data>
+    </edge>
+    <edge source="LOCKJAW [INHUMAN]" target="MR. FANTASTIC/REED R">
+      <data key="d2">17</data>
+    </edge>
+    <edge source="LOCKJAW [INHUMAN]" target="THING/BENJAMIN J. GR">
+      <data key="d2">18</data>
+    </edge>
+    <edge source="LOCKJAW [INHUMAN]" target="TRITON">
+      <data key="d2">30</data>
+    </edge>
+    <edge source="LOCKJAW [INHUMAN]" target="UATU">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="MR. FANTASTIC/REED R" target="ANT-MAN II/SCOTT HAR">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="MR. FANTASTIC/REED R" target="BLACK BOLT/BLACKANTO">
+      <data key="d2">25</data>
+    </edge>
+    <edge source="MR. FANTASTIC/REED R" target="GALACTUS/GALAN">
+      <data key="d2">28</data>
+    </edge>
+    <edge source="MR. FANTASTIC/REED R" target="GORGON [INHUMAN]">
+      <data key="d2">26</data>
+    </edge>
+    <edge source="MR. FANTASTIC/REED R" target="HUMAN TORCH/JOHNNY S">
+      <data key="d2">347</data>
+    </edge>
+    <edge source="MR. FANTASTIC/REED R" target="INVISIBLE WOMAN/SUE ">
+      <data key="d2">362</data>
+    </edge>
+    <edge source="MR. FANTASTIC/REED R" target="KARNAK [INHUMAN]">
+      <data key="d2">26</data>
+    </edge>
+    <edge source="MR. FANTASTIC/REED R" target="MASTERS, ALICIA REIS">
+      <data key="d2">77</data>
+    </edge>
+    <edge source="MR. FANTASTIC/REED R" target="MEDUSA/MEDUSALITH AM">
+      <data key="d2">44</data>
+    </edge>
+    <edge source="MR. FANTASTIC/REED R" target="NOVA II/FRANKIE RAYE">
+      <data key="d2">16</data>
+    </edge>
+    <edge source="MR. FANTASTIC/REED R" target="THING/BENJAMIN J. GR">
+      <data key="d2">365</data>
+    </edge>
+    <edge source="MR. FANTASTIC/REED R" target="TRITON">
+      <data key="d2">28</data>
+    </edge>
+    <edge source="MR. FANTASTIC/REED R" target="UATU">
+      <data key="d2">28</data>
+    </edge>
+    <edge source="THANOS" target="GALACTUS/GALAN">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="THANOS" target="HUMAN TORCH/JOHNNY S">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="THANOS" target="NOVA II/FRANKIE RAYE">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="THANOS" target="THING/BENJAMIN J. GR">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="THANOS" target="UATU">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="HUMAN TORCH/JOHNNY S" target="ANT-MAN II/SCOTT HAR">
+      <data key="d2">33</data>
+    </edge>
+    <edge source="HUMAN TORCH/JOHNNY S" target="BLACK BOLT/BLACKANTO">
+      <data key="d2">29</data>
+    </edge>
+    <edge source="HUMAN TORCH/JOHNNY S" target="GALACTUS/GALAN">
+      <data key="d2">24</data>
+    </edge>
+    <edge source="HUMAN TORCH/JOHNNY S" target="GORGON [INHUMAN]">
+      <data key="d2">27</data>
+    </edge>
+    <edge source="HUMAN TORCH/JOHNNY S" target="INVISIBLE WOMAN/SUE ">
+      <data key="d2">353</data>
+    </edge>
+    <edge source="HUMAN TORCH/JOHNNY S" target="KARNAK [INHUMAN]">
+      <data key="d2">19</data>
+    </edge>
+    <edge source="HUMAN TORCH/JOHNNY S" target="MASTERS, ALICIA REIS">
+      <data key="d2">66</data>
+    </edge>
+    <edge source="HUMAN TORCH/JOHNNY S" target="MEDUSA/MEDUSALITH AM">
+      <data key="d2">45</data>
+    </edge>
+    <edge source="HUMAN TORCH/JOHNNY S" target="NOVA II/FRANKIE RAYE">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="HUMAN TORCH/JOHNNY S" target="THING/BENJAMIN J. GR">
+      <data key="d2">382</data>
+    </edge>
+    <edge source="HUMAN TORCH/JOHNNY S" target="TRITON">
+      <data key="d2">32</data>
+    </edge>
+    <edge source="HUMAN TORCH/JOHNNY S" target="UATU">
+      <data key="d2">30</data>
+    </edge>
+    <edge source="BLACK BOLT/BLACKANTO" target="GORGON [INHUMAN]">
+      <data key="d2">66</data>
+    </edge>
+    <edge source="BLACK BOLT/BLACKANTO" target="INVISIBLE WOMAN/SUE ">
+      <data key="d2">28</data>
+    </edge>
+    <edge source="BLACK BOLT/BLACKANTO" target="KARNAK [INHUMAN]">
+      <data key="d2">61</data>
+    </edge>
+    <edge source="BLACK BOLT/BLACKANTO" target="MEDUSA/MEDUSALITH AM">
+      <data key="d2">61</data>
+    </edge>
+    <edge source="BLACK BOLT/BLACKANTO" target="THING/BENJAMIN J. GR">
+      <data key="d2">28</data>
+    </edge>
+    <edge source="BLACK BOLT/BLACKANTO" target="TRITON">
+      <data key="d2">54</data>
+    </edge>
+    <edge source="BLACK BOLT/BLACKANTO" target="UATU">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="INVISIBLE WOMAN/SUE " target="ANT-MAN II/SCOTT HAR">
+      <data key="d2">21</data>
+    </edge>
+    <edge source="INVISIBLE WOMAN/SUE " target="GALACTUS/GALAN">
+      <data key="d2">27</data>
+    </edge>
+    <edge source="INVISIBLE WOMAN/SUE " target="GORGON [INHUMAN]">
+      <data key="d2">25</data>
+    </edge>
+    <edge source="INVISIBLE WOMAN/SUE " target="KARNAK [INHUMAN]">
+      <data key="d2">22</data>
+    </edge>
+    <edge source="INVISIBLE WOMAN/SUE " target="MASTERS, ALICIA REIS">
+      <data key="d2">69</data>
+    </edge>
+    <edge source="INVISIBLE WOMAN/SUE " target="MEDUSA/MEDUSALITH AM">
+      <data key="d2">34</data>
+    </edge>
+    <edge source="INVISIBLE WOMAN/SUE " target="NOVA II/FRANKIE RAYE">
+      <data key="d2">14</data>
+    </edge>
+    <edge source="INVISIBLE WOMAN/SUE " target="THING/BENJAMIN J. GR">
+      <data key="d2">351</data>
+    </edge>
+    <edge source="INVISIBLE WOMAN/SUE " target="TRITON">
+      <data key="d2">21</data>
+    </edge>
+    <edge source="INVISIBLE WOMAN/SUE " target="UATU">
+      <data key="d2">27</data>
+    </edge>
+    <edge source="MEDUSA/MEDUSALITH AM" target="ANT-MAN II/SCOTT HAR">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="MEDUSA/MEDUSALITH AM" target="GORGON [INHUMAN]">
+      <data key="d2">54</data>
+    </edge>
+    <edge source="MEDUSA/MEDUSALITH AM" target="KARNAK [INHUMAN]">
+      <data key="d2">57</data>
+    </edge>
+    <edge source="MEDUSA/MEDUSALITH AM" target="MASTERS, ALICIA REIS">
+      <data key="d2">10</data>
+    </edge>
+    <edge source="MEDUSA/MEDUSALITH AM" target="THING/BENJAMIN J. GR">
+      <data key="d2">47</data>
+    </edge>
+    <edge source="MEDUSA/MEDUSALITH AM" target="TRITON">
+      <data key="d2">48</data>
+    </edge>
+    <edge source="MEDUSA/MEDUSALITH AM" target="UATU">
+      <data key="d2">9</data>
+    </edge>
+    <edge source="UATU" target="GALACTUS/GALAN">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="UATU" target="GORGON [INHUMAN]">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="UATU" target="MASTERS, ALICIA REIS">
+      <data key="d2">8</data>
+    </edge>
+    <edge source="UATU" target="NOVA II/FRANKIE RAYE">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="UATU" target="THING/BENJAMIN J. GR">
+      <data key="d2">31</data>
+    </edge>
+    <edge source="ANT-MAN II/SCOTT HAR" target="THING/BENJAMIN J. GR">
+      <data key="d2">26</data>
+    </edge>
+    <edge source="GORGON [INHUMAN]" target="KARNAK [INHUMAN]">
+      <data key="d2">50</data>
+    </edge>
+    <edge source="GORGON [INHUMAN]" target="THING/BENJAMIN J. GR">
+      <data key="d2">31</data>
+    </edge>
+    <edge source="GORGON [INHUMAN]" target="TRITON">
+      <data key="d2">54</data>
+    </edge>
+    <edge source="GALACTUS/GALAN" target="MASTERS, ALICIA REIS">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="GALACTUS/GALAN" target="NOVA II/FRANKIE RAYE">
+      <data key="d2">21</data>
+    </edge>
+    <edge source="GALACTUS/GALAN" target="THING/BENJAMIN J. GR">
+      <data key="d2">31</data>
+    </edge>
+    <edge source="KARNAK [INHUMAN]" target="MASTERS, ALICIA REIS">
+      <data key="d2">5</data>
+    </edge>
+    <edge source="KARNAK [INHUMAN]" target="THING/BENJAMIN J. GR">
+      <data key="d2">31</data>
+    </edge>
+    <edge source="KARNAK [INHUMAN]" target="TRITON">
+      <data key="d2">55</data>
+    </edge>
+    <edge source="NOVA II/FRANKIE RAYE" target="THING/BENJAMIN J. GR">
+      <data key="d2">13</data>
+    </edge>
+    <edge source="TRITON" target="THING/BENJAMIN J. GR">
+      <data key="d2">32</data>
+    </edge>
+    <edge source="TRITON" target="MASTERS, ALICIA REIS">
+      <data key="d2">6</data>
+    </edge>
+    <edge source="MASTERS, ALICIA REIS" target="THING/BENJAMIN J. GR">
+      <data key="d2">93</data>
     </edge>
   </graph>
 </graphml>
