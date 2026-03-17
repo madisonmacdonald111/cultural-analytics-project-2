@@ -30,17 +30,16 @@
 
     <h3>Cytoscape via NDEx — no account needed to view</h3>
     <ul>
-        <li><a href="https://www.ndexbio.org/viewer/networks/55ca7171-21af-11f1-94e8-005056ae3c32">Defenders and Mystic Heroes</a> — 20 nodes, 59 edges</li>
-        <li><a href="https://www.ndexbio.org/viewer/networks/62fe6ae3-21af-11f1-94e8-005056ae3c32">Avengers</a> — 20 nodes, 186 edges</li>
-        <li><a href="https://www.ndexbio.org/viewer/networks/66930355-21af-11f1-94e8-005056ae3c32">Fantastic Four</a> — 20 nodes, 129 edges</li>
-        <li><a href="https://www.ndexbio.org/viewer/networks/6902f1e7-21af-11f1-94e8-005056ae3c32">Spider-Man's World</a> — 20 nodes, 125 edges</li>
-        <li><a href="https://www.ndexbio.org/viewer/networks/6c6a86e9-21af-11f1-94e8-005056ae3c32">Thor and Cosmic Heroes</a> — 20 nodes, 101 edges</li>
-        <li><a href="https://www.ndexbio.org/viewer/networks/6f5c76bb-21af-11f1-94e8-005056ae3c32">X-Men</a> — 20 nodes, 189 edges</li>
+        <li><a href="https://www.ndexbio.org/viewer/networks/55ca7171-21af-11f1-94e8-005056ae3c32">Defenders and Mystic Heroes</a> : 20 nodes, 59 edges</li>
+        <li><a href="https://www.ndexbio.org/viewer/networks/62fe6ae3-21af-11f1-94e8-005056ae3c32">Avengers</a> : 20 nodes, 186 edges</li>
+        <li><a href="https://www.ndexbio.org/viewer/networks/66930355-21af-11f1-94e8-005056ae3c32">Fantastic Four</a> : 20 nodes, 129 edges</li>
+        <li><a href="https://www.ndexbio.org/viewer/networks/6902f1e7-21af-11f1-94e8-005056ae3c32">Spider-Man's World</a> : 20 nodes, 125 edges</li>
+        <li><a href="https://www.ndexbio.org/viewer/networks/6c6a86e9-21af-11f1-94e8-005056ae3c32">Thor and Cosmic Heroes</a> : 20 nodes, 101 edges</li>
+        <li><a href="https://www.ndexbio.org/viewer/networks/6f5c76bb-21af-11f1-94e8-005056ae3c32">X-Men</a> : 20 nodes, 189 edges</li>
     </ul>
 
     <h2>Summary</h2>
-    <p> The short answer is yes, and the results are surprisingly clean. Looking at who co-appears with whom across 60 years of comics, Captain America and Spider-Man came out on top as the most connected heroes, which is exactly what you'd expect. The more interesting finding came from community detection. We see here that an algorithm with zero prior Marvel knowledge sorted the heroes into groups that almost perfectly match the actual teams: X-Men together, Avengers together, Fantastic Four together, Defenders together. The one surprise was a different metric called eigenvector centrality, which ended up being dominated by obscure 1940s heroes rather than modern icons, so it turns out that being densely connected in the early days of Marvel can inflate your "prestige score" in ways that don't reflect cultural prominence at all.</p>
-    <footer>
+    <p>Sixty years of Marvel comics, 6,439 heroes, and 96,104 co-appearances later...the network structure tells a surprisingly coherent story. Looking at who co-appears with whom, Captain America and Spider-Man came out on top as the most connected heroes, which is exactly what you'd expect. The more interesting findings came from digging deeper. An algorithm with zero prior Marvel knowledge sorted heroes into communities that almost perfectly match the actual teams: X-Men together, Avengers together, Fantastic Four together, Defenders together. Hawkeye turned out to be one of the biggest surprises, not the most connected hero by any means, but consistently one of the top bridge characters in the network, linking parts of the Marvel Universe that wouldn't otherwise be connected. Spider-Man beat out Captain America for most comic issues appeared in overall, while Captain America co-appeared with the broadest range of unique heroes, a subtle but real distinction between Marvel's most prolific solo character and its most collaborative one. The one metric that broke down in an interesting way was eigenvector centrality, which got dominated by obscure 1940s heroes rather than modern icons (turns out being densely connected in the early days of Marvel can inflate your "prestige score" in ways that have nothing to do with actual cultural prominence).</p> 
         <p>By Maddie MacDonald | UC Berkeley Statistics, MA</p>
     </footer>
 </body>
