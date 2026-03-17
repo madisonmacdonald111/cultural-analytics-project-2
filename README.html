@@ -1,0 +1,70 @@
+<h1>Mini Project 2: Marvel Universe Social Network</h1>
+<p><strong>INFO 230 | Spring 2026</strong></p>
+<hr />
+<h2>Overview</h2>
+<p>Can the structure of a comic book universe reveal sixty years of editorial decisions? This project applies a full network analysis pipeline to the <a href="https://www.kaggle.com/datasets/csanhueza/the-marvel-universe-social-network">Marvel Universe Social Network</a> from Kaggle (a dataset of 6,439 heroes and 96,104 co-appearances across 12,651 comic issues).</p>
+<p>For the full analysis, results, discussion, and interpretations see <strong><code>code/project-workflow.ipynb</code></strong>.</p>
+<hr />
+<h2>Dataset</h2>
+<p><strong>Source:</strong> <a href="https://www.kaggle.com/datasets/csanhueza/the-marvel-universe-social-network">Marvel Universe Social Network</a> — Kaggle</p>
+<p>| File | Description |
+|---|---|
+| <code>nodes.csv</code> | All 19,090 nodes with type label (hero or comic) |
+| <code>edges.csv</code> | Raw two-sided network — one row per hero-comic appearance |
+| <code>hero-network.csv</code> | Pre-projected hero-to-hero co-appearance network |</p>
+<hr />
+<h2>Repo Structure</h2>
+<p><code>cultural-analytics-project-2/
+├── code/
+│   ├── project-workflow.ipynb      &lt;- full analysis lives here
+│   ├── project-workflow.html
+│   └── network_output/
+│       ├── marvel_Avengers.graphml
+│       ├── marvel_Defenders_and_Mystic_Heroes.graphml
+│       ├── marvel_Fantastic_Four.graphml
+│       ├── marvel_Spider-Mans_World.graphml
+│       ├── marvel_Thor_and_Cosmic_Heroes.graphml
+│       └── marvel_X-Men.graphml
+├── data/
+│   ├── nodes.csv
+│   ├── edges.csv
+│   └── hero-network.csv
+├── figures/
+│   ├── interactive_community_0.html
+│   ├── interactive_community_1.html
+│   ├── interactive_community_8.html
+│   └── interactive_community_13.html
+├── environment.yaml
+├── index.html
+├── README.md
+└── README.html</code></p>
+<hr />
+<h2>How to Run</h2>
+<ol>
+<li>Clone the repo</li>
+<li>Create and activate the conda environment:
+<code>bash
+conda env create -f environment.yaml
+conda activate cultural_analytics</code></li>
+<li>Launch Jupyter and run <code>code/project-workflow.ipynb</code> top to bottom</li>
+</ol>
+<p>All random operations use <code>SEED = 230</code> so results are fully reproducible.</p>
+<hr />
+<h2>Environment</h2>
+<p>All dependencies are managed via <code>environment.yaml</code> using the <code>cultural_analytics</code> conda environment. Key packages include <code>scipy</code>, <code>networkx</code>, <code>pyvis</code>, and <code>plotly</code> for network analysis and visualization, alongside <code>pandas</code>, <code>numpy</code>, <code>matplotlib</code>, and <code>scikit-learn</code> for general data processing.</p>
+<hr />
+<h2>References</h2>
+<p><strong>Dataset</strong>
+- Sanhueza, C. (2017). <em>The Marvel Universe Social Network</em>. Kaggle. https://www.kaggle.com/datasets/csanhueza/the-marvel-universe-social-network</p>
+<p><strong>Network Analysis Methods</strong>
+- Blondel, V. D., Guillaume, J. L., Lambiotte, R., &amp; Lefebvre, E. (2008). Fast unfolding of communities in large networks. <em>Journal of Statistical Mechanics: Theory and Experiment</em>, 2008(10), P10008.
+- Newman, M. E. J. (2010). <em>Networks: An Introduction</em>. Oxford University Press.
+- Barabási, A. L., &amp; Albert, R. (1999). Emergence of scaling in random networks. <em>Science</em>, 286(5439), 509–512.</p>
+<p><strong>Marvel Lore</strong>
+- DeFalco, T., Sanderson, P., Brevoort, T., Teitelbaum, M., Wallace, D., Darling, A., ... &amp; Cowsill, A. (2019). <em>Marvel Encyclopedia</em>. DK Publishing.
+- Gruenwald, M., Grant, S., &amp; Layton, B. (1982). <em>Marvel Super Hero Contest of Champions</em> #1–3. Marvel Comics.</p>
+<p><strong>Academic Network Analysis of Marvel</strong>
+- Alberich, R., Miro-Julia, J., &amp; Rossello, F. (2002). Marvel Universe looks almost like a real social network. <em>arXiv preprint cond-mat/0202174</em>.</p>
+<p><strong>Course Materials</strong>
+- Course Holmes co-occurrence notebook (<code>holmes_cooccurrence_networks.ipynb</code>), INFO 230: Cultural Analytics, Spring 2026.</p>
+<p>By Maddie MacDonald | UC Berkeley Statistics, MA</p>
